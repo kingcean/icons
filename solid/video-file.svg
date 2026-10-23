@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="video-file-cutouts">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M280 0H512V168H324Q280 168 280 124Z M156 222H356Q376 222 376 242V358Q376 378 356 378H156Q136 378 136 358V242Q136 222 156 222Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#video-file-cutouts)" d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+<path d="M224 262Q224 252 233 257L291 292Q304 300 291 308L233 343Q224 348 224 338Z"/>
+</svg>

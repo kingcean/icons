@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M136 40H72Q40 40 40 72V136M376 40H440Q472 40 472 72V136M472 376V440Q472 472 440 472H376M136 472H72Q40 472 40 440V376"/>
+<circle cx="256" cy="256" r="100"/>
+<circle cx="256" cy="256" r="20"/>
+</svg>

@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrow" x1="88" y1="24" x2="88" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="bars" x1="208" y1="0" x2="488" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#0284C7"/>
+</linearGradient>
+</defs>
+<path d="M76 32Q88 20 100 32L152 84Q164 96 152 108Q140 120 128 108L108 88V424L128 404Q140 392 152 404Q164 416 152 428L100 480Q88 492 76 480L24 428Q12 416 24 404Q36 392 48 404L68 424V88L48 108Q36 120 24 108Q12 96 24 84Z" fill="url(#arrow)"/>
+<rect x="208" y="36" width="280" height="56" rx="28" fill="url(#bars)"/>
+<rect x="208" y="228" width="280" height="56" rx="28" fill="url(#bars)"/>
+<rect x="208" y="420" width="280" height="56" rx="28" fill="url(#bars)"/>
+</svg>

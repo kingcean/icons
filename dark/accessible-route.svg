@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="route" x1="300" y1="154" x2="499" y2="154" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF8880"/>
+<stop offset="1" stop-color="#FFE09A"/>
+</linearGradient>
+</defs>
+<circle cx="204" cy="78" r="40" fill="#FFE09A"/>
+<path d="M140 222A128 128 0 1 0 305 371A14 14 0 0 0 278 365A100 100 0 1 1 149 249A14 14 0 0 0 140 222Z" fill="#71B6FF"/>
+<path d="M190 148Q190 134 204 134Q218 134 218 148V192H274Q288 192 288 206Q288 220 274 220H218V264H298Q307 264 311 274L361 378H392Q406 378 406 392Q406 406 392 406H352Q343 406 339 396L289 292H204Q190 292 190 278Z" fill="#76D4D0"/>
+<path d="M316 138H442L409 105Q398 94 409 83Q420 72 431 83L491 143Q502 154 491 165L431 225Q420 236 409 225Q398 214 409 203L442 170H316Q300 170 300 154Q300 138 316 138Z" fill="url(#route)"/>
+</svg>

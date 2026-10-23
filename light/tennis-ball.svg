@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="tennisBallClip">
+<circle cx="256" cy="256" r="232"/>
+</clipPath>
+</defs>
+<circle cx="256" cy="256" r="232" fill="#9BBB32"/>
+<path d="M420 92A232 232 0 0 1 420 420C304 348 304 164 420 92Z" fill="#79A536"/>
+<path clip-path="url(#tennisBallClip)" d="M92 92C208 164 208 348 92 420M420 92C304 164 304 348 420 420" fill="none" stroke="#FFF2C4" stroke-width="24" stroke-linecap="round"/>
+</svg>

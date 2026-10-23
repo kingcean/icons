@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M266 395A176 176 0 1 1 395 266"/>
+<path d="M224 116V224L284 258"/>
+<circle cx="382" cy="382" r="94"/>
+<path d="M350 350L414 414M414 350L350 414"/>
+</svg>

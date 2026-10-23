@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#54C6BE" d="M96 176H368L484 436Q498 464 468 464H44Q16 464 28 438Z"/>
+<path fill="#299A96" d="M96 80H368V176H96A48 48 0 0 1 96 80Z"/>
+<circle cx="368" cy="128" r="48" fill="#23716F"/>
+<path fill="#A6E8DA" fill-rule="evenodd" d="M396 128A28 28 0 1 1 340 128A28 28 0 1 1 396 128ZM380 128A12 12 0 1 1 356 128A12 12 0 1 1 380 128Z"/>
+</svg>

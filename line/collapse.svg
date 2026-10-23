@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M56 56L204 204M124 204H204V124"/>
+<path d="M56 56L204 204M124 204H204V124" transform="rotate(90 256 256)"/>
+<path d="M56 56L204 204M124 204H204V124" transform="rotate(180 256 256)"/>
+<path d="M56 56L204 204M124 204H204V124" transform="rotate(270 256 256)"/>
+</svg>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M64 192H120L224 108Q248 88 248 120V392Q248 424 224 404L120 320H64Q40 320 40 296V216Q40 192 64 192Z"/>
+<path d="M330 192L458 320M458 192L330 320"/>
+</svg>

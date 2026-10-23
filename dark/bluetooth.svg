@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bluetooth-dark" x1="112" y1="24" x2="396" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="0.5" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#A5B4FC"/>
+</linearGradient>
+</defs>
+<path fill="url(#bluetooth-dark)" fill-rule="evenodd" d="M242 24Q242 12 254 24L386 156Q396 166 386 176L306 256L386 336Q396 346 386 356L254 488Q242 500 242 488V296L150 388Q140 398 130 388L118 376Q108 366 118 356L218 256L118 156Q108 146 118 136L130 124Q140 114 150 124L242 216ZM274 102V230L338 166ZM274 282V410L338 346Z"/>
+</svg>

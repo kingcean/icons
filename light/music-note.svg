@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+<path d="M184 396V88Q184 76 196 73L430 24Q448 20 448 38V352H416V112L216 154V396Z" fill="#2563EB"/>
+<ellipse cx="128" cy="416" rx="80" ry="52" transform="rotate(-20 128 416)" fill="#7C3AED"/>
+<ellipse cx="360" cy="372" rx="80" ry="52" transform="rotate(-20 360 372)" fill="#DB2777"/>
+</svg>

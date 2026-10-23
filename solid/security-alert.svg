@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Security alert</title>
+<path fill-rule="evenodd" d="M256 32C199 65 127 91 64 104V242C64 350 142 429 243 477Q256 483 269 477C370 429 448 350 448 242V104C385 91 313 65 256 32ZM256 156Q234 156 234 178V284Q234 306 256 306Q278 306 278 284V178Q278 156 256 156ZM278 352A22 22 0 1 0 234 352A22 22 0 1 0 278 352Z"/>
+</svg>

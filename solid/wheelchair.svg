@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<circle cx="224" cy="68" r="44"/>
+<path d="M151 228A132 132 0 1 0 325 379A14 14 0 0 0 298 374A104 104 0 1 1 160 254A14 14 0 0 0 151 228Z"/>
+<path d="M210 148Q210 134 224 134Q238 134 238 148V194H306Q320 194 320 208Q320 222 306 222H238V268H326Q335 268 339 276L391 392H426Q440 392 440 406Q440 420 426 420H382Q373 420 369 412L317 296H224Q210 296 210 282Z"/>
+</svg>

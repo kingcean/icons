@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M286 51A176 176 0 0 1 391 111M422 165A176 176 0 0 1 422 283M391 337A176 176 0 0 1 286 397M226 397A176 176 0 0 1 121 337M90 283A176 176 0 0 1 90 165M121 111A176 176 0 0 1 226 51" stroke-linecap="round"/>
+<path d="M256 88V192M374 156L284 208M374 292L284 240M256 360V256M138 292L228 240M138 156L228 208" stroke-linecap="round"/>
+<circle cx="256" cy="224" r="20"/>
+<path d="M224 264L144 480H368L288 264" stroke-linecap="round"/>
+<g>
+<rect x="224" y="24" width="64" height="48" rx="12"/>
+<rect x="376" y="112" width="64" height="48" rx="12"/>
+<rect x="376" y="288" width="64" height="48" rx="12"/>
+<rect x="224" y="376" width="64" height="48" rx="12"/>
+<rect x="72" y="288" width="64" height="48" rx="12"/>
+<rect x="72" y="112" width="64" height="48" rx="12"/>
+</g>
+</svg>

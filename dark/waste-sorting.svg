@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="recycle" x1="176" y1="18" x2="336" y2="192" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#70DCA6"/>
+<stop offset="1" stop-color="#76D4D0"/>
+</linearGradient>
+</defs>
+<g fill="url(#recycle)">
+<path d="M216 72L242 28Q248 18 256 18Q264 18 270 28L294 70L310 60Q316 56 315 64L306 104Q305 110 299 108L258 98Q250 96 257 92L271 84L252 52L236 80Z"/>
+<path d="M216 72L242 28Q248 18 256 18Q264 18 270 28L294 70L310 60Q316 56 315 64L306 104Q305 110 299 108L258 98Q250 96 257 92L271 84L252 52L236 80Z" transform="rotate(120 256 112)"/>
+<path d="M216 72L242 28Q248 18 256 18Q264 18 270 28L294 70L310 60Q316 56 315 64L306 104Q305 110 299 108L258 98Q250 96 257 92L271 84L252 52L236 80Z" transform="rotate(240 256 112)"/>
+</g>
+<path d="M40 248H152L140 466Q138 488 118 488H74Q54 488 52 466Z" fill="#FFE09A"/>
+<rect x="24" y="224" width="144" height="24" rx="10" fill="#D79A35"/>
+<path d="M200 248H312L300 466Q298 488 278 488H234Q214 488 212 466Z" fill="#70DCA6"/>
+<rect x="184" y="224" width="144" height="24" rx="10" fill="#39AA79"/>
+<path d="M360 248H472L460 466Q458 488 438 488H394Q374 488 372 466Z" fill="#71B6FF"/>
+<rect x="344" y="224" width="144" height="24" rx="10" fill="#4388CC"/>
+</svg>

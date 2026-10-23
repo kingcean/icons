@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="snow-arm" d="M364 392V344L344 324Q336 316 344 308Q352 300 360 308L364 312V304Q364 292 376 292Q388 292 388 304V312L392 308Q400 300 408 308Q416 316 408 324L388 344V392Z"/>
+</defs>
+<rect x="24" y="24" width="304" height="304" rx="24" fill="#2856A6"/>
+<path fill="#FFD16B" d="M152 24H200V112Q200 120 192 120H160Q152 120 152 112Z"/>
+<g fill="#218C80">
+<use href="#snow-arm"/>
+<use href="#snow-arm" transform="rotate(60 376 392)"/>
+<use href="#snow-arm" transform="rotate(120 376 392)"/>
+<use href="#snow-arm" transform="rotate(180 376 392)"/>
+<use href="#snow-arm" transform="rotate(240 376 392)"/>
+<use href="#snow-arm" transform="rotate(300 376 392)"/>
+</g>
+</svg>

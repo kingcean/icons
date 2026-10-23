@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="resetGradient" x1="48" y1="24" x2="464" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+</defs>
+<path d="M48 40Q48 24 64 24Q80 24 80 40V89C124 48 189 24 256 24C384 24 488 128 488 256C488 384 384 488 256 488C151 488 60 419 40 308Q37 292 53 288Q69 285 72 300C90 391 164 456 256 456C366 456 456 366 456 256C456 146 366 56 256 56C197 56 141 76 104 112H152Q168 112 168 128Q168 144 152 144H64Q48 144 48 128Z" fill="url(#resetGradient)"/>
+</svg>

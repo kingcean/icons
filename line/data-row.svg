@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Data row</title>
+<rect x="40" y="88" width="432" height="336" rx="32"/>
+<path d="M56 196H456M56 316H456M184 112V184M328 112V184M184 328V400M328 328V400"/>
+<rect x="56" y="208" width="400" height="96" rx="12"/>
+<path d="M184 224V288M328 224V288"/>
+</svg>

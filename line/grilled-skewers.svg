@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g transform="rotate(35 256 256)">
+<path d="M196 24V56M316 24V56M196 400V488M316 400V488"/>
+<rect x="152" y="68" width="88" height="88" rx="18"/>
+<rect x="272" y="68" width="88" height="88" rx="18"/>
+<rect x="152" y="184" width="88" height="88" rx="18"/>
+<rect x="272" y="184" width="88" height="88" rx="18"/>
+<rect x="152" y="300" width="88" height="88" rx="18"/>
+<rect x="272" y="300" width="88" height="88" rx="18"/>
+<path d="M176 98H216M176 126H216M296 98H336M296 126H336M176 330H216M176 358H216M296 330H336M296 358H336"/>
+</g>
+</svg>

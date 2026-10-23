@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M440 208A184 184 0 1 0 72 208A184 184 0 1 0 440 208ZM416 208A160 160 0 1 0 96 208A160 160 0 1 0 416 208Z"/>
+<path d="M242 170C210 144 208 82 244 72C284 60 324 112 292 150L274 170Q258 182 242 170Z"/>
+<path transform="rotate(120 256 208)" d="M242 170C210 144 208 82 244 72C284 60 324 112 292 150L274 170Q258 182 242 170Z"/>
+<path transform="rotate(240 256 208)" d="M242 170C210 144 208 82 244 72C284 60 324 112 292 150L274 170Q258 182 242 170Z"/>
+<circle cx="256" cy="208" r="24"/>
+<rect x="236" y="408" width="40" height="40" rx="10"/>
+<rect x="144" y="464" width="224" height="24" rx="12"/>
+</svg>

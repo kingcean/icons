@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="mute-gap">
+<path d="M0 0H468L0 468ZM512 44V512H44Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#mute-gap)">
+<path d="M256 40C223 40 196 67 196 100V236C196 269 223 296 256 296C289 296 316 269 316 236V100C316 67 289 40 256 40Z"/>
+<path d="M144 224V256C144 318 194 368 256 368C318 368 368 318 368 256V224M256 384V452M208 452H304"/>
+</g>
+<path d="M64 448L448 64"/>
+</svg>

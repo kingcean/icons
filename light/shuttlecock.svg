@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="shuttleSkirt">
+<path d="M36 88C144 8 368 8 476 88Q488 98 480 112L336 340Q332 348 322 348H190Q180 348 176 340L32 112Q24 98 36 88Z"/>
+</clipPath>
+</defs>
+<path fill="#A4DAE3" d="M36 88C144 8 368 8 476 88Q488 98 480 112L336 340Q332 348 322 348H190Q180 348 176 340L32 112Q24 98 36 88Z"/>
+<path clip-path="url(#shuttleSkirt)" fill="none" stroke="#438DA9" stroke-width="16" stroke-linecap="round" d="M120 46L210 348M208 28L240 348M304 28L272 348M392 46L302 348"/>
+<rect x="178" y="364" width="156" height="20" rx="10" fill="#E9A52B"/>
+<path fill="#E56F61" d="M188 400H324V420C324 458 294 488 256 488C218 488 188 458 188 420Z"/>
+</svg>

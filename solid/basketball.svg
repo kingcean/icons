@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="ballClip">
+<circle cx="256" cy="256" r="232"/>
+</clipPath>
+</defs>
+<path clip-path="url(#ballClip)" fill-rule="evenodd" d="M256 24A232 232 0 1 1 256 488A232 232 0 1 1 256 24ZM248 0H264V248H512V264H264V512H248V264H0V248H248ZM82 88C145 128 168 184 168 248H184C184 176 155 120 102 76ZM168 264C168 328 145 384 82 424L102 436C155 392 184 336 184 264ZM430 88C367 128 344 184 344 248H328C328 176 357 120 410 76ZM344 264C344 328 367 384 430 424L410 436C357 392 328 336 328 264Z"/>
+</svg>

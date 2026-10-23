@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M464 236A208 208 0 1 1 48 236A208 208 0 1 1 464 236Z M246 140Q236 140 236 150V216H170Q160 216 160 226V246Q160 256 170 256H236V322Q236 332 246 332H266Q276 332 276 322V256H342Q352 256 352 246V226Q352 216 342 216H276V150Q276 140 266 140Z"/>
+<ellipse cx="256" cy="476" rx="148" ry="16"/>
+</svg>

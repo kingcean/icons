@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Failure</title>
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256Z M185 155Q179 149 173 155L155 173Q149 179 155 185L226 256L155 327Q149 333 155 339L173 357Q179 363 185 357L256 286L327 357Q333 363 339 357L357 339Q363 333 357 327L286 256L357 185Q363 179 357 173L339 155Q333 149 327 155L256 226Z"/>
+</svg>

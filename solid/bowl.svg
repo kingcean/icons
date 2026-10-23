@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M24 150A232 58 0 1 0 488 150A232 58 0 1 0 24 150ZM64 150A192 34 0 1 0 448 150A192 34 0 1 0 64 150Z"/>
+<path d="M52 230H460Q472 230 470 242C451 350 370 418 256 418C142 418 61 350 42 242Q40 230 52 230Z"/>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="184" cy="124" r="84"/>
+<path d="M48 472Q24 472 24 448V420C24 332 96 264 184 264S344 332 344 420V448Q344 472 320 472Z"/>
+<path d="M340 240H416V210Q416 198 426 206L480 248Q490 256 480 264L426 306Q416 314 416 302V272H340Q328 272 328 260V252Q328 240 340 240Z"/>
+</svg>

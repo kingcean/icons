@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="flash" x1="256" y1="24" x2="256" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF18A"/>
+<stop offset="0.5" stop-color="#FFD34D"/>
+<stop offset="1" stop-color="#FF9654"/>
+</linearGradient>
+</defs>
+<path fill="url(#flash)" d="M280 24H350Q366 24 360 39L290 196H402Q424 196 410 214L172 482Q158 498 162 476L202 308H110Q90 308 102 288L266 32Q271 24 280 24Z"/>
+</svg>

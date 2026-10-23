@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="encrypted-folder-cutout">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M208 252V234A48 48 0 0 1 304 234V252H284V234A28 28 0 0 0 228 234V252Z M208 268H304Q320 268 320 284V356Q320 372 304 372H208Q192 372 192 356V284Q192 268 208 268Z M248 320A14 14 0 1 1 264 320V336Q264 340 260 340H252Q248 340 248 336Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#encrypted-folder-cutout)">
+<path d="M48 80H174Q184 80 192 88L224 120H464Q488 120 488 144V408Q488 432 464 432H48Q24 432 24 408V104Q24 80 48 80Z"/>
+<path d="M48 152H464Q488 152 488 176V408Q488 432 464 432H48Q24 432 24 408V176Q24 152 48 152Z"/>
+</g>
+</svg>

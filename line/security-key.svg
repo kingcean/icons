@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Cryptographic key</title>
+<path d="M263 204L464 405Q472 413 464 421L429 456Q421 464 413 456L380 423L399 404L372 377L353 396L318 361L337 342L204 263A112 112 0 1 1 263 204Z"/>
+<path d="M166 107L202 128Q208 132 208 139V181Q208 188 202 192L166 213Q160 217 154 213L118 192Q112 188 112 181V139Q112 132 118 128L154 107Q160 103 166 107Z"/>
+</svg>

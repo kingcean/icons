@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g transform="rotate(-45 256 256)">
+<path fill="#42718B" d="M238-32H274Q280-32 280-26V32L270 64V292H242V64L232 32V-26Q232-32 238-32Z"/>
+<rect x="200" y="304" width="112" height="240" rx="40" fill="#D97532"/>
+<rect x="212" y="280" width="88" height="40" rx="12" fill="#30556B"/>
+<rect x="246" y="364" width="20" height="144" rx="10" fill="#8F4525"/>
+</g>
+</svg>

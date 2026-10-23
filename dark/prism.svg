@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="spectrum" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FF7487"/>
+<stop offset="0.22" stop-color="#FFAE58"/>
+<stop offset="0.4" stop-color="#FFE16B"/>
+<stop offset="0.58" stop-color="#69E6A0"/>
+<stop offset="0.78" stop-color="#70BFFF"/>
+<stop offset="1" stop-color="#C19AFF"/>
+</linearGradient>
+</defs>
+<path d="M228 60Q224 48 220 60L100 420Q96 432 108 432H340Q352 432 348 420Z" fill="#8DE2F5"/>
+<path d="M244 66L298 93Q302 95 304 101L410 394Q414 402 406 408L372 430Z" fill="#419FCB"/>
+<path d="M34 246H134Q144 246 144 256Q144 266 134 266H34Q24 266 24 256Q24 246 34 246Z" fill="#FFE16B"/>
+<path d="M376 228L480 156Q488 150 488 160V332Q488 342 480 336L376 260Z" fill="url(#spectrum)"/>
+</svg>

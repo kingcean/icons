@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="vector-file-cutouts">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M280 24H292V124Q292 156 324 156H424V168H324Q280 168 280 124Z M216 216H296Q302 216 305 223L336 296Q339 302 334 309L264 399Q256 409 248 399L178 309Q173 302 176 296L207 223Q210 216 216 216Z M248 304A20 20 0 1 1 264 304L264 374L256 384L248 374Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#vector-file-cutouts)">
+<path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Security alert</title>
+<path fill="#2457C5" d="M256 32C199 65 127 91 64 104V242C64 350 142 429 243 477Q256 483 269 477C370 429 448 350 448 242V104C385 91 313 65 256 32Z"/>
+<rect x="234" y="156" width="44" height="150" rx="22" fill="#FFD166"/>
+<circle cx="256" cy="352" r="22" fill="#FF8A65"/>
+</svg>

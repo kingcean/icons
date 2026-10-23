@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="downloadArrow" x1="176" y1="24" x2="336" y2="344" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D8B4FE"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="downloadTray" x1="24" y1="344" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+</defs>
+<path d="M240 40Q240 24 256 24Q272 24 272 40V289L325 236Q336 225 347 236Q358 247 347 258L267 338Q256 349 245 338L165 258Q154 247 165 236Q176 225 187 236L240 289Z" fill="url(#downloadArrow)"/>
+<path d="M24 360Q24 344 40 344Q56 344 56 360V440Q56 456 72 456H440Q456 456 456 440V360Q456 344 472 344Q488 344 488 360V440Q488 488 440 488H72Q24 488 24 440Z" fill="url(#downloadTray)"/>
+</svg>

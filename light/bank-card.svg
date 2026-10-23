@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="104" width="464" height="304" rx="32" fill="#2856A6"/>
+<rect x="48" y="160" width="416" height="48" rx="8" fill="#147D92"/>
+<rect x="64" y="264" width="80" height="64" rx="12" fill="#FFD16B"/>
+<path fill="#83DDD2" d="M208 292H280Q292 292 292 304Q292 316 280 316H208Q196 316 196 304Q196 292 208 292ZM328 292H440Q452 292 452 304Q452 316 440 316H328Q316 316 316 304Q316 292 328 292Z"/>
+</svg>

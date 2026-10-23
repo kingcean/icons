@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g transform="rotate(-45 256 256)">
+<rect x="0" y="144" width="512" height="224" rx="64"/>
+<rect x="176" y="168" width="160" height="176" rx="20"/>
+<path d="M100 224A12 12 0 1 0 76 224A12 12 0 1 0 100 224ZM100 288A12 12 0 1 0 76 288A12 12 0 1 0 100 288ZM436 224A12 12 0 1 0 412 224A12 12 0 1 0 436 224ZM436 288A12 12 0 1 0 412 288A12 12 0 1 0 436 288Z"/>
+</g>
+</svg>

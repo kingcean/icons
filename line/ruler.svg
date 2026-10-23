@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="rotate(45 256 256)">
+<rect x="184" y="16" width="144" height="480" rx="24"/>
+<path d="M200 88H264M200 144H240M200 200H264M200 256H240M200 312H264M200 368H240M200 424H264"/>
+</g>
+</svg>

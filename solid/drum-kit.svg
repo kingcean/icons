@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<g>
+<ellipse cx="78" cy="106" rx="62" ry="18"/>
+<rect x="70" y="62" width="16" height="20" rx="8"/>
+<path d="M70 132H86V415L126 447Q133 453 127 459Q121 465 115 459L78 430L41 459Q35 465 29 459Q23 453 30 447L70 415Z"/>
+</g>
+<g>
+<ellipse cx="434" cy="106" rx="62" ry="18"/>
+<rect x="426" y="62" width="16" height="20" rx="8"/>
+<path d="M426 132H442V415L482 447Q489 453 483 459Q477 465 471 459L434 430L397 459Q391 465 385 459Q379 453 386 447L426 415Z"/>
+</g>
+<g>
+<rect x="150" y="146" width="96" height="20" rx="10"/>
+<path d="M150 174H246V200Q246 216 230 216H166Q150 216 150 200Z"/>
+<rect x="266" y="146" width="96" height="20" rx="10"/>
+<path d="M266 174H362V200Q362 216 346 216H282Q266 216 266 200Z"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M382 356A126 126 0 1 1 130 356A126 126 0 1 1 382 356ZM366 356A110 110 0 1 0 146 356A110 110 0 1 0 366 356Z"/>
+<path fill-rule="evenodd" d="M358 356A102 102 0 1 1 154 356A102 102 0 1 1 358 356ZM318 394A20 20 0 1 0 278 394A20 20 0 1 0 318 394Z"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="28" y="112" width="304" height="288" rx="40"/>
+<path d="M348 180L460 124Q484 112 484 140V372Q484 400 460 388L348 332Z"/>
+<circle cx="112" cy="200" r="30"/>
+</svg>

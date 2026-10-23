@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="48"/>
+<path d="M350 70Q353 64 359 68A214 214 0 0 1 441 147Q445 153 439 157L339 215Q333 218 330 212A92 92 0 0 0 302 178Q296 175 299 169Z"/>
+<path d="M350 70Q353 64 359 68A214 214 0 0 1 441 147Q445 153 439 157L339 215Q333 218 330 212A92 92 0 0 0 302 178Q296 175 299 169Z" transform="rotate(180 256 256)"/>
+</svg>

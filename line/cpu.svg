@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M160 40V104M224 40V104M288 40V104M352 40V104M160 408V472M224 408V472M288 408V472M352 408V472M40 160H104M40 224H104M40 288H104M40 352H104M408 160H472M408 224H472M408 288H472M408 352H472"/>
+<rect x="120" y="120" width="272" height="272" rx="32"/>
+<rect x="184" y="184" width="144" height="144" rx="20"/>
+</svg>

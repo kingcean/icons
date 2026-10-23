@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="duplicateBack" x1="24" y1="24" x2="360" y2="360" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D8B4FE"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="duplicateFront" x1="152" y1="152" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+</defs>
+<path d="M64 24H320Q360 24 360 64V120Q360 128 352 128H336Q328 128 328 120V64Q328 56 320 56H64Q56 56 56 64V320Q56 328 64 328H120Q128 328 128 336V352Q128 360 120 360H64Q24 360 24 320V64Q24 24 64 24Z" fill="url(#duplicateBack)"/>
+<rect x="152" y="152" width="336" height="336" rx="32" fill="url(#duplicateFront)"/>
+</svg>

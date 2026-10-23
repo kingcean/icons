@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M40 108L168 56Q176 52 184 56L328 108Q336 112 344 108L472 56Q488 50 488 68V396Q488 408 476 412L344 464Q336 468 328 464L184 412Q176 408 168 412L40 464Q24 470 24 452V124Q24 114 40 108ZM176 56V408M336 112V464" stroke-linecap="round"/>
+</svg>
