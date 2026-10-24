@@ -1,10 +1,10 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<linearGradient id="bluetooth-light" x1="112" y1="24" x2="396" y2="488" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#0891B2"/>
-<stop offset="0.5" stop-color="#0878DC"/>
-<stop offset="1" stop-color="#4338CA"/>
+<linearGradient id="bluetooth-light" x1="128" y1="24" x2="376" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#009BCB"/>
+<stop offset="0.5" stop-color="#1769E8"/>
+<stop offset="1" stop-color="#6942D8"/>
 </linearGradient>
 </defs>
-<path fill="url(#bluetooth-light)" fill-rule="evenodd" d="M242 24Q242 12 254 24L386 156Q396 166 386 176L306 256L386 336Q396 346 386 356L254 488Q242 500 242 488V296L150 388Q140 398 130 388L118 376Q108 366 118 356L218 256L118 156Q108 146 118 136L130 124Q140 114 150 124L242 216ZM274 102V230L338 166ZM274 282V410L338 346Z"/>
+<path fill="url(#bluetooth-light)" fill-rule="evenodd" d="M240 40Q240 24 254 24Q260 24 266 30L366 148Q378 160 366 172L280 256L366 340Q378 352 366 364L266 482Q260 488 254 488Q240 488 240 472V292L156 380Q144 392 132 380Q120 368 132 356L220 256L132 156Q120 144 132 132Q144 120 156 132L240 220ZM272 88V220L332 160ZM272 292V424L332 352Z"/>
 </svg>

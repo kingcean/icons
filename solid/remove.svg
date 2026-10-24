@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M48 208H464Q488 208 488 232V280Q488 304 464 304H48Q24 304 24 280V232Q24 208 48 208Z"/>
+</svg>

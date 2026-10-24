@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="find-replace-dark" x1="32" y1="32" x2="320" y2="320" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+<linearGradient id="replace-arrows-dark" x1="104" y1="112" x2="248" y2="240" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C4B5FD"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+</defs>
+<path fill-rule="evenodd" d="M320 176A144 144 0 1 1 32 176A144 144 0 1 1 320 176ZM280 176A104 104 0 1 0 72 176A104 104 0 1 0 280 176Z" fill="url(#find-replace-dark)"/>
+<path d="M286 314Q272 300 286 286Q300 272 314 286L478 450Q492 464 478 478Q464 492 450 478Z" fill="#CBD5E1"/>
+<path d="M104 132H216V116Q216 104 225 113L250 138Q256 144 250 150L225 175Q216 184 216 172V156H104Q96 156 96 148V140Q96 132 104 132Z" fill="url(#replace-arrows-dark)"/>
+<path d="M248 196H136V180Q136 168 127 177L102 202Q96 208 102 214L127 239Q136 248 136 236V220H248Q256 220 256 212V204Q256 196 248 196Z" fill="url(#find-replace-dark)"/>
+</svg>

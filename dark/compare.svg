@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="compare-left-dark" x1="24" y1="24" x2="144" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+<linearGradient id="compare-right-dark" x1="368" y1="24" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C4B5FD"/>
+<stop offset="1" stop-color="#F472B6"/>
+</linearGradient>
+<linearGradient id="compare-arrows-dark" x1="168" y1="136" x2="344" y2="376" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="120" height="464" rx="32" fill="url(#compare-left-dark)"/>
+<rect x="368" y="24" width="120" height="464" rx="32" fill="url(#compare-right-dark)"/>
+<path d="M184 176H289L277 164A16 16 0 0 1 299 142L339 182Q349 192 339 202L299 242A16 16 0 0 1 277 220L289 208H184A16 16 0 0 1 184 176Z" fill="url(#compare-arrows-dark)"/>
+<path d="M328 336H223L235 348A16 16 0 0 1 213 370L173 330Q163 320 173 310L213 270A16 16 0 0 1 235 292L223 304H328A16 16 0 0 1 328 336Z" fill="url(#compare-arrows-dark)"/>
+</svg>

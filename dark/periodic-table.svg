@@ -1,0 +1,52 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<rect id="cell" width="20" height="36" rx="3"/>
+<g id="pair">
+<use href="#cell"/>
+<use href="#cell" x="24"/>
+</g>
+<g id="six">
+<use href="#pair"/>
+<use href="#pair" x="48"/>
+<use href="#pair" x="96"/>
+</g>
+<g id="ten">
+<use href="#six"/>
+<use href="#pair" x="144"/>
+<use href="#pair" x="192"/>
+</g>
+<g id="fourteen">
+<use href="#ten"/>
+<use href="#pair" x="240"/>
+<use href="#pair" x="288"/>
+</g>
+</defs>
+<g transform="translate(34 24)" fill="#32B8DF">
+<use href="#cell"/>
+<use href="#pair" y="40"/>
+<use href="#pair" y="80"/>
+<use href="#pair" y="120"/>
+<use href="#pair" y="160"/>
+<use href="#pair" y="200"/>
+<use href="#pair" y="240"/>
+</g>
+<g transform="translate(338 24)" fill="#63DBCE">
+<use href="#cell" x="120"/>
+<use href="#six" y="40"/>
+<use href="#six" y="80"/>
+<use href="#six" y="120"/>
+<use href="#six" y="160"/>
+<use href="#six" y="200"/>
+<use href="#six" y="240"/>
+</g>
+<g transform="translate(90 144)" fill="#B397EB">
+<use href="#ten"/>
+<use href="#ten" y="40"/>
+<use href="#ten" y="80"/>
+<use href="#ten" y="120"/>
+</g>
+<g transform="translate(90 360)" fill="#F5C65F">
+<use href="#fourteen"/>
+<use href="#fourteen" y="40"/>
+</g>
+</svg>

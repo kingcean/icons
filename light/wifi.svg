@@ -1,6 +1,20 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#1565C0" d="M29 144Q256-28 483 144Q493 152 485 162L463 188Q456 196 448 190Q256 44 64 190Q56 196 49 188L27 162Q19 152 29 144Z"/>
-<path fill="#1976D2" d="M104 224Q256 104 408 224Q418 232 410 242L389 267Q382 275 374 268Q256 176 138 268Q130 275 123 267L102 242Q94 232 104 224Z"/>
-<path fill="#039BE5" d="M180 306Q256 246 332 306Q342 314 334 324L313 348Q306 356 298 350Q256 318 214 350Q206 356 199 348L178 324Q170 314 180 306Z"/>
-<circle fill="#00838F" cx="256" cy="407" r="30"/>
+<defs>
+<linearGradient id="outer" x1="24" y1="100" x2="488" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0891B2"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="middle" x1="88" y1="190" x2="424" y2="278" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+<linearGradient id="inner" x1="152" y1="286" x2="360" y2="358" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#4F46E5"/>
+<stop offset="1" stop-color="#9333EA"/>
+</linearGradient>
+</defs>
+<path fill="url(#outer)" d="M32 156Q256-20 480 156Q490 164 482 174L466 194Q458 204 446 194Q256 46 66 194Q54 204 46 194L30 174Q22 164 32 156Z"/>
+<path fill="url(#middle)" d="M96 236Q256 108 416 236Q426 244 418 254L402 274Q394 284 382 274Q256 174 130 274Q118 284 110 274L94 254Q86 244 96 236Z"/>
+<path fill="url(#inner)" d="M160 316Q256 240 352 316Q362 324 354 334L338 354Q330 364 318 354Q256 306 194 354Q182 364 174 354L158 334Q150 324 160 316Z"/>
+<circle cx="256" cy="430" r="34" fill="#9333EA"/>
 </svg>

@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="unfavorite-dark-gap">
+<path d="M40 0H512V472ZM0 40L472 512H0Z"/>
+</clipPath>
+<linearGradient id="unfavorite-star-dark" x1="120" y1="72" x2="392" y2="478" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+<linearGradient id="unfavorite-slash-dark" x1="40" y1="40" x2="472" y2="472" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C4B5FD"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+</defs>
+<path d="M244 36Q256 12 268 36L326 166Q330 174 340 176L474 194Q496 198 480 214L380 308Q372 316 374 326L402 466Q406 488 386 478L266 408Q256 402 246 408L126 478Q106 488 110 466L138 326Q140 316 132 308L32 214Q16 198 38 194L172 176Q182 174 186 166Z" fill="url(#unfavorite-star-dark)" clip-path="url(#unfavorite-dark-gap)"/>
+<path d="M29 51A16 16 0 0 1 51 29L483 461A16 16 0 0 1 461 483Z" fill="url(#unfavorite-slash-dark)"/>
+</svg>

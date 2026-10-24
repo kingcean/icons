@@ -1,7 +1,7 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
-<path d="M136 136V40Q136 24 152 24H360Q376 24 376 40V136Z"/>
-<path d="M104 160H408Q480 160 480 232V356Q480 388 448 388H408V304H104V388H64Q32 388 32 356V232Q32 160 104 160Z"/>
-<path d="M136 328H376V456Q376 488 344 488H168Q136 488 136 456ZM184 376H328M184 424H288"/>
-<circle cx="424" cy="224" r="12"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<rect x="128" y="40" width="256" height="124" rx="16"/>
+<path d="M56 180H456Q488 180 488 212V384Q488 416 456 416H384V316H128V416H56Q24 416 24 384V212Q24 180 56 180Z"/>
+<path d="M144 332H368V456Q368 472 352 472H160Q144 472 144 456Z"/>
+<path d="M192 376H320M192 420H288M440 240A16 16 0 1 1 408 240A16 16 0 1 1 440 240Z"/>
 </svg>

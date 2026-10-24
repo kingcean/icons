@@ -1,9 +1,18 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<clipPath id="bluetooth-gap">
-<path clip-rule="evenodd" d="M0 0H512V512H0ZM0 0H34L512 478V512H478L0 34Z"/>
+<clipPath id="bluetooth-off-dark-cut">
+<path d="M40 0H512V472ZM0 40V512H472Z"/>
 </clipPath>
+<linearGradient id="bluetooth-off-dark-blue" x1="128" y1="24" x2="376" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#61E3F5"/>
+<stop offset="0.5" stop-color="#65ACFF"/>
+<stop offset="1" stop-color="#B599FF"/>
+</linearGradient>
+<linearGradient id="bluetooth-off-dark-slash" x1="48" y1="48" x2="464" y2="464" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFB56B"/>
+<stop offset="1" stop-color="#FF7B9C"/>
+</linearGradient>
 </defs>
-<path fill="#64B5F6" clip-path="url(#bluetooth-gap)" fill-rule="evenodd" d="M240 40Q240 24 254 32L386 134Q398 144 386 156L280 256L386 356Q398 368 386 378L254 480Q240 488 240 472V292L158 372Q148 382 138 370Q130 360 140 350L230 256L140 162Q130 152 140 142Q150 132 160 142L240 220ZM272 88V220L352 144ZM272 292V424L352 368Z"/>
-<path fill="#FF8080" d="M80 56L456 432Q470 446 456 460Q442 474 428 460L52 84Q38 70 52 56Q66 42 80 56Z"/>
+<path fill="url(#bluetooth-off-dark-blue)" clip-path="url(#bluetooth-off-dark-cut)" fill-rule="evenodd" d="M240 40Q240 24 254 24Q260 24 266 30L366 148Q378 160 366 172L280 256L366 340Q378 352 366 364L266 482Q260 488 254 488Q240 488 240 472V292L156 380Q144 392 132 380Q120 368 132 356L220 256L132 156Q120 144 132 132Q144 120 156 132L240 220ZM272 88V220L332 160ZM272 292V424L332 352Z"/>
+<path fill="url(#bluetooth-off-dark-slash)" d="M39 39Q48 30 57 39L473 455Q482 464 473 473Q464 482 455 473L39 57Q30 48 39 39Z"/>
 </svg>

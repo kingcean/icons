@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sort-bars-light" x1="24" y1="92" x2="280" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="sort-arrow-light" x1="320" y1="24" x2="480" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+</defs>
+<rect x="24" y="92" width="96" height="40" rx="20" fill="url(#sort-bars-light)"/>
+<rect x="24" y="236" width="176" height="40" rx="20" fill="url(#sort-bars-light)"/>
+<rect x="24" y="380" width="256" height="40" rx="20" fill="url(#sort-bars-light)"/>
+<path d="M392 28Q400 20 408 28L480 100Q492 112 476 112H420V468Q420 488 400 488Q380 488 380 468V112H324Q308 112 320 100Z" fill="url(#sort-arrow-light)"/>
+</svg>

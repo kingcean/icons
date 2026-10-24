@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="selection-light" x1="112" y1="112" x2="400" y2="400" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="invert-light" x1="248" y1="272" x2="360" y2="336" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+</defs>
+<rect x="32" y="32" width="448" height="448" rx="24" fill="none" stroke="#334155" stroke-width="24" stroke-dasharray="48 32"/>
+<path fill-rule="evenodd" d="M136 112H376Q400 112 400 136V376Q400 400 376 400H136Q112 400 112 376V136Q112 112 136 112ZM376 152L152 376H368Q376 376 376 368Z" fill="url(#selection-light)"/>
+<path d="M152 196H232V180Q232 168 241 177L266 202Q272 208 266 214L241 239Q232 248 232 236V220H152Q144 220 144 212V204Q144 196 152 196Z" fill="#F0FDFA"/>
+<path d="M360 292H280V276Q280 264 271 273L246 298Q240 304 246 310L271 335Q280 344 280 332V316H360Q368 316 368 308V300Q368 292 360 292Z" fill="url(#invert-light)"/>
+</svg>

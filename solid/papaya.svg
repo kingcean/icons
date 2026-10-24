@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M246 86C244 46 286 22 346 24Q358 24 352 36C330 76 294 94 246 86Z"/>
+<path fill-rule="evenodd" d="M256 100C174 100 102 204 102 316C102 420 166 488 256 488C346 488 410 420 410 316C410 204 338 100 256 100ZM256 126C188 126 128 218 128 316C128 404 180 462 256 462C332 462 384 404 384 316C384 218 324 126 256 126Z"/>
+<g>
+<ellipse cx="256" cy="202" rx="18" ry="22"/>
+<ellipse cx="230" cy="248" rx="18" ry="22" transform="rotate(-12 230 248)"/>
+<ellipse cx="282" cy="248" rx="18" ry="22" transform="rotate(12 282 248)"/>
+<ellipse cx="208" cy="296" rx="18" ry="22"/>
+<ellipse cx="256" cy="296" rx="18" ry="22"/>
+<ellipse cx="304" cy="296" rx="18" ry="22"/>
+<ellipse cx="230" cy="344" rx="18" ry="22" transform="rotate(12 230 344)"/>
+<ellipse cx="282" cy="344" rx="18" ry="22" transform="rotate(-12 282 344)"/>
+<ellipse cx="256" cy="390" rx="18" ry="22"/>
+</g>
+</svg>

@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="move-dark" x1="24" y1="24" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+</defs>
+<path d="M248 28Q256 20 264 28L324 88Q336 100 320 100H280V232H412V192Q412 176 424 188L484 248Q492 256 484 264L424 324Q412 336 412 320V280H280V412H320Q336 412 324 424L264 484Q256 492 248 484L188 424Q176 412 192 412H232V280H100V320Q100 336 88 324L28 264Q20 256 28 248L88 188Q100 176 100 192V232H232V100H192Q176 100 188 88Z" fill="url(#move-dark)"/>
+</svg>

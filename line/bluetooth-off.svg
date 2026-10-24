@@ -1,5 +1,10 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M256 48V212M256 48L376 144L292 228M144 148L204 208M144 364L208 300M256 300V464L376 368L332 324"/>
-<path d="M68 68L444 444"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="bluetooth-off-line-cut">
+<path d="M40 0H512V472ZM0 40V512H472Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#bluetooth-off-line-cut)" d="M144 144L352 352L256 464V48L352 160L144 368"/>
+<path d="M48 48L464 464"/>
 </svg>

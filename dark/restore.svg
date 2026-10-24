@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="restore-dark" x1="24" y1="24" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+</defs>
+<path d="M92 92A232 232 0 1 1 92 420Q80 408 92 396L108 380Q120 368 132 380A184 184 0 1 0 126 126L176 176Q192 192 168 192H48Q24 192 24 168V48Q24 24 40 40Z" fill="url(#restore-dark)"/>
+</svg>

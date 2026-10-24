@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="compress-cool-dark" x1="32" y1="32" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+<linearGradient id="compress-warm-dark" x1="32" y1="32" x2="224" y2="224" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<path d="M29 51A16 16 0 0 1 51 29L192 170V144A16 16 0 0 1 224 144V208Q224 224 208 224H144A16 16 0 0 1 144 192H170Z" fill="url(#compress-cool-dark)"/>
+<path d="M29 51A16 16 0 0 1 51 29L192 170V144A16 16 0 0 1 224 144V208Q224 224 208 224H144A16 16 0 0 1 144 192H170Z" transform="rotate(90 256 256)" fill="url(#compress-warm-dark)"/>
+<path d="M29 51A16 16 0 0 1 51 29L192 170V144A16 16 0 0 1 224 144V208Q224 224 208 224H144A16 16 0 0 1 144 192H170Z" transform="rotate(180 256 256)" fill="url(#compress-cool-dark)"/>
+<path d="M29 51A16 16 0 0 1 51 29L192 170V144A16 16 0 0 1 224 144V208Q224 224 208 224H144A16 16 0 0 1 144 192H170Z" transform="rotate(270 256 256)" fill="url(#compress-warm-dark)"/>
+</svg>

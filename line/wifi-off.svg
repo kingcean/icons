@@ -1,7 +1,11 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M40 194C59 175 81 158 104 144M148 122C255 80 384 106 472 194M104 258C126 238 150 223 177 214M228 202C292 195 358 213 408 258M170 322C190 304 214 294 238 291"/>
-<circle cx="256" cy="398" r="28"/>
-<path d="M56 56L456 456"/>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M0 30L482 512H512V482L30 0H0Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#gap)" d="M48 176Q256 12 464 176M112 256Q256 140 400 256M176 336Q256 272 336 336"/>
+<circle cx="256" cy="430" r="34"/>
+<path d="M40 40L472 472"/>
 </svg>

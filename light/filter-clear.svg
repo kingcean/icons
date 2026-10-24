@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="filter-light" x1="48" y1="32" x2="384" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="clear-light" x1="336" y1="344" x2="472" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+</defs>
+<path d="M56 32H456Q480 32 464 52L288 248V384Q288 392 280 396L232 420Q224 424 224 412V248L48 52Q32 32 56 32Z" fill="url(#filter-light)"/>
+<path d="M348 344Q356 336 364 344L404 384L444 344Q452 336 460 344L472 356Q480 364 472 372L432 412L472 452Q480 460 472 468L460 480Q452 488 444 480L404 440L364 480Q356 488 348 480L336 468Q328 460 336 452L376 412L336 372Q328 364 336 356Z" fill="url(#clear-light)"/>
+</svg>

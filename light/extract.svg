@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="extract-flaps-light" x1="64" y1="180" x2="448" y2="288" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F59E0B"/>
+<stop offset="1" stop-color="#EA580C"/>
+</linearGradient>
+<linearGradient id="extract-arrow-light" x1="192" y1="24" x2="304" y2="280" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8B5CF6"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+</defs>
+<path d="M64 316L256 380V488L76 436Q64 432 64 420Z" fill="#0D9488"/>
+<path d="M256 380L448 316V420Q448 432 436 436L256 488Z" fill="#2563EB"/>
+<path d="M64 288L28 240Q22 232 32 228L168 180Q176 177 182 184L216 236Q222 244 212 248ZM448 288L484 240Q490 232 480 228L344 180Q336 177 330 184L296 236Q290 244 300 248Z" fill="url(#extract-flaps-light)"/>
+<path d="M240 264V71L203 108A16 16 0 0 1 181 86L245 22Q256 11 267 22L331 86A16 16 0 0 1 309 108L272 71V264A16 16 0 0 1 240 264Z" fill="url(#extract-arrow-light)"/>
+</svg>

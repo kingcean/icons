@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="convert-top-light" x1="40" y1="200" x2="472" y2="32" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="convert-bottom-light" x1="472" y1="312" x2="40" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#DB2777"/>
+</linearGradient>
+</defs>
+<path d="M40 200V152Q40 72 120 72H417L389 44A16 16 0 0 1 411 22L467 78Q477 88 467 98L411 154A16 16 0 0 1 389 132L417 104H120Q72 104 72 152V200A16 16 0 0 1 40 200Z" fill="url(#convert-top-light)"/>
+<path d="M472 312V360Q472 440 392 440H95L123 468A16 16 0 0 1 101 490L45 434Q35 424 45 414L101 358A16 16 0 0 1 123 380L95 408H392Q440 408 440 360V312A16 16 0 0 1 472 312Z" fill="url(#convert-bottom-light)"/>
+</svg>

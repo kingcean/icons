@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="attach-light" x1="112" y1="40" x2="400" y2="448" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="0.55" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+</defs>
+<path d="M176 328V144A80 80 0 0 1 336 144V368A112 112 0 0 1 112 368V136A144 144 0 0 1 400 136V336A16 16 0 0 1 368 336V136A112 112 0 0 0 144 136V368A80 80 0 0 0 304 368V144A48 48 0 0 0 208 144V328A16 16 0 0 1 176 328Z" transform="translate(-8 24) rotate(45 256 256)" fill="url(#attach-light)"/>
+</svg>

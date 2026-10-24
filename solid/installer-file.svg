@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="package-file-cutouts">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM256 202L372 254V378L256 434L140 378V254ZM282 24L424 166L434 156L292 14Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#package-file-cutouts)" d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+<path d="M252 220Q256 218 260 220L348 260L260 300Q256 302 252 300L164 260ZM152 278L250 323V410L158 368Q152 365 152 359ZM262 323L360 278V359Q360 365 354 368L262 410Z"/>
+</svg>

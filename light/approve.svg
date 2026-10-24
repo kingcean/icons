@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="approve-light" x1="72" y1="56" x2="432" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#approve-light)"/>
+<path d="M133 267L213 347Q224 358 235 347L379 203A16 16 0 0 0 357 181L224 314L155 245A16 16 0 0 0 133 267Z" fill="#D1FAE5"/>
+</svg>

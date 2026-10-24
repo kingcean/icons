@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="unpin-line-gap">
+<path d="M40 0H512V472ZM0 40L472 512H0Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#unpin-line-gap)">
+<rect x="136" y="24" width="240" height="64" rx="20"/>
+<path d="M200 112H312V208Q312 224 324 236L392 304Q408 320 384 320H128Q104 320 120 304L188 236Q200 224 200 208Z"/>
+<path d="M256 344V480" stroke-linecap="round"/>
+</g>
+<path d="M40 40L472 472" stroke-linecap="round"/>
+</svg>
