@@ -1,7 +1,7 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
-<circle cx="256" cy="208" r="184"/>
-<path fill-rule="evenodd" d="M152 128H232Q244 128 244 140Q244 152 232 152H164V188H190Q244 188 244 236Q244 288 190 288H152Q140 288 140 276Q140 264 152 264H190Q220 264 220 236Q220 212 190 212H152Q140 212 140 200V140Q140 128 152 128ZM320 128Q372 128 372 180V236Q372 288 320 288Q268 288 268 236V180Q268 128 320 128ZM320 152Q292 152 292 180V236Q292 264 320 264Q348 264 348 236V180Q348 152 320 152Z"/>
-<rect x="232" y="408" width="48" height="24" rx="8"/>
-<rect x="144" y="448" width="224" height="40" rx="16"/>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232"/>
+<path d="M232 184C190 168 160 210 160 272V294C160 318 174 332 200 332C226 332 240 318 240 294C240 270 226 256 200 256C176 256 160 272 160 294"/>
+<rect x="288" y="180" width="64" height="152" rx="32"/>
 </svg>
