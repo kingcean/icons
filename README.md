@@ -8,11 +8,11 @@ This library includes over a thousand icons, all free to use. Each icon comes in
 
 ## Structure
 
-The sub-folder `line`, `solid`, `dark` and `light` are the containers of these icon files. You can check \[content.json](./content.json) file to get the mapping of SVG file name and meaning.
+The sub-folder `line`, `solid`, `dark` and `light` are the containers of these icon files. You can check [content.json](./content.json) file to get the mapping of SVG file name and meaning.
 
 ## Build
 
-These icons are built by open source project \[SVG Icon Generator by AI](https://github.com/kingcean/svggen).
+These icons are built by open source project [SVG Icon Generator by AI](https://github.com/kingcean/svggen).
 
 ## License
 
