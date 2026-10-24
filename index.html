@@ -9,24 +9,122 @@
     <link rel="icon" type="image/png" href="https://jinchen.org/images/logos/jinchen-art.png" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/hje@3.3.0/dist/mdblogs.bundle.js" ></script>
     <style type="text/css">
+    section.x-intro {
+        font-size: 14px; user-select: none;
+    }
     section.x-intro > div {
-        font-size: 14px; padding: 10px 20px; border: dashed 1px #666; border-radius: 4px
+        padding: 10px 20px; border: dashed 1px #666; border-radius: 4px;
     }
     section.x-gallery {
-        margin-bottom: 100px; user-select: none;
+        margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
     }
     section.x-gallery > button {
-        background: transparent; padding: 20px; border: none 0 transparent; border-radius: 4px;
+        background: transparent; padding: 0; border: none 0 transparent; border-radius: 4px;
     }
     section.x-gallery > button:hover {
         background: #333;
     }
     section.x-gallery > button > img {
-        width: 64px; height: 64px;
+        width: 64px; height: 64px; margin: 18px; overflow: hidden;
+    }
+    section.x-actions > a.link-long-button > span + span {
+        margin-left: 10px;
+    }
+    section.x-tips {
+        color: #999; user-select: none;
+    }
+    @media (max-width: 600px) {
+        section.x-gallery {
+            grid-template-columns: repeat(auto-fill, 80px);
+        }
+        section.x-gallery > button > img {
+            width: 48px; height: 48px; margin: 16px; overflow: hidden;
+        }
     }
     </style>
     <script type="text/javascript">
     function onInit() {
+        fetch("./content.json").then(function (r)
+        {
+            return r.json();
+        }).then(function(r) {
+            return r.icons;
+        }).then(function(r) {
+            for (var i = r.length - 1; i > 0; i--) {
+                var j = Math.floor(Math.random() * (i + 1));
+                var icon = r[i];
+                r[i] = r[j];
+                r[j] = icon;
+            }
+            r = r.slice(0, 60);
+            Hje.render("zone-main", {
+                children: [{
+                    tagName: "h1",
+                    children: "Free Icons"
+                }, {
+                    tagName: "section",
+                    className: "x-intro",
+                    children: [{
+                        tagName: "div",
+                        children: [{
+                            tagName: "p",
+                            children: "Includes over a thousand SVG icons, all free to use."
+                        }, {
+                            tagName: "p",
+                            children: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes."
+                        }]
+                    }]
+                }, {
+                    tagName: "section",
+                    className: "x-gallery",
+                    children: r.map(function(icon) {
+                        return {
+                            tagName: "button",
+                            children: [{
+                                tagName: "img",
+                                props: {
+                                    alt: icon.name,
+                                    src: "./dark/" + icon.key + ".svg"
+                                }
+                            }]
+                        };
+                    })
+                }, {
+                    tagName: "section",
+                    className: "x-tips",
+                    children: [{
+                        tagName: "p",
+                        children: "Refresh the web page to randomly display icons; or"
+                    }]
+                }, {
+                    tagName: "section",
+                    className: "x-actions",
+                    children: [{
+                        tagName: "a",
+                        className: "link-long-button",
+                        props: {
+                            href: "https://github.com/kingcean/icons"
+                        },
+                        children: [{
+                            tagName: "span",
+                            children: [{
+                                tagName: "span",
+                                children: "View on"
+                            }]
+                        }, {
+                            tagName: "span",
+                            children: "GitHub"
+                        }, {
+                            tagName: "span",
+                            children: [{
+                                tagName: "span",
+                                children: "kingcean\\icons"
+                            }]
+                        }]
+                    }]
+                }]
+            });
+        });
     }
     </script>
 </head>
@@ -47,14 +145,14 @@
             </ul>
         </section>
     </header>
-    <section>
+    <section id="zone-main">
         <h1>
             Free Icons
         </h1>
         <section class="x-intro" >
             <div>
-            <p>Includes over a thousand SVG icons, all free to use.</p>
-            <p>Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.</p>
+                <p>Includes over a thousand SVG icons, all free to use.</p>
+                <p>Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.</p>
             </div>
         </section>
         <section class="x-gallery" >
@@ -70,54 +168,6 @@
             <button><img alt="Admission Ticket" src="./dark/admission-ticket.svg" /></button>
             <button><img alt="Cake" src="./dark/cake.svg" /></button>
             <button><img alt="Folder Open" src="./dark/folder-open.svg" /></button>
-            <button><img alt="Aperture" src="./dark/aperture.svg" /></button>
-            <button><img alt="Atom" src="./dark/atom.svg" /></button>
-            <button><img alt="Blog" src="./dark/blog.svg" /></button>
-            <button><img alt="Carousel" src="./dark/carousel.svg" /></button>
-            <button><img alt="Chandelier" src="./dark/chandelier.svg" /></button>
-            <button><img alt="Filter" src="./dark/filter.svg" /></button>
-            <button><img alt="Gift Card" src="./dark/gift-card.svg" /></button>
-            <button><img alt="Globe" src="./dark/globe.svg" /></button>
-            <button><img alt="Guitar" src="./dark/guitar.svg" /></button>
-            <button><img alt="Sunrise" src="./dark/sunrise.svg" /></button>
-            <button><img alt="WiFi" src="./dark/wifi.svg" /></button>
-            <button><img alt="Whiteboard" src="./dark/whiteboard.svg" /></button>
-            <button><img alt="Shuttlecock" src="./dark/shuttlecock.svg" /></button>
-            <button><img alt="Steamed Bun" src="./dark/steamed-bun.svg" /></button>
-            <button><img alt="Rich Text File" src="./dark/rich-text-file.svg" /></button>
-            <button><img alt="Palette" src="./dark/palette.svg" /></button>
-            <button><img alt="Medal" src="./dark/medal.svg" /></button>
-            <button><img alt="Markdown File" src="./dark/markdown-file.svg" /></button>
-            <button><img alt="Meteor" src="./dark/meteor.svg" /></button>
-            <button><img alt="Mushroom" src="./dark/mushroom.svg" /></button>
-            <button><img alt="Paint Roller" src="./dark/paint-roller.svg" /></button>
-            <button><img alt="Periodic Table" src="./dark/periodic-table.svg" /></button>
-            <button><img alt="Piggy Bank" src="./dark/piggy-bank.svg" /></button>
-            <button><img alt="Pin" src="./dark/pin.svg" /></button>
-            <button><img alt="Settings" src="./dark/settings.svg" /></button>
-            <button><img alt="Antenna" src="./dark/antenna.svg" /></button>
-            <button><img alt="AI Assistant" src="./dark/ai-assistant.svg" /></button>
-            <button><img alt="Bookmark" src="./dark/bookmark.svg" /></button>
-            <button><img alt="Beer" src="./dark/beer.svg" /></button>
-            <button><img alt="Billiard Ball" src="./dark/billiard-ball.svg" /></button>
-            <button><img alt="Audio Record File" src="./dark/audio-record-file.svg" /></button>
-            <button><img alt="Archive" src="./dark/archive.svg" /></button>
-            <button><img alt="Archive File" src="./dark/archive-file.svg" /></button>
-            <button><img alt="Chili Pepper" src="./dark/chili-pepper.svg" /></button>
-            <button><img alt="Credit Card" src="./dark/credit-card.svg" /></button>
-            <button><img alt="CPU" src="./dark/cpu.svg" /></button>
-            <button><img alt="Dress" src="./dark/dress.svg" /></button>
-            <button><img alt="Terminal" src="./dark/terminal.svg" /></button>
-            <button><img alt="Survey" src="./dark/survey.svg" /></button>
-            <button><img alt="Telescope" src="./dark/telescope.svg" /></button>
-            <button><img alt="Tabs" src="./dark/tabs.svg" /></button>
-            <button><img alt="Software Dependencies" src="./dark/software-dependencies.svg" /></button>
-            <button><img alt="Peacock" src="./dark/peacock.svg" /></button>
-            <button><img alt="Longan" src="./dark/longan.svg" /></button>
-            <button><img alt="Lighthouse" src="./dark/lighthouse.svg" /></button>
-            <button><img alt="Juice" src="./dark/juice.svg" /></button>
-            <button><img alt="Jellyfish" src="./dark/jellyfish.svg" /></button>
-            <button><img alt="Shield" src="./dark/shield.svg" /></button>
         </section>
         <section>
             <a href="https://github.com/kingcean/icons" class="link-long-button" ><span>GitHub &nbsp; <span>kingcean\icons</span></span>
