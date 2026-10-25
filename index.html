@@ -9,11 +9,68 @@
     <link rel="icon" type="image/png" href="https://jinchen.org/images/logos/jinchen-art.png" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/hje@3.3.0/dist/mdblogs.bundle.js" ></script>
     <style type="text/css">
+    section.x-details {
+        padding-bottom: 28px; border-bottom: 2px solid #666; user-select: none;
+    }
+    section.x-details > div:first-child {
+        border: dashed 1px #666; border-radius: 8px; position: relative;
+    }
+    section.x-details > div:first-child > img:first-child {
+        width: 160px; height: 160px; margin: 30px;
+    }
+    section.x-details > div:first-child > h2 {
+        font-weight: 200; font-size: 24px; margin: 0; line-height: 30px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 {
+        margin: 0; position: absolute; top: 40px; left: 210px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div {
+        margin: 0; position: absolute; top: 90px; left: 210px; right: 30px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div > span:first-child {
+        color: #999; line-height: 20px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div > span + span {
+        line-height: 20px; display: inline-block; background-color: #444; padding: 0 10px; margin-left: 10px; border-radius: 16px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + button {
+        color: #CCC; font-size: 20px; width: 30px; height: 30px; background: transparent; border: 0 none transparent; border-radius: 4px; position: absolute; top: 4px; right: 4px; transition: 0.2s;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + button:hover {
+        color: #EEE; background: #C33;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + button:active {
+        color: #EEE; background: #A00;
+    }
+    section.x-details > div:first-child + div {
+        margin-top: 20px;
+    }
+    section.x-details > div:first-child + div > span {
+        border-radius: 4px; display: inline-block;
+    }
+    section.x-details > div:first-child + div > span:first-child + span + span {
+        background-color: #EEE;
+    }
+    section.x-details > div:first-child + div > span > img, section.x-details > div:first-child + div > span > svg {
+        width: 80px; height: 80px; margin: 20px; display: block;
+    }
+    section.x-details > div:first-child + div > span:first-child > svg {
+        fill: none; stroke: #EEE; stroke-width: 8;
+    }
+    section.x-details > div:first-child + div > span:first-child + span > svg {
+        fill: #DDD; stroke: none; stroke-width: 0;
+    }
+    section.x-details > div:first-child + div > span > img + span, section.x-details > div:first-child + div > span > svg + span {
+        text-align: center; display: block; margin-bottom: 10px;
+    }
+    section.x-details > div:first-child + div > span:first-child + span + span > img + span {
+        color: #333;
+    }
     section.x-intro {
         font-size: 14px; user-select: none;
     }
     section.x-intro > div {
-        padding: 10px 20px; border: dashed 1px #666; border-radius: 4px;
+        padding: 10px 20px; margin-bottom: 10px; border: dashed 1px #666; border-radius: 8px;
     }
     section.x-gallery {
         margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
@@ -27,6 +84,9 @@
     section.x-gallery > button > img {
         width: 64px; height: 64px; margin: 18px; overflow: hidden;
     }
+    section.x-gallery > button:hover > img {
+        width: 68px; height: 68px; margin: 16px; overflow: hidden;
+    }
     section.x-actions > a.link-long-button > span + span {
         margin-left: 10px;
     }
@@ -34,11 +94,23 @@
         color: #999; user-select: none;
     }
     @media (max-width: 600px) {
+        section.x-details > div:first-child > img:first-child + h2 {
+            position: static; margin: 0 30px;
+        }
+        section.x-details > div:first-child > img:first-child + h2 + div {
+            position: static; margin: 10px 30px 20px 30px;
+        }
+        section.x-details > div:first-child + div > span > img, section.x-details > div:first-child + div > span > svg {
+            width: 64px; height: 64px; margin: 18px; display: block;
+        }
         section.x-gallery {
             grid-template-columns: repeat(auto-fill, 80px);
         }
         section.x-gallery > button > img {
             width: 48px; height: 48px; margin: 16px; overflow: hidden;
+        }
+        section.x-gallery > button:hover > img {
+            width: 52px; height: 52px; margin: 14px;
         }
     }
     </style>
@@ -56,9 +128,17 @@
                 r[i] = r[j];
                 r[j] = icon;
             }
-            r = r.slice(0, 60);
-            Hje.render("zone-main", {
+            const col = r.slice(0, 60);
+            const handlers = {};
+            const component = Hje.render("zone-main", {
                 children: [{
+                    key: "details",
+                    tagName: "section",
+                    className: "x-details",
+                    style: {
+                        display: "none"
+                    }
+                }, {
                     tagName: "h1",
                     children: "Free Icons"
                 }, {
@@ -77,16 +157,26 @@
                 }, {
                     tagName: "section",
                     className: "x-gallery",
-                    children: r.map(function(icon) {
+                    children: col.map(function(icon) {
                         return {
                             tagName: "button",
+                            props: {
+                                title: icon.name
+                            },
                             children: [{
                                 tagName: "img",
                                 props: {
                                     alt: icon.name,
                                     src: "./dark/" + icon.key + ".svg"
                                 }
-                            }]
+                            }],
+                            on: {
+                                click(ev) {
+                                    handlers.showDetails(icon);
+                                    DeepX.MdBlogs.scrollToTop();
+                                    window.history.replaceState(icon, "", "?id=" + icon.key);
+                                }
+                            }
                         };
                     })
                 }, {
@@ -124,6 +214,118 @@
                     }]
                 }]
             });
+            handlers.hideDetails = function () {
+                const details = component.getChild("details");
+                details.style({ display: "none" });
+            };
+            handlers.showDetails = function (model) {
+                const details = component.getChild("details");
+                details.style({ display: "" });
+                const categories = [];
+                if (model.categories && model.categories.length) {
+                    categories.push({
+                        tagName: "span",
+                        children: "Category"
+                    });
+                    for (const category of model.categories) {
+                        if (!category) continue;
+                        categories.push({
+                            tagName: "span",
+                            children: category
+                        });
+                    }
+                }
+                details.setChildItems({
+                    tagName: "div",
+                    children: [{
+                        tagName: "img",
+                        props: {
+                            alt: model.name,
+                            src: "./dark/" + model.key + ".svg"
+                        }
+                    }, {
+                        tagName: "h2",
+                        children: model.name
+                    }, {
+                        tagName: "div",
+                        children: categories
+                    }, {
+                        tagName: "button",
+                        children: "×",
+                        on: {
+                            click(ev) {
+                                handlers.hideDetails();
+                                window.history.replaceState({}, "", "./");
+                            }
+                        }
+                    }]
+                }, {
+                    tagName: "div",
+                    children: [{
+                        tagName: "span",
+                        children: [{
+                            tagName: "img",
+                            props: {
+                                alt: "Light mode",
+                                src: "./line/" + model.key + ".svg"
+                            }
+                        }, {
+                            tagName: "span",
+                            children: "Line"
+                        }],
+                        lifecycle: {
+                            load(ev) {
+                                fetch("./line/" + model.key + ".svg").then(function (r2) {
+                                    return r2.text();
+                                }).then(function (r2) {
+                                    ev.element.innerHTML = r2 + "<span>Line</span>";
+                                });
+                            }
+                        }
+                    }, {
+                        tagName: "span",
+                        children: [{
+                            tagName: "img",
+                            props: {
+                                alt: "Light mode",
+                                src: "./solid/" + model.key + ".svg"
+                            }
+                        }, {
+                            tagName: "span",
+                            children: "Solid"
+                        }],
+                        lifecycle: {
+                            load(ev) {
+                                fetch("./solid/" + model.key + ".svg").then(function (r2) {
+                                    return r2.text();
+                                }).then(function (r2) {
+                                    ev.element.innerHTML = r2 + "<span>Solid</span>";
+                                });
+                            }
+                        }
+                    }, {
+                        tagName: "span",
+                        children: [{
+                            tagName: "img",
+                            props: {
+                                alt: "Light mode",
+                                src: "./light/" + model.key + ".svg"
+                            }
+                        }, {
+                            tagName: "span",
+                            children: "Light"
+                        }]
+                    }]
+                });
+            };
+            const selId = Hje.getQuery("id");
+            if (selId) {
+                for (const item of r) {
+                    if (item.key !== selId) continue;
+                    handlers.showDetails(item);
+                    break;
+                }
+            }
         });
     }
     </script>
@@ -145,6 +347,7 @@
             </ul>
         </section>
     </header>
+    <section>
     <section id="zone-main">
         <h1>
             Free Icons
