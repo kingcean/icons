@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="penne">
+<path fill="#F3BE56" d="M-40-132C-52-148 24-180 40-164L40 132Q40 141 30 146L-26 168Q-40 173-40 164Z"/>
+<path fill="#FFE394" d="M-40-132C-52-148 24-180 40-164C52-148-24-116-40-132Z"/>
+<path fill="#B57A35" d="M-24-139C-22-146 17-162 24-157C26-150-17-132-24-139Z"/>
+<path fill="#FFF0BF" d="M-20-104V140Q-20 146-14 146Q-8 146-8 140V-104Q-8-110-14-110Q-20-110-20-104ZM8-116V128Q8 134 14 134Q20 134 20 128V-116Q20-122 14-122Q8-122 8-116Z"/>
+</g>
+</defs>
+<use href="#penne" transform="translate(140 298) rotate(32)"/>
+<use href="#penne" transform="translate(256 256) rotate(32)"/>
+<use href="#penne" transform="translate(372 214) rotate(32)"/>
+</svg>

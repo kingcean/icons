@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="defragment" x1="256" y1="260" x2="256" y2="329" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#AEEDE3"/>
+</linearGradient>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="#2879D8"/>
+<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#526784"/>
+<rect x="56" y="80" width="64" height="16" rx="8" fill="#E5F0FF"/>
+<rect x="80" y="192" width="56" height="56" rx="12" fill="#AEEDE3"/>
+<rect x="168" y="192" width="88" height="56" rx="12" fill="#FFD16B"/>
+<rect x="288" y="192" width="56" height="56" rx="12" fill="#DCD0FA"/>
+<rect x="376" y="192" width="56" height="56" rx="12" fill="#FF927A"/>
+<path d="M256 260Q268 260 268 272V289L272 285Q280 277 288 285Q296 293 288 301L264 325Q256 333 248 325L224 301Q216 293 224 285Q232 277 240 285L244 289V272Q244 260 256 260Z" fill="url(#defragment)"/>
+<rect x="110" y="344" width="56" height="56" rx="12" fill="#AEEDE3"/>
+<rect x="178" y="344" width="88" height="56" rx="12" fill="#FFD16B"/>
+<rect x="278" y="344" width="56" height="56" rx="12" fill="#DCD0FA"/>
+<rect x="346" y="344" width="56" height="56" rx="12" fill="#FF927A"/>
+</svg>

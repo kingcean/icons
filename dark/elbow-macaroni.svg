@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="macaroni">
+<path fill="#F3BE56" d="M-100 100V20C-100-80-20-140 80-140H110C137-140 137-64 110-64H80C20-64-24-32-24 20V100C-24 127-100 127-100 100Z"/>
+<path fill="#FFE394" d="M130-102A20 38 0 1 1 90-102A20 38 0 1 1 130-102ZM-24 100A38 20 0 1 1-100 100A38 20 0 1 1-24 100Z"/>
+<path fill="#B57A35" d="M120-102A10 24 0 1 1 100-102A10 24 0 1 1 120-102ZM-38 100A24 10 0 1 1-86 100A24 10 0 1 1-38 100Z"/>
+<path fill="#FFF0BF" d="M-80 54V20C-80-62-15-120 66-120Q74-120 74-112Q74-104 66-104C-9-104-64-51-64 20V54Q-64 62-72 62Q-80 62-80 54Z"/>
+</g>
+</defs>
+<use href="#macaroni" transform="translate(139 216) rotate(-20) scale(1.12)"/>
+<use href="#macaroni" transform="translate(373 326) rotate(-20) scale(1.12)"/>
+</svg>

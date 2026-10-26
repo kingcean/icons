@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="access" x1="204" y1="248" x2="312" y2="248" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#AEEDE3"/>
+<stop offset="1" stop-color="#FFD16B"/>
+</linearGradient>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="#2879D8"/>
+<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#526784"/>
+<rect x="56" y="80" width="64" height="16" rx="8" fill="#E5F0FF"/>
+<rect x="80" y="208" width="112" height="80" rx="16" fill="#AEEDE3"/>
+<rect x="104" y="236" width="64" height="24" rx="12" fill="#15564E"/>
+<rect x="80" y="320" width="112" height="80" rx="16" fill="#DCD0FA"/>
+<path d="M124 336Q132 336 132 344V376Q132 384 124 384Q116 384 116 376V344Q116 336 124 336ZM148 336Q156 336 156 344V376Q156 384 148 384Q140 384 140 376V344Q140 336 148 336Z" fill="#48316F"/>
+<rect x="320" y="208" width="112" height="192" rx="20" fill="#FFD16B"/>
+<path fill-rule="evenodd" d="M376 244Q348 244 348 272V288Q340 288 340 300V332Q340 344 352 344H400Q412 344 412 332V300Q412 288 404 288V272Q404 244 376 244ZM364 272Q364 260 376 260Q388 260 388 272V288H364Z" fill="#694B16"/>
+<path d="M216 236H269L264 231Q256 223 264 215Q272 207 280 215L305 240Q313 248 305 256L280 281Q272 289 264 281Q256 273 264 265L269 260H216Q204 260 204 248Q204 236 216 236Z" fill="url(#access)"/>
+<path d="M216 348H256Q268 348 268 360Q268 372 256 372H216Q204 372 204 360Q204 348 216 348ZM288 332Q296 332 296 340V380Q296 388 288 388Q280 388 280 380V340Q280 332 288 332Z" fill="#FF927A"/>
+</svg>

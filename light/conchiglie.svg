@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="conchiglie">
+<path fill="#E9AD3D" d="M-104 60C-138 20-122-56-80-94C-40-132 40-132 80-94C122-56 138 20 104 60Q78 112 0 120Q-78 112-104 60Z"/>
+<path fill="#B87928" d="M-81-66C-108-24-99 8-79 32Q-74 38-68 33Q-62 28-67 22C-84 2-92-25-67-58Q-62-64-68-69Q-75-74-81-66ZM-8-98Q-8-106 0-106Q8-106 8-98V14Q8 22 0 22Q-8 22-8 14ZM81-66C108-24 99 8 79 32Q74 38 68 33Q62 28 67 22C84 2 92-25 67-58Q62-64 68-69Q75-74 81-66Z"/>
+<path fill="#F8D675" d="M-104 60C-66 16 66 16 104 60Q78 112 0 120Q-78 112-104 60Z"/>
+<path fill="#A96727" d="M-88 64C-52 36 52 36 88 64C52 94-52 94-88 64Z"/>
+</g>
+</defs>
+<use href="#conchiglie" transform="translate(150 150) rotate(-20) scale(.98)"/>
+<use href="#conchiglie" transform="translate(362 362) rotate(-20) scale(.98)"/>
+</svg>

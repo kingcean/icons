@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path d="M158 84C166 42 210 22 266 34C253 78 210 101 158 84Z"/>
+<path fill-rule="evenodd" d="M150 366C83 365 34 313 34 246C34 171 87 116 156 116C194 116 229 133 251 162C196 191 160 252 160 324Q160 338 162 352Q164 368 150 366ZM106 204C115 192 121 184 126 188C131 192 124 210 130 218C136 226 155 225 155 232C155 239 135 242 131 251C127 260 138 277 132 282C126 287 112 273 102 274C92 275 82 292 75 287C68 282 80 263 76 254C72 245 54 241 57 234C60 227 78 232 86 225C94 218 88 198 95 197Q101 196 106 204Z"/>
+<path fill-rule="evenodd" d="M480 324A154 154 0 1 1 172 324A154 154 0 1 1 480 324ZM454 324A128 128 0 1 0 198 324A128 128 0 1 0 454 324Z"/>
+<ellipse cx="326" cy="268" rx="15" ry="26"/>
+<ellipse cx="379" cy="307" rx="15" ry="26" transform="rotate(72 379 307)"/>
+<ellipse cx="359" cy="369" rx="15" ry="26" transform="rotate(144 359 369)"/>
+<ellipse cx="293" cy="369" rx="15" ry="26" transform="rotate(-144 293 369)"/>
+<ellipse cx="273" cy="307" rx="15" ry="26" transform="rotate(-72 273 307)"/>
+</svg>

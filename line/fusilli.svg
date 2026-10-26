@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="fusilli">
+<path d="M-30-180Q0-196 30-180C62-164 62-136 30-120C62-104 62-76 30-60C62-44 62-16 30 0C62 16 62 44 30 60C62 76 62 104 30 120C62 136 62 164 30 180Q0 196-30 180C-62 164-62 136-30 120C-62 104-62 76-30 60C-62 44-62 16-30 0C-62-16-62-44-30-60C-62-76-62-104-30-120C-62-136-62-164-30-180Z"/>
+<path d="M-30-164Q-4-140 34-138M-30-104Q-4-80 34-78M-30-44Q-4-20 34-18M-30 16Q-4 40 34 42M-30 76Q-4 100 34 102M-30 136Q-4 160 34 162"/>
+</g>
+</defs>
+<use href="#fusilli" transform="translate(150 288) rotate(32)"/>
+<use href="#fusilli" transform="translate(362 224) rotate(32)"/>
+</svg>

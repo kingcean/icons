@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<ellipse cx="168" cy="88" rx="144" ry="64"/>
+<path d="M24 88V424C24 460 88 488 168 488C248 488 312 460 312 424V88M24 208C24 244 88 272 168 272C248 272 312 244 312 208M24 328C24 364 88 392 168 392C248 392 312 364 312 328"/>
+</g>
+<g>
+<rect x="340" y="144" width="148" height="64" rx="16"/>
+<path d="M388 160V192"/>
+</g>
+<g>
+<rect x="340" y="248" width="148" height="64" rx="16"/>
+<path d="M388 264V296"/>
+</g>
+<g>
+<rect x="340" y="352" width="148" height="64" rx="16"/>
+<path d="M388 368V400"/>
+</g>
+</svg>

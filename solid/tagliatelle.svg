@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="tagliatelle" d="M-30-224C-116-142 58-96 30-28C2 40-90 76-30 154C-6 186 4 204-18 224Q-22 232-10 232H38Q44 232 48 224C78 166 12 138 18 102C24 64 96 30 94-32C92-108-54-150 34-224Q38-232 26-232H-18Q-24-232-30-224Z"/>
+</defs>
+<use href="#tagliatelle" transform="translate(90 256)"/>
+<use href="#tagliatelle" transform="translate(246 256)"/>
+<use href="#tagliatelle" transform="translate(402 256)"/>
+</svg>

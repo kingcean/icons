@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="petal" d="M240 182C208 162 190 108 206 62Q214 38 236 26Q246 20 250 32L256 44L262 32Q266 20 276 26Q298 38 306 62C322 108 304 162 272 182Q256 190 240 182Z"/>
+</defs>
+<path fill="#34854B" d="M244 330H268V476Q268 488 256 488Q244 488 244 476Z"/>
+<path fill="#55A85E" d="M256 454C156 458 108 412 96 364Q94 352 108 354C174 356 234 396 256 454Z"/>
+<path fill="#79B946" d="M256 434C284 380 342 350 406 352Q420 352 416 366C400 410 346 444 256 434Z"/>
+<g fill="#ED88AA">
+<use href="#petal"/>
+<use href="#petal" transform="rotate(72 256 208)"/>
+<use href="#petal" transform="rotate(144 256 208)"/>
+<use href="#petal" transform="rotate(216 256 208)"/>
+<use href="#petal" transform="rotate(288 256 208)"/>
+</g>
+<circle fill="#C94379" cx="256" cy="208" r="25"/>
+<circle fill="#F4BE39" cx="256" cy="208" r="13"/>
+</svg>

@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M160 70C170 34 211 22 262 34C250 76 208 94 160 70Z"/>
+<path d="M164 368C89 379 34 319 34 236C34 153 84 90 150 90C206 90 252 130 272 176M87 176C73 195 68 220 70 242"/>
+<circle cx="326" cy="328" r="150"/>
+<defs>
+<path id="segment" d="M326 218C348 218 365 241 371 260Q375 268 363 272L337 306Q326 316 315 306L289 272Q277 268 281 260C287 241 304 218 326 218Z"/>
+</defs>
+<use href="#segment"/>
+<use href="#segment" transform="rotate(72 326 328)"/>
+<use href="#segment" transform="rotate(144 326 328)"/>
+<use href="#segment" transform="rotate(216 326 328)"/>
+<use href="#segment" transform="rotate(288 326 328)"/>
+<ellipse cx="326" cy="260" rx="11" ry="19"/>
+</svg>

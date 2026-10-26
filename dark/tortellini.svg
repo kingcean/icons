@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="tortellini">
+<path fill="#F3BE56" d="M-110 48C-142 6-128-62-82-100C-38-138 38-138 82-100C128-62 142 6 110 48L76 98Q0 146-76 98Z"/>
+<path fill="#B57A35" d="M-54 10C-60-26-36-48 0-48C36-48 60-26 54 10Q48 36 0 38Q-48 36-54 10Z"/>
+<path fill="#FFE394" d="M-110 48Q-70 28-48 68Q0 104 48 68Q70 28 110 48L76 98Q0 146-76 98Z"/>
+<path fill="#C18B38" d="M-100 56Q-73 43-54 73Q0 113 54 73Q73 43 100 56Q107 60 110 53Q113 46 106 42Q69 22 42 63Q0 93-42 63Q-69 22-106 42Q-113 46-110 53Q-107 60-100 56Z"/>
+</g>
+</defs>
+<use href="#tortellini" transform="translate(150 152) rotate(-20) scale(.95)"/>
+<use href="#tortellini" transform="translate(362 360) rotate(-20) scale(.95)"/>
+</svg>

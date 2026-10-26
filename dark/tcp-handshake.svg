@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="outbound" x1="156" y1="0" x2="360" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B698F5"/>
+<stop offset="1" stop-color="#51D6BE"/>
+</linearGradient>
+<linearGradient id="reply" x1="356" y1="0" x2="152" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#51D6BE"/>
+<stop offset="1" stop-color="#65B6FF"/>
+</linearGradient>
+</defs>
+<rect x="24" y="64" width="112" height="384" rx="24" fill="#93A7C2"/>
+<rect x="376" y="64" width="112" height="384" rx="24" fill="#51D6BE"/>
+<path d="M64 144H96M64 256H96M64 368H96" fill="none" stroke="#243D5B" stroke-width="24" stroke-linecap="round"/>
+<path d="M416 144H448M416 256H448M416 368H448" fill="none" stroke="#15564E" stroke-width="24" stroke-linecap="round"/>
+<path d="M168 132H316V114Q316 104 324 111L356 137Q364 144 356 151L324 177Q316 184 316 174V156H168Q156 156 156 144Q156 132 168 132ZM168 356H316V338Q316 328 324 335L356 361Q364 368 356 375L324 401Q316 408 316 398V380H168Q156 380 156 368Q156 356 168 356Z" fill="url(#outbound)"/>
+<path d="M344 244H196V226Q196 216 188 223L156 249Q148 256 156 263L188 289Q196 296 196 286V268H344Q356 268 356 256Q356 244 344 244Z" fill="url(#reply)"/>
+</svg>

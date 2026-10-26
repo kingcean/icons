@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="petal" d="M250 168C206 184 181 134 191 88C200 42 241 15 277 29C322 44 329 94 300 137C290 151 280 162 268 159Q258 163 250 168Z"/>
+</defs>
+<path d="M256 366V488"/>
+<path d="M234 470C163 477 110 433 100 385Q98 375 109 378C176 394 219 427 234 470ZM278 442C294 389 339 363 399 367Q410 367 405 378C382 423 337 448 278 442Z"/>
+<use href="#petal"/>
+<use href="#petal" transform="rotate(72 256 192)"/>
+<use href="#petal" transform="rotate(144 256 192)"/>
+<use href="#petal" transform="rotate(216 256 192)"/>
+<use href="#petal" transform="rotate(288 256 192)"/>
+<circle cx="256" cy="192" r="14"/>
+</svg>

@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M256 102Q250 65 226 38"/>
+<path d="M280 94C290 45 349 20 432 32C414 87 354 119 280 94Z"/>
+<g>
+<ellipse cx="222" cy="142" rx="32" ry="28"/>
+<ellipse cx="290" cy="142" rx="32" ry="28"/>
+<ellipse cx="188" cy="202" rx="32" ry="28"/>
+<ellipse cx="256" cy="202" rx="32" ry="28"/>
+<ellipse cx="324" cy="202" rx="32" ry="28"/>
+<ellipse cx="188" cy="262" rx="32" ry="28"/>
+<ellipse cx="256" cy="262" rx="32" ry="28"/>
+<ellipse cx="324" cy="262" rx="32" ry="28"/>
+<ellipse cx="188" cy="322" rx="32" ry="28"/>
+<ellipse cx="256" cy="322" rx="32" ry="28"/>
+<ellipse cx="324" cy="322" rx="32" ry="28"/>
+<ellipse cx="222" cy="382" rx="32" ry="28"/>
+<ellipse cx="290" cy="382" rx="32" ry="28"/>
+<ellipse cx="256" cy="442" rx="32" ry="28"/>
+</g>
+</svg>

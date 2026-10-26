@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<path d="M24 144H488M444 100L488 144L444 188M24 368H488M444 324L488 368L444 412"/>
+</g>
+<g>
+<rect x="40" y="204" width="128" height="104" rx="16"/>
+<path d="M44 220L96 260Q104 266 112 260L164 220"/>
+</g>
+<g>
+<rect x="192" y="204" width="128" height="104" rx="16"/>
+<path d="M196 220L248 260Q256 266 264 260L316 220"/>
+</g>
+<g>
+<rect x="344" y="204" width="128" height="104" rx="16"/>
+<path d="M348 220L400 260Q408 266 416 260L468 220"/>
+</g>
+</svg>

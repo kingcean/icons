@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="outerPetal" d="M234 112C199 113 173 88 180 61C187 33 221 20 257 24C292 27 322 47 321 74C320 96 293 110 268 109Q249 124 234 112Z"/>
+<path id="innerPetal" d="M247 165C228 160 214 144 222 130C231 114 253 112 272 121C290 129 292 146 278 155C267 161 262 157 258 165Q253 172 247 165Z"/>
+</defs>
+<path d="M248 340H264V480Q264 488 256 488Q248 488 248 480Z" fill="#427B50"/>
+<path d="M248 470C169 481 111 436 100 386Q98 376 109 380C182 393 231 427 248 470Z" fill="#43885B"/>
+<path d="M264 444C283 390 340 363 399 367Q410 368 405 379C382 426 331 456 264 444Z" fill="#72A465"/>
+<use href="#outerPetal" fill="#DCD7C9"/>
+<use href="#outerPetal" transform="rotate(72 256 190)" fill="#E9E1D0"/>
+<use href="#outerPetal" transform="rotate(144 256 190)" fill="#D8D3C6"/>
+<use href="#outerPetal" transform="rotate(216 256 190)" fill="#E5DECF"/>
+<use href="#outerPetal" transform="rotate(288 256 190)" fill="#D2CEBF"/>
+<use href="#innerPetal" transform="rotate(36 256 190)" fill="#EDE3CB"/>
+<use href="#innerPetal" transform="rotate(108 256 190)" fill="#D8CBAA"/>
+<use href="#innerPetal" transform="rotate(180 256 190)" fill="#E8DBBD"/>
+<use href="#innerPetal" transform="rotate(252 256 190)" fill="#D8CBAA"/>
+<use href="#innerPetal" transform="rotate(324 256 190)" fill="#E8DBBD"/>
+<circle cx="256" cy="190" r="14" fill="#BDA66E"/>
+</svg>

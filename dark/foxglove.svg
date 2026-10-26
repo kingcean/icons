@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M256 24V488M256 64Q280 40 316 56M256 184Q230 160 190 174M256 286Q294 258 340 274" fill="none" stroke="#88BF77" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M232 442C142 456 64 424 40 362C130 346 208 380 232 442Z" fill="#70B879"/>
+<path d="M280 466C366 480 442 452 472 394C386 376 308 406 280 466Z" fill="#A0CD70"/>
+<g transform="translate(316 48) scale(.85)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z" fill="#CC79C9"/>
+<ellipse cx="0" cy="119" rx="29" ry="15" fill="#FFD0E5"/>
+<path d="M-10 119H-8M8 116H10" stroke="#913E88" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g transform="translate(190 166)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z" fill="#ED92CE"/>
+<ellipse cx="0" cy="119" rx="29" ry="15" fill="#FFEADC"/>
+<path d="M-10 119H-8M8 116H10" stroke="#A24B90" stroke-width="7" stroke-linecap="round"/>
+</g>
+<g transform="translate(340 266)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z" fill="#D873B9"/>
+<ellipse cx="0" cy="119" rx="29" ry="15" fill="#FFD5E2"/>
+<path d="M-10 119H-8M8 116H10" stroke="#913E88" stroke-width="7" stroke-linecap="round"/>
+</g>
+</svg>

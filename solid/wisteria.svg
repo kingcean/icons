@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="raceme" d="M0 0C-22-12-52 0-50 26C-76 22-76 62-52 76C-76 84-68 116-44 124C-64 140-52 168-32 174C-50 192-36 216-22 220C-38 240-26 260-14 266C-24 286-12 310 0 324C12 310 24 286 14 266C26 260 38 240 22 220C36 216 50 192 32 174C52 168 64 140 44 124C68 116 76 84 52 76C76 62 76 22 50 26C52 0 22-12 0 0Z"/>
+</defs>
+<path d="M44 113Q256 3 468 113Q476 117 472 124Q468 131 460 127Q256 21 52 127Q44 131 40 124Q36 117 44 113ZM120 94H136V116H120ZM248 86H264V146H248ZM376 94H392V116H376Z"/>
+<path d="M244 66C190 82 146 63 124 24C180 14 226 30 244 66Z"/>
+<path d="M268 66C322 82 366 63 388 24C332 14 286 30 268 66Z"/>
+<use href="#raceme" transform="translate(128 134) scale(.8)"/>
+<use href="#raceme" transform="translate(384 134) scale(.8)"/>
+<use href="#raceme" transform="translate(256 164)"/>
+</svg>

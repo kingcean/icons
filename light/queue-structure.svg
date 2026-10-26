@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="flow" x1="12" y1="256" x2="500" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2563EB"/>
+<stop offset="0.5" stop-color="#0F766E"/>
+<stop offset="1" stop-color="#6D28D9"/>
+</linearGradient>
+</defs>
+<rect x="128" y="168" width="72" height="176" rx="20" fill="#2563EB"/>
+<rect x="220" y="168" width="72" height="176" rx="20" fill="#0F766E"/>
+<rect x="312" y="168" width="72" height="176" rx="20" fill="#6D28D9"/>
+<path d="M24 244H76L64 232Q56 224 64 216Q72 208 80 216L112 248Q120 256 112 264L80 296Q72 304 64 296Q56 288 64 280L76 268H24Q12 268 12 256Q12 244 24 244ZM408 244H460L448 232Q440 224 448 216Q456 208 464 216L496 248Q504 256 496 264L464 296Q456 304 448 296Q440 288 448 280L460 268H408Q396 268 396 256Q396 244 408 244Z" fill="url(#flow)"/>
+</svg>

@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="ravioli">
+<path fill="#E9AD3D" d="M-96-120Q-72-96-48-120Q-24-96 0-120Q24-96 48-120Q72-96 96-120Q120-120 120-96Q96-72 120-48Q96-24 120 0Q96 24 120 48Q96 72 120 96Q120 120 96 120Q72 96 48 120Q24 96 0 120Q-24 96-48 120Q-72 96-96 120Q-120 120-120 96Q-96 72-120 48Q-96 24-120 0Q-96-24-120-48Q-96-72-120-96Q-120-120-96-120Z"/>
+<rect x="-82" y="-82" width="164" height="164" rx="46" fill="#B87928"/>
+<rect x="-66" y="-66" width="132" height="132" rx="30" fill="#F8D675"/>
+</g>
+</defs>
+<use href="#ravioli" transform="translate(154 154) rotate(-12) scale(.92)"/>
+<use href="#ravioli" transform="translate(358 358) rotate(-12) scale(.92)"/>
+</svg>

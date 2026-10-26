@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M166 80C172 43 208 24 260 34C252 75 211 100 166 80Z"/>
+<path d="M164 390C142 401 116 390 105 375C82 372 65 353 62 332C43 320 35 298 40 279C25 260 27 237 38 219C30 198 39 177 54 165C54 143 70 126 90 122C101 102 124 94 143 101C162 89 183 96 196 110C218 108 238 121 244 140C261 144 275 157 282 174M83 190L95 178L105 192M67 242L79 230L89 244M87 294L99 282L109 296M128 152L140 140L150 154"/>
+<circle cx="326" cy="328" r="150"/>
+<defs>
+<path id="aril" d="M326 218C349 236 358 261 349 281C340 302 312 302 303 281C294 261 303 236 326 218ZM338 269A12 19 0 1 1 314 269A12 19 0 1 1 338 269Z"/>
+</defs>
+<use href="#aril"/>
+<use href="#aril" transform="rotate(72 326 328)"/>
+<use href="#aril" transform="rotate(144 326 328)"/>
+<use href="#aril" transform="rotate(216 326 328)"/>
+<use href="#aril" transform="rotate(288 326 328)"/>
+</svg>

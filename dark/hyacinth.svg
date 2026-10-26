@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="floret">
+<path d="M0-18C-26-56-52-30-28-8C-72-4-62 32-24 22C-40 62 0 70 8 32C34 64 60 34 32 12C74 4 58-32 24-20C34-60-6-62 0-18Z" transform="scale(.65)"/>
+<circle r="7" fill="#FFE6A1"/>
+</g>
+</defs>
+<path d="M248 62H264V480Q264 488 256 488Q248 488 248 480Z" fill="#83B88A"/>
+<path d="M248 484C164 451 117 360 130 250Q132 238 138 250C151 343 200 417 248 484Z" fill="#91CA87"/>
+<path d="M264 484C348 451 395 360 382 250Q380 238 374 250C361 343 312 417 264 484Z" fill="#B3D78E"/>
+<use href="#floret" transform="translate(256 60) scale(.8)" fill="#CEABEF"/>
+<use href="#floret" x="212" y="134" fill="#BFA0E8"/>
+<use href="#floret" x="300" y="134" fill="#A99CE2"/>
+<use href="#floret" x="212" y="218" fill="#D3AFF0"/>
+<use href="#floret" x="300" y="218" fill="#B3A0EC"/>
+<use href="#floret" x="212" y="302" fill="#BF98E4"/>
+<use href="#floret" x="300" y="302" fill="#A29ADB"/>
+<use href="#floret" transform="translate(256 374) scale(.8)" fill="#CAA5EC"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#DDB477" d="M128 72Q112 54 132 42L164 50Q180 22 200 38L224 48Q256 20 288 48L312 38Q332 22 348 50L380 42Q400 54 384 72L370 112C374 156 408 200 400 244Q396 284 256 284Q116 284 112 244C104 200 138 156 142 112Z"/>
+<path fill="#F7E7C6" d="M128 72Q112 54 132 42L164 50Q180 22 200 38L224 48Q256 20 288 48L312 38Q332 22 348 50L380 42Q400 54 384 72L370 112C372 152 396 192 388 228Q384 258 256 258Q128 258 124 228C116 192 140 152 142 112Z"/>
+<ellipse cx="256" cy="78" rx="94" ry="28" fill="#D98732"/>
+<ellipse cx="256" cy="72" rx="78" ry="18" fill="#F4B551"/>
+<path d="M168 128C172 166 144 204 152 244M224 136L216 252M288 136L296 252M344 128C340 166 368 204 360 244" fill="none" stroke="#BC955C" stroke-width="14" stroke-linecap="round"/>
+<rect x="24" y="308" width="464" height="180" rx="24" fill="#BC7C32"/>
+<path fill="#E7B762" d="M24 360H488V440H24Z"/>
+<rect x="40" y="324" width="432" height="20" rx="10" fill="#F5D18B"/>
+<rect x="40" y="456" width="432" height="16" rx="8" fill="#DCA34E"/>
+<path d="M120 384V416M256 384V416M392 384V416" fill="none" stroke="#A96D2C" stroke-width="16" stroke-linecap="round"/>
+</svg>

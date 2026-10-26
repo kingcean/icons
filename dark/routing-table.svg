@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="routes" x1="208" y1="190" x2="444" y2="406" gradientUnits="userSpaceOnUse">
+<stop stop-color="#65B6FF"/>
+<stop offset="1" stop-color="#51D6BE"/>
+</linearGradient>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="#65B6FF"/>
+<path d="M48 136H464V440H48Z" fill="#263D59"/>
+<path d="M48 48H464Q488 48 488 72V136H24V72Q24 48 48 48Z" fill="#93A7C2"/>
+<path d="M48 244H464M48 352H464M168 136V440" fill="none" stroke="#526D8D" stroke-width="16"/>
+<path d="M76 92H116M220 92H424" fill="none" stroke="#24374F" stroke-width="20" stroke-linecap="round"/>
+<path d="M76 190H116M76 298H116M76 406H116" fill="none" stroke="#B698F5" stroke-width="24" stroke-linecap="round"/>
+<path d="M220 178Q208 178 208 190Q208 202 220 202H396V218Q396 230 405 222L438 197Q448 190 438 183L405 158Q396 150 396 162V178ZM220 286Q208 286 208 298Q208 310 220 310H396V326Q396 338 405 330L438 305Q448 298 438 291L405 266Q396 258 396 270V286ZM220 394Q208 394 208 406Q208 418 220 418H396V434Q396 446 405 438L438 413Q448 406 438 399L405 374Q396 366 396 378V394Z" fill="url(#routes)"/>
+</svg>

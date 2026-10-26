@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="commit" x1="312" y1="200" x2="500" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0F766E"/>
+<stop offset="1" stop-color="#10B981"/>
+</linearGradient>
+<linearGradient id="rollback" x1="312" y1="312" x2="500" y2="312" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7C3AED"/>
+<stop offset="1" stop-color="#C026D3"/>
+</linearGradient>
+</defs>
+<path fill="#2563EB" fill-rule="evenodd" d="M24 84C24 50 83 24 156 24C229 24 288 50 288 84V428C288 462 229 488 156 488C83 488 24 462 24 428ZM48 112C98 152 214 152 264 112V132C214 172 98 172 48 132ZM48 232C98 272 214 272 264 232V252C214 292 98 292 48 252ZM48 352C98 392 214 392 264 352V372C214 412 98 412 48 372Z"/>
+<path fill="url(#commit)" d="M324 188H459L436 165Q427 156 436 147Q444 139 453 148L496 191Q505 200 496 209L453 252Q444 261 436 253Q427 244 436 235L459 212H324Q312 212 312 200Q312 188 324 188Z"/>
+<path fill="url(#rollback)" d="M488 300H353L376 277Q385 268 376 259Q368 251 359 260L316 303Q307 312 316 321L359 364Q368 373 376 365Q385 356 376 347L353 324H488Q500 324 500 312Q500 300 488 300Z"/>
+</svg>

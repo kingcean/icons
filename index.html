@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:image" content="https://jinchen.org/images/bg/poster.jpg">
-    <title>Free Icons</title>
+    <title>Free Icons - Jinchen Art</title>
     <link href="https://cdn.jsdelivr.net/npm/hje@3.2.0/css/site.art.css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="https://jinchen.org/images/logos/jinchen-art.png" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/hje@3.3.0/dist/mdblogs.bundle.js" ></script>
@@ -194,13 +194,16 @@
             "searchIcons#zh": "搜索图标",
             empty: "Empty",
             "empty#zh": "空",
-            intro1: "Includes nearly 2,000 vector icons, all free to use on screens, on the web, in print, and across other media.",
-            "intro1#zh": "包含近 2,000 个矢量图标，可在屏幕、网页、印刷及其他媒体上免费使用。",
+            intro1: "Includes over 2,000 vector icons, all free to use on screens, on the web, in print, and across other media.",
+            "intro1#zh": "包含超过 2,000 个矢量图标，可在屏幕、网络、印刷及其他媒体上免费使用。",
             intro2: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.",
             "intro2#zh": "每个图标都提供单色线条和实心版本，以及针对浅色和深色主题定制的彩色实心版本。",
+            refreshTips: "Refresh the web page to randomly display icons; or",
+            "refreshTips#zh": "刷新网页以随机显示图标；或",
             loading: "Loading…",
             "loading#zh": "加载中…"
         };
+        window.title = DeepX.MdBlogs.getLocaleProp(res, "freeIcons") + " - " + DeepX.MdBlogs.getLocaleProp(res, "jca");
         const component = Hje.render("zone-main", {
             children: [{
                 key: "details",
@@ -247,14 +250,14 @@
                 className: "x-gallery",
                 children: [{
                     tagName: "em",
-                    children: "Loading…"
+                    children: DeepX.MdBlogs.getLocaleProp(res, "loading")
                 }]
             }, {
                 tagName: "section",
                 className: "x-tips",
                 children: [{
                     tagName: "p",
-                    children: "Refresh the web page to randomly display icons; or"
+                    children: DeepX.MdBlogs.getLocaleProp(res, "refreshTips")
                 }]
             }, {
                 tagName: "section",
@@ -319,13 +322,14 @@
                     return {
                         tagName: "button",
                         props: {
-                            title: icon.name
+                            title: DeepX.MdBlogs.getLocaleProp(icon, "name")
                         },
                         children: [{
                             tagName: "img",
                             props: {
-                                alt: icon.name,
-                                src: "./dark/" + icon.key + ".svg"
+                                alt: DeepX.MdBlogs.getLocaleProp(icon, "name"),
+                                src: "./dark/" + icon.key + ".svg",
+                                loading: "lazy"
                             }
                         }],
                         on: {
@@ -364,13 +368,12 @@
                     children: [{
                         tagName: "img",
                         props: {
-                            alt: model.name,
-                            src: "./dark/" + model.key + ".svg",
-                            loading: "lazy"
+                            alt: DeepX.MdBlogs.getLocaleProp(model, "name"),
+                            src: "./dark/" + model.key + ".svg"
                         }
                     }, {
                         tagName: "h2",
-                        children: model.name
+                        children: DeepX.MdBlogs.getLocaleProp(model, "name")
                     }, {
                         tagName: "div",
                         children: [{

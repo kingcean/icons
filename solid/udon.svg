@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="udon" d="M-40 112V-76C-40-140 40-140 40-76V112Q40 124 28 124Q16 124 16 112V-76C16-108-16-108-16-76V112Q-16 124-28 124Q-40 124-40 112Z"/>
+</defs>
+<use href="#udon" transform="translate(144 164)"/>
+<use href="#udon" transform="translate(256 140)"/>
+<use href="#udon" transform="translate(368 164)"/>
+<path fill-rule="evenodd" d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308ZM64 336Q56 336 56 344Q56 352 64 352H448Q456 352 456 344Q456 336 448 336Z"/>
+</svg>

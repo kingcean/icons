@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="fried-noodle" d="M64 0C104-36 144 36 184 0C224-36 264 36 304 0C344-36 384 36 424 0Q432-8 440 0Q448 8 440 16C400 52 360-20 320 16C280 52 240-20 200 16C160 52 120-20 80 16Q72 24 64 16Q56 8 64 0Z"/>
+</defs>
+<path fill="#398A4C" d="M280 108C280 56 326 24 394 24Q406 24 402 36C382 88 336 114 280 108Z"/>
+<path fill="#72B75B" d="M280 108C280 56 326 24 394 24Q401 24 402 28Z"/>
+<path d="M292 100L378 40" fill="none" stroke="#246B3C" stroke-width="12" stroke-linecap="round"/>
+<use href="#fried-noodle" transform="translate(0 142)" fill="#D69A38"/>
+<use href="#fried-noodle" transform="translate(0 206)" fill="#B87928"/>
+<use href="#fried-noodle" transform="translate(0 270)" fill="#E9AD3D"/>
+<path fill="#B94740" d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308Z"/>
+<path fill="#77383B" d="M36 308H476Q490 308 486 322Q482 338 476 352H36Q30 338 26 322Q22 308 36 308Z"/>
+</svg>

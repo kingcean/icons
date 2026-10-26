@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="rice-noodle" d="M-40 112C-52 72-28 44-28 8V-76C-28-128 28-128 28-76V8C28 44 52 72 40 112Q38 122 30 120Q22 118 24 108C34 74 12 46 12 8V-76C12-106-12-106-12-76V8C-12 46-34 74-24 108Q-22 118-30 120Q-38 122-40 112Z"/>
+</defs>
+<g>
+<use href="#rice-noodle" transform="translate(124 164)"/>
+<use href="#rice-noodle" transform="translate(228 140)"/>
+</g>
+<path d="M396 24C434 24 468 78 468 122C468 164 434 196 392 196C350 196 316 164 316 122C316 78 358 24 396 24Z"/>
+<circle cx="392" cy="128" r="30"/>
+<path d="M324 220H432Q446 220 454 232L470 260Q480 280 458 280H314Q296 280 302 264L310 234Q314 220 324 220Z"/>
+<path d="M326 250H440"/>
+<path d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308Z"/>
+<path d="M56 344H456"/>
+</svg>

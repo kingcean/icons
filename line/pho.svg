@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="pho-noodle" d="M-40 112C-52 72-28 44-28 8V-76C-28-128 28-128 28-76V8C28 44 52 72 40 112Q38 122 30 120Q22 118 24 108C34 74 12 46 12 8V-76C12-106-12-106-12-76V8C-12 46-34 74-24 108Q-22 118-30 120Q-38 122-40 112Z"/>
+</defs>
+<use href="#pho-noodle" transform="translate(132 164)"/>
+<use href="#pho-noodle" transform="translate(244 140)"/>
+<path d="M326 268C308 180 362 110 466 96Q476 94 476 104C482 192 424 262 326 268Z"/>
+<path d="M334 256L450 124M370 216L366 174M406 180L444 178"/>
+<path d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308Z"/>
+<path d="M56 344H456"/>
+</svg>

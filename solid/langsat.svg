@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path d="M160 70C170 34 211 22 262 34C250 76 208 94 160 70Z"/>
+<path d="M156 368C85 373 34 314 34 236C34 153 84 90 150 90C202 90 248 127 269 177C207 200 164 260 164 328Q164 344 167 358Q169 367 156 368Z"/>
+<path fill-rule="evenodd" d="M476 328A150 150 0 1 1 176 328A150 150 0 1 1 476 328ZM452 328A126 126 0 1 0 200 328A126 126 0 1 0 452 328Z"/>
+<defs>
+<path id="segment" d="M326 218C348 218 365 241 371 260Q375 268 363 272L337 306Q326 316 315 306L289 272Q277 268 281 260C287 241 304 218 326 218Z"/>
+</defs>
+<path fill-rule="evenodd" d="M326 218C348 218 365 241 371 260Q375 268 363 272L337 306Q326 316 315 306L289 272Q277 268 281 260C287 241 304 218 326 218ZM337 260A11 19 0 1 0 315 260A11 19 0 1 0 337 260Z"/>
+<use href="#segment" transform="rotate(72 326 328)"/>
+<use href="#segment" transform="rotate(144 326 328)"/>
+<use href="#segment" transform="rotate(216 326 328)"/>
+<use href="#segment" transform="rotate(288 326 328)"/>
+</svg>

@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="cut-noodle" d="M-28-116H30Q40-116 36-106C10-64 58-36 42 8C30 42 4 66 20 104Q26 116 14 116H-30Q-38 116-42 108C-60 66-32 38-22 8C-8-30-58-60-36-108Q-34-116-28-116Z"/>
+</defs>
+<use href="#cut-noodle" transform="translate(140 164)"/>
+<use href="#cut-noodle" transform="translate(256 140)"/>
+<use href="#cut-noodle" transform="translate(372 164)"/>
+<path d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308Z"/>
+<path d="M56 344H456"/>
+</svg>

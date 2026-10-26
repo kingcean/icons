@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="farfalle">
+<path d="M-192-84C-120-74-70-38-24-24Q0-14 24-24C70-38 120-74 192-84Q216-88 210-64Q190-48 210-32Q230-16 210 0Q190 16 210 32Q230 48 210 64Q216 88 192 84C120 74 70 38 24 24Q0 14-24 24C-70 38-120 74-192 84Q-216 88-210 64Q-190 48-210 32Q-230 16-210 0Q-190-16-210-32Q-230-48-210-64Q-216-88-192-84Z"/>
+<path d="M-126-44Q-78-18-38-10M-126 44Q-78 18-38 10M126-44Q78-18 38-10M126 44Q78 18 38 10"/>
+</g>
+</defs>
+<use href="#farfalle" transform="translate(256 142) rotate(-12)"/>
+<use href="#farfalle" transform="translate(256 370) rotate(12)"/>
+</svg>

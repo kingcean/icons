@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<ellipse cx="256" cy="62" rx="25" ry="38"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(30 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(60 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(90 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(120 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(150 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(180 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(210 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(240 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(270 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(300 256 174)"/>
+<ellipse cx="256" cy="62" rx="25" ry="38" transform="rotate(330 256 174)"/>
+</g>
+<circle cx="256" cy="174" r="62"/>
+<path d="M244 340H268V476Q268 488 256 488Q244 488 244 476Z"/>
+<path d="M232 422C148 422 96 376 96 320C176 318 224 360 232 422ZM280 388C290 334 340 300 416 304C412 360 358 394 280 388Z"/>
+</svg>

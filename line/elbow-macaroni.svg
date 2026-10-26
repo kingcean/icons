@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="macaroni">
+<path d="M-100 100V20C-100-80-20-140 80-140H110M-24 100V20C-24-32 20-64 80-64H110"/>
+<ellipse cx="110" cy="-102" rx="20" ry="38"/>
+<ellipse cx="-62" cy="100" rx="38" ry="20"/>
+<path d="M-72 54V20C-72-56-12-112 66-112"/>
+</g>
+</defs>
+<use href="#macaroni" transform="translate(139 216) rotate(-20) scale(1.12)"/>
+<use href="#macaroni" transform="translate(373 326) rotate(-20) scale(1.12)"/>
+</svg>

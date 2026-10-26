@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="translation" x1="176" y1="256" x2="334" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B698F5"/>
+<stop offset="1" stop-color="#51D6BE"/>
+</linearGradient>
+</defs>
+<rect x="24" y="64" width="144" height="152" rx="24" fill="#93A7C2"/>
+<rect x="24" y="296" width="144" height="152" rx="24" fill="#65B6FF"/>
+<path d="M64 112H128M64 344H128" fill="none" stroke="#243D5B" stroke-width="20" stroke-linecap="round"/>
+<path d="M52 158H68V178H52ZM76 158H92V178H76ZM100 158H116V178H100ZM124 158H140V178H124ZM52 390H68V410H52ZM76 390H92V410H76ZM100 390H116V410H100ZM124 390H140V410H124Z" fill="#15564E"/>
+<path d="M188 128H212Q252 128 252 168V244H292V228Q292 218 300 224L328 248Q338 256 328 264L300 288Q292 294 292 284V268H252V344Q252 384 212 384H188Q176 384 176 372Q176 360 188 360H212Q228 360 228 344V168Q228 152 212 152H188Q176 152 176 140Q176 128 188 128Z" fill="url(#translation)"/>
+<rect x="344" y="144" width="144" height="224" rx="24" fill="#51D6BE"/>
+<path d="M384 192H448M384 312H448" fill="none" stroke="#15564E" stroke-width="20" stroke-linecap="round"/>
+<path d="M372 238H388V258H372ZM396 238H412V258H396ZM420 238H436V258H420ZM444 238H460V258H444Z" fill="#6D4B1B"/>
+</svg>

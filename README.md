@@ -20,6 +20,9 @@ Suitable for using on screens, on the web, in print, and across other media.
 
 The sub-folder `line`, `solid`, `dark` and `light` are the containers of these icon files. You can explore them by the website; or check [content.json](./content.json) file to get the mapping of SVG file name and meaning.
 
+- For line icon, need add attribute `stroke` and `stroke-width`, please check [style sample](./line/style.css).
+- For monochrome solid icon, need add attribute `fill`, please check [style sample](./solid/style.css).
+
 ## Build
 
 These icons are built by open source project [SVG Icon Generator by AI](https://github.com/kingcean/svggen).

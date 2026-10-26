@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="penne">
+<path d="M-40-132C-52-148 24-180 40-164L40 132Q40 141 30 146L-26 168Q-40 173-40 164Z"/>
+<path d="M-40-132C-24-116 52-148 40-164M-14-104V140M14-116V128"/>
+</g>
+</defs>
+<use href="#penne" transform="translate(140 298) rotate(32)"/>
+<use href="#penne" transform="translate(256 256) rotate(32)"/>
+<use href="#penne" transform="translate(372 214) rotate(32)"/>
+</svg>

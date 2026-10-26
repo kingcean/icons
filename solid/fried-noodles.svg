@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="fried-noodle" d="M64 0C104-36 144 36 184 0C224-36 264 36 304 0C344-36 384 36 424 0Q432-8 440 0Q448 8 440 16C400 52 360-20 320 16C280 52 240-20 200 16C160 52 120-20 80 16Q72 24 64 16Q56 8 64 0Z"/>
+</defs>
+<path fill-rule="evenodd" d="M280 108C280 56 326 24 394 24Q406 24 402 36C382 88 336 114 280 108ZM293 94L374 37Q380 33 385 39Q389 45 383 49L302 106Q296 110 291 104Q287 98 293 94Z"/>
+<use href="#fried-noodle" transform="translate(0 142)"/>
+<use href="#fried-noodle" transform="translate(0 206)"/>
+<use href="#fried-noodle" transform="translate(0 270)"/>
+<path fill-rule="evenodd" d="M36 308H476Q490 308 486 322C464 420 382 488 280 488H232C130 488 48 420 26 322Q22 308 36 308ZM64 336Q56 336 56 344Q56 352 64 352H448Q456 352 456 344Q456 336 448 336Z"/>
+</svg>

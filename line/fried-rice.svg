@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M56 252Q42 220 72 202Q64 170 100 164Q104 130 142 132Q154 98 190 110Q210 74 242 92Q274 66 300 96Q338 84 354 116Q392 110 402 146Q438 152 436 184Q474 204 456 252Z"/>
+<path d="M120 204L144 216M180 152L204 164M252 206L278 198M310 142L332 158M370 212L392 200" stroke-linecap="round"/>
+<circle cx="246" cy="138" r="14"/>
+<circle cx="186" cy="222" r="14"/>
+<rect x="310" y="194" width="28" height="28" rx="6" transform="rotate(15 324 208)"/>
+<path d="M40 280H472Q488 280 486 296C476 382 410 460 332 460H180C102 460 36 382 26 296Q24 280 40 280Z"/>
+<path d="M44 320H468"/>
+</svg>

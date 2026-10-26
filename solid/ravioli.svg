@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="ravioli" fill-rule="evenodd" d="M-96-120Q-72-96-48-120Q-24-96 0-120Q24-96 48-120Q72-96 96-120Q120-120 120-96Q96-72 120-48Q96-24 120 0Q96 24 120 48Q96 72 120 96Q120 120 96 120Q72 96 48 120Q24 96 0 120Q-24 96-48 120Q-72 96-96 120Q-120 120-120 96Q-96 72-120 48Q-96 24-120 0Q-96-24-120-48Q-96-72-120-96Q-120-120-96-120ZM-36-82H36Q82-82 82-36V36Q82 82 36 82H-36Q-82 82-82 36V-36Q-82-82-36-82ZM-36-66H36Q66-66 66-36V36Q66 66 36 66H-36Q-66 66-66 36V-36Q-66-66-36-66Z"/>
+</defs>
+<use href="#ravioli" transform="translate(154 154) rotate(-12) scale(.92)"/>
+<use href="#ravioli" transform="translate(358 358) rotate(-12) scale(.92)"/>
+</svg>

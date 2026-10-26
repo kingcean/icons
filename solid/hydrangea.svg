@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="flower" fill-rule="evenodd" d="M0-14C-22-76-76-76-58-22Q-48-2-14 0C-76 22-76 76-22 58Q-2 48 0 14C22 76 76 76 58 22Q48 2 14 0C76-22 76-76 22-58Q2-48 0-14ZM-7 0A7 7 0 1 0 7 0A7 7 0 1 0-7 0Z"/>
+</defs>
+<path d="M248 410H264V480Q264 488 256 488Q248 488 248 480Z"/>
+<path d="M240 448C181 455 129 424 116 378C177 371 225 396 240 448Z"/>
+<path d="M272 448C331 455 383 424 396 378C335 371 287 396 272 448Z"/>
+<g>
+<use href="#flower" x="256" y="84"/>
+<use href="#flower" x="140" y="148"/>
+<use href="#flower" x="372" y="148"/>
+<use href="#flower" x="256" y="210"/>
+<use href="#flower" x="140" y="272"/>
+<use href="#flower" x="372" y="272"/>
+<use href="#flower" x="256" y="334"/>
+</g>
+</svg>

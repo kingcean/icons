@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M256 24V488M256 64Q268 52 280 52M256 184Q246 170 232 170M256 286Q280 268 298 274"/>
+<path d="M232 442C142 456 64 424 40 362C130 346 208 380 232 442ZM280 466C366 480 442 452 472 394C386 376 308 406 280 466Z"/>
+<g transform="translate(316 48) scale(.85)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z"/>
+<ellipse cx="0" cy="119" rx="25" ry="12"/>
+</g>
+<g transform="translate(190 166)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z"/>
+<ellipse cx="0" cy="119" rx="25" ry="12"/>
+</g>
+<g transform="translate(340 266)">
+<path d="M0 0C-26 6-30 38-24 70L-40 112Q-46 128-28 136Q0 148 28 136Q46 128 40 112L24 70C30 38 26 6 0 0Z"/>
+<ellipse cx="0" cy="119" rx="25" ry="12"/>
+</g>
+</svg>

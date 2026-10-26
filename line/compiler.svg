@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="48" y="24" width="416" height="168" rx="32"/>
+<path d="M202 64L154 108L202 152M278 64L234 152M310 64L358 108L310 152"/>
+<path d="M256 216V296M224 264L256 296L288 264"/>
+<rect x="48" y="320" width="416" height="168" rx="32"/>
+<rect x="156" y="354" width="80" height="100" rx="24"/>
+<path d="M278 378L306 354V454M278 454H334"/>
+</svg>

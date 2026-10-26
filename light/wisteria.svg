@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="raceme" d="M0 0C-22-12-52 0-50 26C-76 22-76 62-52 76C-76 84-68 116-44 124C-64 140-52 168-32 174C-50 192-36 216-22 220C-38 240-26 260-14 266C-24 286-12 310 0 324C12 310 24 286 14 266C26 260 38 240 22 220C36 216 50 192 32 174C52 168 64 140 44 124C68 116 76 84 52 76C76 62 76 22 50 26C52 0 22-12 0 0Z"/>
+<path id="petals" d="M-46 32C-48 62-26 84 0 88C-2 58-22 36-46 32ZM46 32C48 62 26 84 0 88C2 58 22 36 46 32ZM-30 134C-32 158-16 180 0 184C0 158-12 140-30 134ZM30 134C32 158 16 180 0 184C0 158 12 140 30 134Z"/>
+</defs>
+<path d="M44 113Q256 3 468 113Q476 117 472 124Q468 131 460 127Q256 21 52 127Q44 131 40 124Q36 117 44 113ZM120 94H136V138H120ZM248 72H264V170H248ZM376 94H392V138H376Z" fill="#587848"/>
+<path d="M252 66C194 84 146 63 124 24C184 12 232 30 252 66Z" fill="#4C925C"/>
+<path d="M260 66C318 84 366 63 388 24C328 12 280 30 260 66Z" fill="#81AC59"/>
+<use href="#raceme" transform="translate(128 134) scale(.8)" fill="#9570BD"/>
+<use href="#petals" transform="translate(128 134) scale(.8)" fill="#BC92D8"/>
+<use href="#raceme" transform="translate(384 134) scale(.8)" fill="#7962AD"/>
+<use href="#petals" transform="translate(384 134) scale(.8)" fill="#A38BCB"/>
+<use href="#raceme" transform="translate(256 164)" fill="#8453B3"/>
+<use href="#petals" transform="translate(256 164)" fill="#B581D2"/>
+</svg>

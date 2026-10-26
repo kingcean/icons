@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M56 252C12 280 16 334 44 368C86 432 170 476 256 476C342 476 426 432 468 368C496 334 500 280 456 252" stroke-linecap="round"/>
+<g>
+<path d="M116 124H392C434 124 434 204 392 204H116Q84 204 84 164Q84 124 116 124Z"/>
+<ellipse cx="392" cy="164" rx="32" ry="40"/>
+<path d="M398 146C374 140 374 188 398 182" stroke-linecap="round"/>
+</g>
+<g transform="translate(-24 96)">
+<path d="M116 124H392C434 124 434 204 392 204H116Q84 204 84 164Q84 124 116 124Z"/>
+<ellipse cx="392" cy="164" rx="32" ry="40"/>
+<path d="M398 146C374 140 374 188 398 182" stroke-linecap="round"/>
+</g>
+<g transform="translate(0 192)">
+<path d="M116 124H392C434 124 434 204 392 204H116Q84 204 84 164Q84 124 116 124Z"/>
+<ellipse cx="392" cy="164" rx="32" ry="40"/>
+<path d="M398 146C374 140 374 188 398 182" stroke-linecap="round"/>
+</g>
+</svg>

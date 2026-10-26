@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M158 82C164 43 207 22 264 34C253 77 210 99 158 82Z"/>
+<path d="M150 362C83 359 34 307 34 240C34 173 88 118 156 118C197 118 234 138 256 170M82 182C68 199 62 221 64 243"/>
+<circle cx="326" cy="324" r="154"/>
+<circle cx="326" cy="324" r="128"/>
+<ellipse cx="302" cy="320" rx="15" ry="27" transform="rotate(18 302 320)"/>
+<ellipse cx="350" cy="320" rx="15" ry="27" transform="rotate(-18 350 320)"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="conchiglie">
+<path d="M-104 60C-138 20-122-56-80-94C-40-132 40-132 80-94C122-56 138 20 104 60Q78 112 0 120Q-78 112-104 60Z"/>
+<path d="M-88 64C-52 36 52 36 88 64C52 94-52 94-88 64Z"/>
+<path d="M-74-62C-100-24-92 5-73 27M0-98V14M74-62C100-24 92 5 73 27"/>
+</g>
+</defs>
+<use href="#conchiglie" transform="translate(150 150) rotate(-20) scale(.98)"/>
+<use href="#conchiglie" transform="translate(362 362) rotate(-20) scale(.98)"/>
+</svg>
