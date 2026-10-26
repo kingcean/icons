@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M64 108C88 56 164 24 256 24C348 24 424 56 448 108Q454 120 440 120H72Q58 120 64 108Z"/>
+<path d="M80 136H432V224Q432 256 256 256Q80 256 80 224Z"/>
+<path d="M140 272H168L136 440H108ZM344 272H372L404 440H376ZM152 288L384 420L372 440L140 308ZM360 288L372 308L140 440L128 420Z"/>
+<rect x="96" y="456" width="320" height="32" rx="12"/>
+</svg>

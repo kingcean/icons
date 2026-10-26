@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="option-up" x1="168" y1="256" x2="368" y2="132" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#39CBB5"/>
+<stop offset="1" stop-color="#8CEDAD"/>
+</linearGradient>
+<linearGradient id="option-down" x1="168" y1="268" x2="368" y2="380" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#82B9DE"/>
+<stop offset="1" stop-color="#BDE4FF"/>
+</linearGradient>
+</defs>
+<rect x="64" y="24" width="384" height="464" rx="28" fill="#315A7A"/>
+<circle cx="128" cy="256" r="28" fill="#FFD16B"/>
+<path fill="url(#option-up)" d="M180 232H200Q212 232 212 220V184Q212 160 236 160H327L316 149Q307 140 316 131Q324 123 333 132L365 164Q373 172 365 180L333 212Q324 221 316 213Q307 204 316 195L327 184H236V220Q236 256 200 256H180Q168 256 168 244Q168 232 180 232Z"/>
+<path fill="url(#option-down)" d="M180 268H200Q236 268 236 304V328H327L316 317Q307 308 316 299Q324 291 333 300L365 332Q373 340 365 348L333 380Q324 389 316 381Q307 372 316 363L327 352H236Q212 352 212 328V304Q212 292 200 292H180Q168 292 168 280Q168 268 180 268Z"/>
+</svg>

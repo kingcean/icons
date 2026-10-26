@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="160" width="464" height="256" rx="40" fill="#78B9E0"/>
+<g>
+<rect x="144" y="216" width="224" height="40" rx="16" fill="#365569"/>
+<path d="M176 24H336Q352 24 352 40V240H160V40Q160 24 176 24Z" fill="#B8E9AE"/>
+<ellipse cx="256" cy="128" rx="40" ry="48" fill="#438F65"/>
+<path d="M184 104A8 8 0 0 1 200 104V152A8 8 0 0 1 184 152ZM312 104A8 8 0 0 1 328 104V152A8 8 0 0 1 312 152Z" fill="#438F65"/>
+</g>
+<g>
+<rect x="72" y="264" width="368" height="32" rx="16" fill="#83E0E5"/>
+<circle cx="424" cy="216" r="12" fill="#FF8C80"/>
+</g>
+<g>
+<rect x="144" y="328" width="224" height="48" rx="16" fill="#365569"/>
+<path d="M160 344H352V472Q352 488 336 488H176Q160 488 160 472Z" fill="#D1F2C3"/>
+<ellipse cx="256" cy="416" rx="40" ry="32" fill="#438F65"/>
+<path d="M184 404A8 8 0 0 1 200 404V428A8 8 0 0 1 184 428ZM312 404A8 8 0 0 1 328 404V428A8 8 0 0 1 312 428Z" fill="#438F65"/>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g>
+<rect x="188" y="24" width="136" height="216" rx="56"/>
+<rect x="240" y="72" width="32" height="64" rx="16"/>
+<path d="M224 204H288"/>
+</g>
+<path d="M256 260V400"/>
+<g>
+<ellipse cx="256" cy="454" rx="88" ry="34"/>
+<ellipse cx="256" cy="454" rx="60" ry="16"/>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="instant" x1="256" y1="20" x2="256" y2="156" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F59E0B"/>
+<stop offset="1" stop-color="#EA580C"/>
+</linearGradient>
+<linearGradient id="columns" x1="112" y1="304" x2="400" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+</defs>
+<path d="M270 24Q280 16 276 30L258 72H304Q316 72 308 82L244 150Q232 162 238 146L252 104H208Q196 104 204 94Z" fill="url(#instant)"/>
+<path d="M48 264L248 184Q256 180 264 184L464 264Q476 270 464 280H48Q36 270 48 264Z" fill="#0D9488"/>
+<g fill="url(#columns)">
+<rect x="112" y="304" width="48" height="108" rx="8"/>
+<rect x="232" y="304" width="48" height="108" rx="8"/>
+<rect x="352" y="304" width="48" height="108" rx="8"/>
+</g>
+<rect x="32" y="440" width="448" height="40" rx="12" fill="#7C3AED"/>
+</svg>

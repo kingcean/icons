@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="shaped-flow" x1="232" y1="424" x2="320" y2="424" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#FFA76B"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="272" rx="32" fill="#39CBB5"/>
+<path d="M56 24H456Q488 24 488 56V112H24V56Q24 24 56 24Z" fill="#82B9DE"/>
+<path d="M144 24H256V112H144Z" fill="#B6DDF4"/>
+<rect x="72" y="156" width="368" height="24" rx="12" fill="#174C46"/>
+<rect x="72" y="220" width="256" height="24" rx="12" fill="#174C46"/>
+<path d="M40 344H192Q212 344 200 360L136 408V460Q136 472 124 472H108Q96 472 96 460V408L32 360Q20 344 40 344Z" fill="#C4D5E1"/>
+<path d="M244 412H279L272 405Q264 397 272 389Q280 381 288 389L316 417Q323 424 316 431L288 459Q280 467 272 459Q264 451 272 443L279 436H244Q232 436 232 424Q232 412 244 412Z" fill="url(#shaped-flow)"/>
+<rect x="344" y="392" width="32" height="64" rx="8" fill="#39CBB5"/>
+<rect x="400" y="392" width="32" height="64" rx="8" fill="#39CBB5"/>
+<rect x="456" y="392" width="32" height="64" rx="8" fill="#39CBB5"/>
+</svg>

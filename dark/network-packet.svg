@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="transfer" x1="84" y1="0" x2="428" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#FFA76B"/>
+</linearGradient>
+</defs>
+<rect x="24" y="120" width="464" height="272" rx="32" fill="#39CBB5"/>
+<path d="M56 120H456Q488 120 488 152V208H24V152Q24 120 56 120Z" fill="#82B9DE"/>
+<path d="M144 120H256V208H144Z" fill="#B6DDF4"/>
+<rect x="72" y="252" width="368" height="24" rx="12" fill="#174C46"/>
+<rect x="72" y="308" width="256" height="24" rx="12" fill="#174C46"/>
+<path d="M96 52H387L376 41Q368 33 376 25Q384 17 392 25L424 57Q431 64 424 71L392 103Q384 111 376 103Q368 95 376 87L387 76H96Q84 76 84 64Q84 52 96 52ZM416 436H125L136 425Q144 417 136 409Q128 401 120 409L88 441Q81 448 88 455L120 487Q128 495 136 487Q144 479 136 471L125 460H416Q428 460 428 448Q428 436 416 436Z" fill="url(#transfer)"/>
+</svg>

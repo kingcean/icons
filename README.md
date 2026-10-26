@@ -1,14 +1,24 @@
 # Free SVG Icons
 
-A set of icons including files, tools, actions, etc.
+An icon library covering files, objects, actions, and more.
 
 ## Intro
 
-This library includes over a thousand icons, all free to use. Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.
+This library includes over 2 thousands icons, all free to use.
 
-## Structure
+Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.
 
-The sub-folder `line`, `solid`, `dark` and `light` are the containers of these icon files. You can check [content.json](./content.json) file to get the mapping of SVG file name and meaning.
+## Use Cases
+
+Suitable for using on screens, on the web, in print, and across other media.
+
+- **Websites and application interfaces**: Create icons for navigation, buttons, menus, and status indicators.
+- **Product prototypes and design exploration**: Generate icons to communicate and validate design ideas.
+- **Documentation and presentations**: Add simple visual elements to documentation, slides, and other content.
+
+## File structure
+
+The sub-folder `line`, `solid`, `dark` and `light` are the containers of these icon files. You can explore them by the website; or check [content.json](./content.json) file to get the mapping of SVG file name and meaning.
 
 ## Build
 

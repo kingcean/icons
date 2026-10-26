@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="clearing-right" x1="28" y1="116" x2="484" y2="116" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#39CBB5"/>
+<stop offset="1" stop-color="#8CEDAD"/>
+</linearGradient>
+<linearGradient id="clearing-left" x1="484" y1="236" x2="28" y2="236" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#82B9DE"/>
+<stop offset="1" stop-color="#BDE4FF"/>
+</linearGradient>
+</defs>
+<path fill="url(#clearing-right)" d="M40 104H443L407 68Q398 59 407 51Q416 42 425 51L481 107Q490 116 481 125L425 181Q416 190 407 181Q398 173 407 164L443 128H40Q28 128 28 116Q28 104 40 104Z"/>
+<path fill="url(#clearing-left)" d="M472 224H69L105 188Q114 179 105 171Q96 162 87 171L31 227Q22 236 31 245L87 301Q96 310 105 301Q114 293 105 284L69 248H472Q484 248 484 236Q484 224 472 224Z"/>
+<circle cx="256" cy="388" r="100" fill="#FFD16B"/>
+<path fill="#315A7A" d="M199 379Q208 370 217 379L240 402L299 343Q308 334 317 343Q326 352 317 361L249 429Q240 438 231 429L199 397Q190 388 199 379Z"/>
+</svg>

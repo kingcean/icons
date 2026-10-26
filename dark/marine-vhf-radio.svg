@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M432 316H448V408Q448 480 376 480H328Q272 480 272 400H288Q288 464 328 464H376Q432 464 432 408Z" fill="#527E9C"/>
+<rect x="24" y="112" width="336" height="288" rx="36" fill="#78B9E0"/>
+<rect x="56" y="144" width="272" height="112" rx="16" fill="#365569"/>
+<rect x="68" y="156" width="248" height="88" rx="8" fill="#A1F1ED"/>
+<rect x="104" y="168" width="16" height="64" rx="8" fill="#365569"/>
+<path fill-rule="evenodd" d="M200 168H224A8 8 0 0 1 224 184H200Q192 184 192 192H216Q236 192 236 212Q236 232 216 232H196Q176 232 176 212V192Q176 168 200 168ZM192 208V212Q192 216 196 216H216Q220 216 220 212Q220 208 216 208Z" fill="#365569"/>
+<circle cx="104" cy="328" r="36" fill="#365569"/>
+<circle cx="280" cy="328" r="36" fill="#365569"/>
+<path d="M104 304V320M280 304V320" fill="none" stroke="#E2EFF7" stroke-width="12" stroke-linecap="round"/>
+<rect x="172" y="312" width="40" height="32" rx="10" fill="#F5C65F"/>
+<path d="M420 136H460Q488 136 488 164V236Q488 252 476 260L468 266V292Q468 316 444 316H436Q412 316 412 292V266L404 260Q392 252 392 236V164Q392 136 420 136Z" fill="#527E9C"/>
+<path d="M416 180H464M416 208H464" fill="none" stroke="#A1F1ED" stroke-width="16" stroke-linecap="round"/>
+<rect x="420" y="268" width="40" height="16" rx="8" fill="#B8E9AE"/>
+</svg>

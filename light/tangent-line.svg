@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="circle" x1="100" y1="108" x2="412" y2="460" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="tangent" x1="24" y1="80" x2="488" y2="80" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#14B8A6"/>
+<stop offset="1" stop-color="#0F766E"/>
+</linearGradient>
+</defs>
+<path fill="url(#circle)" fill-rule="evenodd" d="M256 80A204 204 0 1 1 256 488A204 204 0 1 1 256 80ZM256 108A176 176 0 1 0 256 460A176 176 0 1 0 256 108Z"/>
+<rect x="24" y="66" width="464" height="28" rx="14" fill="url(#tangent)"/>
+</svg>

@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M40 22H104A14 14 0 0 1 104 50H54V462H104A14 14 0 0 1 104 490H40Q26 490 26 476V36Q26 22 40 22ZM472 22H408A14 14 0 0 0 408 50H458V462H408A14 14 0 0 0 408 490H472Q486 490 486 476V36Q486 22 472 22Z"/>
+<rect x="140" y="140" width="48" height="48" rx="8"/>
+<rect x="232" y="140" width="48" height="48" rx="8"/>
+<rect x="324" y="140" width="48" height="48" rx="8"/>
+<rect x="140" y="232" width="48" height="48" rx="8"/>
+<rect x="232" y="232" width="48" height="48" rx="8"/>
+<rect x="324" y="232" width="48" height="48" rx="8"/>
+<rect x="140" y="324" width="48" height="48" rx="8"/>
+<rect x="232" y="324" width="48" height="48" rx="8"/>
+<rect x="324" y="324" width="48" height="48" rx="8"/>
+</svg>

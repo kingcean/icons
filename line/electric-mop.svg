@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="200" y="24" width="112" height="84" rx="28"/>
+<rect x="244" y="120" width="24" height="148" rx="12"/>
+<rect x="192" y="280" width="128" height="116" rx="36"/>
+<circle cx="256" cy="320" r="16"/>
+<path d="M228 364H284"/>
+<path d="M240 408H272V424H428Q456 424 456 452V460Q456 488 428 488H84Q56 488 56 460V452Q56 424 84 424H240Z"/>
+<path d="M88 460H424"/>
+</svg>

@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="retransmission" x1="60" y1="352" x2="452" y2="460" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E9A52B"/>
+<stop offset="1" stop-color="#E87935"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="272" rx="32" fill="#129B83"/>
+<path d="M56 24H456Q488 24 488 56V112H24V56Q24 24 56 24Z" fill="#28618A"/>
+<path d="M144 24H256V112H144Z" fill="#348FC4"/>
+<rect x="72" y="156" width="368" height="24" rx="12" fill="#E0FAF1"/>
+<rect x="72" y="220" width="256" height="24" rx="12" fill="#E0FAF1"/>
+<path d="M60 396V384Q60 340 104 340H411L404 333Q396 325 404 317Q412 309 420 317L448 345Q455 352 448 359L420 387Q412 395 404 387Q396 379 404 371L411 364H104Q84 364 84 384V396Q84 408 72 408Q60 408 60 396Z" fill="url(#retransmission)"/>
+<path d="M452 416V428Q452 472 408 472H101L108 479Q116 487 108 495Q100 503 92 495L64 467Q57 460 64 453L92 425Q100 417 108 425Q116 433 108 441L101 448H408Q428 448 428 428V416Q428 404 440 404Q452 404 452 416Z" fill="url(#retransmission)"/>
+</svg>

@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrival-axis" x1="24" y1="448" x2="500" y2="448" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#75CAEF"/>
+<stop offset="1" stop-color="#B6DDF4"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="272" rx="32" fill="#39CBB5"/>
+<path d="M56 24H456Q488 24 488 56V112H24V56Q24 24 56 24Z" fill="#82B9DE"/>
+<path d="M144 24H256V112H144Z" fill="#B6DDF4"/>
+<rect x="72" y="156" width="368" height="24" rx="12" fill="#174C46"/>
+<rect x="72" y="220" width="256" height="24" rx="12" fill="#174C46"/>
+<rect x="60" y="356" width="24" height="64" rx="12" fill="#FFA76B"/>
+<rect x="124" y="356" width="24" height="64" rx="12" fill="#FFA76B"/>
+<rect x="260" y="356" width="24" height="64" rx="12" fill="#FFA76B"/>
+<rect x="308" y="356" width="24" height="64" rx="12" fill="#FFA76B"/>
+<rect x="396" y="356" width="24" height="64" rx="12" fill="#FFA76B"/>
+<path d="M36 436H459L448 425Q440 417 448 409Q456 401 464 409L496 441Q503 448 496 455L464 487Q456 495 448 487Q440 479 448 471L459 460H36Q24 460 24 448Q24 436 36 436Z" fill="url(#arrival-axis)"/>
+</svg>

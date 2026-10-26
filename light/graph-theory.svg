@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="edges" x1="80" y1="64" x2="448" y2="448" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+</defs>
+<g fill="url(#edges)">
+<rect x="0" y="-12" width="250" height="24" rx="12" transform="translate(124 99) rotate(-6.9)"/>
+<rect x="0" y="-12" width="257" height="24" rx="12" transform="translate(84 148) rotate(84.6)"/>
+<rect x="0" y="-12" width="241" height="24" rx="12" transform="translate(420 108) rotate(84.3)"/>
+<rect x="0" y="-12" width="252" height="24" rx="12" transform="translate(156 441) rotate(-9.6)"/>
+<rect x="0" y="-12" width="379" height="24" rx="12" transform="translate(115 131) rotate(38.1)"/>
+</g>
+<circle cx="80" cy="104" r="34" fill="#0D9488"/>
+<circle cx="416" cy="64" r="34" fill="#EA580C"/>
+<circle cx="112" cy="448" r="34" fill="#EA580C"/>
+<circle cx="448" cy="392" r="34" fill="#0D9488"/>
+</svg>

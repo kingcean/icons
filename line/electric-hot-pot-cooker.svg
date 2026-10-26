@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g>
+<ellipse cx="256" cy="144" rx="180" ry="72"/>
+<ellipse cx="256" cy="144" rx="148" ry="44"/>
+</g>
+<path d="M80 236H432L412 336Q404 384 352 384H160Q108 384 100 336Z"/>
+<path d="M64 244H44Q24 244 24 264V284Q24 304 44 304H76ZM448 244H468Q488 244 488 264V284Q488 304 468 304H436Z"/>
+<g>
+<path d="M112 404H400V440Q400 464 376 464H136Q112 464 112 440Z"/>
+<circle cx="256" cy="434" r="20"/>
+<path d="M256 420V432M324 434H340"/>
+</g>
+</svg>

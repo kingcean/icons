@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M32 368H480M438 326L480 368L438 410M144 480V32M102 74L144 32L186 74" stroke-linecap="round"/>
+<path d="M172 160H308M352 204V340" stroke-dasharray="16 24" stroke-linecap="round"/>
+<circle cx="352" cy="160" r="24"/>
+<path d="M412 108H460Q464 108 461 112L415 162Q412 166 416 166H464" stroke-linecap="round"/>
+</svg>

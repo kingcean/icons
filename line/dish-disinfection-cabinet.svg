@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g>
+<rect x="96" y="24" width="320" height="464" rx="32"/>
+<rect x="144" y="60" width="136" height="24" rx="8"/>
+<circle cx="344" cy="72" r="12"/>
+</g>
+<rect x="124" y="132" width="264" height="292" rx="20"/>
+<g>
+<circle cx="256" cy="270" r="72"/>
+<circle cx="256" cy="270" r="44"/>
+<path d="M164 368H348"/>
+</g>
+<path d="M338 160Q342 180 362 184Q342 188 338 208Q334 188 314 184Q334 180 338 160Z"/>
+</svg>

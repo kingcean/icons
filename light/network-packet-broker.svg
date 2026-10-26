@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="routing" x1="24" y1="48" x2="480" y2="272" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#168AA6"/>
+<stop offset="1" stop-color="#36A879"/>
+</linearGradient>
+</defs>
+<path d="M24 148H171L162 139A12 12 0 0 1 179 122L208 151Q217 160 208 169L179 198A12 12 0 0 1 162 181L171 172H24A12 12 0 0 1 24 148Z" fill="url(#routing)"/>
+<path d="M304 148H332V64Q332 36 360 36H443L434 27A12 12 0 0 1 451 10L480 39Q489 48 480 57L451 86A12 12 0 0 1 434 69L443 60H360Q356 60 356 64V148H443L434 139A12 12 0 0 1 451 122L480 151Q489 160 480 169L451 198A12 12 0 0 1 434 181L443 172H356V256Q356 260 360 260H443L434 251A12 12 0 0 1 451 234L480 263Q489 272 480 281L451 310A12 12 0 0 1 434 293L443 284H360Q332 284 332 256V172H304A12 12 0 0 1 304 148Z" fill="url(#routing)"/>
+<circle cx="256" cy="160" r="32" fill="#D99526"/>
+<rect x="24" y="328" width="464" height="160" rx="32" fill="#387DA5"/>
+<path d="M56 328H456Q488 328 488 360V368H24V360Q24 328 56 328Z" fill="#78B9E0"/>
+<rect x="64" y="384" width="64" height="56" rx="8" fill="#183E55"/>
+<rect x="160" y="384" width="64" height="56" rx="8" fill="#183E55"/>
+<rect x="256" y="384" width="64" height="56" rx="8" fill="#183E55"/>
+<circle cx="408" cy="412" r="16" fill="#FFD16B"/>
+</svg>

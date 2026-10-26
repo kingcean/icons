@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="hedge-right" x1="144" y1="200" x2="368" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E9A52B"/>
+<stop offset="1" stop-color="#FFD16B"/>
+</linearGradient>
+<linearGradient id="hedge-left" x1="368" y1="304" x2="144" y2="304" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#129B83"/>
+<stop offset="1" stop-color="#8CEDAD"/>
+</linearGradient>
+</defs>
+<path fill="#28618A" d="M244 28Q256 20 268 28C320 60 376 80 436 92Q456 96 456 116V244C456 356 376 438 268 484Q256 492 244 484C136 438 56 356 56 244V116Q56 96 76 92C136 80 192 60 244 28Z"/>
+<path fill="url(#hedge-right)" d="M156 188Q144 188 144 200Q144 212 156 212H327L312 227Q303 236 312 245Q320 253 329 244L365 208Q373 200 365 192L329 156Q320 147 312 155Q303 164 312 173L327 188Z"/>
+<path fill="url(#hedge-left)" d="M356 292H185L200 277Q209 268 200 259Q192 251 183 260L147 296Q139 304 147 312L183 348Q192 357 200 349Q209 340 200 331L185 316H356Q368 316 368 304Q368 292 356 292Z"/>
+</svg>

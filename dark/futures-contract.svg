@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="exchange" x1="152" y1="432" x2="352" y2="260" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#39CBB5"/>
+<stop offset="1" stop-color="#8CEDAD"/>
+</linearGradient>
+</defs>
+<rect x="64" y="24" width="384" height="464" rx="28" fill="#315A7A"/>
+<circle cx="256" cy="172" r="68" fill="#FFD16B"/>
+<path fill="#315A7A" d="M246 136Q246 126 256 126Q266 126 266 136V167L290 184Q298 190 292 198Q286 206 278 200L250 180Q246 177 246 172Z"/>
+<path fill="url(#exchange)" d="M152 288Q140 288 140 300Q140 312 152 312H323L312 323Q303 332 312 341Q320 349 329 340L361 308Q369 300 361 292L329 260Q320 251 312 259Q303 268 312 277L323 288Z"/>
+<path fill="#82B9DE" d="M352 380H189L200 369Q209 360 200 351Q192 343 183 352L151 384Q143 392 151 400L183 432Q192 441 200 433Q209 424 200 415L189 404H352Q364 404 364 392Q364 380 352 380Z"/>
+</svg>

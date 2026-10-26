@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="repayment" x1="456" y1="304" x2="232" y2="436" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#2DD4BF"/>
+<stop offset="1" stop-color="#C4B5FD"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="24" y="40" width="464" height="224" rx="28" fill="#93C5FD"/>
+<path d="M246 92A10 10 0 0 1 266 92V102H280A10 10 0 0 1 280 122H248C229 122 229 142 248 142H264C309 142 309 202 266 202V212A10 10 0 0 1 246 212V202H232A10 10 0 0 1 232 182H264C283 182 283 162 264 162H248C203 162 203 102 246 102Z" fill="#1E3A8A"/>
+<rect x="78" y="102" width="20" height="100" rx="10" fill="#0D9488"/>
+<rect x="414" y="102" width="20" height="100" rx="10" fill="#0D9488"/>
+</g>
+<path d="M444 304A12 12 0 0 1 468 304V368Q468 412 424 412H261L276 427Q285 436 276 445Q267 454 258 445L223 410Q213 400 223 390L258 355Q267 346 276 355Q285 364 276 373L261 388H424Q444 388 444 368Z" fill="url(#repayment)"/>
+<g>
+<circle cx="112" cy="400" r="88" fill="#FCD34D"/>
+<path d="M65 393Q72 386 79 393L100 414L145 369Q152 362 159 369Q166 376 159 383L107 435Q100 442 93 435L65 407Q58 400 65 393Z" fill="#166534"/>
+</g>
+</svg>

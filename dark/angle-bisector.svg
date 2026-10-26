@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="rays" x1="280" y1="40" x2="256" y2="484" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D1E9FF"/>
+<stop offset="1" stop-color="#80BAFF"/>
+</linearGradient>
+<linearGradient id="bisector" x1="52" y1="0" x2="492" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FBBF24"/>
+<stop offset="1" stop-color="#FDE68A"/>
+</linearGradient>
+</defs>
+<path d="M29.61 466L269.61 50.31A12 12 0 0 1 290.39 62.31L60.78 460H476A12 12 0 0 1 476 484H40A12 12 0 0 1 29.61 466Z" fill="url(#rays)"/>
+<g transform="translate(40 472) rotate(-30)" fill="url(#bisector)">
+<rect x="52" y="-12" width="144" height="24" rx="12"/>
+<rect x="200" y="-12" width="144" height="24" rx="12"/>
+<rect x="348" y="-12" width="144" height="24" rx="12"/>
+</g>
+<path d="M126 323.04A172 172 0 0 1 182.59 375.82A12 12 0 0 1 162.7 389.24A148 148 0 0 0 114 343.83A12 12 0 0 1 126 323.04ZM194.59 396.6A172 172 0 0 1 212 472A12 12 0 0 1 188 472A148 148 0 0 0 173.02 407.12A12 12 0 0 1 194.59 396.6Z" fill="#2DD4BF"/>
+</svg>

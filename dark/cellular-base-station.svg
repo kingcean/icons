@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M68 17Q-28 80 68 143A8 8 0 0 0 76 129Q-4 80 76 31A8 8 0 0 0 68 17ZM140 41Q84 80 140 119A8 8 0 0 0 148 105Q108 80 148 55A8 8 0 0 0 140 41ZM444 17Q540 80 444 143A8 8 0 0 1 436 129Q516 80 436 31A8 8 0 0 1 444 17ZM372 41Q428 80 372 119A8 8 0 0 1 364 105Q404 80 364 55A8 8 0 0 1 372 41Z" fill="#A1F1ED"/>
+<circle cx="256" cy="80" r="40" fill="#78B9E0"/>
+<circle cx="256" cy="80" r="24" fill="#F5C65F"/>
+<path fill-rule="evenodd" d="M230 144H282Q288 144 290 152L376 472Q378 480 368 480H144Q134 480 136 472L222 152Q224 144 230 144ZM240 168L224 232H288L272 168ZM216 264L200 328H312L296 264ZM192 360L168 448H344L320 360Z" fill="#78B9E0"/>
+<path d="M236 160L304 240L192 336L356 456" fill="none" stroke="#C5DFEF" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="196" y="232" width="120" height="32" rx="12" fill="#C5DFEF"/>
+<rect x="172" y="328" width="168" height="32" rx="12" fill="#C5DFEF"/>
+<rect x="136" y="448" width="240" height="32" rx="12" fill="#C5DFEF"/>
+</svg>

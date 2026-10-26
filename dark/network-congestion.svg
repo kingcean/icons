@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="congestion-flow" x1="368" y1="408" x2="500" y2="408" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#75CAEF"/>
+<stop offset="1" stop-color="#39CBB5"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="272" rx="32" fill="#39CBB5"/>
+<path d="M56 24H456Q488 24 488 56V112H24V56Q24 24 56 24Z" fill="#82B9DE"/>
+<path d="M144 24H256V112H144Z" fill="#B6DDF4"/>
+<rect x="72" y="156" width="368" height="24" rx="12" fill="#174C46"/>
+<rect x="72" y="220" width="256" height="24" rx="12" fill="#174C46"/>
+<rect x="24" y="376" width="48" height="64" rx="12" fill="#FFD16B"/>
+<rect x="88" y="376" width="48" height="64" rx="12" fill="#FFA76B"/>
+<rect x="152" y="376" width="48" height="64" rx="12" fill="#FF8D85"/>
+<path fill-rule="evenodd" d="M232 328Q216 320 216 344V472Q216 496 232 488L344 432V384ZM240 364V452L320 412V404Z" fill="#C4D5E1"/>
+<path d="M380 396H459L448 385Q440 377 448 369Q456 361 464 369L496 401Q503 408 496 415L464 447Q456 455 448 447Q440 439 448 431L459 420H380Q368 420 368 408Q368 396 380 396Z" fill="url(#congestion-flow)"/>
+</svg>

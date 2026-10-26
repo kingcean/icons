@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M176 24H336Q368 24 368 56V120C368 192 344 208 344 256V352Q344 400 312 400H200Q168 400 168 352V256C168 208 144 192 144 120V56Q144 24 176 24Z"/>
+<path d="M224 48H288" stroke-linecap="round"/>
+<rect x="184" y="80" width="144" height="88" rx="12"/>
+<g>
+<rect x="196" y="208" width="24" height="24" rx="6"/>
+<rect x="244" y="208" width="24" height="24" rx="6"/>
+<rect x="292" y="208" width="24" height="24" rx="6"/>
+<rect x="196" y="256" width="24" height="24" rx="6"/>
+<rect x="244" y="256" width="24" height="24" rx="6"/>
+<rect x="292" y="256" width="24" height="24" rx="6"/>
+<rect x="196" y="304" width="24" height="24" rx="6"/>
+<rect x="244" y="304" width="24" height="24" rx="6"/>
+<rect x="292" y="304" width="24" height="24" rx="6"/>
+<rect x="224" y="352" width="64" height="20" rx="10"/>
+</g>
+<path d="M112 416H400Q416 416 424 432L448 464Q456 488 432 488H80Q56 488 64 464L88 432Q96 416 112 416Z"/>
+</svg>

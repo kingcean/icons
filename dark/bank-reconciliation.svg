@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="ledger" x1="172" y1="20" x2="340" y2="152" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FDBA74"/>
+</linearGradient>
+<linearGradient id="columns" x1="112" y1="304" x2="400" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#80BAFF"/>
+<stop offset="1" stop-color="#C4B5FD"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="172" y="20" width="168" height="132" rx="12" fill="url(#ledger)"/>
+<path d="M196 52H248A8 8 0 0 1 248 68H196A8 8 0 0 1 196 52ZM196 100H248A8 8 0 0 1 248 116H196A8 8 0 0 1 196 100Z" fill="#7C2D12"/>
+<path d="M276 55Q280 51 284 55L290 61L306 45Q310 41 314 45Q318 49 314 53L294 73Q290 77 286 73L276 63Q272 59 276 55ZM276 103Q280 99 284 103L290 109L306 93Q310 89 314 93Q318 97 314 101L294 121Q290 125 286 121L276 111Q272 107 276 103Z" fill="#166534"/>
+</g>
+<path d="M48 264L248 184Q256 180 264 184L464 264Q476 270 464 280H48Q36 270 48 264Z" fill="#2DD4BF"/>
+<g fill="url(#columns)">
+<rect x="112" y="304" width="48" height="108" rx="8"/>
+<rect x="232" y="304" width="48" height="108" rx="8"/>
+<rect x="352" y="304" width="48" height="108" rx="8"/>
+</g>
+<rect x="32" y="440" width="448" height="40" rx="12" fill="#C4B5FD"/>
+</svg>

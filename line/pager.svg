@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="112" width="464" height="288" rx="48"/>
+<rect x="64" y="152" width="384" height="136" rx="16"/>
+<g>
+<path d="M100 180V260M144 180H192V220H144V260H192M248 180H296V260H248M248 220H296" stroke-linecap="round"/>
+<rect x="328" y="180" width="56" height="80" rx="8"/>
+<circle cx="220" cy="204" r="6"/>
+<circle cx="220" cy="236" r="6"/>
+</g>
+<g>
+<rect x="80" y="324" width="48" height="32" rx="12"/>
+<rect x="152" y="324" width="48" height="32" rx="12"/>
+<rect x="328" y="324" width="104" height="32" rx="12"/>
+</g>
+</svg>

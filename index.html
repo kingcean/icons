@@ -19,27 +19,39 @@
         width: 160px; height: 160px; margin: 30px;
     }
     section.x-details > div:first-child > h2 {
-        font-weight: 200; font-size: 24px; margin: 0; line-height: 30px;
+        font-weight: 200; font-size: 24px; margin: 0; line-height: 30px; user-select: text;
     }
     section.x-details > div:first-child > img:first-child + h2 {
         margin: 0; position: absolute; top: 40px; left: 210px;
     }
     section.x-details > div:first-child > img:first-child + h2 + div {
-        margin: 0; position: absolute; top: 90px; left: 210px; right: 30px;
+        margin: 0; position: absolute; top: 100px; left: 210px; right: 30px;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div > span:first-child {
+    section.x-details > div:first-child > img:first-child + h2 + div > a, section.x-details > div:first-child > img:first-child + h2 + div > a:visited {
+        line-height: 30px; background-color: transparent; padding: 0; border-radius: 4px; display: inline-block;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div > a:hover {
+        background-color: rgba(128, 128, 128, 0.2); padding: 0 10px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div > a:active {
+        background-color: rgba(128, 128, 128, 0.1); padding: 0 10px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + div {
+        margin: 0; position: absolute; top: 140px; left: 210px; right: 30px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + div > span:first-child {
         color: #999; line-height: 20px;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div > span + span {
+    section.x-details > div:first-child > img:first-child + h2 + div + div > span + span {
         line-height: 20px; display: inline-block; background-color: #444; padding: 0 10px; margin-left: 10px; border-radius: 16px;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div + button {
+    section.x-details > div:first-child > img:first-child + h2 + div + div + button {
         color: #CCC; font-size: 20px; width: 30px; height: 30px; background: transparent; border: 0 none transparent; border-radius: 4px; position: absolute; top: 4px; right: 4px; transition: 0.2s;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div + button:hover {
+    section.x-details > div:first-child > img:first-child + h2 + div + div + button:hover {
         color: #EEE; background: #C33;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div + button:active {
+    section.x-details > div:first-child > img:first-child + h2 + div + div + button:active {
         color: #EEE; background: #A00;
     }
     section.x-details > div:first-child + div {
@@ -61,10 +73,32 @@
         fill: #DDD; stroke: none; stroke-width: 0;
     }
     section.x-details > div:first-child + div > span > img + span, section.x-details > div:first-child + div > span > svg + span {
-        text-align: center; display: block; margin-bottom: 10px;
+        text-align: center; display: block;
+    }
+    section.x-details > div:first-child + div > span > img + span + a, section.x-details > div:first-child + div > span > img + span + a:visited,
+    section.x-details > div:first-child + div > span > svg + span + a, section.x-details > div:first-child + div > span > svg + span + a:visited {
+        background-color: transparent; text-align: center; display: block; padding: 6px 0 8px 0; margin: 4px 2px 2px 2px; border-radius: 4px;
+    }
+    section.x-details > div:first-child + div > span > img + span + a:hover,
+    section.x-details > div:first-child + div > span > svg + span + a:hover {
+        background-color: rgba(128, 128, 128, 0.2);
+    }
+    section.x-details > div:first-child + div > span > img + span + a:active,
+    section.x-details > div:first-child + div > span > svg + span + a:active {
+        background-color: rgba(128, 128, 128, 0.1);
     }
     section.x-details > div:first-child + div > span:first-child + span + span > img + span {
         color: #333;
+    }
+    section.x-details > div:first-child + div > span:first-child + span + span > img + span + a,
+    section.x-details > div:first-child + div > span:first-child + span + span > img + span + a:visited {
+        background-color: #444;
+    }
+    section.x-details > div:first-child + div > span:first-child + span + span > img + span + a:hover {
+        background-color: #555;
+    }
+    section.x-details > div:first-child + div > span:first-child + span + span > img + span + a:active {
+        background-color: #4C4C4C;
     }
     section.x-intro {
         font-size: 14px; user-select: none;
@@ -72,8 +106,11 @@
     section.x-intro > div {
         padding: 10px 20px; margin-bottom: 10px; border: dashed 1px #666; border-radius: 8px;
     }
+    section.x-intro + section > input[type="text"] {
+        width: 420px; border-radius: 20px; line-height: 20px; padding-left: 19px; padding-right: 19px;
+    }
     section.x-gallery {
-        margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
+        min-height: 560px; margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
     }
     section.x-gallery > button {
         background: transparent; padding: 0; border: none 0 transparent; border-radius: 4px;
@@ -94,14 +131,23 @@
         color: #999; user-select: none;
     }
     @media (max-width: 600px) {
+        section.x-details > div:first-child > img:first-child {
+            margin-bottom: 10px;
+        }
         section.x-details > div:first-child > img:first-child + h2 {
             position: static; margin: 0 30px;
         }
         section.x-details > div:first-child > img:first-child + h2 + div {
             position: static; margin: 10px 30px 20px 30px;
         }
+        section.x-details > div:first-child > img:first-child + h2 + div + div {
+            position: static; margin: 10px 30px 20px 30px;
+        }
         section.x-details > div:first-child + div > span > img, section.x-details > div:first-child + div > span > svg {
             width: 64px; height: 64px; margin: 18px; display: block;
+        }
+        section.x-intro + section > input[type="text"] {
+            width: 280px;
         }
         section.x-gallery {
             grid-template-columns: repeat(auto-fill, 80px);
@@ -116,8 +162,130 @@
     </style>
     <script type="text/javascript">
     function onInit() {
-        fetch("./content.json").then(function (r)
-        {
+        const handlers = {};
+        const res = {
+            jca: "Jinchen Art",
+            "jca#zh": "金辰艺术",
+            realUn: "Real &amp; Unreal",
+            "realUn#zh": "虚实之间",
+            jxWatercolor: "Jiangxi Watercolor",
+            "jxWatercolor#zh": "江西水彩",
+            kingceanDesign: "Kingcean Design",
+            "kingceanDesign#zh": "Kingcean 设计",
+            download: "Download",
+            "download#zh": "下载",
+            close: "Close",
+            "close#zh": "关闭",
+            category: "Category",
+            "category#zh": "分类",
+            icons: "Icons",
+            "icons#zh": "图标",
+            freeIcons: "Free Icons",
+            "freeIcons#zh": "免费图标",
+            lineIcon: "Line",
+            "lineIcon#zh": "线条款式",
+            solidIcon: "Solid",
+            "solidIcon#zh": "实心款式",
+            lightMode: "Light Mode",
+            "lightMode#zh": "浅色模式",
+            darkMode: "Dark Mode",
+            "darkMode#zh": "深色模式",
+            searchIcons: "Search Icons",
+            "searchIcons#zh": "搜索图标",
+            empty: "Empty",
+            "empty#zh": "空",
+            intro1: "Includes nearly 2,000 vector icons, all free to use on screens, on the web, in print, and across other media.",
+            "intro1#zh": "包含近 2,000 个矢量图标，可在屏幕、网页、印刷及其他媒体上免费使用。",
+            intro2: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.",
+            "intro2#zh": "每个图标都提供单色线条和实心版本，以及针对浅色和深色主题定制的彩色实心版本。",
+            loading: "Loading…",
+            "loading#zh": "加载中…"
+        };
+        const component = Hje.render("zone-main", {
+            children: [{
+                key: "details",
+                tagName: "section",
+                className: "x-details",
+                style: {
+                    display: "none"
+                }
+            }, {
+                tagName: "h1",
+                children: DeepX.MdBlogs.getLocaleProp(res, "freeIcons")
+            }, {
+                tagName: "section",
+                className: "x-intro",
+                children: [{
+                    tagName: "div",
+                    children: [{
+                        tagName: "p",
+                        children: DeepX.MdBlogs.getLocaleProp(res, "intro1")
+                    }, {
+                        tagName: "p",
+                        children: DeepX.MdBlogs.getLocaleProp(res, "intro2")
+                    }]
+                }]
+            }, {
+                tagName: "section",
+                children: [{
+                    tagName: "input",
+                    props: {
+                        name: "q",
+                        type: "text",
+                        maxLength: 60,
+                        placeholder: DeepX.MdBlogs.getLocaleProp(res, "searchIcons")
+                    },
+                    on: {
+                        input(ev) {
+                            handlers.search(ev.target.value);
+                        }
+                    }
+                }]
+            }, {
+                key: "gallery",
+                tagName: "section",
+                className: "x-gallery",
+                children: [{
+                    tagName: "em",
+                    children: "Loading…"
+                }]
+            }, {
+                tagName: "section",
+                className: "x-tips",
+                children: [{
+                    tagName: "p",
+                    children: "Refresh the web page to randomly display icons; or"
+                }]
+            }, {
+                tagName: "section",
+                className: "x-actions",
+                children: [{
+                    tagName: "a",
+                    className: "link-long-button",
+                    props: {
+                        href: "https://github.com/kingcean/icons"
+                    },
+                    children: [{
+                        tagName: "span",
+                        children: [{
+                            tagName: "span",
+                            children: "View on"
+                        }]
+                    }, {
+                        tagName: "span",
+                        children: "GitHub"
+                    }, {
+                        tagName: "span",
+                        children: [{
+                            tagName: "span",
+                            children: "kingcean\\icons"
+                        }]
+                    }]
+                }]
+            }]
+        });
+        const size = 120;
+        fetch("./content.json").then(function (r) {
             return r.json();
         }).then(function(r) {
             return r.icons;
@@ -128,92 +296,48 @@
                 r[i] = r[j];
                 r[j] = icon;
             }
-            const col = r.slice(0, 60);
-            const handlers = {};
-            const component = Hje.render("zone-main", {
-                children: [{
-                    key: "details",
-                    tagName: "section",
-                    className: "x-details",
-                    style: {
-                        display: "none"
-                    }
-                }, {
-                    tagName: "h1",
-                    children: "Free Icons"
-                }, {
-                    tagName: "section",
-                    className: "x-intro",
-                    children: [{
-                        tagName: "div",
-                        children: [{
-                            tagName: "p",
-                            children: "Includes over a thousand SVG icons, all free to use."
-                        }, {
-                            tagName: "p",
-                            children: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes."
-                        }]
-                    }]
-                }, {
-                    tagName: "section",
-                    className: "x-gallery",
-                    children: col.map(function(icon) {
-                        return {
-                            tagName: "button",
-                            props: {
-                                title: icon.name
-                            },
-                            children: [{
-                                tagName: "img",
-                                props: {
-                                    alt: icon.name,
-                                    src: "./dark/" + icon.key + ".svg"
-                                }
-                            }],
-                            on: {
-                                click(ev) {
-                                    handlers.showDetails(icon);
-                                    DeepX.MdBlogs.scrollToTop();
-                                    window.history.replaceState(icon, "", "?id=" + icon.key);
-                                }
-                            }
-                        };
-                    })
-                }, {
-                    tagName: "section",
-                    className: "x-tips",
-                    children: [{
-                        tagName: "p",
-                        children: "Refresh the web page to randomly display icons; or"
-                    }]
-                }, {
-                    tagName: "section",
-                    className: "x-actions",
-                    children: [{
-                        tagName: "a",
-                        className: "link-long-button",
+
+            handlers.search = function (q) {
+                const details = component.getChild("gallery");
+                let list = r;
+                if (q) {
+                    q = q.toLowerCase();
+                    list = r.filter(function(icon) {
+                        if (icon.name && icon.name.toLowerCase().includes(q)) return true;
+                        if (icon["name#zh"] && icon["name#zh"].toLowerCase().includes(q)) return true;
+                        if (icon.description && icon.description.toLowerCase().includes(q)) return true;
+                        if (icon.categories && icon.categories.includes(q)) return true;
+                        return false;
+                    });
+                }
+
+                if (list.length < 1) details.setChildItems({
+                    tagName: "span",
+                    children: DeepX.MdBlogs.getLocaleProp(res, "empty")
+                });
+                else details.setChildren(list.slice(0, size).map(function(icon) {
+                    return {
+                        tagName: "button",
                         props: {
-                            href: "https://github.com/kingcean/icons"
+                            title: icon.name
                         },
                         children: [{
-                            tagName: "span",
-                            children: [{
-                                tagName: "span",
-                                children: "View on"
-                            }]
-                        }, {
-                            tagName: "span",
-                            children: "GitHub"
-                        }, {
-                            tagName: "span",
-                            children: [{
-                                tagName: "span",
-                                children: "kingcean\\icons"
-                            }]
-                        }]
-                    }]
-                }]
-            });
+                            tagName: "img",
+                            props: {
+                                alt: icon.name,
+                                src: "./dark/" + icon.key + ".svg"
+                            }
+                        }],
+                        on: {
+                            click(ev) {
+                                handlers.showDetails(icon);
+                                DeepX.MdBlogs.scrollToTop();
+                                window.history.replaceState(icon, "", "?id=" + icon.key);
+                            }
+                        }
+                    };
+                }));
+            };
             handlers.hideDetails = function () {
                 const details = component.getChild("details");
                 details.style({ display: "none" });
@@ -225,7 +349,7 @@
                 if (model.categories && model.categories.length) {
                     categories.push({
                         tagName: "span",
-                        children: "Category"
+                        children: DeepX.MdBlogs.getLocaleProp(res, "category")
                     });
                     for (const category of model.categories) {
                         if (!category) continue;
@@ -241,17 +365,31 @@
                         tagName: "img",
                         props: {
                             alt: model.name,
-                            src: "./dark/" + model.key + ".svg"
+                            src: "./dark/" + model.key + ".svg",
+                            loading: "lazy"
                         }
                     }, {
                         tagName: "h2",
                         children: model.name
                     }, {
                         tagName: "div",
+                        children: [{
+                            tagName: "a",
+                            props: {
+                                href: "./dark/" + model.key + ".svg",
+                                download: model.key + "-dark.svg",
+                            },
+                            children: DeepX.MdBlogs.getLocaleProp(res, "download") + " (" + DeepX.MdBlogs.getLocaleProp(res, "darkMode") + ")"
+                        }]
+                    }, {
+                        tagName: "div",
                         children: categories
                     }, {
                         tagName: "button",
                         children: "×",
+                        props: {
+                            title: DeepX.MdBlogs.getLocaleProp(res, "close")
+                        },
                         on: {
                             click(ev) {
                                 handlers.hideDetails();
@@ -266,43 +404,57 @@
                         children: [{
                             tagName: "img",
                             props: {
-                                alt: "Light mode",
+                                alt: "Line icon",
                                 src: "./line/" + model.key + ".svg"
+                            },
+                            lifecycle: {
+                                load(ev) {
+                                    fetch("./line/" + model.key + ".svg").then(function (r2) {
+                                        return r2.text();
+                                    }).then(function (r2) {
+                                        ev.element.outerHTML = r2;
+                                    });
+                                }
                             }
                         }, {
                             tagName: "span",
-                            children: "Line"
-                        }],
-                        lifecycle: {
-                            load(ev) {
-                                fetch("./line/" + model.key + ".svg").then(function (r2) {
-                                    return r2.text();
-                                }).then(function (r2) {
-                                    ev.element.innerHTML = r2 + "<span>Line</span>";
-                                });
-                            }
-                        }
+                            children: DeepX.MdBlogs.getLocaleProp(res, "lineIcon")
+                        }, {
+                            tagName: "a",
+                            props: {
+                                href: "./line/" + model.key + ".svg",
+                                download: model.key + "-line.svg",
+                            },
+                            children: DeepX.MdBlogs.getLocaleProp(res, "download")
+                        }]
                     }, {
                         tagName: "span",
                         children: [{
                             tagName: "img",
                             props: {
-                                alt: "Light mode",
+                                alt: "Solid icon",
                                 src: "./solid/" + model.key + ".svg"
+                            },
+                            lifecycle: {
+                                load(ev) {
+                                    fetch("./solid/" + model.key + ".svg").then(function (r2) {
+                                        return r2.text();
+                                    }).then(function (r2) {
+                                        ev.element.outerHTML = r2;
+                                    });
+                                }
                             }
                         }, {
                             tagName: "span",
-                            children: "Solid"
-                        }],
-                        lifecycle: {
-                            load(ev) {
-                                fetch("./solid/" + model.key + ".svg").then(function (r2) {
-                                    return r2.text();
-                                }).then(function (r2) {
-                                    ev.element.innerHTML = r2 + "<span>Solid</span>";
-                                });
-                            }
-                        }
+                            children: DeepX.MdBlogs.getLocaleProp(res, "solidIcon")
+                        }, {
+                            tagName: "a",
+                            props: {
+                                href: "./solid/" + model.key + ".svg",
+                                download: model.key + "-solid.svg",
+                            },
+                            children: DeepX.MdBlogs.getLocaleProp(res, "download")
+                        }]
                     }, {
                         tagName: "span",
                         children: [{
@@ -313,11 +465,19 @@
                             }
                         }, {
                             tagName: "span",
-                            children: "Light"
+                            children: DeepX.MdBlogs.getLocaleProp(res, "lightMode")
+                        }, {
+                            tagName: "a",
+                            props: {
+                                href: "./light/" + model.key + ".svg",
+                                download: model.key + "-light.svg",
+                            },
+                            children: DeepX.MdBlogs.getLocaleProp(res, "download")
                         }]
                     }]
                 });
             };
+            handlers.search();
             const selId = Hje.getQuery("id");
             if (selId) {
                 for (const item of r) {
@@ -327,6 +487,9 @@
                 }
             }
         });
+        DeepX.MdBlogs.setElementProp("title-realun", null, DeepX.MdBlogs.getLocaleProp(res, "realUn"));
+        DeepX.MdBlogs.setElementProp("title-jxwatercolor", null, DeepX.MdBlogs.getLocaleProp(res, "jxWatercolor"));
+        DeepX.MdBlogs.setElementProp("title-icons", null, DeepX.MdBlogs.getLocaleProp(res, "icons"));
     }
     </script>
 </head>
@@ -342,7 +505,7 @@
                     <a href="https://jinchen.org/watercolor" id="title-jxwatercolor">Jiangxi Watercolor</a>
                 </li>
                 <li class="state-sel" >
-                    <a href="./" id="title-decoration">Icons</a>
+                    <a href="./" id="title-icons">Icons</a>
                 </li>
             </ul>
         </section>
@@ -353,23 +516,23 @@
         </h1>
         <section class="x-intro" >
             <div>
-                <p>Includes over a thousand SVG icons, all free to use.</p>
+                <p>Includes a vast collection of vector icons, all free to use on screens, on the web, in print, and across other media.</p>
                 <p>Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.</p>
             </div>
         </section>
         <section class="x-gallery" >
-            <button><img alt="Gallery" src="./dark/gallery.svg" /></button>
-            <button><img alt="Grapes" src="./dark/grapes.svg" /></button>
-            <button><img alt="Magic Wand" src="./dark/magic-wand.svg" /></button>
-            <button><img alt="Sofa" src="./dark/sofa.svg" /></button>
-            <button><img alt="White Balance" src="./dark/white-balance.svg" /></button>
-            <button><img alt="Engine" src="./dark/engine.svg" /></button>
-            <button><img alt="Economics" src="./dark/economics.svg" /></button>
-            <button><img alt="Basketball" src="./dark/basketball.svg" /></button>
-            <button><img alt="Battery High" src="./dark/battery-high.svg" /></button>
-            <button><img alt="Admission Ticket" src="./dark/admission-ticket.svg" /></button>
-            <button><img alt="Cake" src="./dark/cake.svg" /></button>
-            <button><img alt="Folder Open" src="./dark/folder-open.svg" /></button>
+            <button><img alt="Gallery" src="./dark/gallery.svg" loading="lazy" /></button>
+            <button><img alt="Grapes" src="./dark/grapes.svg" loading="lazy" /></button>
+            <button><img alt="Magic Wand" src="./dark/magic-wand.svg" loading="lazy" /></button>
+            <button><img alt="Sofa" src="./dark/sofa.svg" loading="lazy" /></button>
+            <button><img alt="White Balance" src="./dark/white-balance.svg" loading="lazy" /></button>
+            <button><img alt="Engine" src="./dark/engine.svg" loading="lazy" /></button>
+            <button><img alt="Economics" src="./dark/economics.svg" loading="lazy" /></button>
+            <button><img alt="Basketball" src="./dark/basketball.svg" loading="lazy" /></button>
+            <button><img alt="Battery High" src="./dark/battery-high.svg" loading="lazy" /></button>
+            <button><img alt="Admission Ticket" src="./dark/admission-ticket.svg" loading="lazy" /></button>
+            <button><img alt="Cake" src="./dark/cake.svg" loading="lazy" /></button>
+            <button><img alt="Folder Open" src="./dark/folder-open.svg" loading="lazy" /></button>
         </section>
         <section>
             <a href="https://github.com/kingcean/icons" class="link-long-button" ><span>GitHub &nbsp; <span>kingcean\icons</span></span>

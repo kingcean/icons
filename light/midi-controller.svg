@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="104" width="464" height="304" rx="32" fill="#387DA5"/>
+<g>
+<rect x="64" y="152" width="48" height="48" rx="12" fill="#F16B61"/>
+<rect x="128" y="152" width="48" height="48" rx="12" fill="#FFD16B"/>
+<rect x="192" y="152" width="48" height="48" rx="12" fill="#62C9D3"/>
+<rect x="256" y="152" width="48" height="48" rx="12" fill="#BDA0E5"/>
+</g>
+<g>
+<circle cx="360" cy="176" r="20" fill="#183E55"/>
+<circle cx="424" cy="176" r="20" fill="#183E55"/>
+<rect x="356" y="160" width="8" height="16" rx="4" fill="#FFD16B"/>
+<rect x="420" y="160" width="8" height="16" rx="4" fill="#62C9D3"/>
+</g>
+<g>
+<rect x="56" y="248" width="400" height="128" rx="12" fill="#EAF4F6"/>
+<path d="M102 248H110V376H102ZM152 248H160V376H152ZM202 248H210V376H202ZM252 248H260V376H252ZM302 248H310V376H302ZM352 248H360V376H352ZM402 248H410V376H402Z" fill="#387DA5"/>
+<path d="M94 248H118V306Q118 312 112 312H100Q94 312 94 306ZM144 248H168V306Q168 312 162 312H150Q144 312 144 306ZM244 248H268V306Q268 312 262 312H250Q244 312 244 306ZM294 248H318V306Q318 312 312 312H300Q294 312 294 306ZM344 248H368V306Q368 312 362 312H350Q344 312 344 306Z" fill="#183E55"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<rect x="24" y="24" width="440" height="136" rx="56" fill="#439BA5"/>
+<rect x="96" y="84" width="64" height="16" rx="8" fill="#334155"/>
+</g>
+<g>
+<rect x="196" y="180" width="16" height="28" rx="8" fill="#94AFC4"/>
+<path fill-rule="evenodd" d="M160 208H248V220Q248 244 224 244H184Q160 244 160 220ZM176 220Q176 232 188 232H196V220ZM212 220V232H220Q232 232 232 220Z" fill="#7398B0"/>
+</g>
+<g>
+<path d="M64 264H328V304C328 368 288 424 240 424H152C104 424 64 368 64 304Z" fill="#94AFC4"/>
+<path d="M88 312H304C300 360 272 400 240 400H152C120 400 92 360 88 312Z" fill="#DCEEF2"/>
+<rect x="88" y="284" width="216" height="16" rx="8" fill="#334155"/>
+</g>
+<g>
+<path d="M388 180H420Q440 180 440 200V448H464Q488 448 488 468Q488 488 464 488H48Q24 488 24 468Q24 448 48 448H368V200Q368 180 388 180Z" fill="#439BA5"/>
+<rect x="392" y="208" width="24" height="64" rx="12" fill="#F3BD70"/>
+</g>
+</svg>

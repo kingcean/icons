@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="112" width="464" height="288" rx="32" fill="#387DA5"/>
+<rect x="64" y="160" width="240" height="112" rx="16" fill="#183E55"/>
+<path d="M96 208A8 8 0 0 1 112 208V232A8 8 0 0 1 96 232ZM132 192A8 8 0 0 1 148 192V232A8 8 0 0 1 132 232ZM168 184A8 8 0 0 1 184 184V232A8 8 0 0 1 168 232ZM204 200A8 8 0 0 1 220 200V232A8 8 0 0 1 204 232ZM240 216A8 8 0 0 1 256 216V232A8 8 0 0 1 240 232Z" fill="#62C9D3"/>
+<circle cx="396" cy="216" r="48" fill="#EAF4F6"/>
+<rect x="388" y="180" width="16" height="28" rx="8" fill="#183E55"/>
+<rect x="64" y="320" width="64" height="40" rx="12" fill="#F16B61"/>
+<rect x="160" y="320" width="64" height="40" rx="12" fill="#FFD16B"/>
+<rect x="256" y="320" width="192" height="40" rx="12" fill="#43AEBB"/>
+</svg>

@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M48 96H464Q488 96 488 120V392Q488 416 464 416H48Q24 416 24 392V120Q24 96 48 96ZM176 96V416H192V96ZM320 96V416H336V96ZM192 248V264H320V248ZM126 232V280A10 10 0 0 0 146 280V232A10 10 0 0 0 126 232ZM366 232V280A10 10 0 0 0 386 280V232A10 10 0 0 0 366 232ZM232 166A10 10 0 0 0 232 186H280A10 10 0 0 0 280 166ZM232 326A10 10 0 0 0 232 346H280A10 10 0 0 0 280 326Z"/>
+<rect x="64" y="432" width="56" height="56" rx="12"/>
+<rect x="392" y="432" width="56" height="56" rx="12"/>
+</svg>

@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="cold-flow" x1="20" y1="360" x2="492" y2="440" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#39AEBB"/>
+<stop offset="1" stop-color="#526DB0"/>
+</linearGradient>
+</defs>
+<path fill="#637EAD" d="M116 218V64C116 32 164 32 164 64V218C205 242 190 304 140 304C90 304 75 242 116 218Z"/>
+<path fill="#D9F5FA" d="M130 72V228C100 242 112 280 140 280C168 280 180 242 150 228V72Q150 62 140 62Q130 62 130 72Z"/>
+<g fill="#268FCB">
+<path id="cold-arm" d="M338 48Q338 36 350 36Q362 36 362 48V70L377 55Q385 47 393 55Q401 63 393 71L362 102V152H338V102L307 71Q299 63 307 55Q315 47 323 55L338 70Z"/>
+<use href="#cold-arm" transform="rotate(60 350 152)"/>
+<use href="#cold-arm" transform="rotate(120 350 152)"/>
+<use href="#cold-arm" transform="rotate(180 350 152)"/>
+<use href="#cold-arm" transform="rotate(240 350 152)"/>
+<use href="#cold-arm" transform="rotate(300 350 152)"/>
+</g>
+<g fill="url(#cold-flow)">
+<path id="cold-wave" d="M32 348Q88 312 144 348T256 348T368 348T480 348Q492 348 492 360Q492 372 480 372Q424 408 368 372T256 372T144 372T32 372Q20 372 20 360Q20 348 32 348Z"/>
+<use href="#cold-wave" transform="translate(0 80)"/>
+</g>
+</svg>

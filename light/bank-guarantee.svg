@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<path d="M184 24H328Q340 24 340 36V76Q340 132 256 160Q172 132 172 76V36Q172 24 184 24Z" fill="#F59E0B"/>
+<path d="M210 72Q216 66 222 72L244 94L290 48Q296 42 302 48Q308 54 302 60L250 112Q244 118 238 112L210 84Q204 78 210 72Z" fill="#14532D"/>
+</g>
+<path d="M48 264L248 184Q256 180 264 184L464 264Q476 270 464 280H48Q36 270 48 264Z" fill="#0D9488"/>
+<g fill="#2563EB">
+<rect x="112" y="304" width="48" height="108" rx="8"/>
+<rect x="232" y="304" width="48" height="108" rx="8"/>
+<rect x="352" y="304" width="48" height="108" rx="8"/>
+</g>
+<rect x="32" y="440" width="448" height="40" rx="12" fill="#7C3AED"/>
+</svg>

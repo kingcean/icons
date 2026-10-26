@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="136" y="24" width="240" height="224" rx="56" fill="#DEA365"/>
+<rect x="160" y="48" width="192" height="176" rx="32" fill="#8ED8EC"/>
+<path d="M184 160L272 72H312L184 200Z" fill="#E4FAFF"/>
+<rect x="64" y="352" width="48" height="136" rx="12" fill="#C48C60"/>
+<rect x="320" y="352" width="128" height="136" rx="16" fill="#DEA365"/>
+<path d="M368 430A10 10 0 0 0 368 450H400A10 10 0 0 0 400 430Z" fill="#805333"/>
+<path d="M24 312H488V352Q488 376 464 376H48Q24 376 24 352Z" fill="#DEA365"/>
+<path d="M88 272H424Q440 272 448 284L484 308Q496 328 472 328H40Q16 328 28 308L64 284Q72 272 88 272Z" fill="#F5D29B"/>
+</svg>

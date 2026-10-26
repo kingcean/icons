@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="464" height="176" rx="32"/>
+<path d="M96 76L124 152L152 76M184 76V152H232M256 152L284 76L312 152M266 124H302M344 152V76L408 152V76" stroke-linecap="round"/>
+<path d="M256 224V272M132 304V272H380V304" stroke-linecap="round"/>
+<rect x="24" y="328" width="216" height="160" rx="28"/>
+<rect x="272" y="328" width="216" height="160" rx="28"/>
+<rect x="64" y="376" width="56" height="64" rx="12"/>
+<rect x="144" y="376" width="56" height="64" rx="12"/>
+<rect x="312" y="376" width="56" height="64" rx="12"/>
+<rect x="392" y="376" width="56" height="64" rx="12"/>
+</svg>

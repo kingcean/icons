@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="payout" x1="310" y1="224" x2="486" y2="224" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#D68B19"/>
+</linearGradient>
+<linearGradient id="recovery" x1="486" y1="320" x2="310" y2="320" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#39CBB5"/>
+<stop offset="1" stop-color="#087D70"/>
+</linearGradient>
+</defs>
+<path fill="#28618A" d="M150 34Q158 30 166 34L276 76Q288 80 288 94V240Q288 380 158 480Q28 380 28 240V94Q28 80 40 76Z"/>
+<path fill="#FFD16B" d="M85 235Q94 226 103 235L140 272L213 199Q222 190 231 199Q240 208 231 217L149 299Q140 308 131 299L85 253Q76 244 85 235Z"/>
+<path fill="url(#payout)" d="M320 214H452L433 195Q426 188 433 181Q440 174 447 181L483 217Q490 224 483 231L447 267Q440 274 433 267Q426 260 433 253L452 234H320Q310 234 310 224Q310 214 320 214Z"/>
+<path fill="url(#recovery)" d="M476 310H344L363 291Q370 284 363 277Q356 270 349 277L313 313Q306 320 313 327L349 363Q356 370 363 363Q370 356 363 349L344 330H476Q486 330 486 320Q486 310 476 310Z"/>
+</svg>

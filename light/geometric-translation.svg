@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="figures" x1="24" y1="24" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+<linearGradient id="translation" x1="0" y1="0" x2="322" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#14B8A6"/>
+<stop offset="1" stop-color="#0F766E"/>
+</linearGradient>
+</defs>
+<path d="M36 24H204Q216 24 207.51 32.49L32.49 207.51Q24 216 24 204V36Q24 24 36 24Z" fill="url(#figures)"/>
+<path d="M308 296H476Q488 296 479.51 304.49L304.49 479.51Q296 488 296 476V308Q296 296 308 296Z" fill="url(#figures)"/>
+<path d="M0 -12H276.5L254.56 -33.94Q246.07 -42.43 254.56 -50.91Q263.05 -59.4 271.54 -50.91L313.96 -8.49Q322.45 0 313.96 8.49L271.54 50.91Q263.05 59.4 254.56 50.91Q246.07 42.43 254.56 33.94L276.5 12H0A12 12 0 0 1 0 -12Z" transform="translate(236 60) rotate(45)" fill="url(#translation)"/>
+</svg>

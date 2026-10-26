@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#183E55" fill-rule="evenodd" d="M256 32A112 112 0 1 0 256 256A112 112 0 1 0 256 32ZM256 124A20 20 0 1 0 256 164A20 20 0 1 0 256 124Z"/>
+<path fill="#43AEBB" fill-rule="evenodd" d="M256 60A84 84 0 1 0 256 228A84 84 0 1 0 256 60ZM256 76A68 68 0 1 0 256 212A68 68 0 1 0 256 76Z"/>
+<path fill="#F16B61" fill-rule="evenodd" d="M256 108A36 36 0 1 0 256 180A36 36 0 1 0 256 108ZM256 124A20 20 0 1 0 256 164A20 20 0 1 0 256 124Z"/>
+<rect x="24" y="288" width="464" height="168" rx="32" fill="#387DA5"/>
+<circle cx="112" cy="372" r="24" fill="#F16B61"/>
+<circle cx="184" cy="372" r="24" fill="#EAF4F6"/>
+<path fill="#183E55" d="M112 360A12 12 0 1 0 112 384A12 12 0 1 0 112 360ZM184 360A12 12 0 1 0 184 384A12 12 0 1 0 184 360Z"/>
+<circle cx="396" cy="372" r="44" fill="#FFD16B"/>
+<rect x="388" y="340" width="16" height="28" rx="8" fill="#183E55"/>
+</svg>

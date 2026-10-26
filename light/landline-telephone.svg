@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M48 80Q256 -8 464 80Q488 90 484 116L472 160Q468 180 448 176L384 156Q368 152 372 132L376 112Q256 72 136 112L140 132Q144 152 128 156L64 176Q44 180 40 160L28 116Q24 90 48 80Z" fill="#F16B61"/>
+<path d="M120 200H392Q412 200 420 220L484 416Q496 464 448 464H64Q16 464 28 416L92 220Q100 200 120 200Z" fill="#387DA5"/>
+<rect x="168" y="232" width="176" height="48" rx="12" fill="#183E55"/>
+<rect x="192" y="248" width="128" height="16" rx="8" fill="#83E0E5"/>
+<g fill="#FFD16B">
+<rect x="184" y="312" width="32" height="24" rx="6"/>
+<rect x="240" y="312" width="32" height="24" rx="6"/>
+<rect x="296" y="312" width="32" height="24" rx="6"/>
+<rect x="184" y="360" width="32" height="24" rx="6"/>
+<rect x="240" y="360" width="32" height="24" rx="6"/>
+<rect x="296" y="360" width="32" height="24" rx="6"/>
+<rect x="184" y="408" width="32" height="24" rx="6"/>
+<rect x="240" y="408" width="32" height="24" rx="6"/>
+<rect x="296" y="408" width="32" height="24" rx="6"/>
+</g>
+</svg>

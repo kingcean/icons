@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M116 218V64C116 32 164 32 164 64V218C205 242 190 304 140 304C90 304 75 242 116 218Z"/>
+<path stroke-linecap="round" d="M140 112V260"/>
+<g stroke-linecap="round">
+<path id="cold-arm" d="M350 152V48M326 76L350 100L374 76"/>
+<use href="#cold-arm" transform="rotate(60 350 152)"/>
+<use href="#cold-arm" transform="rotate(120 350 152)"/>
+<use href="#cold-arm" transform="rotate(180 350 152)"/>
+<use href="#cold-arm" transform="rotate(240 350 152)"/>
+<use href="#cold-arm" transform="rotate(300 350 152)"/>
+</g>
+<path stroke-linecap="round" d="M32 360Q88 324 144 360T256 360T368 360T480 360M32 440Q88 404 144 440T256 440T368 440T480 440"/>
+</svg>

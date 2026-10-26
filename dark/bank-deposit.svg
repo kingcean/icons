@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="deposit" x1="256" y1="14" x2="256" y2="164" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FDBA74"/>
+</linearGradient>
+<linearGradient id="columns" x1="112" y1="304" x2="400" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#80BAFF"/>
+<stop offset="1" stop-color="#C4B5FD"/>
+</linearGradient>
+</defs>
+<path d="M242 28A14 14 0 0 1 270 28V114L294 90A14 14 0 0 1 314 110L266 158Q256 168 246 158L198 110A14 14 0 0 1 218 90L242 114Z" fill="url(#deposit)"/>
+<path d="M48 264L248 184Q256 180 264 184L464 264Q476 270 464 280H48Q36 270 48 264Z" fill="#2DD4BF"/>
+<g fill="url(#columns)">
+<rect x="112" y="304" width="48" height="108" rx="8"/>
+<rect x="232" y="304" width="48" height="108" rx="8"/>
+<rect x="352" y="304" width="48" height="108" rx="8"/>
+</g>
+<rect x="32" y="440" width="448" height="40" rx="12" fill="#C4B5FD"/>
+</svg>

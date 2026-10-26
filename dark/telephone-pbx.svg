@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M72 120C72 56 152 24 256 24S440 56 440 120V144Q440 160 424 160H368Q352 160 352 144V112C296 80 216 80 160 112V144Q160 160 144 160H88Q72 160 72 144Z" fill="#A1F1ED"/>
+<path d="M244 192A12 12 0 0 1 268 192V212H392Q420 212 420 240V244A12 12 0 0 1 396 244V240Q396 236 392 236H268V244A12 12 0 0 1 244 244V236H120Q116 236 116 240V244A12 12 0 0 1 92 244V240Q92 212 120 212H244Z" fill="#F5C65F"/>
+<circle cx="104" cy="284" r="16" fill="#B8E9AE"/>
+<circle cx="256" cy="284" r="16" fill="#B8E9AE"/>
+<circle cx="408" cy="284" r="16" fill="#B8E9AE"/>
+<rect x="24" y="328" width="464" height="160" rx="32" fill="#78B9E0"/>
+<path d="M56 328H456Q488 328 488 360V368H24V360Q24 328 56 328Z" fill="#C5DFEF"/>
+<rect x="64" y="384" width="64" height="56" rx="8" fill="#365569"/>
+<rect x="160" y="384" width="64" height="56" rx="8" fill="#365569"/>
+<rect x="256" y="384" width="64" height="56" rx="8" fill="#365569"/>
+<circle cx="408" cy="412" r="16" fill="#F5C65F"/>
+</svg>
