@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="feather" d="M0 240Q-10 110 70 0M0 210Q-65 155-54 76M0 170Q-46 103-26 40M12 130Q-14 67 10 14M30 88Q12 40 40 0M0 210Q85 176 106 80M0 170Q70 128 106 40M12 130Q72 88 94 12M30 88Q68 52 78 0"/>
+</defs>
+<use href="#feather" transform="translate(264 24)"/>
+<use href="#feather" transform="translate(150 100) rotate(-28) scale(.78)"/>
+<path d="M264 276Q242 370 256 488M244 280Q250 370 238 446"/>
+<path d="M232 480Q160 346 56 288Q164 306 244 466Q252 486 232 480ZM280 480Q344 330 456 244Q358 278 268 466Q260 486 280 480Z"/>
+</svg>

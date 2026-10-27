@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="brush" d="M0 0V12M0 24C-16 56-16 194 0 240C16 194 16 56 0 24ZM-20 48L-48 24M20 48L48 24M-22 76L-62 46M22 76L62 46M-22 104L-70 78M22 104L70 78M-22 132L-72 112M22 132L72 112M-22 160L-68 148M22 160L68 148M-20 188L-60 182M20 188L60 182M-18 216L-44 214M18 216L44 214"/>
+</defs>
+<use href="#brush" transform="translate(284 24)"/>
+<use href="#brush" transform="translate(116 100) rotate(-24) scale(.72)"/>
+<path d="M284 276Q260 376 256 488M194 270Q226 346 236 428"/>
+<path d="M232 480C206 398 128 324 48 284C142 294 216 362 244 466Q250 486 232 480Z"/>
+<path d="M280 480C312 376 390 298 464 252C370 272 296 356 268 466Q262 486 280 480Z"/>
+</svg>

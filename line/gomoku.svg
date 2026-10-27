@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="464" height="464" rx="28"/>
+<path d="M116 80H220M292 80H432M80 168H132M204 168H432M80 256H220M292 256H396M80 344H132M204 344H308M380 344H432M80 432H396M80 116V432M168 80V132M168 204V308M168 380V432M256 116V220M256 292V432M344 80V308M344 380V432M432 80V220M432 292V396"/>
+<g>
+<circle cx="80" cy="80" r="26"/>
+<circle cx="168" cy="168" r="26"/>
+<circle cx="256" cy="256" r="26"/>
+<circle cx="344" cy="344" r="26"/>
+<circle cx="432" cy="432" r="26"/>
+<circle cx="80" cy="80" r="8"/>
+<circle cx="168" cy="168" r="8"/>
+<circle cx="256" cy="256" r="8"/>
+<circle cx="344" cy="344" r="8"/>
+<circle cx="432" cy="432" r="8"/>
+</g>
+<g>
+<circle cx="256" cy="80" r="26"/>
+<circle cx="168" cy="344" r="26"/>
+<circle cx="432" cy="256" r="26"/>
+</g>
+</svg>

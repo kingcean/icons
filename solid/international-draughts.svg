@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<pattern id="squares" x="56" y="56" width="80" height="80" patternUnits="userSpaceOnUse">
+<rect x="3" y="3" width="34" height="34" rx="3"/>
+<rect x="43" y="43" width="34" height="34" rx="3"/>
+</pattern>
+<mask id="checkerMask">
+<rect x="56" y="56" width="400" height="400" fill="url(#squares)"/>
+</mask>
+</defs>
+<path fill-rule="evenodd" d="M52 24H460Q488 24 488 52V460Q488 488 460 488H52Q24 488 24 460V52Q24 24 52 24ZM56 44Q44 44 44 56V456Q44 468 56 468H456Q468 468 468 456V56Q468 44 456 44Z"/>
+<rect x="56" y="56" width="400" height="400" mask="url(#checkerMask)"/>
+<circle cx="236" cy="196" r="16"/>
+<circle cx="356" cy="316" r="16"/>
+<path fill-rule="evenodd" d="M180 396a16 16 0 1 0 32 0a16 16 0 1 0-32 0ZM189 396a7 7 0 1 0 14 0a7 7 0 1 0-14 0Z"/>
+</svg>

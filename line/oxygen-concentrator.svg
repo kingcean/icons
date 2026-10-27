@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M120 88V48Q120 24 144 24H240Q264 24 264 48V88M152 88V56H232V88"/>
+<rect x="48" y="104" width="288" height="336" rx="32"/>
+<rect x="88" y="144" width="144" height="80" rx="16"/>
+<path d="M112 184H136L152 164L168 204L184 184H208"/>
+<circle cx="280" cy="184" r="20"/>
+<path d="M104 280H280M104 328H280M104 376H280"/>
+<rect x="96" y="456" width="48" height="32" rx="12"/>
+<rect x="240" y="456" width="48" height="32" rx="12"/>
+<path d="M352 328H392Q472 328 472 248V128Q472 88 432 88H384V48M416 88V48"/>
+</svg>

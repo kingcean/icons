@@ -9,11 +9,31 @@
     <link rel="icon" type="image/png" href="https://jinchen.org/images/logos/jinchen-art.png" />
     <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/hje@3.3.0/dist/mdblogs.bundle.js" ></script>
     <style type="text/css">
+    @keyframes icon-line-hover {
+        0% { stroke: #EEE; }
+        12.5% { stroke: #E88; }
+        25% { stroke: #EE8; }
+        37.5% { stroke: #8E8; }
+        50% { stroke: #8EE; }
+        62.5% { stroke: #88E; }
+        75% { stroke: #E8E; }
+        100% { stroke: #EEE; }
+    }
+    @keyframes icon-solid-hover {
+        0% { fill: #DDD; }
+        12.5% { fill: #E99; }
+        25% { fill: #EE9; }
+        37.5% { fill: #9E9; }
+        50% { fill: #9EE; }
+        62.5% { fill: #99E; }
+        75% { fill: #E9E; }
+        100% { fill: #DDD; }
+    }
     section.x-details {
         padding-bottom: 28px; border-bottom: 2px solid #666; user-select: none;
     }
     section.x-details > div:first-child {
-        border: dashed 1px #666; border-radius: 8px; position: relative;
+        min-height: 200px; border: dashed 1px #666; border-radius: 8px; position: relative;
     }
     section.x-details > div:first-child > img:first-child {
         width: 160px; height: 160px; margin: 30px;
@@ -69,8 +89,14 @@
     section.x-details > div:first-child + div > span:first-child > svg {
         fill: none; stroke: #EEE; stroke-width: 8;
     }
+    section.x-details > div:first-child + div > span:first-child:hover > svg {
+        animation: icon-line-hover 14s infinite;
+    }
     section.x-details > div:first-child + div > span:first-child + span > svg {
         fill: #DDD; stroke: none; stroke-width: 0;
+    }
+    section.x-details > div:first-child + div > span:first-child + span:hover > svg {
+        animation: icon-solid-hover 14s infinite;
     }
     section.x-details > div:first-child + div > span > img + span, section.x-details > div:first-child + div > span > svg + span {
         text-align: center; display: block;
@@ -110,7 +136,7 @@
         width: 420px; border-radius: 20px; line-height: 20px; padding-left: 19px; padding-right: 19px;
     }
     section.x-gallery {
-        min-height: 560px; margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
+        min-height: 200px; margin-bottom: 100px; justify-content: space-between; display: grid; grid-template-columns: repeat(auto-fill, 100px); gap: 0; user-select: none;
     }
     section.x-gallery > button {
         background: transparent; padding: 0; border: none 0 transparent; border-radius: 4px;
@@ -413,6 +439,7 @@
                             lifecycle: {
                                 load(ev) {
                                     fetch("./line/" + model.key + ".svg").then(function (r2) {
+                                        if (!r2.ok) throw new Error("Failed to fetch line icon");
                                         return r2.text();
                                     }).then(function (r2) {
                                         ev.element.outerHTML = r2;
@@ -441,6 +468,7 @@
                             lifecycle: {
                                 load(ev) {
                                     fetch("./solid/" + model.key + ".svg").then(function (r2) {
+                                        if (!r2.ok) throw new Error("Failed to fetch solid icon");
                                         return r2.text();
                                     }).then(function (r2) {
                                         ev.element.outerHTML = r2;

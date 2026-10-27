@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M128 64H88Q56 64 56 96V456Q56 488 88 488H424Q456 488 456 456V96Q456 64 424 64H384M184 64H328"/>
+<rect x="144" y="24" width="24" height="80" rx="12"/>
+<rect x="344" y="24" width="24" height="80" rx="12"/>
+<path d="M56 160H456"/>
+<g transform="rotate(40 256 318)">
+<rect x="208" y="222" width="96" height="192" rx="48"/>
+<path d="M208 318H304"/>
+</g>
+</svg>

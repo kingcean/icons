@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="464" height="464" rx="28"/>
+<path d="M56 56H456V456H56ZM56 96H456M56 136H456M56 176H456M56 216H456M56 256H456M56 296H456M56 336H456M56 376H456M56 416H456M96 56V456M136 56V456M176 56V456M216 56V456M256 56V456M296 56V456M336 56V456M376 56V456M416 56V456"/>
+<circle cx="236" cy="196" r="14"/>
+<circle cx="356" cy="316" r="14"/>
+<circle cx="196" cy="396" r="14"/>
+<circle cx="196" cy="396" r="6"/>
+</svg>

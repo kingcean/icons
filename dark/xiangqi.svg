@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="464" height="464" rx="28" fill="#FFDA85"/>
+<path d="M80 64H432M80 106H432M80 148H432M80 190H432M80 232H432M80 280H432M80 322H432M80 364H432M80 406H432M80 448H432M80 64V448M124 64V232M124 280V448M168 64V232M168 280V448M212 64V232M212 280V448M256 64V232M256 280V448M300 64V232M300 280V448M344 64V232M344 280V448M388 64V232M388 280V448M432 64V448M212 64L300 148M300 64L212 148M212 364L300 448M300 364L212 448" fill="none" stroke="#B1843D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="168" cy="148" r="32" fill="#E5F3F9" stroke="#325B73" stroke-width="8"/>
+<path d="M152 142H184M168 128V168M156 168H180" fill="none" stroke="#325B73" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="344" cy="364" r="32" fill="#FFF3E6" stroke="#D64D66" stroke-width="8"/>
+<path d="M330 348L320 362M325 356V382M335 362H365M350 348V380M337 380H363" fill="none" stroke="#D64D66" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

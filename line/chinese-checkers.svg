@@ -1,0 +1,33 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M248 38Q256 24 264 38L323 140H442Q460 140 451 156L393 256L451 356Q460 372 442 372H323L264 474Q256 488 248 474L189 372H70Q52 372 61 356L119 256L61 156Q52 140 70 140H189Z"/>
+<g>
+<circle cx="216" cy="188" r="10"/>
+<circle cx="256" cy="188" r="10"/>
+<circle cx="296" cy="188" r="10"/>
+<circle cx="196" cy="222" r="10"/>
+<circle cx="236" cy="222" r="10"/>
+<circle cx="276" cy="222" r="10"/>
+<circle cx="316" cy="222" r="10"/>
+<circle cx="176" cy="256" r="10"/>
+<circle cx="216" cy="256" r="10"/>
+<circle cx="256" cy="256" r="10"/>
+<circle cx="296" cy="256" r="10"/>
+<circle cx="336" cy="256" r="10"/>
+<circle cx="196" cy="290" r="10"/>
+<circle cx="236" cy="290" r="10"/>
+<circle cx="276" cy="290" r="10"/>
+<circle cx="316" cy="290" r="10"/>
+<circle cx="216" cy="324" r="10"/>
+<circle cx="256" cy="324" r="10"/>
+<circle cx="296" cy="324" r="10"/>
+</g>
+<g>
+<circle cx="256" cy="104" r="20"/>
+<circle cx="388" cy="180" r="20"/>
+<circle cx="388" cy="332" r="20"/>
+<circle cx="256" cy="408" r="20"/>
+<circle cx="124" cy="332" r="20"/>
+<circle cx="124" cy="180" r="20"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path transform="translate(256 24)" d="M0 0C-30 0-52 40-52 88C-52 142-30 176 0 176C30 176 52 142 52 88C52 40 30 0 0 0Z"/>
+<path transform="translate(116 82) rotate(-20) scale(.8)" d="M0 0C-30 0-52 40-52 88C-52 142-30 176 0 176C30 176 52 142 52 88C52 40 30 0 0 0Z"/>
+<path transform="translate(396 64) rotate(20) scale(.8)" d="M0 0C-30 0-52 40-52 88C-52 142-30 176 0 176C30 176 52 142 52 88C52 40 30 0 0 0Z"/>
+<path d="M256 212V488M168 228Q218 342 236 436M344 210Q294 330 276 436M232 480Q162 352 56 280Q162 310 244 466Q252 486 232 480ZM280 480Q350 340 456 256Q350 292 268 466Q260 486 280 480Z"/>
+</svg>

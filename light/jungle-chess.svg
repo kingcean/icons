@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="464" height="464" rx="28" fill="#F3C66B"/>
+<path d="M74 58H438V454H74ZM74 102H214M298 102H438M74 146H214M298 146H438M74 190H438M74 234H126M230 234H282M386 234H438M74 278H126M230 278H282M386 278H438M74 322H438M74 366H214M298 366H438M74 410H214M298 410H438M126 58V454M178 58V190M178 322V454M230 58V80M230 166V346M230 432V454M282 58V80M282 166V346M282 432V454M334 58V190M334 322V454M386 58V454" fill="none" stroke="#A76E20" stroke-width="8" stroke-linejoin="round"/>
+<rect x="130" y="194" width="96" height="124" rx="12" fill="#168E9E"/>
+<rect x="286" y="194" width="96" height="124" rx="12" fill="#168E9E"/>
+<g fill="#C93F59">
+<path d="M232 138C232 122 242 114 256 114C270 114 280 122 280 138Q280 152 268 148Q256 144 244 148Q232 152 232 138Z"/>
+<ellipse cx="230" cy="108" rx="8" ry="10"/>
+<ellipse cx="256" cy="96" rx="8" ry="10"/>
+<ellipse cx="282" cy="108" rx="8" ry="10"/>
+</g>
+<g fill="#254C63">
+<path d="M232 402C232 386 242 378 256 378C270 378 280 386 280 402Q280 416 268 412Q256 408 244 412Q232 416 232 402Z"/>
+<ellipse cx="230" cy="372" rx="8" ry="10"/>
+<ellipse cx="256" cy="360" rx="8" ry="10"/>
+<ellipse cx="282" cy="372" rx="8" ry="10"/>
+</g>
+</svg>

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="fan">
+<path d="M0 160C-24 128-70 100-104 46Q-114 28-98 18Q-48-10-14 6L0 28L14 6Q48-10 98 18Q114 28 104 46C70 100 24 128 0 160Z"/>
+<path fill="#B7832C" opacity=".5" d="M-4 142V46Q-4 42 0 42Q4 42 4 46V142ZM-16 134Q-38 88-69 40Q-72 35-67 33Q-63 31-61 36Q-30 85-8 130ZM16 134Q38 88 69 40Q72 35 67 33Q63 31 61 36Q30 85 8 130Z"/>
+</g>
+</defs>
+<path fill="#C7A080" d="M248 174V346L177 302Q171 298 167 304Q163 310 169 314L248 382V454Q248 472 232 488H280Q264 472 264 454V382L343 314Q349 310 345 304Q341 298 335 302L264 346V174Z"/>
+<use href="#fan" fill="#FFDC60" transform="translate(256 24)"/>
+<use href="#fan" fill="#EFC04D" transform="translate(116 178) rotate(-25) scale(.9)"/>
+<use href="#fan" fill="#FFE88A" transform="translate(396 178) rotate(25) scale(.9)"/>
+</svg>

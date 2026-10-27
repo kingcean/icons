@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M216 176V192Q216 208 232 208H392Q448 208 448 264V296Q448 344 400 344H344M344 400H400Q448 400 448 448V480" fill="none" stroke="#159B95" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M152 24H280Q304 24 304 48V144Q304 176 272 176H240V192H192V176H160Q128 176 128 144V48Q128 24 152 24Z" fill="#B9DEEF"/>
+<path d="M128 112H304V144Q304 176 272 176H240V192H192V176H160Q128 176 128 144Z" fill="#28B8CE"/>
+<rect x="184" y="48" width="64" height="16" rx="8" fill="#345570"/>
+<rect x="64" y="224" width="288" height="264" rx="40" fill="#3277BE"/>
+<rect x="96" y="256" width="224" height="112" rx="16" fill="#E8F1FA"/>
+<path d="M120 320H152L168 296L192 344L216 312L232 320H296" fill="none" stroke="#159B95" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="124" cy="424" r="20" fill="#E9A52B"/>
+<path d="M192 408H304Q312 408 312 416Q312 424 304 424H192Q184 424 184 416Q184 408 192 408ZM192 440H272Q280 440 280 448Q280 456 272 456H192Q184 456 184 448Q184 440 192 440Z" fill="#E8F1FA"/>
+</svg>

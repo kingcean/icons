@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="48" y="24" width="416" height="464" rx="32"/>
+<path d="M256 24V488M48 184H464M48 344H464"/>
+<g transform="rotate(40 152 104)">
+<rect x="128" y="60" width="48" height="88" rx="24"/>
+<path d="M128 104H176"/>
+</g>
+<g transform="rotate(40 360 264)">
+<rect x="336" y="220" width="48" height="88" rx="24"/>
+<path d="M336 264H384"/>
+</g>
+<g transform="rotate(40 152 416)">
+<rect x="128" y="372" width="48" height="88" rx="24"/>
+<path d="M128 416H176"/>
+</g>
+</svg>
