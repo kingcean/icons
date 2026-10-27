@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M324 96a68 68 0 1 1-136 0 68 68 0 1 1 136 0ZM248 72V88H232a8 8 0 0 0 0 16H248V120a8 8 0 0 0 16 0V104H280a8 8 0 0 0 0-16H264V72a8 8 0 0 0-16 0Z"/>
+<circle cx="395" cy="176" r="68"/>
+<path fill-rule="evenodd" d="M463 336a68 68 0 1 1-136 0 68 68 0 1 1 136 0ZM387 312V328H371a8 8 0 0 0 0 16H387V360a8 8 0 0 0 16 0V344H419a8 8 0 0 0 0-16H403V312a8 8 0 0 0-16 0Z"/>
+<circle cx="256" cy="416" r="68"/>
+<path fill-rule="evenodd" d="M185 336a68 68 0 1 1-136 0 68 68 0 1 1 136 0ZM109 312V328H93a8 8 0 0 0 0 16H109V360a8 8 0 0 0 16 0V344H141a8 8 0 0 0 0-16H125V312a8 8 0 0 0-16 0Z"/>
+<circle cx="117" cy="176" r="68"/>
+<circle cx="256" cy="256" r="68"/>
+</svg>

@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-5-24Q0-38 5-24L11-9L26-3Q36 0 26 3L11 9L5 24Q0 38-5 24L-11 9L-26 3Q-36 0-26-3L-11-9Z"/>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#D99A32"/>
+</linearGradient>
+<linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#68D0EA"/>
+<stop offset="1" stop-color="#279DB7"/>
+</linearGradient>
+</defs>
+<path d="M60 128A196 196 0 0 0 452 128" fill="none" stroke="#9472D4" stroke-width="12" stroke-linecap="round"/>
+<g>
+<use href="#star" transform="translate(60 128) scale(1.1)" fill="url(#gold)"/>
+<use href="#star" transform="translate(86 226)" fill="url(#blue)"/>
+<use href="#star" transform="translate(158 298)" fill="url(#gold)"/>
+<use href="#star" transform="translate(256 324) scale(1.3)" fill="url(#gold)"/>
+<use href="#star" transform="translate(354 298)" fill="url(#gold)"/>
+<use href="#star" transform="translate(426 226)" fill="url(#blue)"/>
+<use href="#star" transform="translate(452 128) scale(1.1)" fill="url(#gold)"/>
+</g>
+</svg>

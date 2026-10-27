@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-4-22Q0-34 4-22L10-10L22-4Q34 0 22 4L10 10L4 22Q0 34-4 22L-10 10L-22 4Q-34 0-22-4L-10-10Z"/>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFF4CA"/>
+<stop offset="1" stop-color="#FFE69A"/>
+</linearGradient>
+<linearGradient id="arcturus" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFD197"/>
+<stop offset="1" stop-color="#FF934D"/>
+</linearGradient>
+</defs>
+<path d="M256 56L390 166L350 282L236 436L130 272L128 156Z" fill="none" stroke="#B59ADD" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+<use href="#star" transform="translate(256 56)" fill="url(#gold)"/>
+<use href="#star" transform="translate(390 166)" fill="#68D0EA"/>
+<use href="#star" transform="translate(350 282)" fill="url(#gold)"/>
+<use href="#star" transform="translate(236 436) scale(1.6)" fill="url(#arcturus)"/>
+<use href="#star" transform="translate(130 272)" fill="url(#gold)"/>
+<use href="#star" transform="translate(128 156)" fill="#68D0EA"/>
+</g>
+</svg>

@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="dehaze" x1="132" y1="412" x2="380" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A6BACB"/>
+<stop offset="1" stop-color="#65D6AD"/>
+</linearGradient>
+</defs>
+<rect x="24" y="80" width="208" height="256" rx="20" fill="#A6BACB"/>
+<rect x="44" y="100" width="168" height="216" rx="8" fill="#657D92"/>
+<circle cx="170" cy="142" r="20" fill="#C7BEA4"/>
+<path d="M48 304V288L94 238Q100 232 106 238L140 274L166 254Q172 248 178 254L208 288V304Z" fill="#94A9B5"/>
+<rect x="48" y="180" width="160" height="16" rx="8" fill="#BACBD5"/>
+<rect x="64" y="206" width="128" height="16" rx="8" fill="#BACBD5"/>
+<rect x="280" y="80" width="208" height="256" rx="20" fill="#C9D6E8"/>
+<rect x="300" y="100" width="168" height="216" rx="8" fill="#365A82"/>
+<circle cx="426" cy="142" r="20" fill="#FFB865"/>
+<path d="M304 304V288L350 238Q356 232 362 238L396 274L422 254Q428 248 434 254L464 288V304Z" fill="#65D6AD"/>
+<path d="M144 400H339L324 385Q316 377 324 369Q332 361 340 369L375 404Q383 412 375 420L340 455Q332 463 324 455Q316 447 324 439L339 424H144Q132 424 132 412Q132 400 144 400Z" fill="url(#dehaze)"/>
+</svg>

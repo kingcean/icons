@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="buoyancy-force" x1="256" y1="490" x2="256" y2="298" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#91E8C5"/>
+<stop offset="1" stop-color="#65D6AD"/>
+</linearGradient>
+</defs>
+<rect x="160" y="40" width="192" height="232" rx="24" fill="#FFB865"/>
+<path d="M160 208H352V248Q352 272 328 272H184Q160 272 160 248Z" fill="#4E91BB"/>
+<path d="M24 198Q44 182 64 198T104 198T144 198H368Q388 182 408 198T448 198T488 198V218Q468 234 448 218T408 218T368 218H144Q124 234 104 218T64 218T24 218Q16 208 24 198Z" fill="#76AAFF"/>
+<path d="M242 476V350H214Q202 350 210 340L246 302Q256 292 266 302L302 340Q310 350 298 350H270V476Q270 490 256 490Q242 490 242 476Z" fill="url(#buoyancy-force)"/>
+</svg>

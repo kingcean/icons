@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="dimension" gradientUnits="userSpaceOnUse" x1="128" y1="456" x2="488" y2="456">
+<stop offset="0" stop-color="#76AAFF"/>
+<stop offset="1" stop-color="#58D8DE"/>
+</linearGradient>
+</defs>
+<rect x="128" y="24" width="360" height="360" rx="24" fill="#91B9EF"/>
+<rect x="152" y="48" width="312" height="312" rx="12" fill="#344968"/>
+<path d="M164 344V316L248 224Q256 216 264 224L310 274L352 226Q360 218 368 226L452 316V344Z" fill="#54D6A0"/>
+<circle cx="208" cy="112" r="28" fill="#F2C373"/>
+<g fill="url(#dimension)">
+<path d="M132 450L154 428Q160 422 166 428Q172 434 166 440L160 446H456L450 440Q444 434 450 428Q456 422 462 428L484 450Q490 456 484 462L462 484Q456 490 450 484Q444 478 450 472L456 466H160L166 472Q172 478 166 484Q160 490 154 484L132 462Q126 456 132 450Z"/>
+<path transform="translate(504 -104) rotate(90)" d="M132 450L154 428Q160 422 166 428Q172 434 166 440L160 446H456L450 440Q444 434 450 428Q456 422 462 428L484 450Q490 456 484 462L462 484Q456 490 450 484Q444 478 450 472L456 466H160L166 472Q172 478 166 484Q160 490 154 484L132 462Q126 456 132 450Z"/>
+</g>
+</svg>

@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="160" y="40" width="192" height="232" rx="24"/>
+<path d="M24 208Q44 192 64 208T104 208T144 208M180 208H332M368 208Q388 192 408 208T448 208T488 208" stroke-linecap="round"/>
+<path d="M256 480V304M212 348L256 304L300 348" stroke-linecap="round"/>
+</svg>

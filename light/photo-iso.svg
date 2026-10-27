@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sensitivity" x1="432" y1="48" x2="432" y2="464" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E9A52B"/>
+<stop offset="1" stop-color="#8056CA"/>
+</linearGradient>
+</defs>
+<g fill="#334B78">
+<path d="M84 48H92Q100 48 100 56V96H76V56Q76 48 84 48ZM180 48H188Q196 48 196 56V96H172V56Q172 48 180 48ZM276 48H284Q292 48 292 56V96H268V56Q268 48 276 48ZM76 416H100V456Q100 464 92 464H84Q76 464 76 456ZM172 416H196V456Q196 464 188 464H180Q172 464 172 456ZM268 416H292V456Q292 464 284 464H276Q268 464 268 456Z"/>
+<rect x="24" y="96" width="320" height="320" rx="24"/>
+<rect x="64" y="136" width="240" height="240" rx="16" fill="#168E9C"/>
+</g>
+<g fill="#F2C373">
+<circle cx="120" cy="192" r="12"/>
+<circle cx="244" cy="196" r="16"/>
+<circle cx="184" cy="256" r="12"/>
+<circle cx="120" cy="316" r="16"/>
+<circle cx="248" cy="320" r="12"/>
+</g>
+<g>
+<rect x="422" y="48" width="20" height="416" rx="10" fill="url(#sensitivity)"/>
+<path d="M472 56H480Q488 56 488 64Q488 72 480 72H472Q464 72 464 64Q464 56 472 56ZM472 152H480Q488 152 488 160Q488 168 480 168H472Q464 168 464 160Q464 152 472 152ZM472 344H480Q488 344 488 352Q488 360 480 360H472Q464 360 464 352Q464 344 472 344ZM472 440H480Q488 440 488 448Q488 456 480 456H472Q464 456 464 448Q464 440 472 440Z" fill="#334B78"/>
+</g>
+<circle cx="432" cy="256" r="32" fill="#8056CA"/>
+</svg>

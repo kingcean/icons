@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="tile-clip">
+<rect x="48" y="48" width="416" height="416" rx="12"/>
+</clipPath>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="24" fill="#334B78"/>
+<g clip-path="url(#tile-clip)">
+<rect x="48" y="48" width="416" height="416" fill="#EDF2F7"/>
+<g fill="#B8C6D8">
+<rect x="48" y="48" width="104" height="104"/>
+<rect x="256" y="48" width="104" height="104"/>
+<rect x="152" y="152" width="104" height="104"/>
+<rect x="360" y="152" width="104" height="104"/>
+<rect x="48" y="256" width="104" height="104"/>
+<rect x="256" y="256" width="104" height="104"/>
+<rect x="152" y="360" width="104" height="104"/>
+<rect x="360" y="360" width="104" height="104"/>
+</g>
+<circle cx="144" cy="132" r="36" fill="#E9A52B" opacity="0.88"/>
+<path d="M56 352L164 244Q172 236 180 244L252 316L324 228Q332 220 340 228L456 344V444Q456 456 444 456H68Q56 456 56 444Z" fill="#168E9C" opacity="0.72"/>
+</g>
+</svg>

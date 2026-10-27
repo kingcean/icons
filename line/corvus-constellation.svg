@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-4-20Q0-32 4-20L10-10L20-4Q32 0 20 4L10 10L4 20Q0 32-4 20L-10 10L-20 4Q-32 0-20-4L-10-10Z"/>
+</defs>
+<path d="M160 330C150 270 220 226 298 246L320 212C332 170 392 164 416 200L430 218L482 232Q496 238 480 246L424 260C414 316 380 356 328 370C280 396 222 388 184 372L64 454Q50 462 54 446L104 364L32 402Q18 408 28 392Z"/>
+<path d="M200 330C218 282 256 268 284 278C254 282 224 306 212 336Q204 344 200 330Z"/>
+<circle cx="384" cy="218" r="8"/>
+<path d="M306 398L294 444H260M294 444L320 460" stroke-linecap="round"/>
+<path d="M94 84L170 56M215 77L239 123M216 168L144 192M101 169L69 129" stroke-linecap="round"/>
+<g>
+<use href="#star" transform="translate(60 96)"/>
+<use href="#star" transform="translate(204 44)"/>
+<use href="#star" transform="translate(250 156)"/>
+<use href="#star" transform="translate(110 202)"/>
+</g>
+</svg>

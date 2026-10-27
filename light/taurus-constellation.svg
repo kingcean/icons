@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="horn" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#9472D4"/>
+<stop offset="1" stop-color="#6547AA"/>
+</linearGradient>
+<linearGradient id="face" x1="196" y1="206" x2="316" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#E99B52"/>
+</linearGradient>
+</defs>
+<path d="M176 208C94 196 54 132 48 40Q46 24 38 38C10 128 36 236 150 252Q164 254 168 240L182 224Q188 212 176 208Z" fill="url(#horn)"/>
+<path d="M176 208C94 196 54 132 48 40Q46 24 38 38C10 128 36 236 150 252Q164 254 168 240L182 224Q188 212 176 208Z" transform="translate(512 0) scale(-1 1)" fill="url(#horn)"/>
+<path d="M196 218Q256 194 316 218L340 248Q384 230 408 254Q394 296 336 308L320 400Q316 464 280 480H232Q196 464 192 400L176 308Q118 296 104 254Q128 230 172 248Z" fill="url(#face)"/>
+<rect x="200" y="380" width="112" height="80" rx="36" fill="#D96F58"/>
+<path d="M204 304L228 316M308 304L284 316M232 412V424M280 412V424" fill="none" stroke="#493176" stroke-width="16" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="nucleus" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="fusion" x1="176" y1="256" x2="284" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#68D0EA"/>
+<stop offset="1" stop-color="#76AAFF"/>
+</linearGradient>
+<linearGradient id="energy" x1="344" y1="24" x2="440" y2="120" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#FFAD74"/>
+</linearGradient>
+</defs>
+<circle cx="96" cy="144" r="68" fill="url(#nucleus)"/>
+<circle cx="96" cy="368" r="68" fill="url(#nucleus)"/>
+<path d="M72 144H120M96 120V168M72 368H120M96 344V392" fill="none" stroke="#493176" stroke-width="16" stroke-linecap="round"/>
+<path d="M180 175a8 8 0 0 1 8-14L256 207V194Q256 184 264 190L280 224Q284 233 274 234L238 232Q228 231 234 224L244 218ZM180 337a8 8 0 0 0 8 14L256 305V318Q256 328 264 322L280 288Q284 279 274 278L238 280Q228 281 234 288L244 294Z" fill="url(#fusion)"/>
+<circle cx="392" cy="256" r="96" fill="url(#nucleus)"/>
+<circle cx="370" cy="234" r="24" fill="#8A342A"/>
+<circle cx="420" cy="248" r="24" fill="#FFD16B"/>
+<circle cx="386" cy="288" r="24" fill="#8A342A"/>
+<path d="M388 28Q392 18 396 28L404 50L422 40Q430 36 426 44L414 62L436 68Q448 72 436 76L414 82L426 100Q430 108 422 104L404 94L396 116Q392 126 388 116L380 94L362 104Q354 108 358 100L370 82L348 76Q336 72 348 68L370 62L358 44Q354 36 362 40L380 50Z" fill="url(#energy)"/>
+</svg>

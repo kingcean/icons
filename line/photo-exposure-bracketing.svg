@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<rect x="24" y="24" width="464" height="136" rx="20"/>
+<path d="M76 92H132"/>
+<circle cx="416" cy="64" r="14"/>
+<path d="M224 132L280 68Q288 60 296 68L336 112L360 88Q368 80 376 88L432 132Z"/>
+</g>
+<g>
+<rect x="24" y="188" width="464" height="136" rx="20"/>
+<ellipse cx="104" cy="256" rx="22" ry="30"/>
+<circle cx="416" cy="228" r="14"/>
+<path d="M224 296L280 232Q288 224 296 232L336 276L360 252Q368 244 376 252L432 296Z"/>
+</g>
+<g>
+<rect x="24" y="352" width="464" height="136" rx="20"/>
+<path d="M76 420H132M104 392V448"/>
+<circle cx="416" cy="392" r="14"/>
+<path d="M224 460L280 396Q288 388 296 396L336 440L360 416Q368 408 376 416L432 460Z"/>
+</g>
+</svg>

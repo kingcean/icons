@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<rect x="24" y="24" width="144" height="132" rx="16"/>
+<circle cx="128" cy="60" r="12"/>
+<path d="M44 132L76 92Q80 88 84 92L108 116L120 104Q124 100 128 104L148 132Z"/>
+</g>
+<g>
+<rect x="184" y="24" width="144" height="132" rx="16"/>
+<circle cx="288" cy="60" r="12"/>
+<path d="M204 132L236 92Q240 88 244 92L268 116L280 104Q284 100 288 104L308 132Z"/>
+</g>
+<g>
+<rect x="344" y="24" width="144" height="132" rx="16"/>
+<circle cx="448" cy="60" r="12"/>
+<path d="M364 132L396 92Q400 88 404 92L428 116L440 104Q444 100 448 104L468 132Z"/>
+</g>
+<g>
+<path d="M96 180V200Q96 212 108 212H404Q416 212 416 200V180M256 180V248"/>
+<rect x="64" y="272" width="384" height="216" rx="24"/>
+<circle cx="356" cy="328" r="24"/>
+<path d="M96 456L184 356Q192 348 200 356L260 420L296 388Q304 380 312 388L416 456Z"/>
+</g>
+</svg>

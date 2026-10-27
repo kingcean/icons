@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="jar" x1="64" y1="44" x2="252" y2="240" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="water" x1="290" y1="240" x2="480" y2="478" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8BE6CE"/>
+<stop offset="1" stop-color="#68D0EA"/>
+</linearGradient>
+<linearGradient id="flow" x1="278" y1="276" x2="404" y2="494" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A0E0FF"/>
+<stop offset="1" stop-color="#78AFF2"/>
+</linearGradient>
+</defs>
+<path d="M246 176L278 208L246 240L214 208C182 240 126 252 80 220C24 180 22 106 64 64C110 18 184 28 224 76C250 106 258 144 246 176Z" fill="url(#jar)"/>
+<path d="M242 252L290 204Q296 198 302 204L310 212Q316 218 310 224L262 272Q256 278 250 272L242 264Q236 258 242 252Z" fill="#F3BC62"/>
+<path d="M302 240C380 238 428 286 418 350C410 402 460 406 490 460Q496 471 486 477Q476 483 470 472C444 426 386 414 394 346C402 298 366 262 302 264Q290 264 290 252Q290 240 302 240Z" fill="url(#water)"/>
+<path d="M282 276C336 291 358 322 346 375C334 422 360 457 408 470Q420 473 416 485Q413 496 400 494C340 478 306 430 322 369C332 330 316 313 274 300Q262 296 266 284Q270 273 282 276Z" fill="url(#flow)"/>
+</svg>

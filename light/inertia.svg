@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="inertia-motion" x1="314" y1="180" x2="484" y2="180" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#43AA82"/>
+<stop offset="1" stop-color="#23876B"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="24" y="286" width="316" height="64" rx="20" fill="#5486CB"/>
+<circle cx="96" cy="394" r="28" fill="#385574"/>
+<circle cx="268" cy="394" r="28" fill="#385574"/>
+</g>
+<path d="M364 248Q364 234 378 234Q392 234 392 248V442H474Q488 442 488 456Q488 470 474 470H378Q364 470 364 456Z" fill="#63758C"/>
+<circle cx="256" cy="180" r="44" fill="#EE9A36"/>
+<path d="M328 166H424V142Q424 128 436 138L478 170Q490 180 478 190L436 222Q424 232 424 218V194H328Q314 194 314 180Q314 166 328 166Z" fill="url(#inertia-motion)"/>
+</svg>

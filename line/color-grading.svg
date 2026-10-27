@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="wheel">
+<circle cx="0" cy="0" r="104"/>
+<circle cx="0" cy="0" r="48"/>
+<circle cx="0" cy="-76" r="14"/>
+</g>
+</defs>
+<use href="#wheel" transform="translate(256 128)"/>
+<use href="#wheel" transform="translate(136 384) rotate(-60)"/>
+<use href="#wheel" transform="translate(376 384) rotate(120)"/>
+</svg>

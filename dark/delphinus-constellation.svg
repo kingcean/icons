@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-4-18Q0-28 4-18L9-9L18-4Q28 0 18 4L9 9L4 18Q0 28-4 18L-9 9L-18 4Q-28 0-18-4L-9-9Z"/>
+<linearGradient id="dolphin" x1="210" y1="210" x2="282" y2="454" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A0E9F5"/>
+<stop offset="1" stop-color="#4BB8DA"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFF4CA"/>
+<stop offset="1" stop-color="#FFE69A"/>
+</linearGradient>
+</defs>
+<path d="M102 354C144 282 210 225 288 220L302 168Q306 154 316 166L340 214C386 218 420 242 438 264L480 276Q496 280 480 292L442 306C396 332 350 350 300 354L272 402Q262 418 254 404L246 356C196 350 160 364 126 398L140 444Q144 460 130 454L94 430L62 456Q48 462 52 446L70 394L34 378Q18 370 36 366Z" fill="url(#dolphin)"/>
+<circle cx="406" cy="268" r="8" fill="#164D70"/>
+<path d="M84 88L172 48L240 112L152 152Z M152 152L108 216" fill="none" stroke="#B59ADD" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+<use href="#star" transform="translate(84 88)" fill="url(#gold)"/>
+<use href="#star" transform="translate(172 48)" fill="url(#gold)"/>
+<use href="#star" transform="translate(240 112)" fill="url(#gold)"/>
+<use href="#star" transform="translate(152 152)" fill="#68D0EA"/>
+<circle cx="108" cy="216" r="14" fill="#C1A0FF"/>
+</g>
+</svg>

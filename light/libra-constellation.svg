@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="beam" x1="24" y1="24" x2="488" y2="128" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9472D4"/>
+<stop offset="1" stop-color="#6547AA"/>
+</linearGradient>
+<linearGradient id="pans" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#D99436"/>
+</linearGradient>
+</defs>
+<path d="M48 96H232V48Q232 24 256 24Q280 24 280 48V96H464Q488 96 488 112Q488 128 464 128H48Q24 128 24 112Q24 96 48 96Z" fill="url(#beam)"/>
+<path d="M240 144H272V440H336Q360 440 360 464V476Q360 488 348 488H164Q152 488 152 476V464Q152 440 176 440H240Z" fill="#6547AA"/>
+<path d="M24 310L96 148Q104 132 112 148L184 310H166L104 180L42 310ZM328 310L400 148Q408 132 416 148L488 310H470L408 180L346 310Z" fill="#298EA8"/>
+<path d="M24 326H184Q176 408 104 408Q32 408 24 326ZM328 326H488Q480 408 408 408Q336 408 328 326Z" fill="url(#pans)"/>
+</svg>

@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M52 56H460Q488 56 488 84V428Q488 456 460 456H52Q24 456 24 428V84Q24 56 52 56ZM56 76Q44 76 44 88V424Q44 436 56 436H456Q468 436 468 424V88Q468 76 456 76Z" fill="#C9D6E8"/>
+<g fill="#65D6AD">
+<path id="texture" d="M60 205Q112 169 161 205Q168 210 163 217Q158 224 151 219Q112 191 68 219Q61 224 57 217Q53 210 60 205ZM351 205Q400 233 444 205Q451 200 455 207Q459 214 452 219Q400 255 351 219Q344 214 349 207Q350 206 351 205Z"/>
+<use href="#texture" transform="translate(0 44)"/>
+<use href="#texture" transform="translate(0 88)"/>
+</g>
+<rect x="180" y="180" width="152" height="152" rx="16" fill="none" stroke="#B69AF3" stroke-width="16" stroke-dasharray="24 16" stroke-linecap="round"/>
+<g fill="#76AAFF">
+<path id="patch" d="M208 213Q228 223 251 205Q284 182 312 197Q319 201 315 208Q311 215 304 211Q284 201 261 219Q228 242 200 227Q193 223 197 216Q201 209 208 213Z"/>
+<use href="#patch" transform="translate(0 44)"/>
+<use href="#patch" transform="translate(0 88)"/>
+</g>
+</svg>

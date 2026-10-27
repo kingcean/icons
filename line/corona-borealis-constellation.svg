@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-5-24Q0-38 5-24L11-9L26-3Q36 0 26 3L11 9L5 24Q0 38-5 24L-11 9L-26 3Q-36 0-26-3L-11-9Z"/>
+</defs>
+<path d="M71 171L76 184M116 256L128 268M198 309L209 312M303 312L314 309M384 268L396 256M436 184L441 171" stroke-linecap="round"/>
+<g>
+<use href="#star" transform="translate(60 128) scale(1.1)"/>
+<use href="#star" transform="translate(86 226)"/>
+<use href="#star" transform="translate(158 298)"/>
+<use href="#star" transform="translate(256 324) scale(1.3)"/>
+<use href="#star" transform="translate(354 298)"/>
+<use href="#star" transform="translate(426 226)"/>
+<use href="#star" transform="translate(452 128) scale(1.1)"/>
+</g>
+</svg>

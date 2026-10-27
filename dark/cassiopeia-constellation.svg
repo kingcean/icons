@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="constellation" x1="40" y1="112" x2="472" y2="368" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+</defs>
+<path d="M40 112L148 368L256 176L364 368L472 112" fill="none" stroke="url(#constellation)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#FFE69A">
+<circle cx="40" cy="112" r="24"/>
+<circle cx="148" cy="368" r="24"/>
+<circle cx="364" cy="368" r="24"/>
+<circle cx="472" cy="112" r="24"/>
+</g>
+<circle cx="256" cy="176" r="26" fill="#68D0EA"/>
+</svg>

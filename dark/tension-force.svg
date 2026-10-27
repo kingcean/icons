@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="tension-force" x1="368" y1="298" x2="368" y2="100" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#91E8C5"/>
+<stop offset="1" stop-color="#65D6AD"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="24" rx="12" fill="#76AAFF"/>
+<rect x="244" y="48" width="24" height="304" rx="12" fill="#B7C8DE"/>
+<rect x="160" y="328" width="192" height="160" rx="24" fill="#FFB865"/>
+<path d="M354 284V154H328Q314 154 324 142L358 106Q368 96 378 106L412 142Q422 154 408 154H382V284Q382 298 368 298Q354 298 354 284Z" fill="url(#tension-force)"/>
+</svg>

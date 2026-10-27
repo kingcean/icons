@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="friction-force" x1="262" y1="248" x2="40" y2="248" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#EB826B"/>
+<stop offset="1" stop-color="#C84B53"/>
+</linearGradient>
+<linearGradient id="friction-motion" x1="310" y1="96" x2="466" y2="96" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#43AA82"/>
+<stop offset="1" stop-color="#23876B"/>
+</linearGradient>
+</defs>
+<rect x="288" y="168" width="168" height="160" rx="20" fill="#EE9A36"/>
+<path d="M248 234Q262 234 262 248Q262 262 248 262H100V286Q100 300 90 290L46 258Q34 248 46 238L90 206Q100 196 100 210V234Z" fill="url(#friction-force)"/>
+<path d="M320 86H416V68Q416 56 426 66L460 88Q470 96 460 104L426 126Q416 136 416 124V106H320Q310 106 310 96Q310 86 320 86Z" fill="url(#friction-motion)"/>
+<path d="M36 352H476Q488 352 488 364Q488 376 476 376H430L382 424Q376 430 370 424Q364 418 370 412L406 376H350L302 424Q296 430 290 424Q284 418 290 412L326 376H270L222 424Q216 430 210 424Q204 418 210 412L246 376H190L142 424Q136 430 130 424Q124 418 130 412L166 376H110L62 424Q56 430 50 424Q44 418 50 412L86 376H36Q24 376 24 364Q24 352 36 352Z" fill="#5486CB"/>
+</svg>

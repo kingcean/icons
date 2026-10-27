@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M72 24H440Q464 24 464 48V128Q464 152 440 152H72Q48 152 48 128V48Q48 24 72 24ZM80 44Q68 44 68 56V120Q68 132 80 132H432Q444 132 444 120V56Q444 44 432 44Z"/>
+<g>
+<rect x="88" y="48" width="104" height="32" rx="8"/>
+<rect x="204" y="48" width="104" height="32" rx="8"/>
+<rect x="320" y="48" width="104" height="32" rx="8"/>
+<rect x="88" y="96" width="104" height="32" rx="8"/>
+<rect x="204" y="96" width="104" height="32" rx="8"/>
+<rect x="320" y="96" width="104" height="32" rx="8"/>
+</g>
+<path fill-rule="evenodd" d="M72 192H440Q464 192 464 216V296Q464 320 440 320H72Q48 320 48 296V216Q48 192 72 192ZM80 212Q68 212 68 224V288Q68 300 80 300H432Q444 300 444 288V224Q444 212 432 212Z"/>
+<path fill-rule="evenodd" d="M300 256A44 44 0 1 0 212 256A44 44 0 1 0 300 256ZM284 256A28 28 0 1 0 228 256A28 28 0 1 0 284 256Z"/>
+<circle cx="256" cy="256" r="16"/>
+<path fill-rule="evenodd" d="M72 360H440Q464 360 464 384V464Q464 488 440 488H72Q48 488 48 464V384Q48 360 72 360ZM80 380Q68 380 68 392V456Q68 468 80 468H432Q444 468 444 456V392Q444 380 432 380Z"/>
+<circle cx="256" cy="424" r="16"/>
+</svg>

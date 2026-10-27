@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="head" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#FFAD74"/>
+</linearGradient>
+<linearGradient id="first" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="second" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#68D0EA"/>
+<stop offset="1" stop-color="#76AAFF"/>
+</linearGradient>
+</defs>
+<circle cx="132" cy="80" r="52" fill="url(#head)"/>
+<circle cx="380" cy="80" r="52" fill="url(#head)"/>
+<path d="M104 156H160Q192 156 204 188L236 276Q242 292 228 298Q212 304 206 288L184 230V328L198 460Q200 480 180 484Q160 488 158 468L144 360H120L106 468Q104 488 84 484Q64 480 66 460L80 328V230L58 288Q52 304 36 298Q22 292 28 276L60 188Q72 156 104 156Z" fill="url(#first)"/>
+<path d="M104 156H160Q192 156 204 188L236 276Q242 292 228 298Q212 304 206 288L184 230V328L198 460Q200 480 180 484Q160 488 158 468L144 360H120L106 468Q104 488 84 484Q64 480 66 460L80 328V230L58 288Q52 304 36 298Q22 292 28 276L60 188Q72 156 104 156Z" transform="translate(248 0)" fill="url(#second)"/>
+</svg>

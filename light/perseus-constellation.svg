@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="helmet" x1="44" y1="296" x2="244" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9472D4"/>
+<stop offset="1" stop-color="#6547AA"/>
+</linearGradient>
+<linearGradient id="blade" x1="82" y1="24" x2="142" y2="192" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#D99436"/>
+</linearGradient>
+</defs>
+<path d="M104 26Q112 16 120 26L142 60V192H82V60Z" fill="url(#blade)"/>
+<path d="M112 64V168" fill="none" stroke="#FFF2BC" stroke-width="12" stroke-linecap="round"/>
+<rect x="58" y="208" width="108" height="20" rx="10" fill="#6547AA"/>
+<rect x="96" y="244" width="32" height="36" rx="8" fill="#298EA8"/>
+<path d="M44 396C44 334 82 296 144 296C206 296 244 334 244 396V464Q244 480 228 480H180Q168 480 168 468V410H120V468Q120 480 108 480H60Q44 480 44 464Z" fill="url(#helmet)"/>
+<path d="M78 374H210" fill="none" stroke="#D6C2F2" stroke-width="16" stroke-linecap="round"/>
+<path d="M312 48L354 168L472 120M354 168L408 292L316 368M408 292L468 468" fill="none" stroke="#8060BE" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#E9B33E">
+<circle cx="312" cy="48" r="22"/>
+<circle cx="472" cy="120" r="22"/>
+<circle cx="316" cy="368" r="22"/>
+<circle cx="468" cy="468" r="22"/>
+</g>
+<g fill="#298EA8">
+<circle cx="354" cy="168" r="24"/>
+<circle cx="408" cy="292" r="24"/>
+</g>
+</svg>

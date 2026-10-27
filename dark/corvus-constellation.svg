@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-4-20Q0-32 4-20L10-10L20-4Q32 0 20 4L10 10L4 20Q0 32-4 20L-10 10L-20 4Q-32 0-20-4L-10-10Z"/>
+<linearGradient id="crow" x1="240" y1="180" x2="260" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A0B6DD"/>
+<stop offset="1" stop-color="#6B83AE"/>
+</linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFF4CA"/>
+<stop offset="1" stop-color="#FFE69A"/>
+</linearGradient>
+</defs>
+<path d="M306 380L294 444H260M294 444L320 460" fill="none" stroke="#FFE69A" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M160 330C150 270 220 226 298 246L320 212C332 170 392 164 416 200L430 218L482 232Q496 238 480 246L424 260C414 316 380 356 328 370C280 396 222 388 184 372L64 454Q50 462 54 446L104 364L32 402Q18 408 28 392Z" fill="url(#crow)"/>
+<path d="M200 330C218 282 256 268 284 278C254 282 224 306 212 336Q204 344 200 330Z" fill="#D1DFFF"/>
+<circle cx="384" cy="218" r="8" fill="#28364F"/>
+<path d="M60 96L204 44L250 156L110 202Z" fill="none" stroke="#B59ADD" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+<use href="#star" transform="translate(60 96)" fill="url(#gold)"/>
+<use href="#star" transform="translate(204 44)" fill="url(#gold)"/>
+<use href="#star" transform="translate(250 156)" fill="#68D0EA"/>
+<use href="#star" transform="translate(110 202)" fill="url(#gold)"/>
+</g>
+</svg>

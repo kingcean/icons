@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="texture-control" x1="36" y1="452" x2="344" y2="452" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5486CB"/>
+<stop offset="1" stop-color="#43AA82"/>
+</linearGradient>
+</defs>
+<circle cx="222" cy="204" r="168" fill="#253450"/>
+<circle cx="222" cy="204" r="148" fill="#DDEEF9"/>
+<g>
+<rect x="124" y="120" width="44" height="44" rx="8" fill="#5486CB"/>
+<rect x="206" y="112" width="28" height="28" rx="6" fill="#43AA82"/>
+<rect x="268" y="126" width="48" height="48" rx="8" fill="#5486CB"/>
+<rect x="116" y="204" width="28" height="28" rx="6" fill="#43AA82"/>
+<rect x="186" y="182" width="64" height="64" rx="12" fill="#23876B"/>
+<rect x="282" y="216" width="32" height="32" rx="6" fill="#43AA82"/>
+<rect x="148" y="270" width="48" height="48" rx="8" fill="#5486CB"/>
+<rect x="230" y="280" width="28" height="28" rx="6" fill="#43AA82"/>
+</g>
+<path d="M366 340L474 448Q484 458 474 468Q464 478 454 468L346 360Q336 350 346 340Q356 330 366 340Z" fill="#5486CB"/>
+<rect x="36" y="442" width="308" height="20" rx="10" fill="url(#texture-control)"/>
+<circle cx="190" cy="452" r="24" fill="#EE9A36"/>
+</svg>

@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="fishA" x1="24" y1="64" x2="448" y2="208" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="fishB" x1="64" y1="304" x2="488" y2="448" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#68D0EA"/>
+<stop offset="1" stop-color="#8BE6CE"/>
+</linearGradient>
+</defs>
+<path d="M478 130C524 202 488 270 416 270C312 270 200 254 96 270C32 282 30 330 46 372Q50 384 38 388Q26 392 22 380C2 320 14 260 92 246C200 230 308 246 416 246C472 246 494 194 458 142Q452 132 462 126Q472 120 478 130Z" fill="#F3BC62"/>
+<path d="M100 104C200 24 352 32 448 128Q456 136 448 144C352 240 200 248 100 168L36 208Q24 216 24 202V70Q24 56 36 64Z" fill="url(#fishA)"/>
+<path d="M412 408C312 488 160 480 64 384Q56 376 64 368C160 272 312 264 412 344L476 304Q488 296 488 310V442Q488 456 476 448Z" fill="url(#fishB)"/>
+<circle cx="388" cy="128" r="10" fill="#493176"/>
+<circle cx="124" cy="384" r="10" fill="#493176"/>
+</svg>

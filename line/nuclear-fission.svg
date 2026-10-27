@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="124" cy="256" r="100"/>
+<path d="M246 240L294 180M264 184L294 180L298 210M246 272L294 332M264 328L294 332L298 302" stroke-linecap="round"/>
+<circle cx="372" cy="132" r="68"/>
+<circle cx="372" cy="380" r="68"/>
+<circle cx="98" cy="230" r="24"/>
+<circle cx="154" cy="246" r="24"/>
+<circle cx="114" cy="288" r="24"/>
+<circle cx="350" cy="114" r="20"/>
+<circle cx="390" cy="150" r="20"/>
+<circle cx="350" cy="362" r="20"/>
+<circle cx="390" cy="398" r="20"/>
+<circle cx="240" cy="48" r="20"/>
+<circle cx="472" cy="256" r="20"/>
+<circle cx="240" cy="464" r="20"/>
+</svg>

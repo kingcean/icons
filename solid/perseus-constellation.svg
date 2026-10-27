@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M104 26Q112 16 120 26L142 60V192H82V60Z"/>
+<rect x="58" y="208" width="108" height="20" rx="10"/>
+<rect x="96" y="244" width="32" height="36" rx="8"/>
+<path fill-rule="evenodd" d="M44 396C44 334 82 296 144 296C206 296 244 334 244 396V464Q244 480 228 480H180Q168 480 168 468V410H120V468Q120 480 108 480H60Q44 480 44 464ZM78 366Q70 366 70 374Q70 382 78 382H210Q218 382 218 374Q218 366 210 366Z"/>
+<rect x="0" y="-8" width="68" height="16" rx="8" transform="translate(322 76) rotate(71)"/>
+<rect x="0" y="-8" width="67" height="16" rx="8" transform="translate(382 157) rotate(-22.75)"/>
+<rect x="0" y="-8" width="76" height="16" rx="8" transform="translate(366 195) rotate(66.8)"/>
+<rect x="0" y="-8" width="62" height="16" rx="8" transform="translate(388 312) rotate(144.25)"/>
+<rect x="0" y="-8" width="125" height="16" rx="8" transform="translate(421 320) rotate(74.18)"/>
+<circle cx="312" cy="48" r="20"/>
+<circle cx="354" cy="168" r="20"/>
+<circle cx="472" cy="120" r="20"/>
+<circle cx="408" cy="292" r="20"/>
+<circle cx="316" cy="368" r="20"/>
+<circle cx="468" cy="468" r="20"/>
+</svg>

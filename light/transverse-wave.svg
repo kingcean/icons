@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="propagation" x1="158" y1="144" x2="488" y2="144" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#43AA82"/>
+<stop offset="1" stop-color="#23876B"/>
+</linearGradient>
+<linearGradient id="vibration" x1="88" y1="76" x2="88" y2="244" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F8BA59"/>
+<stop offset="1" stop-color="#E58A28"/>
+</linearGradient>
+</defs>
+<path d="M32 324C60 224 116 224 144 324S228 424 256 324S340 224 368 324S452 424 480 324A12 12 0 0 1 480 348C452 448 396 448 368 348S284 248 256 348S172 448 144 348S60 248 32 348A12 12 0 0 1 32 324Z" fill="#5486CB"/>
+<path d="M74 126H56Q42 126 52 114L78 84Q88 72 98 84L124 114Q134 126 120 126H102V194H120Q134 194 124 206L98 236Q88 248 78 236L52 206Q42 194 56 194H74Z" fill="url(#vibration)"/>
+<path d="M172 130H428V108Q428 94 440 104L478 134Q490 144 478 154L440 184Q428 194 428 180V158H172Q158 158 158 144Q158 130 172 130Z" fill="url(#propagation)"/>
+</svg>

@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="dragon" x1="184" y1="34" x2="332" y2="484" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9472D4"/>
+<stop offset="1" stop-color="#6547AA"/>
+</linearGradient>
+</defs>
+<path d="M350 76L352 34Q354 22 364 34L392 64Q422 60 442 84L480 98Q492 102 486 116L470 142Q466 150 452 148L414 142C340 140 260 160 250 200C236 236 382 222 420 300C484 418 288 504 88 484L28 472Q14 468 34 464C210 464 350 418 372 362C396 314 326 310 254 292C202 280 164 260 164 206C164 128 244 82 350 76Z" fill="url(#dragon)"/>
+<path d="M350 76L352 34Q354 22 364 34L392 64Z" fill="#D99436"/>
+<circle cx="426" cy="100" r="8" fill="#F2E7FF"/>
+<path d="M360 110L254 146L208 210L290 258L394 326L336 410L220 470" fill="none" stroke="#D6C2F2" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#FFD16B">
+<circle cx="360" cy="110" r="20"/>
+<circle cx="254" cy="146" r="20"/>
+<circle cx="208" cy="210" r="20"/>
+<circle cx="394" cy="326" r="20"/>
+<circle cx="336" cy="410" r="20"/>
+<circle cx="220" cy="470" r="18"/>
+</g>
+<circle cx="290" cy="258" r="22" fill="#47BCD2"/>
+</svg>

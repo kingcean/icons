@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="clarity-control" x1="112" y1="424" x2="400" y2="424" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#91A8B8"/>
+<stop offset="1" stop-color="#5486CB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="80" width="208" height="256" rx="20" fill="#75899D"/>
+<rect x="44" y="100" width="168" height="216" rx="8" fill="#A5B8C8"/>
+<g>
+<rect x="56" y="120" width="60" height="68" rx="18" fill="#BCCAD4"/>
+<rect x="140" y="120" width="60" height="68" rx="18" fill="#8FA4B6"/>
+<rect x="56" y="220" width="60" height="76" rx="18" fill="#8FA4B6"/>
+<rect x="140" y="220" width="60" height="76" rx="18" fill="#BCCAD4"/>
+</g>
+<rect x="280" y="80" width="208" height="256" rx="20" fill="#253450"/>
+<rect x="300" y="100" width="168" height="216" rx="8" fill="#5486CB"/>
+<g>
+<rect x="312" y="120" width="60" height="68" rx="8" fill="#DDEEF9"/>
+<rect x="396" y="120" width="60" height="68" rx="8" fill="#253450"/>
+<rect x="312" y="220" width="60" height="76" rx="8" fill="#253450"/>
+<rect x="396" y="220" width="60" height="76" rx="8" fill="#DDEEF9"/>
+</g>
+<rect x="112" y="414" width="288" height="20" rx="10" fill="url(#clarity-control)"/>
+<circle cx="276" cy="424" r="24" fill="#EE9A36"/>
+</svg>

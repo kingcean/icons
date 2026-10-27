@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="checker-clip">
+<path clip-rule="evenodd" d="M48 48H464V464H48ZM196 132A52 52 0 1 0 92 132A52 52 0 1 0 196 132ZM40 344L156 232Q172 216 188 232L252 292L316 216Q332 200 348 216L472 336V472H40Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="24"/>
+<g clip-path="url(#checker-clip)">
+<rect x="56" y="56" width="96" height="96" rx="8"/>
+<rect x="256" y="56" width="96" height="96" rx="8"/>
+<rect x="156" y="156" width="96" height="96" rx="8"/>
+<rect x="356" y="156" width="96" height="96" rx="8"/>
+<rect x="56" y="256" width="96" height="96" rx="8"/>
+<rect x="256" y="256" width="96" height="96" rx="8"/>
+<rect x="156" y="356" width="96" height="96" rx="8"/>
+<rect x="356" y="356" width="96" height="96" rx="8"/>
+</g>
+<circle cx="144" cy="132" r="36"/>
+<path d="M56 352L164 244Q172 236 180 244L252 316L324 228Q332 220 340 228L456 344V444Q456 456 444 456H68Q56 456 56 444Z"/>
+</svg>

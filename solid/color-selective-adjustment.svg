@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="72" cy="88" r="44"/>
+<circle cx="192" cy="88" r="42"/>
+<circle cx="312" cy="88" r="44"/>
+<circle cx="432" cy="88" r="44"/>
+<path fill-rule="evenodd" d="M192 24A64 64 0 1 0 192 152A64 64 0 1 0 192 24ZM192 34A54 54 0 1 0 192 142A54 54 0 1 0 192 34Z"/>
+<path d="M182 180Q182 170 192 170Q202 170 202 180V212Q202 222 192 222Q182 222 182 212Z"/>
+<path d="M34 262H152V282H34Q24 282 24 272Q24 262 34 262ZM232 262H478Q488 262 488 272Q488 282 478 282H232ZM34 422H320V442H34Q24 442 24 432Q24 422 34 422ZM400 422H478Q488 422 488 432Q488 442 478 442H400Z"/>
+<circle cx="192" cy="272" r="28"/>
+<circle cx="360" cy="432" r="28"/>
+</svg>

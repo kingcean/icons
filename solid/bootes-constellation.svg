@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-4-22Q0-34 4-22L10-10L22-4Q34 0 22 4L10 10L4 22Q0 34-4 22L-10 10L-22 4Q-34 0-22-4L-10-10Z"/>
+</defs>
+<rect x="0" y="-6" width="98" height="12" rx="6" transform="translate(285 80) rotate(40)"/>
+<rect x="0" y="-6" width="51" height="12" rx="6" transform="translate(380 200) rotate(110.6)"/>
+<rect x="0" y="-6" width="104" height="12" rx="6" transform="translate(330 310) rotate(125.2)"/>
+<rect x="0" y="-6" width="105" height="12" rx="6" transform="translate(201 394) rotate(-119)"/>
+<rect x="0" y="-6" width="48" height="12" rx="6" transform="translate(129 238) rotate(-91.2)"/>
+<rect x="0" y="-6" width="101" height="12" rx="6" transform="translate(152 137) rotate(-37.8)"/>
+<g>
+<use href="#star" transform="translate(256 56)"/>
+<use href="#star" transform="translate(390 166)"/>
+<use href="#star" transform="translate(350 282)"/>
+<use href="#star" transform="translate(236 436) scale(1.6)"/>
+<use href="#star" transform="translate(130 272)"/>
+<use href="#star" transform="translate(128 156)"/>
+</g>
+</svg>

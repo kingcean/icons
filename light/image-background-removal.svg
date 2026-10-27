@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<rect id="tile" width="40" height="40" rx="6"/>
+</defs>
+<path fill-rule="evenodd" d="M52 56H460Q488 56 488 84V428Q488 456 460 456H52Q24 456 24 428V84Q24 56 52 56ZM56 76Q44 76 44 88V424Q44 436 56 436H456Q468 436 468 424V88Q468 76 456 76Z" fill="#253450"/>
+<g fill="#B7C5D8">
+<use href="#tile" x="64" y="120"/>
+<use href="#tile" x="120" y="176"/>
+<use href="#tile" x="64" y="232"/>
+<use href="#tile" x="120" y="288"/>
+<use href="#tile" x="64" y="344"/>
+<use href="#tile" x="120" y="400"/>
+<use href="#tile" x="352" y="120"/>
+<use href="#tile" x="408" y="176"/>
+<use href="#tile" x="352" y="232"/>
+<use href="#tile" x="408" y="288"/>
+<use href="#tile" x="352" y="344"/>
+<use href="#tile" x="408" y="400"/>
+</g>
+<circle cx="256" cy="184" r="44" fill="#EE9A36"/>
+<path d="M192 406H320Q336 406 336 390V332Q336 252 280 252H232Q176 252 176 332V390Q176 406 192 406Z" fill="#43AA82"/>
+</svg>

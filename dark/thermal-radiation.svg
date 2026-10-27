@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="heat" x1="208" y1="232" x2="304" y2="328" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#FF8585"/>
+</linearGradient>
+<linearGradient id="radiation" x1="256" y1="184" x2="256" y2="24" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF8585"/>
+<stop offset="1" stop-color="#FFCB68"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="280" r="72" fill="url(#heat)"/>
+<path d="M251 184C202 156 278 134 251 120C221 103 226 82 246 67V60H230Q221 60 227 53L250 29Q256 23 262 29L285 53Q291 60 282 60H266V72Q266 77 260 81C246 90 245 96 261 104C310 132 238 158 261 168Q269 173 265 180Q261 188 251 184Z" fill="url(#radiation)"/>
+<path d="M251 184C202 156 278 134 251 120C221 103 226 82 246 67V60H230Q221 60 227 53L250 29Q256 23 262 29L285 53Q291 60 282 60H266V72Q266 77 260 81C246 90 245 96 261 104C310 132 238 158 261 168Q269 173 265 180Q261 188 251 184Z" transform="rotate(120 256 280)" fill="url(#radiation)"/>
+<path d="M251 184C202 156 278 134 251 120C221 103 226 82 246 67V60H230Q221 60 227 53L250 29Q256 23 262 29L285 53Q291 60 282 60H266V72Q266 77 260 81C246 90 245 96 261 104C310 132 238 158 261 168Q269 173 265 180Q261 188 251 184Z" transform="rotate(240 256 280)" fill="url(#radiation)"/>
+</svg>

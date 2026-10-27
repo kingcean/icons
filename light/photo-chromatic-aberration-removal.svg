@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="fringes">
+<circle cx="128" cy="210" r="82"/>
+</clipPath>
+<linearGradient id="correction" x1="132" y1="410" x2="380" y2="410" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E96568"/>
+<stop offset="0.5" stop-color="#5486CB"/>
+<stop offset="1" stop-color="#43AA82"/>
+</linearGradient>
+</defs>
+<circle cx="128" cy="210" r="102" fill="#253450"/>
+<circle cx="128" cy="210" r="82" fill="#DDEEF9"/>
+<g clip-path="url(#fringes)">
+<rect x="46" y="128" width="62" height="164" fill="#50607B"/>
+<rect x="108" y="128" width="28" height="164" fill="#E96568"/>
+<rect x="136" y="128" width="28" height="164" fill="#5486CB"/>
+</g>
+<circle cx="384" cy="210" r="102" fill="#253450"/>
+<circle cx="384" cy="210" r="82" fill="#DDEEF9"/>
+<path d="M384 128A82 82 0 0 0 384 292Z" fill="#50607B"/>
+<path d="M144 398H339L324 383Q316 375 324 367Q332 359 340 367L375 402Q383 410 375 418L340 453Q332 461 324 453Q316 445 324 437L339 422H144Q132 422 132 410Q132 398 144 398Z" fill="url(#correction)"/>
+</svg>

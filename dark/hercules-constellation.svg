@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="hero" x1="112" y1="140" x2="320" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="club" x1="420" y1="24" x2="462" y2="328" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#F3BC62"/>
+</linearGradient>
+</defs>
+<circle cx="246" cy="72" r="44" fill="#C1A0FF"/>
+<path d="M190 140Q174 134 160 148L122 198L86 170L102 142Q108 132 98 124L82 114Q72 108 66 118L36 164Q26 182 40 198L106 258Q124 274 142 258L172 232L184 312L156 462Q152 488 176 488H198Q210 488 214 474L242 366H254L282 474Q286 488 298 488H320Q344 488 340 462L312 312L324 230L346 238Q356 242 368 236L398 218Q408 212 402 202L390 182Q384 172 374 178L352 190L320 152Q310 140 294 140Q246 158 190 140Z" fill="url(#hero)"/>
+<path d="M446 24Q482 24 486 58L492 136Q494 160 474 172L448 184L440 316Q438 330 424 328L410 326Q398 324 400 310L414 178L400 158Q390 142 398 122L414 52Q420 24 446 24Z" fill="url(#club)"/>
+<path d="M202 196H290L278 286H214Z" fill="none" stroke="#65478F" stroke-width="12" stroke-linejoin="round"/>
+<g fill="#FFE69A">
+<circle cx="290" cy="196" r="16"/>
+<circle cx="278" cy="286" r="16"/>
+<circle cx="214" cy="286" r="16"/>
+</g>
+<circle cx="202" cy="196" r="18" fill="#68D0EA"/>
+</svg>

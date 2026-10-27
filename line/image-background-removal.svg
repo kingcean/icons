@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<rect id="tile" width="40" height="40" rx="6"/>
+</defs>
+<rect x="24" y="56" width="464" height="400" rx="28"/>
+<g>
+<use href="#tile" x="64" y="120"/>
+<use href="#tile" x="120" y="176"/>
+<use href="#tile" x="64" y="232"/>
+<use href="#tile" x="120" y="288"/>
+<use href="#tile" x="64" y="344"/>
+<use href="#tile" x="120" y="400"/>
+<use href="#tile" x="352" y="120"/>
+<use href="#tile" x="408" y="176"/>
+<use href="#tile" x="352" y="232"/>
+<use href="#tile" x="408" y="288"/>
+<use href="#tile" x="352" y="344"/>
+<use href="#tile" x="408" y="400"/>
+</g>
+<circle cx="256" cy="184" r="44"/>
+<path d="M192 406H320Q336 406 336 390V332Q336 252 280 252H232Q176 252 176 332V390Q176 406 192 406Z"/>
+</svg>

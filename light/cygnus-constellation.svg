@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="swan" x1="100" y1="24" x2="368" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9472D4"/>
+<stop offset="1" stop-color="#6547AA"/>
+</linearGradient>
+</defs>
+<path d="M220 184C160 190 84 172 36 144Q22 136 26 154C44 234 114 316 220 340L236 474Q238 488 256 488Q274 488 276 474L292 340C398 316 468 234 486 154Q490 136 476 144C428 172 352 190 292 184V118Q292 98 306 108L326 118Q334 122 340 114L352 100Q356 94 348 90L330 82C328 46 302 24 270 24C238 24 220 48 220 82Q220 104 236 116V184Z" fill="url(#swan)"/>
+<path d="M330 82L348 90Q356 94 352 100L340 114Q334 122 326 118L314 112Z" fill="#D99436"/>
+<circle cx="304" cy="68" r="6" fill="#F2E7FF"/>
+<path d="M256 112V440M112 256H400" fill="none" stroke="#D6C2F2" stroke-width="16" stroke-linecap="round"/>
+<g fill="#FFD16B">
+<circle cx="256" cy="112" r="18"/>
+<circle cx="112" cy="256" r="18"/>
+<circle cx="400" cy="256" r="18"/>
+<circle cx="256" cy="440" r="16"/>
+</g>
+<circle cx="256" cy="256" r="24" fill="#47BCD2"/>
+</svg>

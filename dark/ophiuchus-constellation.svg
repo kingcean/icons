@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bearer" x1="128" y1="220" x2="342" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="serpent" x1="40" y1="150" x2="464" y2="222" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#F3BC62"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="76" r="44" fill="#C1A0FF"/>
+<path d="M194 236Q180 232 168 246L130 286L88 210Q82 198 70 204L52 214Q42 220 48 232L104 328Q116 348 136 338L178 306L188 344L160 462Q154 488 178 488H200Q212 488 216 474L246 386H266L296 474Q300 488 312 488H334Q358 488 352 462L324 344L334 306L376 338Q396 348 408 328L464 232Q470 220 460 214L442 204Q430 198 424 210L382 286L344 246Q332 232 318 236Q256 216 194 236Z" fill="url(#bearer)"/>
+<path d="M28 178C60 142 92 142 126 170C160 198 190 198 224 170C256 142 288 142 322 170C354 198 386 198 416 170C434 152 458 150 482 162Q498 174 482 188L464 198Q450 204 436 196C396 242 354 238 302 198C274 174 252 174 230 198C188 238 148 238 108 198C84 178 66 178 48 198Q38 208 28 198Q20 188 28 178Z" fill="url(#serpent)"/>
+<circle cx="462" cy="174" r="7" fill="#51377D"/>
+</svg>

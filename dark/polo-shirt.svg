@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="fabric" x1="152" y1="32" x2="360" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFA58D"/>
+<stop offset="1" stop-color="#F1748A"/>
+</linearGradient>
+</defs>
+<path d="M194 32H220Q256 80 292 32H318L382 62Q396 68 404 84L486 194Q494 206 482 214L428 250Q416 258 408 246L360 182V458Q360 480 338 480H174Q152 480 152 458V182L104 246Q96 258 84 250L30 214Q18 206 26 194L108 84Q116 68 130 62Z" fill="url(#fabric)"/>
+<path d="M194 32L256 80L218 138Q214 144 210 136L180 38ZM318 32L256 80L294 138Q298 144 302 136L332 38Z" fill="#A34C68"/>
+<rect x="238" y="154" width="36" height="94" rx="8" fill="#A34C68"/>
+<path d="M264 178A8 8 0 1 0 248 178A8 8 0 1 0 264 178ZM264 222A8 8 0 1 0 248 222A8 8 0 1 0 264 222Z" fill="#FFE69A"/>
+</svg>

@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="cepheus" x1="48" y1="164" x2="408" y2="472" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="crown" x1="176" y1="28" x2="330" y2="116" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE69A"/>
+<stop offset="1" stop-color="#F3BC62"/>
+</linearGradient>
+</defs>
+<path d="M48 280L256 164L464 280L408 472H104Z" fill="none" stroke="url(#cepheus)" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M176 42L216 68L248 28Q256 18 264 28L296 68L336 42Q346 36 344 48L330 108Q328 116 320 116H192Q184 116 182 108L168 48Q166 36 176 42Z" fill="url(#crown)"/>
+<g fill="#FFE69A">
+<circle cx="48" cy="280" r="22"/>
+<circle cx="464" cy="280" r="22"/>
+<circle cx="408" cy="472" r="22"/>
+<circle cx="104" cy="472" r="22"/>
+</g>
+<circle cx="256" cy="164" r="24" fill="#68D0EA"/>
+</svg>

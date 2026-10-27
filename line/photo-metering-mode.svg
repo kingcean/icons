@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="48" y="24" width="416" height="128" rx="24"/>
+<g>
+<rect x="88" y="48" width="104" height="32" rx="8"/>
+<rect x="204" y="48" width="104" height="32" rx="8"/>
+<rect x="320" y="48" width="104" height="32" rx="8"/>
+<rect x="88" y="96" width="104" height="32" rx="8"/>
+<rect x="204" y="96" width="104" height="32" rx="8"/>
+<rect x="320" y="96" width="104" height="32" rx="8"/>
+</g>
+<rect x="48" y="192" width="416" height="128" rx="24"/>
+<circle cx="256" cy="256" r="44"/>
+<circle cx="256" cy="256" r="16"/>
+<rect x="48" y="360" width="416" height="128" rx="24"/>
+<circle cx="256" cy="424" r="14"/>
+</svg>

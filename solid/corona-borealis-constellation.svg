@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="star" d="M-5-24Q0-38 5-24L11-9L26-3Q36 0 26 3L11 9L5 24Q0 38-5 24L-11 9L-26 3Q-36 0-26-3L-11-9Z"/>
+</defs>
+<path d="M65 173Q63 167 69 165Q75 163 77 169L82 182Q84 188 78 190Q72 192 70 186ZM112 260Q108 256 112 252Q116 248 120 252L132 264Q136 268 132 272Q128 276 124 272ZM196 315Q190 313 192 307Q194 301 200 303L211 306Q217 308 215 314Q213 320 207 318ZM301 306L312 303Q318 301 320 307Q322 313 316 315L305 318Q299 320 297 314Q295 308 301 306ZM380 264L392 252Q396 248 400 252Q404 256 400 260L388 272Q384 276 380 272Q376 268 380 264ZM430 182L435 169Q437 163 443 165Q449 167 447 173L442 186Q440 192 434 190Q428 188 430 182Z"/>
+<g>
+<use href="#star" transform="translate(60 128) scale(1.1)"/>
+<use href="#star" transform="translate(86 226)"/>
+<use href="#star" transform="translate(158 298)"/>
+<use href="#star" transform="translate(256 324) scale(1.3)"/>
+<use href="#star" transform="translate(354 298)"/>
+<use href="#star" transform="translate(426 226)"/>
+<use href="#star" transform="translate(452 128) scale(1.1)"/>
+</g>
+</svg>

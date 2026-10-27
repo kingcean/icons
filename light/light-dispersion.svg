@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="prism" x1="132" y1="250" x2="380" y2="250" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D0F0F4"/>
+<stop offset="1" stop-color="#71BDDA"/>
+</linearGradient>
+<linearGradient id="beam" x1="24" y1="252" x2="176" y2="252" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#DCE5EF"/>
+<stop offset="1" stop-color="#FFFFFF"/>
+</linearGradient>
+</defs>
+<path d="M246 82Q256 64 266 82L380 410Q388 424 372 424H140Q124 424 132 410Z" fill="url(#prism)" stroke="#298EA8" stroke-width="12" stroke-linejoin="round"/>
+<path d="M256 128V396" fill="none" stroke="#53AAC4" stroke-width="12" stroke-linecap="round"/>
+<rect x="24" y="238" width="152" height="28" rx="12" fill="url(#beam)" stroke="#8299B1" stroke-width="8"/>
+<g>
+<path d="M333 207L475 107Q482 102 487 109Q492 116 485 121L343 221Q336 226 331 219Q326 212 333 207Z" fill="#E85B5B"/>
+<path d="M343 226L477 166Q485 162 489 170Q493 178 483 182L349 242Q341 246 337 238Q333 230 343 226Z" fill="#EB9237"/>
+<path d="M353 246L479 226Q487 224 489 232Q491 240 481 242L355 262Q347 264 345 256Q343 248 353 246Z" fill="#D8B32C"/>
+<path d="M363 266L481 286Q489 288 487 296Q485 304 479 302L361 282Q353 280 355 272Q357 264 363 266Z" fill="#43AA82"/>
+<path d="M374 287L484 347Q491 351 487 358Q483 365 476 361L366 301Q359 297 363 290Q367 283 374 287Z" fill="#5486CB"/>
+<path d="M384 308L486 408Q492 414 486 420Q480 426 474 420L372 320Q366 314 372 308Q378 302 384 308Z" fill="#9470C7"/>
+</g>
+</svg>

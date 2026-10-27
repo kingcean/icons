@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="80" width="208" height="256" rx="20"/>
+<g>
+<rect x="56" y="120" width="60" height="68" rx="18"/>
+<rect x="140" y="120" width="60" height="68" rx="18"/>
+<rect x="56" y="220" width="60" height="76" rx="18"/>
+<rect x="140" y="220" width="60" height="76" rx="18"/>
+</g>
+<rect x="280" y="80" width="208" height="256" rx="20"/>
+<g>
+<rect x="312" y="120" width="60" height="68" rx="8"/>
+<rect x="396" y="120" width="60" height="68" rx="8"/>
+<rect x="312" y="220" width="60" height="76" rx="8"/>
+<rect x="396" y="220" width="60" height="76" rx="8"/>
+</g>
+<path d="M112 424H244M308 424H400" stroke-linecap="round"/>
+<circle cx="276" cy="424" r="24"/>
+</svg>

@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="cancellation">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM236 183V223H276V183ZM236 289V329H276V289Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#cancellation)">
+<path fill="#68D0EA" fill-rule="evenodd" d="M225 256a49 49 0 1 0-98 0a49 49 0 1 0 98 0ZM207 256a31 31 0 1 0-62 0a31 31 0 1 0 62 0ZM281 256a105 105 0 1 0-210 0a105 105 0 1 0 210 0ZM263 256a87 87 0 1 0-174 0a87 87 0 1 0 174 0ZM337 256a161 161 0 1 0-322 0a161 161 0 1 0 322 0ZM319 256a143 143 0 1 0-286 0a143 143 0 1 0 286 0Z"/>
+<path fill="#76AAFF" fill-rule="evenodd" d="M385 256a49 49 0 1 0-98 0a49 49 0 1 0 98 0ZM367 256a31 31 0 1 0-62 0a31 31 0 1 0 62 0ZM441 256a105 105 0 1 0-210 0a105 105 0 1 0 210 0ZM423 256a87 87 0 1 0-174 0a87 87 0 1 0 174 0ZM497 256a161 161 0 1 0-322 0a161 161 0 1 0 322 0ZM479 256a143 143 0 1 0-286 0a143 143 0 1 0 286 0Z"/>
+<ellipse cx="256" cy="127" rx="18" ry="12" fill="#C3A0F0"/>
+<ellipse cx="256" cy="385" rx="18" ry="12" fill="#C3A0F0"/>
+</g>
+</svg>

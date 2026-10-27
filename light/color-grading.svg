@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="wheel">
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" fill="#E45D60"/>
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" transform="rotate(60)" fill="#EE9A36"/>
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" transform="rotate(120)" fill="#E8C542"/>
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" transform="rotate(180)" fill="#43AA82"/>
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" transform="rotate(240)" fill="#5486CB"/>
+<path d="M0-104A104 104 0 0 1 90.1-52L41.6-24A48 48 0 0 0 0-48Z" transform="rotate(300)" fill="#8056CA"/>
+</g>
+<g id="marker">
+<circle cx="0" cy="-76" r="20" fill="#253450"/>
+<circle cx="0" cy="-76" r="10" fill="#FFF4DE"/>
+</g>
+</defs>
+<use href="#wheel" transform="translate(256 128)"/>
+<circle cx="256" cy="128" r="48" fill="#91A0B7"/>
+<use href="#marker" transform="translate(256 128)"/>
+<use href="#wheel" transform="translate(136 384)"/>
+<circle cx="136" cy="384" r="48" fill="#253450"/>
+<use href="#marker" transform="translate(136 384) rotate(-60)"/>
+<use href="#wheel" transform="translate(376 384)"/>
+<circle cx="376" cy="384" r="48" fill="#FFF0BC"/>
+<use href="#marker" transform="translate(376 384) rotate(120)"/>
+</svg>

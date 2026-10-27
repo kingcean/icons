@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="projectile-ball" x1="84" y1="212" x2="132" y2="268" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F8BA59"/>
+<stop offset="1" stop-color="#E58A28"/>
+</linearGradient>
+</defs>
+<path d="M44 432A12 12 0 1 0 20 432A12 12 0 1 0 44 432ZM64 370A12 12 0 1 0 40 370A12 12 0 1 0 64 370ZM88 308A12 12 0 1 0 64 308A12 12 0 1 0 88 308ZM164 156A12 12 0 1 0 140 156A12 12 0 1 0 164 156ZM212 102A12 12 0 1 0 188 102A12 12 0 1 0 212 102ZM268 80A12 12 0 1 0 244 80A12 12 0 1 0 268 80ZM324 102A12 12 0 1 0 300 102A12 12 0 1 0 324 102ZM372 156A12 12 0 1 0 348 156A12 12 0 1 0 372 156ZM416 228A12 12 0 1 0 392 228A12 12 0 1 0 416 228ZM448 308A12 12 0 1 0 424 308A12 12 0 1 0 448 308ZM472 370A12 12 0 1 0 448 370A12 12 0 1 0 472 370ZM492 432A12 12 0 1 0 468 432A12 12 0 1 0 492 432Z" fill="#5486CB"/>
+<circle cx="108" cy="240" r="36" fill="url(#projectile-ball)"/>
+</svg>

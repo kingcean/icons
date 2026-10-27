@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="incident" x1="80" y1="80" x2="256" y2="368" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFD390"/>
+<stop offset="1" stop-color="#FFAD54"/>
+</linearGradient>
+<linearGradient id="reflected" x1="256" y1="368" x2="432" y2="80" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#76AAFF"/>
+<stop offset="1" stop-color="#C3A0F0"/>
+</linearGradient>
+</defs>
+<path d="M248 72a8 8 0 0 1 16 0V112a8 8 0 0 1-16 0ZM248 144a8 8 0 0 1 16 0V184a8 8 0 0 1-16 0ZM248 216a8 8 0 0 1 16 0V256a8 8 0 0 1-16 0ZM248 288a8 8 0 0 1 16 0V320a8 8 0 0 1-16 0Z" fill="#91E8C5"/>
+<path d="M70 86Q64 76 74 70Q84 64 90 74L266 362Q272 372 262 378Q252 384 246 374ZM146 234Q136 230 146 222L178 202Q188 196 188 208V250Q188 262 178 254Z" fill="url(#incident)"/>
+<path d="M246 362L422 74Q428 64 438 70Q448 76 442 86L266 374Q260 384 250 378Q240 372 246 362ZM326 208Q316 212 324 200L358 178Q368 170 370 184L372 224Q372 238 362 230Z" fill="url(#reflected)"/>
+<rect x="24" y="400" width="464" height="40" rx="16" fill="#B1C9E2"/>
+</svg>

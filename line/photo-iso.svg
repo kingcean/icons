@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<rect x="24" y="96" width="320" height="320" rx="24"/>
+<rect x="64" y="136" width="240" height="240" rx="16"/>
+<path d="M88 48V80M184 48V80M280 48V80M88 432V464M184 432V464M280 432V464"/>
+</g>
+<g>
+<circle cx="120" cy="192" r="12"/>
+<circle cx="244" cy="196" r="16"/>
+<circle cx="184" cy="256" r="12"/>
+<circle cx="120" cy="316" r="16"/>
+<circle cx="248" cy="320" r="12"/>
+</g>
+<path d="M432 48V208M432 304V464M464 64H488M464 160H488M464 352H488M464 448H488"/>
+<circle cx="432" cy="256" r="32"/>
+</svg>

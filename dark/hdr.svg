@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="merge" x1="96" y1="180" x2="256" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#B69AF3"/>
+<stop offset="1" stop-color="#76AAFF"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="24" y="24" width="144" height="132" rx="16" fill="#405577"/>
+<circle cx="128" cy="60" r="12" fill="#B69A65"/>
+<path d="M40 132L76 92Q80 88 84 92L108 116L120 104Q124 100 128 104L152 132V140H40Z" fill="#7A90AC"/>
+</g>
+<g>
+<rect x="184" y="24" width="144" height="132" rx="16" fill="#76AAFF"/>
+<circle cx="288" cy="60" r="12" fill="#F2C373"/>
+<path d="M200 132L236 92Q240 88 244 92L268 116L280 104Q284 100 288 104L312 132V140H200Z" fill="#278F9C"/>
+</g>
+<g>
+<rect x="344" y="24" width="144" height="132" rx="16" fill="#D0E8FA"/>
+<circle cx="448" cy="60" r="12" fill="#FFF0BC"/>
+<path d="M360 132L396 92Q400 88 404 92L428 116L440 104Q444 100 448 104L472 132V140H360Z" fill="#9ADADB"/>
+</g>
+<g>
+<path d="M88 180Q88 172 96 172Q104 172 104 180V200Q104 204 108 204H248V180Q248 172 256 172Q264 172 264 180V204H404Q408 204 408 200V180Q408 172 416 172Q424 172 424 180V200Q424 220 404 220H264V248Q264 256 256 256Q248 256 248 248V220H108Q88 220 88 200Z" fill="url(#merge)"/>
+<rect x="64" y="272" width="384" height="216" rx="24" fill="#91B9EF"/>
+<rect x="88" y="296" width="336" height="168" rx="12" fill="#344968"/>
+<circle cx="356" cy="332" r="24" fill="#F2C373"/>
+<path d="M104 448L184 356Q192 348 200 356L288 448Z" fill="#58D8DE"/>
+<path d="M224 448L296 388Q304 380 312 388L408 448Z" fill="#B69AF3"/>
+</g>
+</svg>

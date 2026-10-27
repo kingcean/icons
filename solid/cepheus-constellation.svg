@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M176 42L216 68L248 28Q256 18 264 28L296 68L336 42Q346 36 344 48L330 108Q328 116 320 116H192Q184 116 182 108L168 48Q166 36 176 42Z"/>
+<rect x="0" y="-8" width="178" height="16" rx="8" transform="translate(74 265) rotate(-28.87)"/>
+<rect x="0" y="-8" width="178" height="16" rx="8" transform="translate(282 179) rotate(28.87)"/>
+<rect x="0" y="-8" width="140" height="16" rx="8" transform="translate(456 309) rotate(106.62)"/>
+<rect x="134" y="464" width="244" height="16" rx="8"/>
+<rect x="0" y="-8" width="140" height="16" rx="8" transform="translate(56 309) rotate(73.38)"/>
+<circle cx="256" cy="164" r="20"/>
+<circle cx="48" cy="280" r="20"/>
+<circle cx="464" cy="280" r="20"/>
+<circle cx="408" cy="472" r="20"/>
+<circle cx="104" cy="472" r="20"/>
+</svg>

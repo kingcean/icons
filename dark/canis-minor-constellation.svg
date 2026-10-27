@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="dog" x1="112" y1="196" x2="348" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+<linearGradient id="procyon" x1="324" y1="28" x2="374" y2="138" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF4CA"/>
+<stop offset="1" stop-color="#FFE69A"/>
+</linearGradient>
+</defs>
+<path d="M110 264Q204 248 300 270L332 220L336 170Q336 156 346 166L374 196Q414 190 438 220L478 234Q492 238 486 252L476 276Q472 286 458 286H426L400 324L390 370L410 466Q414 488 394 488H372Q360 488 356 474L332 398Q270 416 200 392L170 424L180 468Q184 488 164 488H142Q130 488 126 474L108 420Q104 406 112 392L130 356Q100 340 92 310C48 296 26 262 24 218Q24 202 34 214Q66 258 110 264Z" fill="url(#dog)"/>
+<circle cx="416" cy="234" r="9" fill="#51377D"/>
+<path d="M144 124L348 82" fill="none" stroke="#B59ADD" stroke-width="12" stroke-linecap="round"/>
+<circle cx="144" cy="124" r="18" fill="#68D0EA"/>
+<path d="M342 30Q348 14 354 30L366 58Q368 62 372 64L400 76Q416 82 400 88L372 100Q368 102 366 106L354 134Q348 150 342 134L330 106Q328 102 324 100L296 88Q280 82 296 76L324 64Q328 62 330 58Z" fill="url(#procyon)"/>
+</svg>

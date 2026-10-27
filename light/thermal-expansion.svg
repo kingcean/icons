@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="cool" x1="104" y1="64" x2="408" y2="176" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#298EA8"/>
+<stop offset="1" stop-color="#327FC4"/>
+</linearGradient>
+<linearGradient id="hot" x1="24" y1="240" x2="488" y2="352" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F39A38"/>
+<stop offset="1" stop-color="#D93E45"/>
+</linearGradient>
+<linearGradient id="expansion" x1="208" y1="432" x2="20" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E9A52B"/>
+<stop offset="1" stop-color="#E64949"/>
+</linearGradient>
+</defs>
+<rect x="104" y="64" width="304" height="112" rx="24" fill="url(#cool)"/>
+<rect x="24" y="240" width="464" height="112" rx="24" fill="url(#hot)"/>
+<path d="M196 420H61L80 401Q89 392 80 384Q72 376 64 384L24 424Q16 432 24 440L64 480Q72 488 80 480Q89 472 80 463L61 444H196a12 12 0 0 0 0-24Z" fill="url(#expansion)"/>
+<path d="M196 420H61L80 401Q89 392 80 384Q72 376 64 384L24 424Q16 432 24 440L64 480Q72 488 80 480Q89 472 80 463L61 444H196a12 12 0 0 0 0-24Z" transform="translate(512 0) scale(-1 1)" fill="url(#expansion)"/>
+</svg>

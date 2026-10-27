@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="mapping" x1="116" y1="208" x2="396" y2="280" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5486CB"/>
+<stop offset="0.5" stop-color="#8056CA"/>
+<stop offset="1" stop-color="#E45D60"/>
+</linearGradient>
+</defs>
+<path d="M264 28L344 74Q352 80 344 86L264 132Q256 136 248 132L168 86Q160 80 168 74L248 28Q256 24 264 28Z" fill="#EE9A36"/>
+<path d="M160 88L256 144V240L172 192Q160 185 160 172Z" fill="#43AA82"/>
+<path d="M256 144L352 88V172Q352 185 340 192L256 240Z" fill="#8056CA"/>
+<path d="M116 280V232Q116 208 140 208M128 196L140 208L128 220M372 208Q396 208 396 232V280M384 268L396 280L408 268" fill="none" stroke="url(#mapping)" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="304" width="184" height="168" rx="24" fill="#253450"/>
+<rect x="44" y="324" width="144" height="128" rx="8" fill="#DDEEF9"/>
+<circle cx="76" cy="352" r="16" fill="#EE9A36"/>
+<path d="M44 440L88 396Q94 390 100 396L124 420L148 388Q154 380 160 388L188 440V444Q188 452 180 452H52Q44 452 44 444Z" fill="#43AA82"/>
+<rect x="304" y="304" width="184" height="168" rx="24" fill="#62407D"/>
+<rect x="324" y="324" width="144" height="128" rx="8" fill="#F5D8CE"/>
+<circle cx="356" cy="352" r="16" fill="#E45D60"/>
+<path d="M324 440L368 396Q374 390 380 396L404 420L428 388Q434 380 440 388L468 440V444Q468 452 460 452H332Q324 452 324 444Z" fill="#8056CA"/>
+</svg>

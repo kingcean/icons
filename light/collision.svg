@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="collision-motion" x1="0" y1="120" x2="0" y2="200" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#43AA82"/>
+<stop offset="1" stop-color="#23876B"/>
+</linearGradient>
+</defs>
+<circle cx="160" cy="324" r="84" fill="#EE9A36"/>
+<circle cx="352" cy="324" r="84" fill="#5486CB"/>
+<path d="M38 146H164V124Q164 110 176 120L214 150Q226 160 214 170L176 200Q164 210 164 196V174H38Q24 174 24 160Q24 146 38 146ZM474 146H348V124Q348 110 336 120L298 150Q286 160 298 170L336 200Q348 210 348 196V174H474Q488 174 488 160Q488 146 474 146Z" fill="url(#collision-motion)"/>
+<path d="M248 224A8 8 0 0 1 264 224V252A8 8 0 0 1 248 252ZM214 246Q208 240 214 234Q220 228 226 234L242 250Q248 256 242 262Q236 268 230 262ZM286 234Q292 228 298 234Q304 240 298 246L282 262Q276 268 270 262Q264 256 270 250Z" fill="#D94F60"/>
+</svg>

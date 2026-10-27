@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bear" x1="80" y1="132" x2="432" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C1A0FF"/>
+<stop offset="1" stop-color="#9475DA"/>
+</linearGradient>
+</defs>
+<path d="M96 170C88 144 100 116 122 116Q144 116 154 140Q180 132 206 146C258 126 332 128 386 150C434 170 458 212 460 260L480 276Q492 288 478 296L458 294L448 388Q446 412 426 412H402Q384 412 384 394L380 338Q302 362 218 338L196 394Q190 412 172 412H146Q128 412 132 394L146 318Q114 308 96 282H60Q44 282 36 266L26 246Q20 234 32 226L72 202Q80 182 96 170Z" fill="url(#bear)"/>
+<path d="M116 204H124" fill="none" stroke="#493176" stroke-width="16" stroke-linecap="round"/>
+<path d="M134 248L184 210L238 218L288 248H350L374 304H300Z" fill="none" stroke="#305E79" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#FFE69A">
+<circle cx="134" cy="248" r="14"/>
+<circle cx="184" cy="210" r="14"/>
+<circle cx="238" cy="218" r="14"/>
+<circle cx="288" cy="248" r="14"/>
+<circle cx="350" cy="248" r="14"/>
+<circle cx="374" cy="304" r="14"/>
+<circle cx="300" cy="304" r="14"/>
+</g>
+</svg>
