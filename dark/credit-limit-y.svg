@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="credit-limit" x1="256" y1="196" x2="256" y2="58" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C4B5FD"/>
+<stop offset="1" stop-color="#2DD4BF"/>
+</linearGradient>
+</defs>
+<rect x="160" y="24" width="192" height="24" rx="12" fill="#2DD4BF"/>
+<path d="M244 101L225 120Q216 129 207 120Q198 111 207 102L246 63Q256 53 266 63L305 102Q314 111 305 120Q296 129 287 120L268 101V184A12 12 0 0 1 244 184Z" fill="url(#credit-limit)"/>
+<g>
+<rect x="24" y="224" width="464" height="264" rx="28" fill="#93C5FD"/>
+<rect x="56" y="272" width="400" height="24" rx="8" fill="#0D9488"/>
+<path d="M232 338L256 368L280 338Q286 330 294 336Q302 342 296 350L270 382H284A10 10 0 0 1 284 402H266V414H284A10 10 0 0 1 284 434H266V464A10 10 0 0 1 246 464V434H228A10 10 0 0 1 228 414H246V402H228A10 10 0 0 1 228 382H242L216 350Q210 342 218 336Q226 330 232 338Z" fill="#1E3A8A"/>
+</g>
+</svg>

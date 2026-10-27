@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M220 24H292Q304 24 310 36L484 420Q492 438 474 442L268 486Q256 490 244 486L38 442Q20 438 28 420L202 36Q208 24 220 24Z"/>
+<ellipse cx="256" cy="60" rx="36" ry="18"/>
+<path d="M206 60C206 20 306 20 306 60C306 100 206 100 206 60Z"/>
+<path d="M76 360L256 404L436 360L444 378L256 424L68 378Z"/>
+</svg>

@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="needle" x1="256" y1="216" x2="352" y2="120" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7860BF"/>
+<stop offset="1" stop-color="#DF5864"/>
+</linearGradient>
+</defs>
+<path d="M120.24 351.76A192 192 0 1 1 391.76 351.76A12 12 0 0 1 374.79 334.79A168 168 0 1 0 137.21 334.79A12 12 0 0 1 120.24 351.76Z" fill="#4764B5"/>
+<path d="M352 49.72A192 192 0 0 1 422.28 120L401.49 132A168 168 0 0 0 340 70.51Z" fill="#E88A19"/>
+<rect x="104" y="208" width="24" height="16" rx="8" fill="#7B8DA9"/>
+<rect x="248" y="64" width="16" height="24" rx="8" fill="#7B8DA9"/>
+<path d="M354.34 106.34L370.34 90.34A8 8 0 0 1 381.66 101.66L365.66 117.66A8 8 0 0 1 354.34 106.34Z" fill="#E88A19"/>
+<path d="M248 208L336 120Q344 112 352 120Q360 128 352 136L264 224Z" fill="url(#needle)"/>
+<circle cx="256" cy="216" r="20" fill="#7860BF"/>
+<rect x="120" y="440" width="64" height="48" rx="8" fill="#4764B5"/>
+<rect x="224" y="408" width="64" height="80" rx="8" fill="#168C91"/>
+<rect x="328" y="376" width="64" height="112" rx="8" fill="#E88A19"/>
+</svg>

@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="64" width="464" height="384" rx="20"/>
+<g>
+<text x="256" y="128" text-anchor="middle" font-family="sans-serif" font-size="42" font-weight="700">发票</text>
+<path d="M112 148H400M112 160H400"/>
+</g>
+<path d="M60 192H452V316H60ZM60 232H452M60 274H452M240 192V316M348 192V316M60 356H244M60 388H196"/>
+<g>
+<circle cx="376" cy="380" r="46"/>
+<circle cx="376" cy="380" r="34"/>
+<path d="M376 361L381 373L394 374L384 383L387 396L376 389L365 396L368 383L358 374L371 373Z"/>
+</g>
+</svg>

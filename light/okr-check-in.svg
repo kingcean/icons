@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="update" x1="344" y1="304" x2="480" y2="188" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#168C91"/>
+<stop offset="1" stop-color="#4764B5"/>
+</linearGradient>
+</defs>
+<path d="M328 256a152 152 0 1 1-304 0a152 152 0 1 1 304 0ZM304 256a128 128 0 1 1-256 0a128 128 0 1 1 256 0Z" fill="#4764B5" fill-rule="evenodd"/>
+<path d="M272 256a96 96 0 1 1-192 0a96 96 0 1 1 192 0ZM248 256a72 72 0 1 1-144 0a72 72 0 1 1 144 0Z" fill="#168C91" fill-rule="evenodd"/>
+<circle cx="176" cy="256" r="36" fill="#E88A19"/>
+<path d="M358.26 309.74A76 76 0 1 1 488 256H472A60 60 0 1 0 369.57 298.43A8 8 0 0 1 358.26 309.74ZM454.34 230.34A8 8 0 0 1 465.66 230.34L480 244.69L494.34 230.34A8 8 0 0 1 505.66 241.66L485.66 261.66Q480 267.31 474.34 261.66L454.34 241.66A8 8 0 0 1 454.34 230.34Z" fill="url(#update)"/>
+<rect x="376" y="248" width="72" height="16" rx="8" fill="#B9C7DD"/>
+<rect x="376" y="248" width="44" height="16" rx="8" fill="#E88A19"/>
+</svg>

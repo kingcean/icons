@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrows" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#83DDD2"/>
+<stop offset="1" stop-color="#68C9E6"/>
+</linearGradient>
+</defs>
+<path fill="url(#arrows)" d="M32 68H451L416 33Q408 25 416 17Q424 9 432 17L487 72Q495 80 487 88L432 143Q424 151 416 143Q408 135 416 127L451 92H32Q20 92 20 80Q20 68 32 68ZM480 420H61L96 385Q104 377 96 369Q88 361 80 369L25 424Q17 432 25 440L80 495Q88 503 96 495Q104 487 96 479L61 444H480Q492 444 492 432Q492 420 480 420Z"/>
+<rect x="64" y="160" width="384" height="192" rx="28" fill="#729DF2"/>
+<circle cx="256" cy="256" r="72" fill="#FFD477"/>
+<path fill="#25364F" transform="translate(64 160) scale(.75)" d="M226 74L256 110L286 74Q292 66 300 72Q308 78 302 86L270 124H288A8 8 0 0 1 288 140H264V156H288A8 8 0 0 1 288 172H264V192A8 8 0 0 1 248 192V172H224A8 8 0 0 1 224 156H248V140H224A8 8 0 0 1 224 124H242L210 86Q204 78 212 72Q220 66 226 74Z"/>
+</svg>

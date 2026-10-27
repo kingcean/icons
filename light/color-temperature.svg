@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="temperature" x1="224" y1="0" x2="488" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#3478DD"/>
+<stop offset="0.5" stop-color="#BAA2B9"/>
+<stop offset="1" stop-color="#EF862C"/>
+</linearGradient>
+</defs>
+<path d="M80 344V80A32 32 0 0 1 144 80V344A64 64 0 1 1 80 344Z" fill="#7B8DA9"/>
+<rect x="100" y="80" width="24" height="320" rx="12" fill="#E3EAF3"/>
+<path d="M100 164A12 12 0 0 1 124 164V366A36 36 0 1 1 100 366Z" fill="#E87530"/>
+<rect x="224" y="48" width="80" height="416" rx="20" fill="url(#temperature)"/>
+<rect x="316" y="48" width="80" height="416" rx="20" fill="url(#temperature)"/>
+<rect x="408" y="48" width="80" height="416" rx="20" fill="url(#temperature)"/>
+</svg>

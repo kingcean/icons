@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M77.89 338.11A184 184 0 1 1 338.11 338.11A12 12 0 0 1 321.14 321.14A160 160 0 1 0 94.86 321.14A12 12 0 0 1 77.89 338.11Z" fill="#4764B5"/>
+<path d="M300 48.65A184 184 0 0 1 367.35 116L346.56 128A160 160 0 0 0 288 69.44Z" fill="#DF5864"/>
+<path d="M72 200H80a8 8 0 0 1 0 16H72a8 8 0 0 1 0-16ZM200 72a8 8 0 0 1 16 0V80a8 8 0 0 1-16 0Z" fill="#7B8DA9"/>
+<path d="M306.34 98.34L322.34 82.34a8 8 0 0 1 11.32 11.32L317.66 109.66a8 8 0 0 1-11.32-11.32Z" fill="#DF5864"/>
+<defs>
+<linearGradient id="needle" x1="208" y1="208" x2="312" y2="104" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7860BF"/>
+<stop offset="1" stop-color="#DF5864"/>
+</linearGradient>
+</defs>
+<path d="M200 200L296 104Q304 96 312 104Q320 112 312 120L216 216Z" fill="url(#needle)"/>
+<circle cx="208" cy="208" r="20" fill="#7860BF"/>
+<path d="M388 320Q396 320 402 330L486 468Q498 488 474 488H302Q278 488 290 468L374 330Q380 320 388 320Z" fill="#E88A19"/>
+<rect x="378" y="380" width="20" height="48" rx="10" fill="#563717"/>
+<circle cx="388" cy="452" r="10" fill="#563717"/>
+</svg>

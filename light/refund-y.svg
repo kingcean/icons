@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="refund-arrow" x1="40" y1="16" x2="476" y2="236" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#147D92"/>
+<stop offset="1" stop-color="#249A85"/>
+</linearGradient>
+</defs>
+<path fill="url(#refund-arrow)" d="M96 16Q104 8 112 16Q120 24 112 32L77 68H368Q476 68 476 176V224Q476 236 464 236Q452 236 452 224V176Q452 92 368 92H77L112 128Q120 136 112 144Q104 152 96 144L40 88Q32 80 40 72Z"/>
+<circle cx="240" cy="324" r="164" fill="#FFD16B"/>
+<path fill="#2856A6" transform="translate(-67.2 26.4) scale(1.2)" d="M226 186L256 222L286 186Q292 178 300 184Q308 190 302 198L270 236H288A8 8 0 0 1 288 252H264V268H288A8 8 0 0 1 288 284H264V304A8 8 0 0 1 248 304V284H224A8 8 0 0 1 224 268H248V252H224A8 8 0 0 1 224 236H242L210 198Q204 190 212 184Q220 178 226 186Z"/>
+</svg>

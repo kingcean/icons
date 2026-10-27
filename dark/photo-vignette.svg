@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="vignette" cx="256" cy="256" r="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF3CA"/>
+<stop offset="0.3" stop-color="#F5EBCD"/>
+<stop offset="0.58" stop-color="#B4E5DD"/>
+<stop offset="0.8" stop-color="#839AC8"/>
+<stop offset="1" stop-color="#445675"/>
+</radialGradient>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="url(#vignette)"/>
+<path d="M64 72H180Q88 112 48 212V88Q48 72 64 72ZM332 72H448Q464 72 464 88V212Q424 112 332 72ZM48 300Q88 400 180 440H64Q48 440 48 424ZM464 300V424Q464 440 448 440H332Q424 400 464 300Z" fill="#30415E" opacity="0.3"/>
+<path d="M48 40H464Q496 40 496 72V440Q496 472 464 472H48Q16 472 16 440V72Q16 40 48 40ZM48 56Q32 56 32 72V440Q32 456 48 456H464Q480 456 480 440V72Q480 56 464 56Z" fill="#9BAEFF" fill-rule="evenodd"/>
+</svg>

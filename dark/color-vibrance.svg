@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M44 40H150Q170 40 170 60V192H24V60Q24 40 44 40Z" fill="#AE8999"/>
+<path d="M24 192H170V324Q170 344 150 344H44Q24 344 24 324Z" fill="#FF75A0"/>
+<path d="M202 40H310Q330 40 330 60V192H182V60Q182 40 202 40Z" fill="#8B97B6"/>
+<path d="M182 192H330V324Q330 344 310 344H202Q182 344 182 324Z" fill="#9BAEFF"/>
+<path d="M362 40H468Q488 40 488 60V192H342V60Q342 40 362 40Z" fill="#7DA69F"/>
+<path d="M342 192H488V324Q488 344 468 344H362Q342 344 342 324Z" fill="#48DCC0"/>
+<rect x="24" y="438" width="464" height="20" rx="10" fill="#8D9DB7"/>
+<circle cx="320" cy="448" r="32" fill="#FFD06A"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="departure" x1="360" y1="256" x2="494" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#71E4D1"/>
+<stop offset="1" stop-color="#36BDAA"/>
+</linearGradient>
+</defs>
+<path fill="#75ACF0" fill-rule="evenodd" d="M344 256A156 156 0 1 1 32 256A156 156 0 1 1 344 256ZM316 256A128 128 0 1 0 60 256A128 128 0 1 0 316 256Z"/>
+<path fill="#D9E9FF" d="M122 246H171L133 177Q129 170 137 166Q145 162 149 169L196 250Q200 257 195 263Q192 266 186 266H122Q112 266 112 256Q112 246 122 246Z"/>
+<rect x="178" y="144" width="20" height="30" rx="10" fill="#FFD16B"/>
+<path fill="url(#departure)" d="M370 240H440L416 216Q410 210 416 204L424 196Q430 190 436 196L488 248Q496 256 488 264L436 316Q430 322 424 316L416 308Q410 302 416 296L440 272H370Q360 272 360 262V250Q360 240 370 240Z"/>
+</svg>

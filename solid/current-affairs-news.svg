@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path fill-rule="evenodd" d="M328 176A152 152 0 1 1 24 176A152 152 0 1 1 328 176ZM304 176A128 128 0 1 1 48 176A128 128 0 1 1 304 176Z"/>
+<path fill-rule="evenodd" d="M240 176A64 136 0 1 1 112 176A64 136 0 1 1 240 176ZM220 176A44 114 0 1 1 132 176A44 114 0 1 1 220 176Z"/>
+<rect x="40" y="166" width="272" height="20" rx="10"/>
+<path fill-rule="evenodd" d="M420 72Q460 72 460 112V224Q460 264 420 264Q380 264 380 224V112Q380 72 420 72ZM408 128Q400 128 400 136Q400 144 408 144H432Q440 144 440 136Q440 128 432 128ZM408 168Q400 168 400 176Q400 184 408 184H432Q440 184 440 176Q440 168 432 168Z"/>
+<path fill-rule="evenodd" d="M372 280H468Q488 280 488 300V348Q488 368 468 368H372Q352 368 352 348V300Q352 280 372 280ZM384 316Q376 316 376 324Q376 332 384 332H456Q464 332 464 324Q464 316 456 316Z"/>
+<rect x="400" y="384" width="40" height="104" rx="16"/>
+<rect x="24" y="376" width="296" height="32" rx="16"/>
+<rect x="24" y="440" width="232" height="32" rx="16"/>
+</svg>

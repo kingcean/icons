@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="patch" x1="0" y1="48" x2="0" y2="464" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#6779D5"/>
+<stop offset="1" stop-color="#249F9C"/>
+</linearGradient>
+</defs>
+<rect x="24" y="48" width="226" height="416" rx="24" fill="url(#patch)"/>
+<rect x="262" y="48" width="226" height="416" rx="24" fill="url(#patch)"/>
+<path d="M86 116a14 14 0 1 1-28 0a14 14 0 1 1 28 0ZM218 112a16 16 0 1 1-32 0a16 16 0 1 1 32 0ZM151 202a14 14 0 1 1-28 0a14 14 0 1 1 28 0ZM84 304a12 12 0 1 1-24 0a12 12 0 1 1 24 0ZM216 296a14 14 0 1 1-28 0a14 14 0 1 1 28 0ZM149 388a12 12 0 1 1-24 0a12 12 0 1 1 24 0Z" fill="#263D70"/>
+<path d="M149 136a12 12 0 1 1-24 0a12 12 0 1 1 24 0ZM88 218a16 16 0 1 1-32 0a16 16 0 1 1 32 0ZM214 224a12 12 0 1 1-24 0a12 12 0 1 1 24 0ZM153 316a16 16 0 1 1-32 0a16 16 0 1 1 32 0ZM88 400a16 16 0 1 1-32 0a16 16 0 1 1 32 0ZM216 410a14 14 0 1 1-28 0a14 14 0 1 1 28 0Z" fill="#FFD16B"/>
+</svg>

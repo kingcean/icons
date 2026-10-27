@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<rect x="24" y="24" width="464" height="392" rx="32"/>
+<path d="M148 240V180Q148 104 244 104Q308 96 340 128L370 110Q384 104 380 120L364 160Q376 200 364 240L336 216L300 232L270 208L232 248L202 216L168 240Q148 252 148 240Z"/>
+<path d="M168 256L200 232L222 258Q232 270 242 258L272 232L294 248Q302 254 310 248L344 232V280Q344 326 256 368Q168 326 168 280Z"/>
+<ellipse cx="212" cy="278" rx="16" ry="24"/>
+<ellipse cx="300" cy="278" rx="16" ry="24"/>
+<rect x="136" y="448" width="240" height="40" rx="16"/>
+</svg>
