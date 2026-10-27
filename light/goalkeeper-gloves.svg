@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<path d="M48 412V384C32 356 24 328 24 296V112Q24 94 42 94Q60 94 60 112V208H68V62Q68 44 86 44Q104 44 104 62V200H112V46Q112 24 130 24Q148 24 148 46V208H156V82Q156 64 174 64Q192 64 192 82V256L204 236Q216 216 228 224Q240 232 232 252L208 316Q196 344 188 384V412Z" fill="#247FB9"/>
+<rect x="60" y="268" width="96" height="80" rx="24" fill="#79D3CD"/>
+<rect x="48" y="400" width="140" height="88" rx="20" fill="#E9AA52"/>
+<rect x="68" y="432" width="100" height="16" rx="8" fill="#A96A3D"/>
+</g>
+<g transform="translate(512 0) scale(-1 1)">
+<path d="M48 412V384C32 356 24 328 24 296V112Q24 94 42 94Q60 94 60 112V208H68V62Q68 44 86 44Q104 44 104 62V200H112V46Q112 24 130 24Q148 24 148 46V208H156V82Q156 64 174 64Q192 64 192 82V256L204 236Q216 216 228 224Q240 232 232 252L208 316Q196 344 188 384V412Z" fill="#247FB9"/>
+<rect x="60" y="268" width="96" height="80" rx="24" fill="#79D3CD"/>
+<rect x="48" y="400" width="140" height="88" rx="20" fill="#E9AA52"/>
+<rect x="68" y="432" width="100" height="16" rx="8" fill="#A96A3D"/>
+</g>
+</svg>

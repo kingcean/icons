@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="rear-card-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM232 96H488V512H232Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#rear-card-gap)" d="M152 26L332 74Q355 80 349 103L252 464Q246 487 223 481L43 433Q20 427 26 404L123 43Q129 20 152 26Z"/>
+<rect x="248" y="112" width="224" height="376" rx="24"/>
+</svg>

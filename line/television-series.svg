@@ -1,9 +1,6 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
-<path d="M104 24H456Q488 24 488 56V272Q488 296 472 296"/>
-<path d="M72 88H424Q456 88 456 120V336Q456 360 440 360"/>
-<rect x="24" y="152" width="400" height="280" rx="32"/>
-<path d="M192 244Q192 236 200 241L268 285Q278 292 268 299L200 343Q192 348 192 340Z"/>
-<rect x="136" y="448" width="176" height="40" rx="16"/>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M192 32L256 92L320 32"/>
+<path d="M56 112H456Q488 112 488 144V400Q488 432 456 432H408V468Q408 480 396 480H380Q368 480 368 468V432H144V468Q144 480 132 480H116Q104 480 104 468V432H56Q24 432 24 400V144Q24 112 56 112Z M84 152H428Q448 152 448 172V372Q448 392 428 392H84Q64 392 64 372V172Q64 152 84 152Z"/>
+<path d="M232 208Q216 198 216 216V328Q216 346 232 336L312 284Q330 272 312 260Z"/>
 </svg>

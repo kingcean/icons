@@ -75,7 +75,7 @@
         color: #EEE; background: #A00;
     }
     section.x-details > div:first-child + div {
-        margin-top: 20px;
+        margin-top: 20px; margin-bottom: 20px;
     }
     section.x-details > div:first-child + div > span {
         border-radius: 4px; display: inline-block;
@@ -125,6 +125,9 @@
     }
     section.x-details > div:first-child + div > span:first-child + span + span > img + span + a:active {
         background-color: #4C4C4C;
+    }
+    section.x-details > div:first-child + div + div {
+        color: #999;
     }
     section.x-intro {
         font-size: 14px; user-select: none;
@@ -224,6 +227,8 @@
             "intro1#zh": "包含超过 2,000 个矢量图标，可在屏幕、网络、印刷及其他媒体上免费使用。",
             intro2: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.",
             "intro2#zh": "每个图标都提供单色线条和实心版本，以及针对浅色和深色主题定制的彩色实心版本。",
+            downloadTips: "The image is in SVG format. Once downloaded, it may only be viewable and printable on a computer, but when embedded in a web page or a presentation file, it can be viewed on any device. For line icons, set the `stroke` (outline color) and `stroke-width` (outline thickness) attributes. For solid icons, set the `fill` (fill color) attribute.",
+            "downloadTips#zh": "图片为 SVG 格式，下载后可能只能在电脑上查看和打印，但嵌入网页或幻灯片后可在任意地方查看。线条款式图标需要设置 `stroke`（边框颜色）和 `stroke-width`（边框粗细）属性，纯色实心款式图标需要设置 `fill`（填充颜色）属性。",
             refreshTips: "Refresh the web page to randomly display icons; or",
             "refreshTips#zh": "刷新网页以随机显示图标；或",
             loading: "Loading…",
@@ -330,6 +335,40 @@
                 const details = component.getChild("gallery");
                 let list = r;
                 if (q) {
+                    const category = q;
+                    switch (category) {
+                        case "工具": q = "tool"; break;
+                        case "媒体": q = "media"; break;
+                        case "箭头": q = "arrow"; break;
+                        case "操作": q = "action"; break;
+                        case "状态": q = "status"; break;
+                        case "文件": q = "file"; break;
+                        case "文件夹": q = "folder"; break;
+                        case "车": q = "vehicle"; break;
+                        case "设备": q = "device"; break;
+                        case "星座": q = "astronomy"; break;
+                        case "体育": q = "sport"; break;
+                        case "动物": q = "animal"; break;
+                        case "植物": q = "plant"; break;
+                        case "水果": q = "fruit"; break;
+                        case "蔬菜": q = "vegetable"; break;
+                        case "食物": q = "food"; break;
+                        case "服饰": q = "clothing"; break;
+                        case "天气": q = "weather"; break;
+                        case "工业": q = "industry"; break;
+                        case "医学": q = "medical"; break;
+                        case "数学": q = "mathematics"; break;
+                        case "物理": q = "physics"; break;
+                        case "金融": q = "finance"; break;
+                        case "家电": q = "appliance"; break;
+                        case "网络": q = "network"; break;
+                        case "时间": q = "time"; break;
+                        case "日历": q = "calendar"; break;
+                        case "通信": q = "communication"; break;
+                        case "计算机": q = "computing"; break;
+                        case "服务": q = "service"; break;
+                        case "摄影": q = "photography"; break;
+                    }
                     q = q.toLowerCase();
                     list = r.filter(function(icon) {
                         if (icon.name && icon.name.toLowerCase().includes(q)) return true;
@@ -505,6 +544,12 @@
                             },
                             children: DeepX.MdBlogs.getLocaleProp(res, "download")
                         }]
+                    }]
+                }, {
+                    tagName: "div",
+                    children: [{
+                        tagName: "span",
+                        children: DeepX.MdBlogs.getLocaleProp(res, "downloadTips")
                     }]
                 });
             };

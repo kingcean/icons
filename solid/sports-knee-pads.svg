@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<g>
+<rect x="52" y="24" width="180" height="80" rx="24"/>
+<path fill-rule="evenodd" d="M80 120H204Q232 120 232 156V252C232 312 220 358 204 378Q196 392 176 392H108Q88 392 80 378C64 358 52 312 52 252V156Q52 120 80 120ZM128 156H156Q204 156 204 204V304Q204 352 156 352H128Q80 352 80 304V204Q80 156 128 156Z"/>
+<rect x="96" y="172" width="92" height="164" rx="34"/>
+<rect x="72" y="408" width="140" height="80" rx="24"/>
+</g>
+<g transform="translate(512 0) scale(-1 1)">
+<rect x="52" y="24" width="180" height="80" rx="24"/>
+<path fill-rule="evenodd" d="M80 120H204Q232 120 232 156V252C232 312 220 358 204 378Q196 392 176 392H108Q88 392 80 378C64 358 52 312 52 252V156Q52 120 80 120ZM128 156H156Q204 156 204 204V304Q204 352 156 352H128Q80 352 80 304V204Q80 156 128 156Z"/>
+<rect x="96" y="172" width="92" height="164" rx="34"/>
+<rect x="72" y="408" width="140" height="80" rx="24"/>
+</g>
+</svg>

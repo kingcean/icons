@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232"/>
+<path id="seam" d="M140 56Q300 256 140 456M154 112L194 108M180 186L226 184M192 256H236M180 326L226 328M154 400L194 404"/>
+<use href="#seam" transform="translate(512 0) scale(-1 1)"/>
+</svg>

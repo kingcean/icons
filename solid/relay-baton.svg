@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path transform="rotate(45 256 256)" fill-rule="evenodd" d="M256-46A40 40 0 0 1 296-6V518A40 40 0 0 1 216 518V-6A40 40 0 0 1 256-46ZM240 380H272Q280 380 280 388V392Q280 400 272 400H240Q232 400 232 392V388Q232 380 240 380ZM240 428H272Q280 428 280 436V440Q280 448 272 448H240Q232 448 232 440V436Q232 428 240 428Z"/>
+</svg>

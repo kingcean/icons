@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g transform="rotate(-35 256 256)">
+<path d="M32 232C128 56 384 56 480 232Q496 256 480 280C384 456 128 456 32 280Q16 256 32 232Z"/>
+<path d="M130 158Q102 256 130 354"/>
+<path d="M382 158Q410 256 382 354"/>
+<path d="M160 256Q256 210 352 256"/>
+</g>
+</svg>
