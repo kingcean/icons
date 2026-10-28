@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<ellipse cx="256" cy="235" rx="232" ry="119"/>
+<path d="M28 259L49 352Q61 400 110 423Q256 478 402 423Q451 400 463 352L484 259M113 403Q256 449 399 403" stroke-linecap="round"/>
+<path d="M254 170C217 143 166 160 150 197C129 244 158 287 201 293C234 298 265 275 266 247Q266 231 252 228Q238 225 232 241C218 265 185 253 182 232C177 209 201 190 221 201L241 209Q256 199 254 170Z"/>
+<path d="M264 168L283 149Q291 147 291 156L288 173L300 179Q307 183 300 190L270 206Z"/>
+<path d="M178 175L196 197M153 205L182 216M151 239L183 234M168 271L190 251M201 283L207 258M235 274L224 256" stroke-linecap="round"/>
+<path d="M291 260Q291 220 326 220Q361 220 361 260Q327 276 291 260ZM315 277V300Q326 310 337 300V277" stroke-linecap="round"/>
+<path d="M350 179L406 126Q445 147 449 191Z"/>
+<path d="M368 176L408 141Q432 153 435 182ZM405 150L400 178" stroke-linecap="round"/>
+<path d="M90 196Q85 161 121 153Q147 158 147 183Q122 212 90 196ZM96 190L128 168" stroke-linecap="round"/>
+<path d="M370 307Q366 277 396 270Q426 273 431 298Q406 326 370 307ZM381 302L412 285" stroke-linecap="round"/>
+<rect x="99" y="281" width="53" height="20" rx="9" transform="rotate(22 125 291)"/>
+<rect x="263" y="309" width="57" height="19" rx="9" transform="rotate(-12 291 318)"/>
+</svg>

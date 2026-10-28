@@ -1,0 +1,38 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="sepal" d="M-18-48C-65-86-61-132-6-174Q0-184 6-174C61-132 65-86 18-48Q0-40-18-48Z"/>
+<path id="vein" d="M0-59Q-12-104 0-155"/>
+<path id="stamen" d="M-3-14V-30A7 7 0 1 1 3-30V-14Z"/>
+</defs>
+<path fill="#5B8749" d="M248 378H264V398Q278 435 253 470Q244 480 254 480Q271 480 280 463Q284 456 291 460Q298 464 292 471Q279 494 254 494Q223 494 239 462Q260 432 248 402Z"/>
+<path fill="#398454" d="M283 433C315 370 383 353 448 367C411 417 348 443 283 433Z"/>
+<path fill="none" stroke="#A1C67A" stroke-width="9" stroke-linecap="round" d="M303 421Q365 388 425 375"/>
+<g transform="translate(256 208)">
+<use href="#sepal" fill="#7550BE"/>
+<use href="#sepal" fill="#9868D4" transform="rotate(60)"/>
+<use href="#sepal" fill="#8056C6" transform="rotate(120)"/>
+<use href="#sepal" fill="#6840AE" transform="rotate(180)"/>
+<use href="#sepal" fill="#9160CF" transform="rotate(240)"/>
+<use href="#sepal" fill="#8152C1" transform="rotate(300)"/>
+<g fill="none" stroke="#BB96E8" stroke-width="8" stroke-linecap="round">
+<use href="#vein"/>
+<use href="#vein" transform="rotate(60)"/>
+<use href="#vein" transform="rotate(120)"/>
+<use href="#vein" transform="rotate(180)"/>
+<use href="#vein" transform="rotate(240)"/>
+<use href="#vein" transform="rotate(300)"/>
+</g>
+<g fill="#F5DEA2">
+<use href="#stamen"/>
+<use href="#stamen" transform="rotate(45)"/>
+<use href="#stamen" transform="rotate(90)"/>
+<use href="#stamen" transform="rotate(135)"/>
+<use href="#stamen" transform="rotate(180)"/>
+<use href="#stamen" transform="rotate(225)"/>
+<use href="#stamen" transform="rotate(270)"/>
+<use href="#stamen" transform="rotate(315)"/>
+</g>
+<circle fill="#D9AE57" r="18"/>
+<circle fill="#FFF1CB" r="9"/>
+</g>
+</svg>

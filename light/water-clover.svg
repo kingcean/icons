@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="upper-leaf" d="M246 218C206 224 133 188 112 144C80 78 130 30 180 42C235 50 249 123 246 218Z"/>
+<path id="lower-leaf" d="M246 234C236 285 189 338 138 328C82 318 70 256 112 220C154 188 208 206 246 234Z"/>
+</defs>
+<path fill="#667D3E" d="M249 233Q248 226 255 225Q262 224 263 231C277 340 241 412 263 480Q265 487 258 489Q251 491 249 484C227 412 263 340 249 233Z"/>
+<use href="#upper-leaf" fill="#45945C"/>
+<use href="#upper-leaf" fill="#8AB84E" transform="translate(512 0) scale(-1 1)"/>
+<use href="#lower-leaf" fill="#2C7F65"/>
+<use href="#lower-leaf" fill="#63A653" transform="translate(512 0) scale(-1 1)"/>
+</svg>

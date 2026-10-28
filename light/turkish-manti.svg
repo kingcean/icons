@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M24 264L49 363Q59 402 105 422Q256 471 407 422Q453 402 463 363L488 264Z" fill="#397A81"/>
+<path d="M58 327L70 362Q79 391 119 408Q256 451 393 408Q433 391 442 362L454 327Z" fill="#75A9AC"/>
+<path d="M108 401Q256 448 404 401" fill="none" stroke="#C6DEDA" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="256" cy="264" rx="232" ry="128" fill="#43858A"/>
+<ellipse cx="256" cy="260" rx="221" ry="117" fill="#FAFCF7"/>
+<ellipse cx="256" cy="264" rx="210" ry="106" fill="#D8E5DE"/>
+<defs>
+<g id="dumpling">
+<path d="M-39-27Q-20-23-7-36Q0-41 7-34Q16-20 34-19Q43-17 40-8Q30 7 34 22Q35 32 25 31Q7 24-6 34Q-14 40-20 32Q-26 14-42 9Q-50 6-46-3Q-38-15-39-27Z" fill="#C39553"/>
+<path d="M-32-20Q-16-17-5-29Q0-33 4-27Q15-12 31-12Q23 4 27 22Q8 17-8 28Q-15 10-34 3Q-27-8-32-20Z" fill="#F2D69D"/>
+<path d="M-26-11L-1 0L20-8M-1 0L-7 21" fill="none" stroke="#D3AE70" stroke-width="9" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#dumpling" transform="translate(125 239)"/>
+<use href="#dumpling" transform="translate(387 239) scale(-1 1)"/>
+<use href="#dumpling" transform="translate(159 336)"/>
+<use href="#dumpling" transform="translate(353 336) scale(-1 1)"/>
+<path d="M184 212Q179 194 201 190Q213 171 235 182Q258 168 275 181Q302 173 312 192Q336 195 330 217Q348 232 334 248Q342 268 319 274Q306 293 283 282Q259 299 240 283Q216 292 207 275Q183 279 180 259Q163 244 177 229Q171 218 184 212Z" fill="#ADCBC6"/>
+<path d="M190 213Q185 200 205 197Q217 180 237 190Q258 177 273 189Q298 181 306 199Q329 202 323 219Q340 233 327 246Q335 261 314 267Q303 284 282 274Q260 291 241 275Q219 284 212 268Q189 272 187 255Q172 243 184 230Q178 220 190 213Z" fill="#FFFEF4"/>
+<path d="M204 212Q228 203 250 217Q269 230 299 219M202 247Q227 237 249 251Q270 265 307 249" fill="none" stroke="#DC5136" stroke-width="17" stroke-linecap="round"/>
+<path d="M208 210Q229 205 248 217M255 252Q275 260 299 251" fill="none" stroke="#F59B48" stroke-width="6" stroke-linecap="round"/>
+<path d="M222 195L231 199M282 238L292 234M235 272L245 270" fill="none" stroke="#4F803E" stroke-width="10" stroke-linecap="round"/>
+</svg>

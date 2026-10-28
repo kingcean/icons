@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="wings">
+<path fill="#D3ECD7" stroke="#639E76" stroke-width="7" stroke-linejoin="round" d="M224 323C201 364 177 417 151 448Q130 480 161 480C207 465 229 390 232 344Z"/>
+<path fill="#EAF6E9" fill-opacity=".8" stroke="#568F68" stroke-width="7" stroke-linejoin="round" d="M228 192C165 200 70 280 30 388C15 440 35 475 75 461C147 429 205 314 228 218Z"/>
+<path fill="none" stroke="#89B995" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" d="M213 218Q110 317 48 439M170 263L177 309L126 311L131 365L81 364L85 413L47 411M216 349Q196 421 157 463"/>
+</g>
+</defs>
+<path fill="none" stroke="#648149" stroke-width="10" stroke-linecap="round" stroke-linejoin="round" d="M244 105Q221 49 170 24M268 105Q291 49 342 24M238 180L197 153L181 119M238 189L179 179L159 150M238 198L176 204L151 181M274 180L315 153L331 119M274 189L333 179L353 150M274 198L336 204L361 181"/>
+<use href="#wings"/>
+<use href="#wings" transform="translate(512 0) scale(-1 1)"/>
+<path fill="#76B85B" d="M241 208H271C273 318 267 429 260 477Q256 491 252 477C245 429 239 318 241 208Z"/>
+<path fill="#B3DA86" d="M246 224H256V466Q247 382 246 224Z"/>
+<rect fill="#519B58" x="237" y="172" width="38" height="44" rx="16"/>
+<ellipse fill="#A4CD74" cx="256" cy="137" rx="30" ry="31"/>
+<g fill="#DAA52B">
+<ellipse cx="231" cy="136" rx="12" ry="19"/>
+<ellipse cx="281" cy="136" rx="12" ry="19"/>
+</g>
+<path fill="none" stroke="#FFE3A0" stroke-width="5" stroke-linecap="round" d="M229 126V136M279 126V136"/>
+</svg>

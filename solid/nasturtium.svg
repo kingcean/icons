@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="petal" d="M-19-39C-48-55-76-92-64-122C-54-147-30-159-7-153C15-165 45-151 57-129C76-96 50-57 19-39Q0-31-19-39Z"/>
+</defs>
+<path d="M368 172C412 161 452 132 482 98Q490 88 478 92C435 109 397 129 370 150Q358 160 368 172Z"/>
+<path d="M220 354Q218 346 226 344Q234 342 236 350Q247 388 246 426L271 412Q278 408 282 415Q286 422 279 426L245 445Q242 470 232 490Q229 498 221 495Q214 492 216 485Q235 422 220 354Z"/>
+<path fill-rule="evenodd" d="M462 388A96 96 0 1 1 270 388A96 96 0 1 1 462 388ZM360 320Q366 310 372 320V378L422 349Q429 345 432 352Q435 359 428 363L378 392L428 421Q435 425 432 432Q429 439 422 435L372 406V456Q366 466 360 456V406L310 435Q303 439 300 432Q297 425 304 421L354 392L304 363Q297 359 300 352Q303 345 310 349L360 378Z"/>
+<g transform="translate(228 182)">
+<use href="#petal"/>
+<use href="#petal" transform="rotate(72)"/>
+<use href="#petal" transform="rotate(144)"/>
+<use href="#petal" transform="rotate(216)"/>
+<use href="#petal" transform="rotate(288)"/>
+<circle r="23"/>
+</g>
+</svg>

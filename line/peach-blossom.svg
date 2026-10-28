@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="bloom">
+<path d="M-40-55C-94-145 94-145 40-55C109-135 165 37 65 21C165 60 20 165 0 68C-20 165-165 60-65 21C-165 37-109-135-40-55Z"/>
+<circle r="22"/>
+<path d="M0-28V-52M27-9L50-16M17 23L31 43M-17 23L-31 43M-27-9L-50-16"/>
+<circle cy="-58" r="5"/>
+<circle cx="56" cy="-18" r="5"/>
+<circle cx="35" cy="48" r="5"/>
+<circle cx="-35" cy="48" r="5"/>
+<circle cx="-56" cy="-18" r="5"/>
+</g>
+</defs>
+<path d="M160 480Q231 425 263 370Q276 356 294 344M263 370L263 352"/>
+<path d="M238 410C158 420 89 396 62 355C141 350 213 369 238 410ZM398 242C391 185 425 129 474 103C475 166 445 219 398 242M85 365Q163 375 219 401M411 224Q439 173 460 125"/>
+<use href="#bloom" transform="translate(202 190) scale(1.35)"/>
+<use href="#bloom" transform="translate(391 336) scale(.7)"/>
+</svg>

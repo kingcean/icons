@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="crustClip">
+<path d="M24 286C24 156 121 64 256 64C391 64 488 156 488 286Q488 324 452 340Q256 412 60 340Q24 324 24 286Z"/>
+</clipPath>
+</defs>
+<path d="M24 286C24 156 121 64 256 64C391 64 488 156 488 286Q488 324 452 340Q256 412 60 340Q24 324 24 286Z"/>
+<path d="M137 66V370M261 66V376M385 66V370M42 139H470M26 225H486M30 311H482" clip-path="url(#crustClip)" stroke-linecap="round"/>
+<path d="M40 360Q256 438 472 360L458 394Q434 452 256 452Q78 452 54 394Z"/>
+</svg>

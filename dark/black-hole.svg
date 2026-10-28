@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="disk" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFF0B3"/>
+<stop offset="0.5" stop-color="#FFC65B"/>
+<stop offset="1" stop-color="#FF9251"/>
+</linearGradient>
+<linearGradient id="lens" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FFE39A"/>
+<stop offset="1" stop-color="#FFAD52"/>
+</linearGradient>
+</defs>
+<circle fill="#090D19" stroke="#A990C5" stroke-width="8" cx="256" cy="256" r="90"/>
+<path fill="url(#disk)" d="M146 202C72 208 24 230 24 256S72 304 146 310Q154 310 154 302V290Q154 282 146 282C82 276 52 264 52 256S82 236 146 230Q154 230 154 222V210Q154 202 146 202ZM366 202C440 208 488 230 488 256S440 304 366 310Q358 310 358 302V290Q358 282 366 282C430 276 460 264 460 256S430 236 366 230Q358 230 358 222V210Q358 202 366 202Z"/>
+<path fill="url(#lens)" d="M108 186C136 36 376 36 404 186Q406 198 394 200Q382 202 380 190C356 76 156 76 132 190Q130 202 118 200Q106 198 108 186Z"/>
+<path fill="#F8936B" d="M108 326C136 476 376 476 404 326Q406 314 394 312Q382 310 380 322C356 436 156 436 132 322Q130 310 118 312Q106 314 108 326Z"/>
+</svg>

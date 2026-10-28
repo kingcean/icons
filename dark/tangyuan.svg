@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M24 258L58 371Q82 462 256 462Q430 462 454 371L488 258Z" fill="#49A9C0"/>
+<ellipse cx="256" cy="258" rx="232" ry="64" fill="#A0DCE4"/>
+<ellipse cx="256" cy="255" rx="214" ry="50" fill="#EBD6A5"/>
+<ellipse cx="256" cy="251" rx="199" ry="39" fill="#FFF0CE"/>
+<circle cx="255" cy="139" r="64" fill="#DEDCD0"/>
+<ellipse cx="255" cy="130" rx="58" ry="53" fill="#FFFAED"/>
+<circle cx="132" cy="211" r="68" fill="#DEDCD0"/>
+<ellipse cx="132" cy="201" rx="62" ry="57" fill="#FFFAED"/>
+<path d="M94 192Q102 172 123 167" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+<ellipse cx="378" cy="211" rx="72" ry="62" fill="#DEDCD0"/>
+<ellipse cx="378" cy="206" rx="66" ry="55" fill="#FFFAED"/>
+<ellipse cx="378" cy="211" rx="47" ry="39" fill="#38333F"/>
+<path d="M342 208C347 186 367 177 387 183C404 188 415 199 415 213Q378 194 342 208Z" fill="#62586B"/>
+<path d="M24 280Q256 366 488 280L454 371Q430 462 256 462Q82 462 58 371Z" fill="#49A9C0"/>
+<path d="M45 307Q256 380 467 307L440 373Q416 446 256 446Q96 446 72 373Z" fill="#64C4D4"/>
+<path d="M111 386Q256 442 401 386" fill="none" stroke="#C0F1EF" stroke-width="12" stroke-linecap="round"/>
+</svg>

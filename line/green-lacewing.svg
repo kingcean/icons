@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="wings">
+<path d="M228 192C165 200 70 280 30 388C15 440 35 475 75 461C147 429 205 314 228 218Z"/>
+<path d="M224 323C201 364 177 417 151 448Q130 480 161 480C207 465 229 390 232 344Z"/>
+<path d="M213 218Q110 317 48 439M170 263L177 309L126 311L131 365L81 364L85 413L47 411M216 349Q196 421 157 463"/>
+</g>
+</defs>
+<path d="M244 105Q221 49 170 24M268 105Q291 49 342 24M230 176L197 153L181 119M230 187L179 179L159 150M230 199L176 204L151 181M282 176L315 153L331 119M282 187L333 179L353 150M282 199L336 204L361 181"/>
+<use href="#wings"/>
+<use href="#wings" transform="translate(512 0) scale(-1 1)"/>
+<path d="M241 226H271C273 318 267 429 260 477Q256 491 252 477C245 429 239 318 241 226Z"/>
+<rect x="237" y="176" width="38" height="38" rx="16"/>
+<path d="M242 112Q256 101 270 112M240 159Q256 173 272 159"/>
+<ellipse cx="231" cy="136" rx="12" ry="19"/>
+<ellipse cx="281" cy="136" rx="12" ry="19"/>
+</svg>

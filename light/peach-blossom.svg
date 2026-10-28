@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="bloom">
+<path d="M-40-55C-94-145 94-145 40-55C109-135 165 37 65 21C165 60 20 165 0 68C-20 165-165 60-65 21C-165 37-109-135-40-55Z"/>
+<path fill="#F9ADC5" d="M-40-55C-94-145 94-145 40-55Q21-18 0 0Q-24-20-40-55ZM65 21C165 60 20 165 0 68Q0 29 0 0Q31 5 65 21Z"/>
+<circle fill="#B73568" r="35"/>
+<path fill="none" stroke="#FFE1AA" stroke-width="6" stroke-linecap="round" d="M0 0V-54M0 0L51-17M0 0L32 44M0 0L-32 44M0 0L-51-17"/>
+<path fill="#F7CA70" d="M-7-54A7 7 0 1 0 7-54A7 7 0 1 0-7-54ZM44-17A7 7 0 1 0 58-17A7 7 0 1 0 44-17ZM25 44A7 7 0 1 0 39 44A7 7 0 1 0 25 44ZM-39 44A7 7 0 1 0-25 44A7 7 0 1 0-39 44ZM-58-17A7 7 0 1 0-44-17A7 7 0 1 0-58-17Z"/>
+<circle fill="#8C274F" r="12"/>
+</g>
+</defs>
+<path fill="#88543D" d="M155 474Q225 420 257 366L251 320L267 318L272 359Q320 331 389 328L392 344Q310 347 269 375Q235 433 165 486Q158 491 153 484Q149 479 155 474Z"/>
+<path fill="#368353" d="M238 410C158 420 89 396 62 355C141 350 213 369 238 410Z"/>
+<path fill="#559B5B" d="M398 242C391 185 425 129 474 103C475 166 445 219 398 242Z"/>
+<path fill="none" stroke="#A2C77D" stroke-width="8" stroke-linecap="round" d="M85 365Q163 375 219 401M411 224Q439 173 460 125"/>
+<use href="#bloom" fill="#E879A0" transform="translate(202 190) scale(1.35)"/>
+<use href="#bloom" fill="#EE8FA9" transform="translate(391 336) scale(.7)"/>
+</svg>

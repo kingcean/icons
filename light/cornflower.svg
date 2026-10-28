@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="floret" d="M-18-48Q-28-76-44-114Q-48-124-38-119L-24-106L-18-144Q-16-154-11-145L0-123L11-145Q16-154 18-144L24-106L38-119Q48-124 44-114Q28-76 18-48Q0-40-18-48Z"/>
+</defs>
+<path d="M248 318Q246 310 254 308Q262 306 264 314Q274 372 274 395Q310 351 372 340Q384 338 380 350Q345 405 274 418Q271 453 260 490Q258 498 250 496Q242 494 244 486L250 466Q185 458 136 398Q128 386 142 386Q211 394 257 446Q266 394 248 318Z" fill="#668D79"/>
+<g transform="translate(256 180)">
+<use href="#floret" fill="#2476DF"/>
+<use href="#floret" transform="rotate(45)" fill="#398DEF"/>
+<use href="#floret" transform="rotate(90)" fill="#2476DF"/>
+<use href="#floret" transform="rotate(135)" fill="#398DEF"/>
+<use href="#floret" transform="rotate(180)" fill="#2476DF"/>
+<use href="#floret" transform="rotate(225)" fill="#398DEF"/>
+<use href="#floret" transform="rotate(270)" fill="#2476DF"/>
+<use href="#floret" transform="rotate(315)" fill="#398DEF"/>
+<circle r="46" fill="#4147A4"/>
+<circle r="23" fill="#292B70"/>
+</g>
+</svg>

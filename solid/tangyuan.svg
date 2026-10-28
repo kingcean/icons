@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M24 280Q256 366 488 280L454 371Q430 462 256 462Q82 462 58 371ZM114 379Q256 434 398 379Q405 376 408 383Q411 390 404 393Q256 450 108 393Q101 390 104 383Q107 376 114 379Z"/>
+<circle cx="255" cy="139" r="64"/>
+<path fill-rule="evenodd" d="M200 211A68 68 0 1 0 64 211A68 68 0 1 0 200 211ZM87 189Q96 166 121 160Q128 158 130 165Q132 172 125 174Q108 178 101 195Q98 202 91 199Q84 196 87 189Z"/>
+<path fill-rule="evenodd" d="M450 211A72 62 0 1 0 306 211A72 62 0 1 0 450 211ZM425 211A47 39 0 1 0 331 211A47 39 0 1 0 425 211Z"/>
+<ellipse cx="378" cy="211" rx="34" ry="26"/>
+</svg>

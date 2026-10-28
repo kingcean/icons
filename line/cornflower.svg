@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="floret" d="M-18-48Q-28-76-44-114Q-48-124-38-119L-24-106L-18-144Q-16-154-11-145L0-123L11-145Q16-154 18-144L24-106L38-119Q48-124 44-114Q28-76 18-48Q0-40-18-48Z"/>
+</defs>
+<path d="M256 346Q274 408 252 488M266 410Q306 354 374 348Q338 399 266 410ZM258 458Q190 456 142 394Q210 402 258 458Z" stroke-linecap="round"/>
+<g transform="translate(256 180)">
+<use href="#floret"/>
+<use href="#floret" transform="rotate(45)"/>
+<use href="#floret" transform="rotate(90)"/>
+<use href="#floret" transform="rotate(135)"/>
+<use href="#floret" transform="rotate(180)"/>
+<use href="#floret" transform="rotate(225)"/>
+<use href="#floret" transform="rotate(270)"/>
+<use href="#floret" transform="rotate(315)"/>
+<circle r="32"/>
+</g>
+</svg>

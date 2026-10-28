@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="petal" d="M-25-45C-64-64-96-109-82-142C-73-166-49-177-29-165Q-10-151 0-164C18-181 45-173 61-154C91-119 69-73 25-45Q0-35-25-45Z"/>
+<path id="leaf" d="M250 464C165 473 88 449 48 398Q36 382 56 378C70 374 84 381 94 376C110 367 125 381 138 379C156 376 166 395 181 398C205 410 230 434 250 464Z"/>
+<path id="vein" d="M83 389Q76 386 73 393Q70 400 77 403L132 425L130 437Q129 444 136 445Q143 446 144 439L145 430L225 463L231 449L146 414L140 396Q138 389 131 391Q124 393 126 400L128 407Z"/>
+</defs>
+<rect x="246" y="326" width="20" height="170" rx="10" fill="#528447"/>
+<use href="#leaf" fill="#4D8C4F"/>
+<use href="#vein" fill="#91B871"/>
+<use href="#leaf" transform="translate(512 0) scale(-1 1)" fill="#659D55"/>
+<use href="#vein" transform="translate(512 0) scale(-1 1)" fill="#A7C77D"/>
+<g transform="translate(256 194)">
+<use href="#petal" fill="#F2D47F"/>
+<use href="#petal" transform="rotate(72)" fill="#F7DE94"/>
+<use href="#petal" transform="rotate(144)" fill="#F2D47F"/>
+<use href="#petal" transform="rotate(216)" fill="#F7DE94"/>
+<use href="#petal" transform="rotate(288)" fill="#F2D47F"/>
+<circle r="34" fill="#D99A23"/>
+<circle r="15" fill="#EFBD43"/>
+</g>
+</svg>

@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="leaf" d="M242 8Q208 8 168 -20Q162 -28 174 -24L190 -20L160 -46Q154 -54 166 -50L190 -40L172 -68Q168 -76 180 -70Q220 -48 238 -14Q248 0 242 8Z"/>
+<g id="row">
+<use href="#leaf" transform="translate(256 148) scale(.5) translate(-256 0)"/>
+<use href="#leaf" transform="translate(256 210) scale(.8) translate(-256 0)"/>
+<use href="#leaf" transform="translate(0 276)"/>
+<use href="#leaf" transform="translate(0 342)"/>
+<use href="#leaf" transform="translate(256 408) scale(.8) translate(-256 0)"/>
+</g>
+<g id="frond">
+<path fill="#B4BE81" d="M250 84Q256 76 262 84V480Q262 488 256 488Q250 488 250 480ZM238 140H256V152H238ZM238 204H256V216H238ZM238 270H256V282H238ZM238 336H256V348H238ZM238 402H256V414H238ZM256 140H274V152H256ZM256 204H274V216H256ZM256 270H274V282H256ZM256 336H274V348H256ZM256 402H274V414H256Z"/>
+<path d="M256 24C234 48 236 86 250 106Q256 114 262 106C276 86 278 48 256 24Z"/>
+<use href="#row"/>
+<use href="#row" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</defs>
+<use href="#frond" fill="#72BC93" transform="translate(256 488) rotate(-30) scale(.9) translate(-256 -488)"/>
+<use href="#frond" fill="#B0D785" transform="translate(256 488) rotate(30) scale(.9) translate(-256 -488)"/>
+<use href="#frond" fill="#8ACD9E"/>
+</svg>

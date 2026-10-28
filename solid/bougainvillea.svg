@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="bract" d="M-18-40C-70-60-103-105-83-153Q-79-166-66-163C8-153 61-109 45-70Q29-43 6-36Q-7-31-18-40Z"/>
+</defs>
+<path d="M248 372Q248 364 256 364Q264 364 264 372V480Q264 488 256 488Q248 488 248 480Z"/>
+<path fill-rule="evenodd" d="M238 446C160 453 91 414 66 354C147 347 218 384 238 446ZM90 359Q82 357 80 365Q78 373 86 375Q161 397 214 439Q220 445 226 439Q232 433 226 427Q169 381 90 359ZM274 423C350 438 422 402 449 344C367 330 294 365 274 423ZM426 349Q346 368 286 404Q279 409 284 416Q289 423 296 417Q352 384 430 365Q438 363 436 355Q434 347 426 349Z"/>
+<g transform="translate(256 207)">
+<use href="#bract"/>
+<use href="#bract" transform="rotate(120)"/>
+<use href="#bract" transform="rotate(240)"/>
+<path d="M-19 18L-30-8Q-43-7-43-20A15 15 0 1 1-19-8L-9 14Q-7 19-12 21Q-17 23-19 18ZM4 12L12-19A15 15 0 1 1 23-16L14 15Q13 20 8 19Q3 18 4 12ZM9 20L26 9A15 15 0 1 1 32 19L15 28Q11 31 8 27Q5 23 9 20Z"/>
+</g>
+</svg>

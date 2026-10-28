@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="rock" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#D9CBBE"/>
+<stop offset="0.55" stop-color="#B4A69C"/>
+<stop offset="1" stop-color="#918782"/>
+</linearGradient>
+<linearGradient id="crater" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#68616C"/>
+<stop offset="0.75" stop-color="#918077"/>
+<stop offset="1" stop-color="#E2CAB0"/>
+</linearGradient>
+</defs>
+<path fill="url(#rock)" d="M176 42L302 28Q314 27 324 35L408 102Q417 109 420 120L478 246Q484 258 478 270L438 366Q434 377 424 384L316 472Q307 480 294 480L178 458Q166 456 158 447L72 358Q64 350 61 339L28 222Q25 211 31 201L91 107Q97 98 107 92L162 48Q168 43 176 42Z"/>
+<path fill="url(#crater)" d="M136 154C154 127 203 124 227 147C248 168 238 203 213 218C184 236 145 219 132 197Q121 174 136 154Z"/>
+<path fill="url(#crater)" d="M300 237C320 216 356 218 375 240C392 260 386 287 366 303C340 321 307 310 295 289Q282 263 300 237Z"/>
+<path fill="url(#crater)" d="M159 338C177 320 210 321 230 337C247 354 240 382 218 395C194 407 165 393 155 377Q143 355 159 338Z"/>
+</svg>

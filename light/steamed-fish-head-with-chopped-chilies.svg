@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<ellipse cx="256" cy="316" rx="232" ry="154" fill="#43858A"/>
+<ellipse cx="256" cy="312" rx="222" ry="144" fill="#FAFCF7"/>
+<ellipse cx="256" cy="316" rx="204" ry="126" fill="#E5EEEA"/>
+<path d="M40 300L66 283C82 228 137 205 187 225C251 161 355 166 428 224Q447 242 427 262L232 292L428 314Q452 321 429 342C343 404 243 397 175 356Q124 373 89 348L48 337Q31 333 47 320L65 310L41 311Q28 307 40 300Z" fill="#A69270"/>
+<path d="M173 251C238 182 347 187 414 229Q429 242 413 251L232 280L170 301Z" fill="#F4E3C3"/>
+<path d="M168 313L230 303L415 325Q426 329 411 339C336 386 239 383 178 346Z" fill="#EAD4AE"/>
+<path d="M166 306L232 292M145 253Q124 292 148 336" fill="none" stroke="#796B54" stroke-width="9" stroke-linecap="round"/>
+<circle cx="101" cy="278" r="18" fill="#F8E9C9"/>
+<circle cx="101" cy="278" r="10" fill="#363B37"/>
+<path d="M180 249Q243 197 329 203Q371 207 400 235L412 252L356 265L295 259L249 275L205 276Z M177 326L223 312L277 318L326 312L373 328L411 339Q330 380 250 367L202 351Z" fill="#CE402B"/>
+<g fill="#F35A36">
+<rect x="178" y="248" width="34" height="22" rx="7" transform="rotate(-18 195 259)"/>
+<rect x="226" y="213" width="34" height="22" rx="7" transform="rotate(15 243 224)"/>
+<rect x="278" y="240" width="36" height="22" rx="7" transform="rotate(-12 296 251)"/>
+<rect x="326" y="208" width="34" height="22" rx="7" transform="rotate(18 343 219)"/>
+<rect x="370" y="239" width="32" height="22" rx="7" transform="rotate(-12 386 250)"/>
+<rect x="184" y="326" width="34" height="22" rx="7" transform="rotate(20 201 337)"/>
+<rect x="240" y="311" width="36" height="22" rx="7" transform="rotate(-12 258 322)"/>
+<rect x="270" y="351" width="34" height="22" rx="7" transform="rotate(12 287 362)"/>
+<rect x="328" y="317" width="34" height="22" rx="7" transform="rotate(18 345 328)"/>
+<rect x="374" y="336" width="32" height="22" rx="7" transform="rotate(-18 390 347)"/>
+</g>
+<path d="M276 199L298 214L290 226L268 211Z M224 257L244 242L253 254L233 269Z M327 260L346 243L356 254L337 271Z M216 357L240 363L236 378L212 372Z M301 344L312 334L330 354L319 364Z" fill="#438D45"/>
+<path d="M277 203L290 212M234 257L242 251M336 260L344 253M222 365L232 368M311 344L320 354" fill="none" stroke="#B7D879" stroke-width="5" stroke-linecap="round"/>
+</svg>

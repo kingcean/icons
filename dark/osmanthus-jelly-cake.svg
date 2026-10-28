@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="blossom">
+<ellipse cx="-8" cy="-7" rx="7" ry="10" transform="rotate(-35 -8 -7)"/>
+<ellipse cx="8" cy="-7" rx="7" ry="10" transform="rotate(35 8 -7)"/>
+<ellipse cx="-8" cy="8" rx="7" ry="10" transform="rotate(35 -8 8)"/>
+<ellipse cx="8" cy="8" rx="7" ry="10" transform="rotate(-35 8 8)"/>
+</g>
+</defs>
+<path d="M64 274L332 344Q344 348 356 340L488 262V344Q488 360 474 368L356 440Q344 448 332 444L82 380Q64 376 64 358Z" fill="#D8B45C"/>
+<path d="M64 274L344 346V446L82 380Q64 376 64 358Z" fill="#F1D68E"/>
+<path d="M76 262L200 188Q210 182 222 186L478 252Q496 258 478 270L356 344Q344 352 332 348L76 284Q56 278 76 262Z" fill="#FFE9B3"/>
+<use href="#blossom" transform="translate(375 298)" fill="#E3A33D"/>
+<circle cx="375" cy="298" r="5" fill="#FFFADB"/>
+<circle cx="302" cy="309" r="5" fill="#E3A33D"/>
+<path d="M24 154L288 238Q300 242 312 234L448 150V224Q448 236 436 244L312 318Q300 326 288 322L42 246Q24 240 24 224Z" fill="#CCA74F"/>
+<path d="M24 154L300 238V324Q294 326 288 322L42 246Q24 240 24 224Z" fill="#EDD18A"/>
+<path d="M34 144L158 68Q168 62 180 66L436 144Q454 150 438 160L312 238Q300 246 288 242L42 164Q16 156 34 144Z" fill="#FFE5A7"/>
+<path d="M60 151L166 85Q171 82 179 85L411 155L298 225Z" fill="#FFF0C8"/>
+<use href="#blossom" transform="translate(170 141)" fill="#E3A33D"/>
+<use href="#blossom" transform="translate(280 178)" fill="#ECAF4C"/>
+<path d="M113 209L175 228M159 375L224 392" fill="none" stroke="#FFF7D6" stroke-width="11" stroke-linecap="round"/>
+<circle cx="170" cy="141" r="5" fill="#FFFBE6"/>
+<circle cx="280" cy="178" r="5" fill="#FFFBE6"/>
+<path d="M234 120L238 124M328 149L332 153M222 173L226 177" fill="none" stroke="#DAA044" stroke-width="9" stroke-linecap="round"/>
+</svg>

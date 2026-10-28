@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="petal" d="M-25-45C-64-64-96-109-82-142C-73-166-49-177-29-165Q-10-151 0-164C18-181 45-173 61-154C91-119 69-73 25-45Q0-35-25-45Z"/>
+</defs>
+<path d="M256 376V488" stroke-linecap="round"/>
+<path d="M234 464C165 473 88 449 48 398Q36 382 56 378C70 374 84 381 94 376C110 367 125 381 138 379C156 376 166 395 181 398C205 410 222 434 234 464ZM278 464C347 473 424 449 464 398Q476 382 456 378C442 374 428 381 418 376C402 367 387 381 374 379C356 376 346 395 331 398C307 410 290 434 278 464Z"/>
+<path d="M218 451L80 395M137 418L131 395M168 431L128 441M294 451L432 395M375 418L381 395M344 431L384 441" stroke-linecap="round"/>
+<g transform="translate(256 194)">
+<use href="#petal"/>
+<use href="#petal" transform="rotate(72)"/>
+<use href="#petal" transform="rotate(144)"/>
+<use href="#petal" transform="rotate(216)"/>
+<use href="#petal" transform="rotate(288)"/>
+<circle r="28"/>
+</g>
+</svg>

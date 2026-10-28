@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="leaf" d="M242 8Q208 8 168 -20Q162 -28 174 -24L190 -20L160 -46Q154 -54 166 -50L190 -40L172 -68Q168 -76 180 -70Q220 -48 238 -14Q248 0 242 8Z"/>
+<g id="row">
+<use href="#leaf" transform="translate(256 148) scale(.5) translate(-256 0)"/>
+<use href="#leaf" transform="translate(256 210) scale(.8) translate(-256 0)"/>
+<use href="#leaf" transform="translate(0 276)"/>
+<use href="#leaf" transform="translate(0 342)"/>
+<use href="#leaf" transform="translate(256 408) scale(.8) translate(-256 0)"/>
+</g>
+<g id="frond">
+<path d="M256 24C234 48 236 86 250 106V480Q250 488 256 488Q262 488 262 480V106C276 86 278 48 256 24Z"/>
+<use href="#row"/>
+<use href="#row" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</defs>
+<use href="#frond" transform="translate(256 488) rotate(-30) scale(.9) translate(-256 -488)"/>
+<use href="#frond" transform="translate(256 488) rotate(30) scale(.9) translate(-256 -488)"/>
+<use href="#frond"/>
+</svg>

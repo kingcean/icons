@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<ellipse cx="256" cy="316" rx="232" ry="154"/>
+<ellipse cx="256" cy="316" rx="210" ry="132"/>
+<path d="M40 300L66 283C82 228 137 205 187 225C251 161 355 166 428 224Q447 242 427 262L232 292L428 314Q452 321 429 342C343 404 243 397 175 356Q124 373 89 348L48 337Q31 333 47 320L65 310L41 311Q28 307 40 300Z"/>
+<path d="M166 306L232 292M145 253Q124 292 148 336" stroke-linecap="round"/>
+<circle cx="101" cy="278" r="14"/>
+<g>
+<rect x="178" y="248" width="34" height="22" rx="7" transform="rotate(-18 195 259)"/>
+<rect x="226" y="213" width="34" height="22" rx="7" transform="rotate(15 243 224)"/>
+<rect x="278" y="240" width="36" height="22" rx="7" transform="rotate(-12 296 251)"/>
+<rect x="326" y="208" width="34" height="22" rx="7" transform="rotate(18 343 219)"/>
+<rect x="370" y="239" width="32" height="22" rx="7" transform="rotate(-12 386 250)"/>
+<rect x="184" y="326" width="34" height="22" rx="7" transform="rotate(20 201 337)"/>
+<rect x="240" y="311" width="36" height="22" rx="7" transform="rotate(-12 258 322)"/>
+<rect x="270" y="351" width="34" height="22" rx="7" transform="rotate(12 287 362)"/>
+<rect x="328" y="317" width="34" height="22" rx="7" transform="rotate(18 345 328)"/>
+<rect x="374" y="336" width="32" height="22" rx="7" transform="rotate(-18 390 347)"/>
+</g>
+<path d="M279 206L292 215M232 262L244 253M334 265L347 254M221 366L236 370M311 345L320 355" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="sepal" d="M-18-48C-65-86-61-132-6-174Q0-184 6-174C61-132 65-86 18-48Q0-40-18-48Z"/>
+<g id="stamen">
+<path d="M0-20V-30"/>
+<circle cy="-36" r="5"/>
+</g>
+</defs>
+<path d="M256 400Q268 433 246 466Q235 486 254 486Q276 486 286 467"/>
+<path d="M283 433C315 370 383 353 448 367C411 417 348 443 283 433ZM303 421Q365 388 425 375"/>
+<g transform="translate(256 208)">
+<use href="#sepal"/>
+<use href="#sepal" transform="rotate(60)"/>
+<use href="#sepal" transform="rotate(120)"/>
+<use href="#sepal" transform="rotate(180)"/>
+<use href="#sepal" transform="rotate(240)"/>
+<use href="#sepal" transform="rotate(300)"/>
+<circle r="14"/>
+<use href="#stamen"/>
+<use href="#stamen" transform="rotate(45)"/>
+<use href="#stamen" transform="rotate(90)"/>
+<use href="#stamen" transform="rotate(135)"/>
+<use href="#stamen" transform="rotate(180)"/>
+<use href="#stamen" transform="rotate(225)"/>
+<use href="#stamen" transform="rotate(270)"/>
+<use href="#stamen" transform="rotate(315)"/>
+</g>
+</svg>

@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M42 218C91 160 158 122 202 112L246 32Q256 16 266 32L310 112C354 122 421 160 470 218Q490 242 464 246Q256 286 48 246Q22 242 42 218ZM202 120Q256 150 310 120Q322 124 310 136Q256 166 202 136Q190 124 202 120Z"/>
+<path d="M236 284Q256 288 276 284L282 466Q284 488 264 488H248Q228 488 230 466Z"/>
+</svg>

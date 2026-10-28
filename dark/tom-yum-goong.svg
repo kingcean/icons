@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M24 235L49 352Q61 400 110 423Q256 478 402 423Q451 400 463 352L488 235Z" fill="#69A5AD"/>
+<path d="M57 306L72 352Q84 386 124 407Q256 454 388 407Q428 386 440 352L455 306Z" fill="#95C5C7"/>
+<path d="M113 403Q256 449 399 403" fill="none" stroke="#E0F1EA" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="256" cy="235" rx="232" ry="119" fill="#8BC7CD"/>
+<ellipse cx="256" cy="232" rx="221" ry="107" fill="#FDFFF9"/>
+<ellipse cx="256" cy="235" rx="210" ry="98" fill="#DB6034"/>
+<ellipse cx="256" cy="228" rx="198" ry="87" fill="#FA8A43"/>
+<path d="M254 170C217 143 166 160 150 197C129 244 158 287 201 293C234 298 265 275 266 247Q266 231 252 228Q238 225 232 241C218 265 185 253 182 232C177 209 201 190 221 201L241 209Q256 199 254 170Z" fill="#CF5738"/>
+<path d="M246 177C210 154 173 173 161 202C143 240 166 275 204 281Q242 284 254 247Q256 237 248 240C230 274 182 268 172 235C164 205 195 179 224 191L240 199Z" fill="#FFD09A"/>
+<path d="M264 168L283 149Q291 147 291 156L288 173L300 179Q307 183 300 190L270 206Z" fill="#F07850"/>
+<path d="M178 175L196 197M153 205L182 216M151 239L183 234M168 271L190 251M201 283L207 258M235 274L224 256" fill="none" stroke="#F39363" stroke-width="9" stroke-linecap="round"/>
+<path d="M315 254H337V300Q326 310 315 300Z" fill="#F7DCB3"/>
+<path d="M291 260Q291 220 326 220Q361 220 361 260Q327 276 291 260Z" fill="#94694C"/>
+<path d="M302 249Q304 231 326 230Q348 231 351 249Q326 257 302 249Z" fill="#D3AD87"/>
+<path d="M350 179L406 126Q445 147 449 191Z" fill="#5B9F48"/>
+<path d="M363 175L407 138Q431 151 436 183Z" fill="#D0ED81"/>
+<path d="M405 150L400 178M412 157L424 180" fill="none" stroke="#FFFFCE" stroke-width="6" stroke-linecap="round"/>
+<path d="M90 196Q85 161 121 153Q147 158 147 183Q122 212 90 196Z" fill="#428C4A"/>
+<path d="M96 190L128 168" fill="none" stroke="#A3D879" stroke-width="7" stroke-linecap="round"/>
+<path d="M370 307Q366 277 396 270Q426 273 431 298Q406 326 370 307Z" fill="#519B4D"/>
+<path d="M381 302L412 285" fill="none" stroke="#B9E38B" stroke-width="7" stroke-linecap="round"/>
+<rect x="99" y="281" width="53" height="20" rx="9" transform="rotate(22 125 291)" fill="#FFE7B0"/>
+<rect x="263" y="309" width="57" height="19" rx="9" transform="rotate(-12 291 318)" fill="#F9F0C2"/>
+</svg>

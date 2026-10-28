@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="upper-leaf" d="M246 218C206 224 133 188 112 144C80 78 130 30 180 42C235 50 249 123 246 218Z"/>
+<path id="lower-leaf" d="M246 234C236 285 189 338 138 328C82 318 70 256 112 220C154 188 208 206 246 234Z"/>
+</defs>
+<use href="#upper-leaf"/>
+<use href="#upper-leaf" transform="translate(512 0) scale(-1 1)"/>
+<use href="#lower-leaf"/>
+<use href="#lower-leaf" transform="translate(512 0) scale(-1 1)"/>
+<path d="M256 254C270 340 234 412 256 482"/>
+</svg>

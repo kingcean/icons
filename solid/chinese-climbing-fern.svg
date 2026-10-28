@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="leaf" d="M0 0C-18 -4 -42 -20 -38 -36Q-34 -48 -20 -38C-34 -65 -20 -78 -8 -56C-10 -92 10 -92 14 -60C30 -80 44 -60 26 -40C50 -48 54 -25 34 -16Q18 -4 0 0Z"/>
+</defs>
+<path d="M250 491C194 403 279 335 267 273S242 158 279 87Q297 51 271 29Q267 24 272 20Q277 17 281 21Q314 47 293 93C256 162 269 209 281 271S207 400 262 485Q265 491 260 494Q254 498 250 491ZM237 396Q188 390 151 384Q145 383 144 389Q143 395 149 396Q190 402 231 408ZM228 406Q209 377 202 358Q200 352 206 350Q212 348 214 354Q221 375 239 398ZM270 285Q299 298 322 292Q328 290 326 284Q324 279 318 280Q299 285 278 275ZM279 284Q296 268 303 248Q305 242 299 240Q293 238 291 244Q285 262 269 276ZM266 188Q233 204 205 198Q199 197 199 191Q200 185 206 186Q228 192 260 176ZM269 180Q262 163 259 148Q258 142 252 143Q246 144 247 151Q250 168 257 184Z"/>
+<use href="#leaf" transform="translate(140 390) rotate(-55)"/>
+<use href="#leaf" transform="translate(205 346) rotate(-15)"/>
+<use href="#leaf" transform="translate(330 286) rotate(55)"/>
+<use href="#leaf" transform="translate(300 236) rotate(20)"/>
+<use href="#leaf" transform="translate(195 192) rotate(-55)"/>
+<use href="#leaf" transform="translate(250 140) rotate(-15)"/>
+</svg>

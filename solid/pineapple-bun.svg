@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="crustClip">
+<path d="M24 286C24 156 121 64 256 64C391 64 488 156 488 286Q488 324 452 340Q256 412 60 340Q24 324 24 286Z"/>
+</clipPath>
+<path id="tile" d="M30 60H120Q130 60 130 70V122Q130 132 120 132H30Q20 132 20 122V70Q20 60 30 60Z"/>
+<g id="row">
+<use href="#tile"/>
+<use href="#tile" x="124"/>
+<use href="#tile" x="248"/>
+<use href="#tile" x="372"/>
+</g>
+</defs>
+<g clip-path="url(#crustClip)">
+<use href="#row"/>
+<use href="#row" y="86"/>
+<use href="#row" y="172"/>
+<use href="#row" y="258"/>
+</g>
+<path d="M40 360Q256 438 472 360L458 394Q434 452 256 452Q78 452 54 394Z"/>
+</svg>
