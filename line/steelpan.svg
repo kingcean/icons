@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<ellipse cx="202" cy="156" rx="178" ry="106"/>
+<path d="M24 178V206C24 332 380 332 380 206V178"/>
+<ellipse cx="202" cy="92" rx="42" ry="20"/>
+<ellipse cx="202" cy="220" rx="42" ry="20"/>
+<ellipse cx="92" cy="156" rx="36" ry="46"/>
+<ellipse cx="312" cy="156" rx="36" ry="46"/>
+<ellipse cx="202" cy="156" rx="46" ry="28"/>
+<path d="M108 318L74 478Q72 488 82 488H98L136 318ZM268 318L306 488H322Q332 488 330 478L296 318ZM126 414H278"/>
+<rect x="410" y="108" width="36" height="52" rx="18"/>
+<rect x="416" y="172" width="24" height="302" rx="12"/>
+<rect x="462" y="162" width="36" height="52" rx="18"/>
+<rect x="468" y="226" width="24" height="262" rx="12"/>
+</svg>

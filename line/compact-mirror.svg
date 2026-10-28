@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<circle cx="256" cy="184" r="160"/>
+<circle cx="256" cy="184" r="132"/>
+<path d="M176 208L248 136M216 244L304 156"/>
+<ellipse cx="256" cy="412" rx="224" ry="60"/>
+<ellipse cx="256" cy="412" rx="184" ry="36"/>
+<path d="M32 412V428C32 508 480 508 480 428V412"/>
+<path d="M236 352V364M276 352V364"/>
+</svg>

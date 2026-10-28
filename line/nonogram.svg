@@ -1,0 +1,45 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<rect id="cell" width="52" height="52" rx="6"/>
+<path id="n1" d="M-10-10L0-18V18M-10 18H10"/>
+<path id="n2" d="M-12-10Q-12-18 0-18Q12-18 12-8Q12-2 4 4L-12 18H12"/>
+<path id="n3" d="M-12-18H10L-2-2Q12-2 12 8Q12 18 0 18Q-8 18-12 12"/>
+<path id="n4" d="M8 18V-18L-12 6H16"/>
+<path id="n5" d="M12-18H-10V-2Q12-8 12 8Q12 18 0 18Q-8 18-12 12"/>
+</defs>
+<rect x="132" y="132" width="340" height="340" rx="12"/>
+<path d="M200 132V472M268 132V472M336 132V472M404 132V472M132 200H472M132 268H472M132 336H472M132 404H472"/>
+<g>
+<use href="#cell" x="208" y="140"/>
+<use href="#cell" x="344" y="140"/>
+<use href="#cell" x="140" y="208"/>
+<use href="#cell" x="208" y="208"/>
+<use href="#cell" x="276" y="208"/>
+<use href="#cell" x="344" y="208"/>
+<use href="#cell" x="412" y="208"/>
+<use href="#cell" x="140" y="276"/>
+<use href="#cell" x="208" y="276"/>
+<use href="#cell" x="276" y="276"/>
+<use href="#cell" x="344" y="276"/>
+<use href="#cell" x="412" y="276"/>
+<use href="#cell" x="208" y="344"/>
+<use href="#cell" x="276" y="344"/>
+<use href="#cell" x="344" y="344"/>
+<use href="#cell" x="276" y="412"/>
+</g>
+<g>
+<use href="#n2" transform="translate(166 82)"/>
+<use href="#n4" transform="translate(234 82)"/>
+<use href="#n4" transform="translate(302 82)"/>
+<use href="#n4" transform="translate(370 82)"/>
+<use href="#n2" transform="translate(438 82)"/>
+<use href="#n1" transform="translate(46 166)"/>
+<use href="#n1" transform="translate(88 166)"/>
+<use href="#n5" transform="translate(88 234)"/>
+<use href="#n5" transform="translate(88 302)"/>
+<use href="#n3" transform="translate(88 370)"/>
+<use href="#n1" transform="translate(88 438)"/>
+</g>
+<path d="M156 156L176 176M176 156L156 176M428 428L448 448M448 428L428 448"/>
+</svg>

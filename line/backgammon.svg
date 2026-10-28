@@ -1,0 +1,28 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="points" d="M52 84H80L66 204Z M84 84H112L98 204Z M116 84H144L130 204Z M148 84H176L162 204Z M180 84H208L194 204Z M212 84H240L226 204Z"/>
+<g id="die">
+<rect x="150" y="226" width="64" height="64" rx="12"/>
+<circle cx="168" cy="244" r="5"/>
+<circle cx="182" cy="258" r="5"/>
+<circle cx="196" cy="272" r="5"/>
+</g>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24"/>
+<rect x="248" y="84" width="16" height="344" rx="8"/>
+<use href="#points"/>
+<use href="#points" transform="translate(220 0)"/>
+<use href="#points" transform="translate(0 512) scale(1 -1)"/>
+<use href="#points" transform="translate(220 512) scale(1 -1)"/>
+<g>
+<circle cx="66" cy="240" r="14"/>
+<circle cx="66" cy="276" r="14"/>
+<circle cx="108" cy="258" r="14"/>
+<circle cx="446" cy="240" r="14"/>
+<circle cx="446" cy="276" r="14"/>
+<circle cx="404" cy="258" r="14"/>
+</g>
+<use href="#die"/>
+<use href="#die" transform="translate(148 0)"/>
+</svg>

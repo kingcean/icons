@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M224 40C112 48 48 128 60 230C72 326 150 380 256 380C362 380 440 326 452 230C464 128 400 48 288 40" stroke-linecap="round"/>
+<rect x="240" y="28" width="32" height="24" rx="8"/>
+<path d="M256 400C244 416 212 438 212 454C212 474 232 488 256 488C280 488 300 474 300 454C300 438 268 416 256 400Z"/>
+</svg>

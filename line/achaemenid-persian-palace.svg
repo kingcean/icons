@@ -1,0 +1,36 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="column">
+<path d="M-36 42V24L-44 18V8L-38 12L-34 0L-28 12H-18L-12 24Q0 30 12 24L18 12H28L34 0L38 12L44 8V18L36 24V42H18L10 34H-10L-18 42Z"/>
+<rect x="-13" y="54" width="26" height="180" rx="4"/>
+<path d="M-4 66V222M4 66V222M-30 246H30V262H-30Z"/>
+</g>
+<g id="figure">
+<circle cx="12" cy="8" r="6"/>
+<path d="M6 44V22Q6 18 12 18H18L24 28H30M18 24V44M4 44H24"/>
+</g>
+</defs>
+<g>
+<rect x="48" y="44" width="416" height="16" rx="4"/>
+<rect x="60" y="72" width="392" height="34" rx="5"/>
+<path d="M76 88H436"/>
+</g>
+<g>
+<use href="#column" x="112" y="124"/>
+<use href="#column" x="208" y="124"/>
+<use href="#column" x="304" y="124"/>
+<use href="#column" x="400" y="124"/>
+</g>
+<g>
+<path d="M170 402H32Q24 402 24 410V476Q24 484 32 484H150M342 402H480Q488 402 488 410V476Q488 484 480 484H362M36 418H164M348 418H476M36 472H152M360 472H476"/>
+<use href="#figure" x="42" y="426"/>
+<use href="#figure" x="82" y="426"/>
+<use href="#figure" x="122" y="426"/>
+<use href="#figure" x="358" y="426"/>
+<use href="#figure" x="398" y="426"/>
+<use href="#figure" x="438" y="426"/>
+<path d="M192 402H320L352 484H160ZM188 416H324M182 434H330M174 452H338M168 470H344"/>
+</g>
+<path d="M24 496H488"/>
+</svg>

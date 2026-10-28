@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sectorLight" x1="96" y1="96" x2="384" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6366F1" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M24 464V48Q24 24 48 24.62A464 464 0 0 1 487.38 464Q488 488 464 488H48Q24 488 24 464Z" fill="url(#sectorLight)" stroke="#D97706" stroke-width="16" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="flapGap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM88 100H424V224H88Z"/>
+</clipPath>
+</defs>
+<path d="M40 208L242 40Q256 28 270 40L472 208Z" clip-path="url(#flapGap)"/>
+<rect x="104" y="116" width="304" height="92" rx="12"/>
+<path fill-rule="evenodd" d="M44 224H468Q488 224 488 244V444Q488 464 468 464H44Q24 464 24 444V244Q24 224 44 224ZM48 246Q42 242 38 248Q34 254 40 258L168 346Q174 350 178 344Q182 338 176 334ZM464 246L336 334Q330 338 334 344Q338 350 344 346L472 258Q478 254 474 248Q470 242 464 246ZM48 438L240 316Q256 306 272 316L464 438Q470 442 466 448Q462 454 456 450L264 330Q256 324 248 330L56 450Q50 454 46 448Q42 442 48 438Z"/>
+</svg>

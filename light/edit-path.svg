@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="pencil" x1="264" y1="432" x2="416" y2="280" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D97706"/>
+<stop offset="1" stop-color="#FBBF24"/>
+</linearGradient>
+</defs>
+<rect x="24" y="64" width="464" height="152" rx="24" fill="#E2E8F0"/>
+<path d="M68 104H92L108 120H136Q148 120 148 132V160Q148 172 136 172H68Q56 172 56 160V116Q56 104 68 104Z" fill="#D97706"/>
+<path d="M68 128H136Q148 128 148 140V160Q148 172 136 172H68Q56 172 56 160V140Q56 128 68 128Z" fill="#FBBF24"/>
+<path d="M188 140H216M248 120L232 160M272 140H320M408 140H448" fill="none" stroke="#475569" stroke-width="16" stroke-linecap="round"/>
+<path d="M352 104H376M364 104V176M352 176H376" fill="none" stroke="#2563EB" stroke-width="16" stroke-linecap="round"/>
+<path d="M228 396L380 244Q392 232 404 244L452 292Q464 304 452 316L300 468Z" fill="url(#pencil)"/>
+<path d="M356 268L380 244Q392 232 404 244L452 292Q464 304 452 316L428 340Z" fill="#7C3AED"/>
+<path d="M344 280L356 268L428 340L416 352Z" fill="#CBD5E1"/>
+<path d="M228 396L300 468L220 488Q208 491 208 476Z" fill="#F3C993"/>
+<path d="M216 444L252 480L220 488Q208 491 208 476Z" fill="#475569"/>
+</svg>

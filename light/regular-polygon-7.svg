@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="heptagonLight" x1="128" y1="96" x2="384" y2="476.367" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6366F1" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 24L442.050 113.597L488 314.919L359.250 476.367H152.750L24 314.919L69.950 113.597Z" fill="url(#heptagonLight)" stroke="#D97706" stroke-width="16" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="upperLeft" x1="256" y1="22" x2="80" y2="336" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B1F4FA" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#57B7F3" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="upperRight" x1="256" y1="22" x2="400" y2="336" gradientUnits="userSpaceOnUse">
+<stop stop-color="#ACD6FF" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#A798F5" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="lowerLeft" x1="32" y1="216" x2="256" y2="490" gradientUnits="userSpaceOnUse">
+<stop stop-color="#85EEE1" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#54B7DE" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="lowerRight" x1="480" y1="296" x2="256" y2="490" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B2BEFF" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#897BDB" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 22L368 176L256 490M32 216L368 176L480 296" fill="none" stroke="#FFC184" stroke-width="10" stroke-dasharray="16 16" stroke-linecap="round"/>
+<path d="M256 22L32 216L144 336Z" fill="url(#upperLeft)"/>
+<path d="M256 22L144 336L480 296Z" fill="url(#upperRight)"/>
+<path d="M32 216L256 490L144 336Z" fill="url(#lowerLeft)"/>
+<path d="M144 336L256 490L480 296Z" fill="url(#lowerRight)"/>
+<path d="M251 28Q256 22 261 28L476 290Q480 296 476 302L261 484Q256 490 251 484L36 222Q32 216 36 210ZM256 22L144 336L256 490M32 216L144 336L480 296" fill="none" stroke="#FFC184" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

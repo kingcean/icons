@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="monitorClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM192 160H512V512H192Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#monitorClip)">
+<path fill-rule="evenodd" d="M48 32H328Q352 32 352 56V280Q352 304 328 304H48Q24 304 24 280V56Q24 32 48 32ZM56 56Q48 56 48 64V248H328V64Q328 56 320 56Z"/>
+</g>
+<path d="M134 320H154V358H184Q194 358 194 368Q194 378 184 378H88Q78 378 78 368Q78 358 88 358H134Z"/>
+<path d="M134 394Q134 384 144 384Q154 384 154 394V416Q154 422 160 422H192V442H160Q134 442 134 416Z"/>
+<path fill-rule="evenodd" d="M232 176H464Q488 176 488 200V456Q488 480 464 480H232Q208 480 208 456V200Q208 176 232 176ZM232 248V448Q232 456 240 456H456Q464 456 464 448V248ZM248 198Q238 198 238 208Q238 218 248 218H280Q290 218 290 208Q290 198 280 198Z"/>
+<rect x="340" y="264" width="16" height="184" rx="8"/>
+<circle cx="280" cy="352" r="28"/>
+<rect x="272" y="292" width="16" height="20" rx="8"/>
+<rect x="272" y="392" width="16" height="20" rx="8"/>
+<rect x="220" y="344" width="20" height="16" rx="8"/>
+<rect x="320" y="344" width="20" height="16" rx="8"/>
+<path d="M416 308A44 44 0 1 0 460 352A36 36 0 0 1 416 308Z"/>
+</svg>

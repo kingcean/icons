@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="minaret">
+<rect x="20" y="0" width="8" height="32" rx="4" fill="#F2CC77"/>
+<path d="M4 56Q4 36 24 24Q44 36 44 56Z" fill="#5BD4D3"/>
+<rect x="12" y="80" width="24" height="340" rx="4" fill="#66A6E4"/>
+<path d="M28 84H36V416H28Z" fill="#407CC1"/>
+<rect x="0" y="56" width="48" height="28" rx="4" fill="#ECCA87"/>
+<path d="M8 66H40V74H8ZM8 200H40V212H8ZM8 312H40V324H8Z" fill="#FFE8B4"/>
+<path d="M18 120H26V176H18ZM18 232H26V288H18ZM18 344H26V392H18Z" fill="#9DE8EC"/>
+<rect x="4" y="412" width="40" height="32" rx="4" fill="#D0AD7B"/>
+</g>
+</defs>
+<g>
+<rect x="252" y="24" width="8" height="40" rx="4" fill="#F2CC77"/>
+<path d="M172 180C158 126 190 96 224 80Q248 66 256 56Q264 66 288 80C322 96 354 126 340 180Z" fill="#51D1D1"/>
+<path d="M256 56Q264 66 288 80C322 96 354 126 340 180H302C310 124 282 86 256 56Z" fill="#2A9EAF"/>
+<path d="M242 74C211 98 189 126 190 154H204C205 122 220 99 242 74Z" fill="#B0F0E8"/>
+</g>
+<g>
+<use href="#minaret" x="40" y="32"/>
+<use href="#minaret" x="424" y="32"/>
+</g>
+<g>
+<rect x="116" y="180" width="280" height="296" rx="6" fill="#5087CE"/>
+<path d="M122 180H390V196H122ZM116 196H128V460H116ZM384 196H396V460H384Z" fill="#EFCB86"/>
+<path d="M160 460V316Q160 256 256 212Q352 256 352 316V460Z" fill="#84E0DF"/>
+<path d="M180 460V320Q180 270 256 236Q332 270 332 320V460Z" fill="#EED398"/>
+<path d="M192 460V324Q192 282 256 250Q320 282 320 324V460Z" fill="#285584"/>
+<path d="M212 460V330Q212 299 256 274Q300 299 300 330V460Z" fill="#17344F"/>
+<path d="M256 250V274Q212 299 212 330V460H192V324Q192 282 256 250Z" fill="#5087AA"/>
+<path d="M140 272L150 286L140 300L130 286ZM140 344L150 358L140 372L130 358ZM372 272L382 286L372 300L362 286ZM372 344L382 358L372 372L362 358ZM208 200L220 212L208 224L196 212ZM304 200L316 212L304 224L292 212Z" fill="#FFE5AA"/>
+<path d="M132 420H148V444H132ZM364 420H380V444H364Z" fill="#91E6EB"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="5" fill="#C3A177"/>
+<path d="M32 476H480V484H32Z" fill="#F3DDB7"/>
+</svg>

@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="points" d="M52 84H80L66 204Z M84 84H112L98 204Z M116 84H144L130 204Z M148 84H176L162 204Z M180 84H208L194 204Z M212 84H240L226 204Z"/>
+<path id="die" fill-rule="evenodd" d="M162 226H202Q214 226 214 238V278Q214 290 202 290H162Q150 290 150 278V238Q150 226 162 226Z M162 244a6 6 0 1 0 12 0a6 6 0 1 0-12 0Z M176 258a6 6 0 1 0 12 0a6 6 0 1 0-12 0Z M190 272a6 6 0 1 0 12 0a6 6 0 1 0-12 0Z"/>
+</defs>
+<path fill-rule="evenodd" d="M48 48H464Q488 48 488 72V440Q488 464 464 464H48Q24 464 24 440V72Q24 48 48 48Z M52 72Q44 72 44 80V432Q44 440 52 440H460Q468 440 468 432V80Q468 72 460 72Z"/>
+<rect x="248" y="84" width="16" height="344" rx="8"/>
+<use href="#points"/>
+<use href="#points" transform="translate(220 0)"/>
+<use href="#points" transform="translate(0 512) scale(1 -1)"/>
+<use href="#points" transform="translate(220 512) scale(1 -1)"/>
+<g>
+<circle cx="66" cy="240" r="14"/>
+<circle cx="66" cy="276" r="14"/>
+<circle cx="108" cy="258" r="14"/>
+<circle cx="446" cy="240" r="14"/>
+<circle cx="446" cy="276" r="14"/>
+<circle cx="404" cy="258" r="14"/>
+</g>
+<use href="#die"/>
+<use href="#die" transform="translate(148 0)"/>
+</svg>

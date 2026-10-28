@@ -1,0 +1,44 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="minaret">
+<rect x="12" y="0" width="8" height="28" rx="4" fill="#B88735"/>
+<path d="M4 64L14 24Q16 16 18 24L28 64Z" fill="#426C85"/>
+<rect x="8" y="64" width="16" height="274" rx="3" fill="#E1CBA6"/>
+<path d="M18 64H24V338H18Z" fill="#BBA17A"/>
+<rect x="0" y="152" width="32" height="16" rx="4" fill="#A07A4B"/>
+<rect x="0" y="236" width="32" height="16" rx="4" fill="#A07A4B"/>
+<path d="M4 152H28V158H4ZM4 236H28V242H4Z" fill="#F1DDB5"/>
+<rect x="0" y="332" width="32" height="12" rx="4" fill="#AD8D62"/>
+</g>
+</defs>
+<g>
+<use href="#minaret" transform="translate(84 44) scale(.85)"/>
+<use href="#minaret" transform="translate(400 44) scale(.85)"/>
+<use href="#minaret" x="24" y="116"/>
+<use href="#minaret" x="456" y="116"/>
+</g>
+<g>
+<path d="M252 76Q252 72 256 72Q260 72 260 76V78H266Q270 78 270 82Q270 86 266 86H260V110H252V86H246Q242 86 242 82Q242 78 246 78H252Z" fill="#B88735"/>
+<rect x="184" y="192" width="144" height="56" rx="4" fill="#DBC7A4"/>
+<path d="M108 304C108 250 126 222 184 216V304ZM404 304C404 250 386 222 328 216V304Z" fill="#648E9E"/>
+<path d="M108 288H184V304H108ZM328 288H404V304H328Z" fill="#426C85"/>
+<path d="M164 196A92 92 0 0 1 348 196Z" fill="#648FA3"/>
+<path d="M256 104A92 92 0 0 1 348 196H310C310 155 290 121 256 104Z" fill="#3F6A85"/>
+<path d="M242 116C210 124 186 150 180 180H194C201 149 218 130 242 116Z" fill="#A5C8CE"/>
+<rect x="164" y="192" width="184" height="12" rx="4" fill="#AE8B57"/>
+<path d="M184 316V304C184 270 214 248 256 248C298 248 328 270 328 304V316Z" fill="#81A8B1"/>
+<path d="M256 248C298 248 328 270 328 304V316H302C302 282 283 259 256 248Z" fill="#527D92"/>
+<path d="M184 304H328V316H184Z" fill="#AE8B57"/>
+</g>
+<g>
+<rect x="108" y="316" width="296" height="48" rx="5" fill="#DDC6A0"/>
+<path d="M128 328H136V344H128ZM160 328H168V344H160ZM344 328H352V344H344ZM376 328H384V344H376ZM236 364V338Q236 326 256 326Q276 326 276 338V364Z" fill="#3C6478"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M86 364H426Q432 364 432 370V476H80V370Q80 364 86 364ZM96 476H144V416A24 24 0 0 0 96 416ZM164 476H212V416A24 24 0 0 0 164 416ZM232 476H280V416A24 24 0 0 0 232 416ZM300 476H348V416A24 24 0 0 0 300 416ZM368 476H416V416A24 24 0 0 0 368 416Z" fill="#BE9C70"/>
+<rect x="80" y="364" width="352" height="20" rx="5" fill="#EDD9B3"/>
+<path d="M80 380H432V388H80Z" fill="#987448"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="5" fill="#A1825B"/>
+<path d="M32 476H480V484H32Z" fill="#D7BF97"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="136" y="208" width="48" height="96" rx="8" fill="#BDD8EC"/>
+<rect x="328" y="208" width="48" height="96" rx="8" fill="#8DB5D2"/>
+<rect x="48" y="288" width="416" height="128" rx="24" fill="#57B8AA"/>
+<path d="M48 384H464V392Q464 416 440 416H72Q48 416 48 392Z" fill="#369E92"/>
+<path fill-rule="evenodd" d="M32 308H480Q488 308 488 316V360Q488 368 480 368H32Q24 368 24 360V316Q24 308 32 308ZM172 338A12 12 0 1 0 148 338A12 12 0 1 0 172 338ZM364 338A12 12 0 1 0 340 338A12 12 0 1 0 364 338Z" fill="#FFFFFF" stroke="#C0D9E5" stroke-width="8"/>
+<path d="M60 152H452V192Q452 216 428 216H84Q60 216 60 192Z" fill="#369E92"/>
+<path d="M96 48H392Q412 48 420 68L452 152Q460 176 436 176H76Q52 176 60 152L68 76Q72 48 96 48Z" fill="#57B8AA"/>
+<path d="M128 144H384" fill="none" stroke="#A9E5D4" stroke-width="12" stroke-linecap="round"/>
+<circle cx="382" cy="464" r="18" fill="#FFFFFF" stroke="#C0D9E5" stroke-width="8"/>
+<circle cx="446" cy="452" r="18" fill="#DDEEF5" stroke="#C0D9E5" stroke-width="8"/>
+</svg>

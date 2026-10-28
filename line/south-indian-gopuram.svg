@@ -1,0 +1,51 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="figure">
+<path d="M0 28V12A12 12 0 0 1 24 12V28Z"/>
+<circle cx="12" cy="9" r="4"/>
+<path d="M6 24V21Q6 16 12 16Q18 16 18 21V24"/>
+</g>
+</defs>
+<g>
+<path d="M208 18V26M240 18V26M272 18V26M304 18V26"/>
+<path d="M180 78V62Q180 38 204 38H308Q332 38 332 62V78Z"/>
+<path d="M196 70V60Q196 50 206 50H306Q316 50 316 60V70M224 50V70M256 50V70M288 50V70"/>
+</g>
+<g>
+<path d="M172 126L182 94Q184 90 190 90H322Q328 90 330 94L340 126ZM156 174L166 142Q168 138 174 138H338Q344 138 346 142L356 174ZM140 222L150 190Q152 186 158 186H354Q360 186 362 190L372 222ZM124 270L134 238Q136 234 142 234H370Q376 234 378 238L388 270ZM108 318L118 286Q120 282 126 282H386Q392 282 394 286L404 318ZM92 366L102 334Q104 330 110 330H402Q408 330 410 334L420 366Z"/>
+<use href="#figure" x="200" y="94"/>
+<use href="#figure" x="244" y="94"/>
+<use href="#figure" x="288" y="94"/>
+<use href="#figure" x="184" y="142"/>
+<use href="#figure" x="244" y="142"/>
+<use href="#figure" x="304" y="142"/>
+<use href="#figure" x="168" y="190"/>
+<use href="#figure" x="244" y="190"/>
+<use href="#figure" x="320" y="190"/>
+<use href="#figure" x="152" y="238"/>
+<use href="#figure" x="198" y="238"/>
+<use href="#figure" x="244" y="238"/>
+<use href="#figure" x="290" y="238"/>
+<use href="#figure" x="336" y="238"/>
+<use href="#figure" x="136" y="286"/>
+<use href="#figure" x="190" y="286"/>
+<use href="#figure" x="244" y="286"/>
+<use href="#figure" x="298" y="286"/>
+<use href="#figure" x="352" y="286"/>
+<use href="#figure" x="120" y="334"/>
+<use href="#figure" x="182" y="334"/>
+<use href="#figure" x="244" y="334"/>
+<use href="#figure" x="306" y="334"/>
+<use href="#figure" x="368" y="334"/>
+</g>
+<g>
+<path d="M114 378H398Q404 378 404 384V472H298V426A42 42 0 0 0 214 426V472H108V384Q108 378 114 378Z"/>
+<path d="M230 472V428A26 26 0 0 1 282 428V472M132 400H188V454H132ZM324 400H380V454H324Z"/>
+<rect x="24" y="410" width="72" height="12" rx="4"/>
+<rect x="416" y="410" width="72" height="12" rx="4"/>
+<rect x="28" y="434" width="68" height="38" rx="4"/>
+<rect x="416" y="434" width="68" height="38" rx="4"/>
+</g>
+<rect x="24" y="484" width="464" height="16" rx="5"/>
+</svg>

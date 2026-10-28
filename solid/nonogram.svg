@@ -1,0 +1,45 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<rect id="cell" width="52" height="52" rx="6"/>
+<path id="n1" d="M-3-18H5V18H-3V-7L-9-2L-14-8Z"/>
+<path id="n2" d="M-15-10Q-14-22 0-22Q16-22 16-9Q16-2 7 6L-3 14H16V22H-16V15L2-1Q8-6 8-9Q8-14 0-14Q-6-14-7-8Z"/>
+<path id="n3" d="M-14-22H15V-15L4-5Q16-2 16 9Q16 22 0 22Q-10 22-16 15L-10 9Q-6 14 0 14Q8 14 8 9Q8 3-4 3H-9V-4L3-14H-14Z"/>
+<path id="n4" fill-rule="evenodd" d="M4-22H12V2H18V10H12V22H4V10H-17V2ZM4-8L-4 2H4Z"/>
+<path id="n5" d="M15-22V-14H-6V-6Q16-9 16 8Q16 22 0 22Q-10 22-16 15L-10 9Q-6 14 0 14Q8 14 8 8Q8 0-7 3H-14V-22Z"/>
+</defs>
+<path fill-rule="evenodd" d="M144 128H460Q476 128 476 144V460Q476 476 460 476H144Q128 476 128 460V144Q128 128 144 128ZM144 136Q136 136 136 144V460Q136 468 144 468H460Q468 468 468 460V144Q468 136 460 136Z"/>
+<path d="M196 136H204V468H196ZM264 136H272V468H264ZM332 136H340V468H332ZM400 136H408V468H400ZM136 196H468V204H136ZM136 264H468V272H136ZM136 332H468V340H136ZM136 400H468V408H136Z"/>
+<g>
+<use href="#cell" x="208" y="140"/>
+<use href="#cell" x="344" y="140"/>
+<use href="#cell" x="140" y="208"/>
+<use href="#cell" x="208" y="208"/>
+<use href="#cell" x="276" y="208"/>
+<use href="#cell" x="344" y="208"/>
+<use href="#cell" x="412" y="208"/>
+<use href="#cell" x="140" y="276"/>
+<use href="#cell" x="208" y="276"/>
+<use href="#cell" x="276" y="276"/>
+<use href="#cell" x="344" y="276"/>
+<use href="#cell" x="412" y="276"/>
+<use href="#cell" x="208" y="344"/>
+<use href="#cell" x="276" y="344"/>
+<use href="#cell" x="344" y="344"/>
+<use href="#cell" x="276" y="412"/>
+</g>
+<g>
+<use href="#n2" transform="translate(166 82)"/>
+<use href="#n4" transform="translate(234 82)"/>
+<use href="#n4" transform="translate(302 82)"/>
+<use href="#n4" transform="translate(370 82)"/>
+<use href="#n2" transform="translate(438 82)"/>
+<use href="#n1" transform="translate(46 166)"/>
+<use href="#n1" transform="translate(88 166)"/>
+<use href="#n5" transform="translate(88 234)"/>
+<use href="#n5" transform="translate(88 302)"/>
+<use href="#n3" transform="translate(88 370)"/>
+<use href="#n1" transform="translate(88 438)"/>
+</g>
+<path d="M154 159Q151 156 154 153Q157 150 160 153L166 159L172 153Q175 150 178 153Q181 156 178 159L172 165L178 171Q181 174 178 177Q175 180 172 177L166 171L160 177Q157 180 154 177Q151 174 154 171L160 165ZM426 431Q423 428 426 425Q429 422 432 425L438 431L444 425Q447 422 450 425Q453 428 450 431L444 437L450 443Q453 446 450 449Q447 452 444 449L438 443L432 449Q429 452 426 449Q423 446 426 443L432 437Z"/>
+</svg>

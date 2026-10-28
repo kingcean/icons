@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<g id="transportEngineSolid">
+<rect x="-13" y="216" width="26" height="34" rx="13"/>
+<path d="M-6 248Q-6 242 0 242Q6 242 6 248V264H22Q28 264 28 270Q28 276 22 276H6V292Q6 298 0 298Q-6 298-6 292V276H-22Q-28 276-28 270Q-28 264-22 264H-6Z"/>
+</g>
+</defs>
+<path d="M188 183L30 224Q20 227 24 237L28 248Q30 254 38 252L180 226ZM324 183L482 224Q492 227 488 237L484 248Q482 254 474 252L332 226Z"/>
+<path d="M232 120L162 142Q154 145 158 152L164 162Q167 167 174 165L232 148ZM300 120L358 142Q366 145 362 152L356 162Q353 167 346 165L304 148Z"/>
+<path d="M244 150V42Q244 30 254 36L280 56Q287 61 289 70L304 150Z"/>
+<path fill-rule="evenodd" d="M256 162C218 162 194 226 190 286C185 337 210 362 256 362C302 362 327 337 322 286C318 226 294 162 256 162ZM220 286V340H292V286Q292 278 284 278H228Q220 278 220 286Z"/>
+<path d="M220 374H292L310 420Q313 428 304 428H208Q199 428 202 420Z"/>
+<use href="#transportEngineSolid" transform="translate(84 0)"/>
+<use href="#transportEngineSolid" transform="translate(160 0)"/>
+<use href="#transportEngineSolid" transform="translate(352 0)"/>
+<use href="#transportEngineSolid" transform="translate(428 0)"/>
+</svg>

@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="carrierPlaneDark">
+<path d="M-30-6H-10L-2-25Q0-29 5-27L10-25L8-6H29Q39-6 42 0Q39 6 29 6H8L10 25L5 27Q0 29-2 25L-10 6H-30L-36 15H-42L-39 0L-42-15H-36Z" fill="#EDF6FA"/>
+<path d="M15-4H28Q33-4 35 0Q33 4 28 4H15Z" fill="#356F89"/>
+</g>
+</defs>
+<path d="M36 308L382 343L488 268L480 326Q480 339 469 347L397 400Q385 409 370 407L83 375Q68 373 61 361Z" fill="#A1BDCE"/>
+<path d="M382 343L488 268L480 326Q480 339 469 347L397 400Q391 405 382 407Z" fill="#67879F"/>
+<path d="M32 278L124 208Q132 202 142 203L410 225Q421 226 430 232L482 262Q493 269 482 277L389 345Q383 350 375 349L40 316Q24 314 24 300V292Q24 284 32 278Z" fill="#819FB6"/>
+<path d="M85 298L362 327Q368 328 367 334Q366 340 360 339L83 310Q77 309 78 303Q79 297 85 298Z" fill="#FFE2A0"/>
+<path d="M292 172L323 155L363 160L377 193V222L333 219L292 209Z" fill="#DAE8F0"/>
+<path d="M333 178L363 160L377 193V222L333 219Z" fill="#A1BDCE"/>
+<path d="M292 172L323 155L363 160L333 178Z" fill="#EDF6FA"/>
+<path d="M316 164V118Q316 110 324 111L346 114Q354 115 354 123V167Z" fill="#DAE8F0"/>
+<path d="M322 125L347 128V140L322 137Z" fill="#356F89"/>
+<rect x="329" y="76" width="12" height="36" rx="6" fill="#AFBDCA"/>
+<path d="M299 181L320 184V195L299 192ZM343 185L361 176V187L343 196Z" fill="#356F89"/>
+<use href="#carrierPlaneDark" transform="translate(146 262) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneDark" transform="translate(236 273) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneDark" transform="translate(326 286) rotate(6) scale(.72)"/>
+</svg>

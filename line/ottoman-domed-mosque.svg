@@ -1,0 +1,35 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="minaret">
+<path d="M16 0V12M4 64L16 20L28 64Z"/>
+<path d="M8 76H24V148H8ZM8 172H24V232H8ZM8 256H24V320H8Z"/>
+<rect x="0" y="152" width="32" height="16" rx="4"/>
+<rect x="0" y="236" width="32" height="16" rx="4"/>
+<rect x="0" y="332" width="32" height="12" rx="4"/>
+</g>
+</defs>
+<g>
+<use href="#minaret" transform="translate(84 44) scale(.85)"/>
+<use href="#minaret" transform="translate(400 44) scale(.85)"/>
+<use href="#minaret" x="24" y="116"/>
+<use href="#minaret" x="456" y="116"/>
+</g>
+<g>
+<path d="M256 72V92M246 82H266M164 196A92 92 0 0 1 348 196Z"/>
+<path d="M256 116C220 132 200 156 200 184M256 116C292 132 312 156 312 184"/>
+<rect x="184" y="208" width="144" height="28" rx="4"/>
+<path d="M108 292C108 250 126 222 172 216V292ZM404 292C404 250 386 222 340 216V292Z"/>
+<path d="M184 304C184 270 214 248 256 248C298 248 328 270 328 304Z"/>
+<path d="M256 260V292"/>
+</g>
+<g>
+<rect x="108" y="316" width="296" height="36" rx="5"/>
+<path d="M132 328V340M164 328V340M348 328V340M380 328V340M236 352V336Q236 324 256 324Q276 324 276 336V352"/>
+</g>
+<g>
+<rect x="80" y="364" width="352" height="96" rx="6"/>
+<path d="M88 380H424M96 448V416A24 24 0 0 1 144 416V448ZM164 448V416A24 24 0 0 1 212 416V448ZM232 448V416A24 24 0 0 1 280 416V448ZM300 448V416A24 24 0 0 1 348 416V448ZM368 448V416A24 24 0 0 1 416 416V448Z"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="5"/>
+</svg>

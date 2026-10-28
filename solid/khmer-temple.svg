@@ -1,0 +1,28 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="tower">
+<rect x="35" y="0" width="10" height="12" rx="5"/>
+<path d="M16 96C8 78 22 56 26 40Q30 22 40 16Q50 22 54 40C58 56 72 78 64 96Z"/>
+<path d="M16 108H64Q68 108 69 112L72 136H8L11 112Q12 108 16 108ZM12 148H68Q72 148 73 152L76 176H4L7 152Q8 148 12 148Z"/>
+<path fill-rule="evenodd" d="M12 188H68Q72 188 72 192V224Q72 228 68 228H12Q8 228 8 224V192Q8 188 12 188ZM28 228H52V208Q52 200 40 196Q28 200 28 208Z"/>
+</g>
+</defs>
+<g>
+<use href="#tower" transform="translate(128 128) scale(.9)"/>
+<use href="#tower" transform="translate(312 128) scale(.9)"/>
+<use href="#tower" transform="translate(216 20) scale(1 1.4)"/>
+</g>
+<g>
+<rect x="140" y="352" width="232" height="14" rx="4"/>
+<path fill-rule="evenodd" d="M144 378H368Q372 378 372 382V414Q372 418 368 418H284V392Q284 378 256 374Q228 378 228 392V418H144Q140 418 140 414V382Q140 378 144 378ZM164 388V406H188V388ZM324 388V406H348V388Z"/>
+</g>
+<g>
+<use href="#tower" x="48" y="202"/>
+<use href="#tower" x="384" y="202"/>
+</g>
+<g>
+<path d="M64 442H216V454H60V446Q60 442 64 442ZM296 442H448Q452 442 452 446V454H296ZM36 466H216V478H32V470Q32 466 36 466ZM296 466H476Q480 466 480 470V478H296ZM28 490H216V502H28Q24 502 24 498V494Q24 490 28 490ZM296 490H484Q488 490 488 494V498Q488 502 484 502H296Z"/>
+<path d="M232 424H280V436H232ZM228 446H284V458H228ZM224 468H288V480H224ZM220 490H292V502H220Z"/>
+</g>
+</svg>

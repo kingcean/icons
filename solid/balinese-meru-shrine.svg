@@ -1,0 +1,39 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="roof" d="M-18 0H18Q28 12 48 18Q52 22 46 22H-46Q-52 22-48 18Q-28 12-18 0Z"/>
+<path id="posts" d="M-15 24H-9V30H-15ZM9 24H15V30H9Z"/>
+</defs>
+<rect x="252" y="10" width="8" height="12" rx="4"/>
+<g>
+<use href="#roof" transform="translate(256 32) scale(.76 1)"/>
+<use href="#roof" transform="translate(256 64) scale(1.08 1)"/>
+<use href="#roof" transform="translate(256 96) scale(1.4 1)"/>
+<use href="#roof" transform="translate(256 128) scale(1.72 1)"/>
+<use href="#roof" transform="translate(256 160) scale(2.04 1)"/>
+<use href="#roof" transform="translate(256 192) scale(2.36 1)"/>
+<use href="#roof" transform="translate(256 224) scale(2.68 1)"/>
+<use href="#roof" transform="translate(256 256) scale(3 1)"/>
+<use href="#roof" transform="translate(256 288) scale(3.32 1)"/>
+<use href="#roof" transform="translate(256 320) scale(3.64 1)"/>
+<use href="#roof" transform="translate(256 352) scale(3.96 1)"/>
+</g>
+<g>
+<use href="#posts" x="256" y="32"/>
+<use href="#posts" x="256" y="64"/>
+<use href="#posts" x="256" y="96"/>
+<use href="#posts" x="256" y="128"/>
+<use href="#posts" x="256" y="160"/>
+<use href="#posts" x="256" y="192"/>
+<use href="#posts" x="256" y="224"/>
+<use href="#posts" x="256" y="256"/>
+<use href="#posts" x="256" y="288"/>
+<use href="#posts" x="256" y="320"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M196 386H316Q320 386 320 390V438Q320 442 316 442H280V400H232V442H196Q192 442 192 438V390Q192 386 196 386ZM204 396V432H212V396ZM300 396V432H308V396Z"/>
+<path d="M244 442V410H268V442H260V418H252V442Z"/>
+<path fill-rule="evenodd" d="M168 454H224L218 474H168Q164 474 164 470V458Q164 454 168 454ZM180 460V466H200V460ZM288 454H344Q348 454 348 458V470Q348 474 344 474H294ZM312 460V466H332V460Z"/>
+<path d="M140 486H214L208 500H140Q136 500 136 496V490Q136 486 140 486ZM298 486H372Q376 486 376 490V496Q376 500 372 500H304ZM236 450H276L280 462H232ZM228 470H284L288 482H224ZM220 490H292L296 500H216Z"/>
+</g>
+</svg>

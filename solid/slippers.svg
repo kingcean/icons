@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="slipper">
+<path fill-rule="evenodd" d="M140 36C194 36 222 72 222 128V372C222 432 190 476 140 476C90 476 58 432 58 372V128C58 72 86 36 140 36ZM66 150Q140 120 214 150L218 268Q140 240 62 268Z"/>
+<path d="M76 162Q140 136 204 162L208 254Q140 232 72 254Z"/>
+</g>
+</defs>
+<use href="#slipper" transform="rotate(-10 140 256)"/>
+<use href="#slipper" transform="translate(232 0) rotate(10 140 256)"/>
+</svg>

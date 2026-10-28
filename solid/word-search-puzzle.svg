@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M48 24H312Q336 24 336 48V432Q336 456 312 456H48Q24 456 24 432V48Q24 24 48 24Z M52 40Q40 40 40 52V428Q40 440 52 440H308Q320 440 320 428V52Q320 40 308 40Z"/>
+<path fill-rule="evenodd" d="M68 52H292Q316 52 316 76V92Q316 116 292 116H68Q44 116 44 92V76Q44 52 68 52Z M70 62Q54 62 54 78V90Q54 106 70 106H290Q306 106 306 90V78Q306 62 290 62Z M272 148H288Q312 148 312 172V388Q312 412 288 412H272Q248 412 248 388V172Q248 148 272 148Z M274 158Q258 158 258 174V386Q258 402 274 402H286Q302 402 302 386V174Q302 158 286 158Z"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="600" text-anchor="middle">
+<text y="102"><tspan x="80">C</tspan><tspan x="180">A</tspan><tspan x="280">T</tspan></text>
+<text y="198"><tspan x="80">R</tspan><tspan x="180">E</tspan><tspan x="280">D</tspan></text>
+<text y="294"><tspan x="80">S</tspan><tspan x="180">U</tspan><tspan x="280">O</tspan></text>
+<text y="390"><tspan x="80">P</tspan><tspan x="180">N</tspan><tspan x="280">G</tspan></text>
+</g>
+<path fill-rule="evenodd" d="M472 350A64 64 0 1 1 344 350A64 64 0 1 1 472 350Z M454 350A46 46 0 1 0 362 350A46 46 0 1 0 454 350Z"/>
+<path d="M454 408L474 428Q484 438 494 428Q504 418 494 408L474 388Q469 383 464 388L454 398Q449 403 454 408Z"/>
+</svg>

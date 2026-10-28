@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="terraces">
+<path d="M172 144H220L176 432H28V400H46V368H64V336H82V304H100V272H118V240H136V208H154V176H172Z"/>
+<path d="M154 176H215M136 208H210M118 240H205M100 272H200M82 304H196M64 336H191M46 368H186M28 400H181"/>
+</g>
+<g id="serpent">
+<path d="M180 444H208Q216 444 216 452V476Q216 484 208 484H152Q144 484 144 476V464Q144 456 152 456H168V452Q168 444 180 444Z"/>
+<path d="M182 456H192M152 472H184"/>
+</g>
+</defs>
+<g>
+<rect x="188" y="24" width="136" height="20" rx="4"/>
+<path d="M200 56H312V132H200ZM240 132V80H272V132M212 68H228M284 68H300"/>
+</g>
+<g>
+<use href="#terraces"/>
+<use href="#terraces" transform="translate(512 0) scale(-1 1)"/>
+</g>
+<g>
+<path d="M232 144H244L204 432H188ZM268 144H280L324 432H308Z"/>
+<path d="M252 156H260M248 180H264M244 204H268M241 228H271M237 252H275M234 276H278M230 300H282M227 324H285M223 348H289M220 372H292M216 396H296M213 420H299"/>
+</g>
+<g>
+<use href="#serpent"/>
+<use href="#serpent" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

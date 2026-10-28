@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<circle id="dot" r="6"/>
+</defs>
+<path d="M80 480H64Q48 480 48 464V80Q48 64 64 64H358M442 64H448Q464 64 464 80V464Q464 480 448 480H144M160 64V336H48M160 208H320V64M320 480V336M282 336H464" fill="none" stroke="#A7B7CB" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#FBBF24">
+<use href="#dot" x="112" y="432"/>
+<use href="#dot" x="112" y="408"/>
+<use href="#dot" x="136" y="400"/>
+<use href="#dot" x="160" y="400"/>
+<use href="#dot" x="184" y="400"/>
+<use href="#dot" x="208" y="400"/>
+<use href="#dot" x="232" y="400"/>
+<use href="#dot" x="240" y="376"/>
+<use href="#dot" x="240" y="352"/>
+<use href="#dot" x="240" y="328"/>
+<use href="#dot" x="240" y="304"/>
+<use href="#dot" x="240" y="280"/>
+<use href="#dot" x="264" y="272"/>
+<use href="#dot" x="288" y="272"/>
+<use href="#dot" x="312" y="272"/>
+<use href="#dot" x="336" y="272"/>
+<use href="#dot" x="360" y="272"/>
+<use href="#dot" x="384" y="272"/>
+<use href="#dot" x="400" y="256"/>
+<use href="#dot" x="400" y="232"/>
+<use href="#dot" x="400" y="208"/>
+<use href="#dot" x="400" y="184"/>
+<use href="#dot" x="400" y="160"/>
+<use href="#dot" x="400" y="136"/>
+<use href="#dot" x="400" y="112"/>
+<use href="#dot" x="400" y="88"/>
+</g>
+<path d="M92 460L108 444Q112 440 116 444L132 460Q136 464 132 468Q128 472 124 468L112 456L100 468Q96 472 92 468Q88 464 92 460Z" fill="#2DD4BF"/>
+<rect x="394" y="10" width="12" height="48" rx="6" fill="#2DD4BF"/>
+<path d="M406 10H460Q470 10 464 18L454 32L464 46Q470 54 460 54H406Z" fill="#FB7185"/>
+</svg>

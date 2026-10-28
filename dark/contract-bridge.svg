@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="a"><path d="M0 0H124L204 440H0Z"/></clipPath>
+<clipPath id="b"><path d="M0 0H246L171 440H0Z"/></clipPath>
+<clipPath id="c"><path d="M0 0H377L123 440H0Z"/></clipPath>
+</defs>
+<g clip-path="url(#a)">
+<g transform="rotate(-30 256 346)">
+<rect x="200" y="48" width="112" height="296" rx="16" fill="#FFB7C8" stroke="#FFD5DF" stroke-width="6"/>
+<path d="M224 122C214 115 202 105 204 94C206 82 218 82 224 90C230 82 242 82 244 94C246 105 234 115 224 122Z" fill="#A92246"/>
+</g>
+</g>
+<g clip-path="url(#b)">
+<g transform="rotate(-10 256 346)">
+<rect x="200" y="48" width="112" height="296" rx="16" fill="#FFD49A" stroke="#FFE6C4" stroke-width="6"/>
+<path d="M224 80L244 102L224 124L204 102Z" fill="#B8541D"/>
+</g>
+</g>
+<g clip-path="url(#c)">
+<g transform="rotate(10 256 346)">
+<rect x="200" y="48" width="112" height="296" rx="16" fill="#9DE5CD" stroke="#C7F5E6" stroke-width="6"/>
+<path d="M220 122H228L226 111C240 120 252 108 244 98C241 94 236 93 229 95C237 85 231 80 224 84C217 80 211 85 219 95C212 93 207 94 204 98C196 108 208 120 222 111Z" fill="#105E4C"/>
+</g>
+</g>
+<g transform="rotate(30 256 346)">
+<rect x="200" y="48" width="112" height="296" rx="16" fill="#B7CDF7" stroke="#DAE6FF" stroke-width="6"/>
+<path d="M224 80C220 90 204 100 204 110C204 124 220 125 222 114L219 126H229L226 114C228 125 244 124 244 110C244 100 228 90 224 80Z" fill="#243961"/>
+</g>
+<rect x="326" y="388" width="162" height="94" rx="16" fill="#BA9AF5"/>
+<path d="M342 414L356 402H364V450H374V460H342V450H353V416L348 420Z M383 402H393L409 437V402H420V460H410L394 425V460H383Z M429 402H475V413H458V460H446V413H429Z" fill="#30204E"/>
+</svg>

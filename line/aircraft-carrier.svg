@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="carrierPlaneLine" d="M-30-6H-10L-2-25Q0-29 5-27L10-25L8-6H29Q39-6 42 0Q39 6 29 6H8L10 25L5 27Q0 29-2 25L-10 6H-30L-36 15H-42L-39 0L-42-15H-36Z"/>
+</defs>
+<path d="M32 278L124 208Q132 202 142 203L410 225Q421 226 430 232L482 262Q493 269 482 277L389 345Q383 350 375 349L40 316Q24 314 24 300V292Q24 284 32 278Z"/>
+<path d="M42 329L379 363Q387 364 394 359L480 296V326Q480 339 469 347L397 400Q385 409 370 407L83 375Q68 373 61 361Z"/>
+<path d="M292 172L323 155L363 160L377 193V209L333 206L292 196ZM292 172L333 178L363 160M333 178V206" stroke-linecap="round"/>
+<path d="M316 146V118Q316 110 324 111L346 114Q354 115 354 123V148M335 102V76" stroke-linecap="round"/>
+<path d="M299 185L318 188M343 190L362 181M85 304L362 333" stroke-linecap="round"/>
+<use href="#carrierPlaneLine" transform="translate(146 262) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneLine" transform="translate(236 273) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneLine" transform="translate(326 286) rotate(6) scale(.72)"/>
+</svg>

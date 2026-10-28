@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="windowClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM508 344A120 120 0 1 0 268 344A120 120 0 1 0 508 344Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#windowClip)">
+<path fill-rule="evenodd" d="M48 32H384Q408 32 408 56V456Q408 480 384 480H48Q24 480 24 456V56Q24 32 48 32ZM48 120V448Q48 456 56 456H376Q384 456 384 448V120ZM64 62Q54 62 54 72Q54 82 64 82H96Q106 82 106 72Q106 62 96 62Z"/>
+<rect x="72" y="174" width="176" height="20" rx="10"/>
+<rect x="72" y="238" width="120" height="20" rx="10"/>
+</g>
+<path d="M388 244A100 100 0 1 0 488 344A80 80 0 0 1 388 244Z"/>
+</svg>

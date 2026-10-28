@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="152" y="314" width="312" height="174" rx="24"/>
+<path d="M164 350H452"/>
+<path d="M424 24V302"/>
+<ellipse cx="100" cy="280" rx="76" ry="30"/>
+<path d="M176 280H208V302"/>
+<circle cx="232" cy="408" r="22"/>
+<circle cx="384" cy="408" r="22"/>
+</svg>

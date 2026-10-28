@@ -1,0 +1,26 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<rect id="cell" width="104" height="104" rx="12"/>
+</defs>
+<use href="#cell" x="24" y="24"/>
+<use href="#cell" x="144" y="24"/>
+<use href="#cell" x="264" y="24"/>
+<use href="#cell" x="384" y="24"/>
+<use href="#cell" x="24" y="144"/>
+<use href="#cell" x="144" y="144"/>
+<use href="#cell" x="264" y="144"/>
+<use href="#cell" x="384" y="144"/>
+<use href="#cell" x="24" y="264"/>
+<use href="#cell" x="144" y="264"/>
+<use href="#cell" x="264" y="264"/>
+<use href="#cell" x="384" y="264"/>
+<use href="#cell" x="24" y="384"/>
+<use href="#cell" x="144" y="384"/>
+<use href="#cell" x="264" y="384"/>
+<use href="#cell" x="384" y="384"/>
+<path d="M300 226V166L340 182Q345 184 340 187L300 204M288 226H324"/>
+<path d="M62 421L76 410V462M62 462H90M179 419C179 398 214 398 214 419C214 430 194 441 180 458H215"/>
+<circle cx="436" cy="436" r="22"/>
+<path d="M436 400V408M436 464V472M400 436H408M464 436H472M410 410L416 416M456 456L462 462M410 462L416 456M456 416L462 410"/>
+</svg>

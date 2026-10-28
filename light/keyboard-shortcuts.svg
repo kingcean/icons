@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="shift" x1="120" y1="148" x2="120" y2="252" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EFF6FF"/>
+<stop offset="1" stop-color="#BFDBFE"/>
+</linearGradient>
+</defs>
+<rect x="24" y="96" width="192" height="216" rx="24" fill="#1D4ED8"/>
+<rect x="24" y="96" width="192" height="192" rx="24" fill="#2563EB"/>
+<path d="M114 150L66 198Q60 204 64 210Q66 214 72 214H86V244Q86 252 94 252H146Q154 252 154 244V214H168Q174 214 176 210Q180 204 174 198L126 150Q120 144 114 150Z" fill="url(#shift)"/>
+<rect x="296" y="96" width="192" height="216" rx="24" fill="#5B21B6"/>
+<rect x="296" y="96" width="192" height="192" rx="24" fill="#7C3AED"/>
+<path d="M354 156V252Q354 262 364 262Q374 262 374 252V216L381 209L421 259Q427 267 435 260Q443 254 437 246L395 195L435 163Q443 157 436 149Q430 141 422 147L374 185V156Q374 146 364 146Q354 146 354 156Z" fill="#EDE9FE"/>
+<path d="M246 180Q246 170 256 170Q266 170 266 180V194H280Q290 194 290 204Q290 214 280 214H266V228Q266 238 256 238Q246 238 246 228V214H232Q222 214 222 204Q222 194 232 194H246Z" fill="#475569"/>
+<rect x="64" y="398" width="384" height="20" rx="10" fill="#94A3B8"/>
+<rect x="64" y="398" width="240" height="20" rx="10" fill="#0D9488"/>
+<circle cx="304" cy="408" r="28" fill="#D97706"/>
+</svg>

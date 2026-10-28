@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="dragArrow" x1="408" y1="184" x2="408" y2="278" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F59E0B"/>
+<stop offset="1" stop-color="#D97706"/>
+</linearGradient>
+</defs>
+<rect x="24" y="288" width="464" height="152" rx="24" fill="#E2E8F0"/>
+<rect x="56" y="316" width="96" height="96" rx="16" fill="#0D9488"/>
+<rect x="208" y="316" width="96" height="96" rx="16" fill="#7C3AED"/>
+<path d="M88 364H120M240 364H272" fill="none" stroke="#F1F5F9" stroke-width="16" stroke-linecap="round"/>
+<path d="M360 340V332Q360 316 376 316H384M432 316H440Q456 316 456 332V340M456 388V396Q456 412 440 412H432M384 412H376Q360 412 360 396V388" fill="none" stroke="#64748B" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="360" y="64" width="96" height="96" rx="16" fill="#2563EB"/>
+<path d="M392 100H424M392 124H424" fill="none" stroke="#DBEAFE" stroke-width="16" stroke-linecap="round"/>
+<path d="M398 194Q398 184 408 184Q418 184 418 194V240L425 233Q432 226 439 233Q446 240 439 247L415 271Q408 278 401 271L377 247Q370 240 377 233Q384 226 391 233L398 240Z" fill="url(#dragArrow)"/>
+</svg>

@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="petal" fill-rule="evenodd" d="M256 176C206 158 178 100 208 54C230 14 282 14 304 54C334 100 306 158 256 176ZM256 150C225 130 211 91 232 63C244 42 268 42 280 63C301 91 287 130 256 150Z"/>
+</defs>
+<path d="M304 390L330 412L470 459" fill="none" stroke="#C3D0DB" stroke-width="12" stroke-linecap="round"/>
+<circle cx="330" cy="412" r="10" fill="#96A9B9"/>
+<path fill="#C3D0DB" fill-rule="evenodd" d="M350 415L470 449Q482 453 477 465Q473 475 462 470L348 438Q338 435 341 425Q343 416 350 415ZM353 425L468 458Q471 459 469 462L351 429Q348 428 353 425Z"/>
+<g fill="#FFE5A2">
+<use href="#petal"/>
+<use href="#petal" transform="rotate(120 256 242)"/>
+<use href="#petal" transform="rotate(240 256 242)"/>
+</g>
+<g fill="#E6B965">
+<use href="#petal" transform="rotate(60 256 242)"/>
+<use href="#petal" transform="rotate(180 256 242)"/>
+<use href="#petal" transform="rotate(300 256 242)"/>
+</g>
+<circle cx="256" cy="242" r="68" fill="#F3CB76"/>
+<circle cx="256" cy="242" r="52" fill="#63C4A5"/>
+<path d="M256 200L292 221L280 232H232L220 221Z" fill="#D9F7E6"/>
+<path d="M220 221L232 232V252L220 263Q204 242 220 221Z" fill="#BCF1D2"/>
+<path d="M232 252H280L292 263L256 284L220 263Z" fill="#389B80"/>
+<path d="M232 232H280V252H232Z" fill="#A0E4CA"/>
+</svg>

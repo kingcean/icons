@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g>
+<path d="M224 40H288C308 76 334 104 350 108Q366 112 376 96Q374 128 352 140Q256 176 160 140Q138 128 136 96Q146 112 162 108C178 104 204 76 224 40ZM240 56Q228 104 200 152M272 56Q284 104 312 152"/>
+<path d="M84 176H124C136 196 148 208 158 208Q170 210 176 200Q174 228 158 236Q100 256 42 236Q26 228 24 200Q30 210 42 208C56 208 72 196 84 176ZM388 176H428C440 196 456 208 470 208Q482 210 488 200Q486 228 470 236Q412 256 354 236Q338 228 336 200Q342 210 354 208C364 208 376 196 388 176Z"/>
+</g>
+<g>
+<rect x="176" y="184" width="160" height="32" rx="6"/>
+<path d="M256 188L272 200L256 212L240 200Z"/>
+<rect x="48" y="264" width="128" height="24" rx="6"/>
+<rect x="336" y="264" width="128" height="24" rx="6"/>
+</g>
+<g>
+<rect x="64" y="304" width="24" height="160" rx="6"/>
+<rect x="184" y="232" width="24" height="232" rx="6"/>
+<rect x="304" y="232" width="24" height="232" rx="6"/>
+<rect x="424" y="304" width="24" height="160" rx="6"/>
+</g>
+<g>
+<rect x="52" y="480" width="48" height="16" rx="6"/>
+<rect x="172" y="480" width="48" height="16" rx="6"/>
+<rect x="292" y="480" width="48" height="16" rx="6"/>
+<rect x="412" y="480" width="48" height="16" rx="6"/>
+</g>
+</svg>

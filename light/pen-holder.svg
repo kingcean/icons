@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<ellipse cx="256" cy="252" rx="160" ry="32" fill="#79C7B6"/>
+<ellipse cx="256" cy="252" rx="140" ry="20" fill="#214D59"/>
+<rect x="140" y="64" width="44" height="212" rx="12" fill="#4B86B0" transform="rotate(-12 162 204)"/>
+<path d="M152 88H172M196 80V144Q196 152 188 152" fill="none" stroke="#D5E7EE" stroke-width="10" stroke-linecap="round" transform="rotate(-12 162 204)"/>
+<path d="M234 68H278V276H234Z" fill="#E9A552"/>
+<path d="M234 68L256 24L278 68Z" fill="#F0C78B"/>
+<path d="M246 44L256 24L266 44Z" fill="#354C58"/>
+<path d="M256 84V244" fill="none" stroke="#FFE0A3" stroke-width="10" stroke-linecap="round"/>
+<rect x="324" y="64" width="24" height="36" rx="8" fill="#547E9F" transform="rotate(12 336 204)"/>
+<rect x="314" y="88" width="44" height="188" rx="12" fill="#E87865" transform="rotate(12 336 204)"/>
+<path d="M326 112H346M374 104V164Q374 172 366 172" fill="none" stroke="#F5FAFC" stroke-width="10" stroke-linecap="round" transform="rotate(12 336 204)"/>
+<path d="M96 252C96 294 416 294 416 252V456C416 498 96 498 96 456Z" fill="#278A85"/>
+<path d="M376 273Q400 265 416 252V456Q416 477 376 483Z" fill="#1D6867"/>
+<path d="M96 252C96 294 416 294 416 252" fill="none" stroke="#79C7B6" stroke-width="12" stroke-linecap="round"/>
+</svg>

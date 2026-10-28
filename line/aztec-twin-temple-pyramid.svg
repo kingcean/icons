@@ -1,0 +1,27 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="terraceClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM168 164H232L220 484H92ZM280 164H344L420 484H292Z"/>
+</clipPath>
+<g id="stair">
+<path d="M180 176H220L208 472H104Z"/>
+<path d="M179 208H211M171 248H210M161 288H208M151 328H206M141 368H205M130 408H203M120 448H201"/>
+</g>
+</defs>
+<g>
+<rect x="152" y="24" width="100" height="20" rx="4"/>
+<path d="M164 56H240V132H164ZM188 132V80H216V132"/>
+<rect x="260" y="24" width="100" height="20" rx="4"/>
+<path d="M272 56H348V132H272ZM296 132V80H324V132"/>
+<rect x="140" y="144" width="232" height="20" rx="4"/>
+</g>
+<g clip-path="url(#terraceClip)">
+<path d="M140 176H372V232H400V288H428V344H456V400H484V472H28V400H56V344H84V288H112V232H140Z"/>
+<path d="M140 232H372M112 288H400M84 344H428M56 400H456M28 456H484"/>
+</g>
+<g>
+<use href="#stair"/>
+<use href="#stair" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

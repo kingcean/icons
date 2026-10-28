@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M84 174L178 138L344 150L246 186V270L84 258ZM84 174L246 186M112 198L218 206V244L112 236" stroke-linecap="round"/>
+<path d="M256 182L344 150L394 154L300 190L354 268L436 240L394 154M256 194L300 198L344 264L256 262ZM318 198L388 172L418 232L356 254Z" stroke-linecap="round"/>
+<path d="M84 270L354 282L436 252L480 278V336Q480 342 474 345L390 382V310L84 290ZM84 290V326Q84 332 92 332L378 348M354 282L390 310L480 278" stroke-linecap="round"/>
+<path d="M412 310L458 294M412 334L458 318M266 286L288 288" stroke-linecap="round"/>
+<ellipse cx="54" cy="282" rx="30" ry="42"/>
+<ellipse cx="54" cy="282" rx="12" ry="20"/>
+<circle cx="144" cy="382" r="42"/>
+<circle cx="318" cy="398" r="42"/>
+<circle cx="144" cy="382" r="18"/>
+<circle cx="318" cy="398" r="18"/>
+</svg>

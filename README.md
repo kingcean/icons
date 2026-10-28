@@ -4,7 +4,7 @@ An icon library covering files, objects, actions, and more.
 
 ## Intro
 
-This library includes over 2 thousands icons, all free to use.
+This library includes over 3,000 icons, all free to use.
 
 Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.
 

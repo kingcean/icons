@@ -1,1 +1,4 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon"><ellipse cx="256" cy="256" rx="232" ry="160"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<ellipse cx="256" cy="256" rx="232" ry="152"/>
+</svg>

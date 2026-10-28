@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="312" height="432" rx="24" fill="#A7C2E2"/>
+<rect x="40" y="40" width="280" height="400" rx="12" fill="#304159"/>
+<rect x="44" y="52" width="272" height="64" rx="24" fill="#AB87ED"/>
+<rect x="248" y="148" width="64" height="264" rx="24" fill="#60D3C9"/>
+<g font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="600" text-anchor="middle" fill="#E3ECFA">
+<text y="102" fill="#28364D"><tspan x="80">C</tspan><tspan x="180">A</tspan><tspan x="280">T</tspan></text>
+<text y="198"><tspan x="80">R</tspan><tspan x="180">E</tspan><tspan x="280" fill="#28364D">D</tspan></text>
+<text y="294"><tspan x="80">S</tspan><tspan x="180">U</tspan><tspan x="280" fill="#28364D">O</tspan></text>
+<text y="390"><tspan x="80">P</tspan><tspan x="180">N</tspan><tspan x="280" fill="#28364D">G</tspan></text>
+</g>
+<path d="M454 408L474 428Q484 438 494 428Q504 418 494 408L474 388Q469 383 464 388L454 398Q449 403 454 408Z" fill="#FFD05C"/>
+<circle cx="408" cy="350" r="64" fill="#AB87ED"/>
+<circle cx="408" cy="350" r="46" fill="#9EDFF1"/>
+<path d="M380 344Q382 324 400 322" fill="none" stroke="#EFFCFF" stroke-width="10" stroke-linecap="round"/>
+</svg>

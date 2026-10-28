@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="pageClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM342 210H478V308H502V478H258V308H342Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#pageClip)">
+<rect x="48" y="24" width="344" height="464" rx="24"/>
+<path d="M96 100H324M96 132H256M96 188H324M96 236H312M96 284H300M96 332H216M96 380H204"/>
+</g>
+<path d="M272 322H432V386Q432 434 384 434H320Q272 434 272 386Z"/>
+<path d="M446 338H456Q488 338 488 368Q488 398 456 398H446Z"/>
+<path d="M264 458H464"/>
+<path d="M360 282C352 238 390 220 460 224C464 270 434 302 390 292Q372 288 360 282Z"/>
+<path d="M374 280L436 240"/>
+</svg>

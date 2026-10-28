@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="rightGap">
+<path clip-rule="evenodd" d="M-1000-1000H1000V1000H-1000ZM112 0A112 192 0 1 0-112 0A112 192 0 1 0 112 0ZM72 0A72 152 0 1 0-72 0A72 152 0 1 0 72 0Z" transform="translate(328 212) rotate(24)"/>
+</clipPath>
+<clipPath id="bottomGap">
+<path clip-rule="evenodd" d="M-1000-1000H1000V1000H-1000ZM228 0A228 124 0 1 0-228 0A228 124 0 1 0 228 0ZM188 0A188 84 0 1 0-188 0A188 84 0 1 0 188 0Z" transform="translate(256 350) rotate(-8)"/>
+</clipPath>
+</defs>
+<g clip-path="url(#bottomGap)">
+<g clip-path="url(#rightGap)">
+<path d="M104 0A104 184 0 1 0-104 0A104 184 0 1 0 104 0ZM80 0A80 160 0 1 0-80 0A80 160 0 1 0 80 0Z" transform="translate(184 212) rotate(-24)"/>
+</g>
+<path d="M104 0A104 184 0 1 0-104 0A104 184 0 1 0 104 0ZM80 0A80 160 0 1 0-80 0A80 160 0 1 0 80 0Z" transform="translate(328 212) rotate(24)"/>
+</g>
+<path d="M220 0A220 116 0 1 0-220 0A220 116 0 1 0 220 0ZM196 0A196 92 0 1 0-196 0A196 92 0 1 0 196 0Z" transform="translate(256 350) rotate(-8)"/>
+</svg>

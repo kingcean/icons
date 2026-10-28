@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="stair">
+<path d="M180 176H220L208 472H104Z" fill="#E2CDA7"/>
+<path d="M187 176H213L200 472H116Z" fill="#9D896B"/>
+<path d="M179 208H211M171 248H210M161 288H208M151 328H206M141 368H205M130 408H203M120 448H201" fill="none" stroke="#EEDDBD" stroke-width="12"/>
+</g>
+</defs>
+<g>
+<path d="M144 176H368Q372 176 372 180V232H396Q400 232 400 236V288H424Q428 288 428 292V344H452Q456 344 456 348V400H480Q484 400 484 404V468Q484 472 480 472H32Q28 472 28 468V404Q28 400 32 400H56V348Q56 344 60 344H84V292Q84 288 88 288H112V236Q112 232 116 232H140V180Q140 176 144 176Z" fill="#B9AE94"/>
+<path d="M140 176H372V188H140ZM112 232H400V244H112ZM84 288H428V300H84ZM56 344H456V356H56ZM28 400H484V412H28Z" fill="#DFD3B7"/>
+<path d="M140 220H372V232H140ZM112 276H400V288H112ZM84 332H428V344H84ZM56 388H456V400H56ZM28 460H484V472H28Z" fill="#918872"/>
+</g>
+<g>
+<use href="#stair"/>
+<use href="#stair" transform="translate(512 0) scale(-1 1)"/>
+</g>
+<g>
+<rect x="140" y="144" width="232" height="32" rx="4" fill="#897D65"/>
+<path d="M144 144H368V154H144Z" fill="#E3D2AD"/>
+<rect x="164" y="44" width="76" height="100" rx="4" fill="#CDBB95"/>
+<path d="M228 44H240V144H228Z" fill="#A28C68"/>
+<rect x="152" y="24" width="100" height="20" rx="4" fill="#A95447"/>
+<path d="M168 56H236V68H168Z" fill="#BB6D59"/>
+<path d="M180 144V76H224V144Z" fill="#E9D7AF"/>
+<path d="M188 144V84H216V144Z" fill="#44463D"/>
+<rect x="272" y="44" width="76" height="100" rx="4" fill="#CDBB95"/>
+<path d="M336 44H348V144H336Z" fill="#A28C68"/>
+<rect x="260" y="24" width="100" height="20" rx="4" fill="#397C92"/>
+<path d="M276 56H344V68H276Z" fill="#5797A6"/>
+<path d="M288 144V76H332V144Z" fill="#E9D7AF"/>
+<path d="M296 144V84H324V144Z" fill="#44463D"/>
+</g>
+</svg>

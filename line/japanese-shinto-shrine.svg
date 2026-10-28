@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g>
+<path d="M176 40L240 116M240 40L176 116M254 66L286 94M294 52L326 80M334 38L366 66"/>
+<path d="M36 292Q28 292 34 284L202 134Q208 128 214 134L360 292ZM208 162L312 272H80Z"/>
+<path d="M226 130L336 92Q342 90 346 96L478 238Q484 244 476 248L372 286Z"/>
+<path d="M258 144L372 260M298 130L414 244M338 116L454 230"/>
+</g>
+<g>
+<rect x="64" y="306" width="272" height="116" rx="6"/>
+<path d="M348 306L464 262V380L348 422ZM372 318L440 292V366L372 392Z"/>
+<path d="M88 322V406M120 322V406M280 322V406M312 322V406M144 406V330H256V406M200 342V394M408 308V376"/>
+</g>
+<g>
+<rect x="52" y="434" width="92" height="16" rx="4"/>
+<rect x="256" y="434" width="92" height="16" rx="4"/>
+<path d="M72 462V484H96V462M304 462V484H328V462M360 436L476 392V410L360 454ZM436 436V458H460V426"/>
+</g>
+<g>
+<rect x="156" y="422" width="88" height="16" rx="4"/>
+<rect x="144" y="450" width="112" height="16" rx="4"/>
+<rect x="132" y="478" width="136" height="16" rx="4"/>
+</g>
+</svg>

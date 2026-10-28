@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="pencilClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM164 334L324 462L348 434L188 306Z"/>
+</clipPath>
+</defs>
+<path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+<path d="M144 244Q256 156 368 244Q256 332 144 244Z"/>
+<circle cx="256" cy="244" r="26"/>
+<g clip-path="url(#pencilClip)">
+<path d="M184 432L196 388L284 300Q292 292 300 300L320 320Q328 328 320 336L232 424Z"/>
+<path d="M196 388L232 424M272 312L308 348"/>
+</g>
+<path d="M176 320L336 448"/>
+</svg>

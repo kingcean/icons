@@ -1,0 +1,31 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="stupa">
+<path d="M0 0V12M-10 24H10L6 36H-6ZM-24 84Q-12 74-12 60Q-12 46 0 40Q12 46 12 60Q12 74 24 84Z"/>
+<rect x="-28" y="96" width="56" height="12" rx="4"/>
+</g>
+</defs>
+<g>
+<path d="M256 16V96"/>
+<path d="M236 44Q256 28 276 44ZM230 68Q256 52 282 68ZM224 88Q256 74 288 88Z"/>
+<path d="M226 178Q242 142 250 108Q256 96 262 108Q270 142 286 178Z"/>
+<path d="M240 148H272M232 166H280"/>
+</g>
+<g>
+<path d="M132 360Q168 338 176 292C184 248 214 222 226 190H286C298 222 328 248 336 292Q344 338 380 360Z"/>
+<path d="M208 228H304M188 268H324M176 308H336M152 346H360"/>
+</g>
+<g>
+<rect x="124" y="372" width="264" height="18" rx="5"/>
+<rect x="108" y="402" width="296" height="20" rx="5"/>
+<rect x="96" y="434" width="320" height="28" rx="5"/>
+<rect x="24" y="478" width="464" height="24" rx="5"/>
+</g>
+<g>
+<use href="#stupa" transform="translate(92 278) scale(.8)"/>
+<use href="#stupa" transform="translate(420 278) scale(.8)"/>
+<use href="#stupa" x="52" y="350"/>
+<use href="#stupa" x="460" y="350"/>
+</g>
+</svg>

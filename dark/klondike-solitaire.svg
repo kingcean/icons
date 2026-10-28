@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="24" width="80" height="116" rx="14" fill="#8FB8F0"/>
+<path d="M64 56L82 82L64 108L46 82Z" fill="#345185"/>
+<defs>
+<path id="space" fill-rule="evenodd" d="M134 24H186Q200 24 200 38V126Q200 140 186 140H134Q120 140 120 126V38Q120 24 134 24Z M138 36Q132 36 132 42V122Q132 128 138 128H182Q188 128 188 122V42Q188 36 182 36Z"/>
+</defs>
+<use href="#space" fill="#F497AE"/>
+<use href="#space" transform="translate(96 0)" fill="#FFD17F"/>
+<use href="#space" transform="translate(192 0)" fill="#86DCC0"/>
+<use href="#space" transform="translate(288 0)" fill="#AABBE6"/>
+<rect x="32" y="180" width="128" height="212" rx="16" fill="#EE8AA5"/>
+<rect x="32" y="228" width="128" height="212" rx="16" fill="#7C96C5"/>
+<rect x="32" y="276" width="128" height="212" rx="16" fill="#FFD4DF"/>
+<rect x="192" y="180" width="128" height="212" rx="16" fill="#7C96C5"/>
+<rect x="192" y="228" width="128" height="212" rx="16" fill="#EE8AA5"/>
+<rect x="192" y="276" width="128" height="212" rx="16" fill="#D0E1FA"/>
+<rect x="352" y="180" width="128" height="212" rx="16" fill="#EE8AA5"/>
+<rect x="352" y="228" width="128" height="212" rx="16" fill="#7C96C5"/>
+<rect x="352" y="276" width="128" height="212" rx="16" fill="#FFD4DF"/>
+<path d="M96 418C80 405 60 391 60 374C60 354 85 348 96 365C107 348 132 354 132 374C132 391 112 405 96 418Z" fill="#B62A4D"/>
+<path d="M256 350C244 370 220 385 220 401C220 419 244 423 252 407L246 434H266L260 407C268 423 292 419 292 401C292 385 268 370 256 350Z" fill="#293A59"/>
+<path d="M416 350Q419 350 422 354L446 385Q450 390 446 395L422 426Q416 434 410 426L386 395Q382 390 386 385L410 354Q413 350 416 350Z" fill="#B62A4D"/>
+</svg>

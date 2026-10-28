@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="tower">
+<path d="M-26 0H26Q32 0 33 8L52 292H-52L-33 8Q-32 0-26 0Z" fill="#C68857"/>
+<path d="M20 0H26Q32 0 33 8L52 292H28Z" fill="#A66A43"/>
+<path d="M-26 0H-16L-34 292H-52L-33 8Q-32 0-26 0Z" fill="#E0AB77"/>
+<path d="M-9 0L-5-34Q0-46 5-34L9 0Z" fill="#BD824D"/>
+<path d="M-20 292V208Q-20 198 0 182Q20 198 20 208V292Z" fill="#543B2B"/>
+<path d="M-12 292V212Q-12 204 0 192Q12 204 12 212V292Z" fill="#35291F"/>
+<path d="M-56 50H-26V62H-56ZM26 50H56V62H26ZM-60 110H-30V122H-60ZM30 110H60V122H30ZM-64 170H-34V182H-64ZM34 170H64V182H34ZM-68 230H-38V242H-68ZM38 230H68V242H38Z" fill="#684731"/>
+</g>
+</defs>
+<g>
+<rect x="32" y="288" width="448" height="188" rx="8" fill="#B77D50"/>
+<path d="M40 288H472V306H40Z" fill="#D49C68"/>
+<path d="M48 476V318Q48 304 60 304Q72 304 72 318L78 476ZM186 476L192 316Q192 304 200 304Q208 304 208 316L212 476ZM300 476L304 316Q304 304 312 304Q320 304 320 316L326 476ZM434 476L440 318Q440 304 452 304Q464 304 464 318V476Z" fill="#D29B68"/>
+</g>
+<g>
+<use href="#tower" transform="translate(136 164)"/>
+<use href="#tower" transform="translate(256 100) scale(1 1.22)"/>
+<use href="#tower" transform="translate(376 164)"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="6" fill="#956640"/>
+<path d="M32 476H480V484H32Z" fill="#D4A675"/>
+</svg>

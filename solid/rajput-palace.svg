@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="balcony">
+<path fill-rule="evenodd" d="M0 0H88V76L64 100H24L0 76ZM16 16V34H38V16ZM50 16V34H72V16ZM16 46V64H38V46ZM50 46V64H72V46Z"/>
+</g>
+<g id="chhatri">
+<rect x="35" y="0" width="10" height="12" rx="5"/>
+<path d="M4 72C-4 52 12 34 28 26Q38 20 40 16Q42 20 52 26C68 34 84 52 76 72Z"/>
+<path fill-rule="evenodd" d="M16 84H64Q68 84 68 88V112Q68 116 64 116H16Q12 116 12 112V88Q12 84 16 84ZM24 92V108H34V92ZM46 92V108H56V92Z"/>
+</g>
+</defs>
+<g>
+<use href="#chhatri" x="88" y="68"/>
+<use href="#chhatri" x="216" y="44"/>
+<use href="#chhatri" x="344" y="68"/>
+</g>
+<path fill-rule="evenodd" d="M56 196H192V324H320V196H456Q464 196 464 204V458Q464 466 456 466H296V414Q296 390 256 370Q216 390 216 414V466H56Q48 466 48 458V204Q48 196 56 196ZM72 228V368H176V228ZM336 228V368H440V228ZM108 388V422H140V388ZM372 388V422H404V388Z"/>
+<g>
+<use href="#balcony" x="80" y="252"/>
+<use href="#balcony" x="212" y="208"/>
+<use href="#balcony" x="344" y="252"/>
+<rect x="80" y="236" width="88" height="8" rx="4"/>
+<rect x="212" y="192" width="88" height="8" rx="4"/>
+<rect x="344" y="236" width="88" height="8" rx="4"/>
+<path d="M232 466V416Q232 402 256 388Q280 402 280 416V466H268V418Q268 408 256 400Q244 408 244 418V466Z"/>
+</g>
+<rect x="24" y="478" width="464" height="20" rx="5"/>
+</svg>

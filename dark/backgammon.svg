@@ -1,0 +1,35 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="points">
+<path d="M52 84H80L66 204Z M116 84H144L130 204Z M180 84H208L194 204Z" fill="#A16545"/>
+<path d="M84 84H112L98 204Z M148 84H176L162 204Z M212 84H240L226 204Z" fill="#FFF3D8"/>
+</g>
+<g id="die">
+<rect x="150" y="226" width="64" height="64" rx="12" fill="#FFF9ED"/>
+<g fill="#35445F">
+<circle cx="168" cy="244" r="6"/>
+<circle cx="182" cy="258" r="6"/>
+<circle cx="196" cy="272" r="6"/>
+</g>
+</g>
+</defs>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="#B78257"/>
+<rect x="44" y="72" width="424" height="368" rx="8" fill="#E1BE93"/>
+<rect x="248" y="72" width="16" height="368" rx="8" fill="#835337"/>
+<use href="#points"/>
+<use href="#points" transform="translate(220 0)"/>
+<use href="#points" transform="translate(0 512) scale(1 -1)"/>
+<use href="#points" transform="translate(220 512) scale(1 -1)"/>
+<g fill="#E47870" stroke="#A94F43" stroke-width="4">
+<circle cx="66" cy="240" r="14"/>
+<circle cx="66" cy="276" r="14"/>
+<circle cx="108" cy="258" r="14"/>
+</g>
+<g fill="#FFF5DE" stroke="#B48B5D" stroke-width="4">
+<circle cx="446" cy="240" r="14"/>
+<circle cx="446" cy="276" r="14"/>
+<circle cx="404" cy="258" r="14"/>
+</g>
+<use href="#die"/>
+<use href="#die" transform="translate(148 0)"/>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path opacity="0.4" d="M32 156Q256-20 480 156Q490 164 482 174L466 194Q458 204 446 194Q256 46 66 194Q54 204 46 194L30 174Q22 164 32 156Z"/>
+<path opacity="0.4" d="M96 236Q256 108 416 236Q426 244 418 254L402 274Q394 284 382 274Q256 174 130 274Q118 284 110 274L94 254Q86 244 96 236Z"/>
+<path opacity="0.4" d="M160 316Q256 240 352 316Q362 324 354 334L338 354Q330 364 318 354Q256 306 194 354Q182 364 174 354L158 334Q150 324 160 316Z"/>
+<circle cx="256" cy="430" r="34"/>
+</svg>

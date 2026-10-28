@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="pentadecagonLight" x1="128" y1="96" x2="384" y2="482.930" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6366F1" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 24L350.363 44.057L428.410 100.762L476.645 184.308L486.729 280.251L456.918 372L392.366 443.692L304.236 482.930H207.764L119.634 443.692L55.082 372L25.271 280.251L35.355 184.308L83.590 100.762L161.637 44.057Z" fill="url(#pentadecagonLight)" stroke="#D97706" stroke-width="16" stroke-linejoin="round"/>
+</svg>

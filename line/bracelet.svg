@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<ellipse id="link" rx="46" ry="22"/>
+</defs>
+<use href="#link" transform="translate(360 119) rotate(24)"/>
+<use href="#link" transform="translate(436 172) rotate(50)"/>
+<use href="#link" transform="translate(464 244) rotate(90)"/>
+<use href="#link" transform="translate(436 316) rotate(130)"/>
+<use href="#link" transform="translate(360 369) rotate(156)"/>
+<use href="#link" transform="translate(256 388)"/>
+<use href="#link" transform="translate(152 369) rotate(24)"/>
+<use href="#link" transform="translate(76 316) rotate(50)"/>
+<use href="#link" transform="translate(48 244) rotate(90)"/>
+<use href="#link" transform="translate(76 172) rotate(130)"/>
+<use href="#link" transform="translate(152 119) rotate(156)"/>
+<rect x="218" y="80" width="76" height="40" rx="16"/>
+<path d="M274 88V112" stroke-linecap="round"/>
+<rect x="244" y="422" width="24" height="18" rx="8"/>
+<path d="M256 450C247 462 230 468 230 478C230 492 282 492 282 478C282 468 265 462 256 450Z"/>
+</svg>

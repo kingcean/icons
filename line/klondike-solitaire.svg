@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="24" width="80" height="116" rx="14"/>
+<path d="M64 56L82 82L64 108L46 82Z"/>
+<rect x="120" y="24" width="80" height="116" rx="14"/>
+<rect x="216" y="24" width="80" height="116" rx="14"/>
+<rect x="312" y="24" width="80" height="116" rx="14"/>
+<rect x="408" y="24" width="80" height="116" rx="14"/>
+<defs>
+<g id="column">
+<path d="M32 216V196Q32 180 48 180H144Q160 180 160 196V216"/>
+<path d="M32 264V244Q32 228 48 228H144Q160 228 160 244V264"/>
+<rect x="32" y="276" width="128" height="212" rx="16"/>
+</g>
+</defs>
+<use href="#column"/>
+<use href="#column" transform="translate(160 0)"/>
+<use href="#column" transform="translate(320 0)"/>
+<path d="M96 418C80 405 60 391 60 374C60 354 85 348 96 365C107 348 132 354 132 374C132 391 112 405 96 418Z"/>
+<path d="M256 350C244 370 220 385 220 401C220 419 244 423 252 407L246 434H266L260 407C268 423 292 419 292 401C292 385 268 370 256 350Z"/>
+<path d="M416 350Q419 350 422 354L446 385Q450 390 446 395L422 426Q416 434 410 426L386 395Q382 390 386 385L410 354Q413 350 416 350Z"/>
+</svg>

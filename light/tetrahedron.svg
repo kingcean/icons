@@ -1,1 +1,20 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs><linearGradient id="left" x1="256" y1="40" x2="80" y2="424" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#2563EB"/></linearGradient></defs><path d="M246 42Q251 33 256 33V308L30 448Q23 443 28 434Z" fill="url(#left)"/><path d="M256 33Q261 33 266 42L484 434Q489 443 482 448L256 308Z" fill="#1649A0"/><path d="M30 448L256 308L482 448Q479 456 472 456H40Q33 456 30 448Z" fill="#559BE8"/></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="left" x1="40" y1="80" x2="256" y2="400" gradientUnits="userSpaceOnUse">
+<stop stop-color="#79DDE9" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#2786CB" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="right" x1="256" y1="40" x2="480" y2="450" gradientUnits="userSpaceOnUse">
+<stop stop-color="#79B8F2" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6456CA" stop-opacity="0.6"/>
+</linearGradient>
+<linearGradient id="bottom" x1="256" y1="328" x2="256" y2="456" gradientUnits="userSpaceOnUse">
+<stop stop-color="#47C9C3" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#257CA9" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 26Q250 26 246 36L28 440Q24 450 32 452L256 328Z" fill="url(#left)"/>
+<path d="M256 26Q262 26 266 36L484 440Q488 450 480 452L256 328Z" fill="url(#right)"/>
+<path d="M32 452Q34 456 38 456H474Q478 456 480 452L256 328Z" fill="url(#bottom)"/>
+<path d="M246 36Q256 16 266 36L484 440Q492 456 474 456H38Q20 456 28 440ZM256 26V328L32 450M256 328L480 450" fill="none" stroke="#B96C30" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

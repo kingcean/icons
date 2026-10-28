@@ -1,0 +1,40 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="roof" d="M-18 0H18Q28 12 48 18Q52 22 46 22H-46Q-52 22-48 18Q-28 12-18 0Z" vector-effect="non-scaling-stroke"/>
+<path id="posts" d="M-12 24V30M12 24V30"/>
+</defs>
+<path d="M256 12V22"/>
+<g>
+<use href="#roof" transform="translate(256 32) scale(.76 1)"/>
+<use href="#roof" transform="translate(256 64) scale(1.08 1)"/>
+<use href="#roof" transform="translate(256 96) scale(1.4 1)"/>
+<use href="#roof" transform="translate(256 128) scale(1.72 1)"/>
+<use href="#roof" transform="translate(256 160) scale(2.04 1)"/>
+<use href="#roof" transform="translate(256 192) scale(2.36 1)"/>
+<use href="#roof" transform="translate(256 224) scale(2.68 1)"/>
+<use href="#roof" transform="translate(256 256) scale(3 1)"/>
+<use href="#roof" transform="translate(256 288) scale(3.32 1)"/>
+<use href="#roof" transform="translate(256 320) scale(3.64 1)"/>
+<use href="#roof" transform="translate(256 352) scale(3.96 1)"/>
+</g>
+<g>
+<use href="#posts" x="256" y="32"/>
+<use href="#posts" x="256" y="64"/>
+<use href="#posts" x="256" y="96"/>
+<use href="#posts" x="256" y="128"/>
+<use href="#posts" x="256" y="160"/>
+<use href="#posts" x="256" y="192"/>
+<use href="#posts" x="256" y="224"/>
+<use href="#posts" x="256" y="256"/>
+<use href="#posts" x="256" y="288"/>
+<use href="#posts" x="256" y="320"/>
+</g>
+<g>
+<rect x="192" y="386" width="128" height="56" rx="4"/>
+<path d="M208 396V432M304 396V432M232 442V400H280V442M256 406V434"/>
+<path d="M224 454H168Q164 454 164 458V474H220M288 454H344Q348 454 348 458V474H292M216 486H140Q136 486 136 490V500H376V490Q376 486 372 486H296"/>
+<path d="M236 442L216 500M276 442L296 500M232 454H280M226 472H286M220 490H292"/>
+<path d="M180 462H200M312 462H332"/>
+</g>
+</svg>

@@ -223,8 +223,8 @@
             "searchIcons#zh": "搜索图标",
             empty: "Empty",
             "empty#zh": "空",
-            intro1: "Includes over 2,000 vector icons, all free to use on screens, on the web, in print, and across other media.",
-            "intro1#zh": "包含超过 2,000 个矢量图标，可在屏幕、网络、印刷及其他媒体上免费使用。",
+            intro1: "Includes over 3,000 vector icons, all free to use on screens, on the web, in print, and across other media.",
+            "intro1#zh": "包含超过 3,000 个矢量图标，可在屏幕、网络、印刷及其他媒体上免费使用。",
             intro2: "Each icon comes in monochrome outline and solid versions, as well as colored solid versions tailored for light and dark themes.",
             "intro2#zh": "每个图标都提供单色线条和实心版本，以及针对浅色和深色主题定制的彩色实心版本。",
             downloadTips: "The image is in SVG format. Once downloaded, it may only be viewable and printable on a computer, but when embedded in a web page or a presentation file, it can be viewed on any device. For line icons, set the `stroke` (outline color) and `stroke-width` (outline thickness) attributes. For solid icons, set the `fill` (fill color) attribute.",
@@ -340,13 +340,15 @@
                         case "工具": q = "tool"; break;
                         case "媒体": q = "media"; break;
                         case "箭头": q = "arrow"; break;
+                        case "形状": q = "shape"; break;
                         case "操作": q = "action"; break;
                         case "状态": q = "status"; break;
                         case "文件": q = "file"; break;
                         case "文件夹": q = "folder"; break;
+                        case "文档": q = "document"; break;
                         case "车": q = "vehicle"; break;
                         case "设备": q = "device"; break;
-                        case "天文学": q = "astronomy"; break;
+                        case "天文": q = "astronomy"; break;
                         case "体育": q = "sport"; break;
                         case "动物": q = "animal"; break;
                         case "植物": q = "plant"; break;
@@ -367,9 +369,13 @@
                         case "日历": q = "calendar"; break;
                         case "通信": q = "communication"; break;
                         case "计算机": q = "computing"; break;
+                        case "开发": q = "development"; break;
                         case "服务": q = "service"; break;
                         case "摄影": q = "photography"; break;
                         case "游戏": q = "game"; break;
+                        case "建筑": q = "building"; break;
+                        case "乐器": q = "instrument"; break;
+                        case "配件": q = "accessory"; break;
                     }
                     q = q.toLowerCase();
                     list = r.filter(function(icon) {

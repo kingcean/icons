@@ -1,0 +1,50 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="minaret">
+<rect x="12" y="0" width="8" height="24" rx="4" fill="#B88732"/>
+<path d="M0 44Q0 28 16 20Q32 28 32 44Z" fill="#75A6AE"/>
+<rect x="8" y="44" width="16" height="224" rx="3" fill="#E9DCC4"/>
+<path d="M18 44H24V268H18Z" fill="#C4B395"/>
+<path d="M0 44H32V56H0ZM2 112H30V124H2ZM2 188H30V200H2Z" fill="#AD9572"/>
+<rect x="0" y="268" width="32" height="12" rx="4" fill="#C4B395"/>
+</g>
+<g id="pavilion">
+<rect x="20" y="0" width="8" height="20" rx="4" fill="#B88732"/>
+<path d="M4 40C0 28 10 18 24 12C38 18 48 28 44 40Z" fill="#8CB8BB"/>
+<rect x="8" y="40" width="32" height="36" rx="3" fill="#EEE2CB"/>
+<path d="M4 40H44V48H4Z" fill="#B59C76"/>
+<path d="M18 70V60Q18 56 24 52Q30 56 30 60V70Z" fill="#4B7781"/>
+</g>
+</defs>
+<g>
+<use href="#minaret" x="80" y="132"/>
+<use href="#minaret" x="400" y="132"/>
+<use href="#minaret" x="24" y="174"/>
+<use href="#minaret" x="456" y="174"/>
+</g>
+<g>
+<path d="M251 29Q251 24 256 24Q261 24 261 29V39H266Q271 39 271 44Q271 49 266 49H261V86H251V49H246Q241 49 241 44Q241 39 246 39H251Z" fill="#B88732"/>
+<path d="M200 210C174 184 196 142 226 118Q250 100 256 80Q262 100 286 118C316 142 338 184 312 210Z" fill="#E8DDC7"/>
+<path d="M256 80Q262 100 286 118C316 142 338 184 312 210H284C298 176 286 126 256 80Z" fill="#CDBB98"/>
+<rect x="216" y="210" width="80" height="82" rx="4" fill="#F2E7D2"/>
+<rect x="200" y="210" width="112" height="12" rx="4" fill="#B59C76"/>
+<use href="#pavilion" x="166" y="202"/>
+<use href="#pavilion" x="298" y="202"/>
+<use href="#pavilion" x="122" y="214"/>
+<use href="#pavilion" x="342" y="214"/>
+</g>
+<g>
+<rect x="128" y="292" width="256" height="162" rx="6" fill="#EADDC3"/>
+<path d="M128 292H384V304H128ZM128 434H384V454H128Z" fill="#BCA17A"/>
+<path d="M208 454V360Q208 330 256 310Q304 330 304 360V454Z" fill="#C8AD82"/>
+<path d="M228 454V366Q228 346 256 332Q284 346 284 366V454Z" fill="#385A68"/>
+<path d="M240 454V370Q240 356 256 346V454Z" fill="#517E89"/>
+<path d="M148 414V370Q148 352 172 340Q196 352 196 370V414ZM316 414V370Q316 352 340 340Q364 352 364 370V414Z" fill="#648D95"/>
+<path d="M148 414H196V422H148ZM316 414H364V422H316Z" fill="#BCA17A"/>
+</g>
+<g>
+<path d="M24 466L128 454H384L488 466Z" fill="#E8D8BC"/>
+<rect x="24" y="466" width="464" height="28" rx="5" fill="#B59C76"/>
+<path d="M32 466H480V474H32Z" fill="#D5C2A1"/>
+</g>
+</svg>

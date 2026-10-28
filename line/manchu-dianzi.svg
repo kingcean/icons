@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="flower" d="M0-34C18-46 36-28 26-12C48-8 48 16 26 20C30 42 6 50-4 30C-22 46-42 28-30 12C-50 0-38-22-18-18C-22-34-8-42 0-34Z"/>
+</defs>
+<path d="M24 366V278C24 146 120 58 256 58C392 58 488 146 488 278V366Q256 314 24 366Z"/>
+<path d="M40 384Q256 334 472 384L462 430Q256 382 50 430Z"/>
+<path d="M230 78C168 122 152 182 152 246M152 334V346M282 78C344 122 360 182 360 246M360 334V346M248 142V164M264 142V164M256 278V336M44 252Q126 218 196 214M316 214Q386 218 468 252M42 310L82 304M178 298Q256 278 334 298M430 304L470 310" stroke-linecap="round"/>
+<use href="#flower" transform="translate(256 220)"/>
+<use href="#flower" transform="translate(130 292) scale(.75)"/>
+<use href="#flower" transform="translate(382 292) scale(.75)"/>
+<circle cx="256" cy="220" r="12"/>
+<circle cx="130" cy="292" r="9"/>
+<circle cx="382" cy="292" r="9"/>
+<path d="M256 88L274 112L256 136L238 112ZM100 184L114 202L100 220L86 202ZM412 184L426 202L412 220L398 202Z"/>
+<circle cx="104" cy="396" r="10"/>
+<circle cx="180" cy="384" r="10"/>
+<circle cx="256" cy="380" r="10"/>
+<circle cx="332" cy="384" r="10"/>
+<circle cx="408" cy="396" r="10"/>
+</svg>

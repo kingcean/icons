@@ -1,1 +1,6 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon"><path d="M244 70Q244 52 235 68L44 412Q34 430 52 419L236 305Q244 300 244 290ZM268 70Q268 52 277 68L468 412Q478 430 460 419L276 305Q268 300 268 290ZM248 337Q256 332 264 337L450 446Q468 456 448 456H64Q44 456 62 446Z"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M250 56V316Q250 322 245 325L44 436Q34 442 40 430L238 56Q250 34 250 56Z"/>
+<path d="M262 56V316Q262 322 267 325L468 436Q478 442 472 430L274 56Q262 34 262 56Z"/>
+<path d="M48 456H464Q480 456 466 447L261 339Q256 336 251 339L46 447Q32 456 48 456Z"/>
+</svg>

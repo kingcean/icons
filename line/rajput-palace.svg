@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="balcony">
+<path d="M0 0H88V76L64 100H24L0 76Z"/>
+<path d="M0 76H88M16 16H72V64H16ZM44 16V64M16 40H72"/>
+</g>
+<g id="chhatri">
+<path d="M40 0V12M4 72C-4 52 12 34 28 26Q38 20 40 16Q42 20 52 26C68 34 84 52 76 72Z"/>
+<path d="M12 84H68V116H12ZM28 92V108M52 92V108"/>
+</g>
+</defs>
+<g>
+<use href="#chhatri" x="88" y="68"/>
+<use href="#chhatri" x="216" y="44"/>
+<use href="#chhatri" x="344" y="68"/>
+</g>
+<g>
+<rect x="48" y="196" width="416" height="270" rx="8"/>
+<path d="M56 212H192M320 212H456M60 446H200M312 446H452M216 466V414Q216 390 256 370Q296 390 296 414V466M232 466V416Q232 402 256 388Q280 402 280 416V466"/>
+</g>
+<g>
+<use href="#balcony" x="80" y="252"/>
+<use href="#balcony" x="212" y="208"/>
+<use href="#balcony" x="344" y="252"/>
+<path d="M80 240H168M212 196H300M344 240H432M108 388H140V422H108ZM372 388H404V422H372Z"/>
+</g>
+<rect x="24" y="478" width="464" height="20" rx="5"/>
+</svg>

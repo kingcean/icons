@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="tower">
+<path d="M-26 0H26Q32 0 33 8L52 292H-52L-33 8Q-32 0-26 0Z"/>
+<path d="M-9-12L-5-34Q0-46 5-34L9-12Z"/>
+<path d="M-56 56H-40M40 56H56M-60 116H-44M44 116H60M-64 176H-48M48 176H64M-68 236H-52M52 236H68"/>
+</g>
+</defs>
+<g>
+<path d="M72 288H40Q32 288 32 296V456H72M200 288H204M308 288H312M440 288H472Q480 288 480 296V456H440"/>
+<path d="M52 444V316Q52 308 60 308Q68 308 68 316V444M444 444V316Q444 308 452 308Q460 308 460 316V444"/>
+</g>
+<g>
+<use href="#tower" transform="translate(136 164)"/>
+<use href="#tower" transform="translate(256 100) scale(1 1.22)"/>
+<use href="#tower" transform="translate(376 164)"/>
+<path d="M116 444V372Q116 362 136 346Q156 362 156 372V444ZM234 444V358Q234 346 256 328Q278 346 278 358V444ZM356 444V372Q356 362 376 346Q396 362 396 372V444Z"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="6"/>
+</svg>

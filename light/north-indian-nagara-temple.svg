@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<path d="M250 20Q250 14 256 14Q262 14 262 20V30H268Q274 30 274 36Q274 42 268 42H262V60H250V42H244Q238 42 238 36Q238 30 244 30H250Z" fill="#B78327"/>
+<path d="M224 60Q256 48 288 60Q296 64 288 76Q256 88 224 76Q216 64 224 60Z" fill="#D3A347"/>
+<path d="M240 60V76M256 58V80M272 60V76" fill="none" stroke="#8F6225" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g>
+<path d="M180 352C194 258 190 166 248 100Q256 90 264 100C322 166 318 258 332 352Z" fill="#C87948"/>
+<path d="M208 352C220 248 212 168 256 100C300 168 292 248 304 352Z" fill="#E8B477"/>
+<path d="M250 112H262V340H250Z" fill="#F6D49B"/>
+<path d="M208 180H304M196 228H316M188 280H324M184 328H328" fill="none" stroke="#AA603D" stroke-width="8" stroke-linecap="round"/>
+</g>
+<g>
+<path d="M76 352C84 300 84 246 114 212Q120 204 126 212C156 246 156 300 164 352ZM348 352C356 300 356 246 386 212Q392 204 398 212C428 246 428 300 436 352Z" fill="#D9955D"/>
+<path d="M114 224H126V340H114ZM386 224H398V340H386Z" fill="#F0C88A"/>
+<path d="M104 272H136M96 308H144M376 272H408M368 308H416" fill="none" stroke="#B66E43" stroke-width="8" stroke-linecap="round"/>
+<rect x="114" y="180" width="12" height="28" rx="6" fill="#B78327"/>
+<rect x="386" y="180" width="12" height="28" rx="6" fill="#B78327"/>
+</g>
+<g>
+<rect x="200" y="388" width="112" height="86" rx="4" fill="#BD8657"/>
+<rect x="228" y="408" width="56" height="66" rx="4" fill="#654532"/>
+<path d="M252 418H260V474H252Z" fill="#D6AA6F"/>
+<path d="M64 388H96V474H64ZM136 388H168V474H136ZM344 388H376V474H344ZM416 388H448V474H416Z" fill="#EBC18A"/>
+<path d="M64 400H96V410H64ZM136 400H168V410H136ZM344 400H376V410H344ZM416 400H448V410H416ZM64 458H96V470H64ZM136 458H168V470H136ZM344 458H376V470H344ZM416 458H448V470H416Z" fill="#B87949"/>
+<path d="M30 380L104 364L248 348Q256 346 264 348L408 364L482 380Q490 384 482 390H30Q22 384 30 380Z" fill="#AF643E"/>
+<path d="M88 378H424" fill="none" stroke="#F1C58C" stroke-width="8" stroke-linecap="round"/>
+<rect x="48" y="470" width="416" height="18" rx="4" fill="#C68D60"/>
+<rect x="24" y="488" width="464" height="16" rx="4" fill="#A96D47"/>
+</g>
+</svg>

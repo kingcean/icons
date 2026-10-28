@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<g id="fan">
+<path d="M32 70L42 66L62 166L50 170Q40 174 36 162L24 86Q20 74 32 70Z"/>
+<path d="M54 40L128 24Q140 21 144 34H86Q60 34 60 60V158L44 58Q41 43 54 40Z"/>
+<path fill-rule="evenodd" d="M86 46H146Q160 46 160 60V174Q160 188 146 188H86Q72 188 72 174V60Q72 46 86 46Z M116 96L136 120L116 144L96 120Z"/>
+</g>
+</defs>
+<use href="#fan"/>
+<use href="#fan" transform="translate(512 0) scale(-1 1)"/>
+<use href="#fan" transform="translate(0 512) scale(1 -1)"/>
+<use href="#fan" transform="translate(512 512) scale(-1 -1)"/>
+<path fill-rule="evenodd" d="M188 180H236Q250 180 250 194V318Q250 332 236 332H188Q174 332 174 318V194Q174 180 188 180Z M212 278C200 268 184 257 184 244C184 228 203 224 212 237C221 224 240 228 240 244C240 257 224 268 212 278Z"/>
+<path fill-rule="evenodd" d="M276 180H324Q338 180 338 194V318Q338 332 324 332H276Q262 332 262 318V194Q262 180 276 180Z M300 278C288 268 272 257 272 244C272 228 291 224 300 237C309 224 328 228 328 244C328 257 312 268 300 278Z"/>
+</svg>

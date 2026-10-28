@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="capGap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM214 232H298Q334 232 334 268V356Q334 392 298 392H214Q178 392 178 356V268Q178 232 214 232Z"/>
+</clipPath>
+</defs>
+<g transform="rotate(32 256 256)">
+<g clip-path="url(#capGap)">
+<ellipse cx="256" cy="376" rx="116" ry="26"/>
+<path d="M140 376V416Q140 442 256 442Q372 442 372 416V376"/>
+<path d="M172 400V424M204 406V432M236 410V434M268 410V434M300 406V432M332 400V424"/>
+</g>
+<rect x="228" y="24" width="56" height="184" rx="22"/>
+<path d="M240 224H272V244H294Q322 244 322 272V356Q322 380 298 380H214Q190 380 190 356V272Q190 244 218 244H240Z"/>
+<path d="M222 268H290Q298 268 298 276V312H276V340H222Q214 340 214 332V276Q214 268 222 268Z"/>
+</g>
+</svg>

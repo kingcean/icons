@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="enneadecagonLight" x1="128" y1="96" x2="384" y2="484.836" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6366F1" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 24L331.330 36.570L398.497 72.919L450.223 129.108L480.901 199.047L487.208 275.158L468.459 349.193L426.688 413.129L366.420 460.038L294.186 484.836H217.814L145.580 460.038L85.312 413.129L43.541 349.193L24.792 275.158L31.099 199.047L61.777 129.108L113.503 72.919L180.670 36.570Z" fill="url(#enneadecagonLight)" stroke="#D97706" stroke-width="16" stroke-linejoin="round"/>
+</svg>

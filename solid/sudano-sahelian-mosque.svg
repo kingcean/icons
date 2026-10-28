@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="tower">
+<path fill-rule="evenodd" d="M-26 0H26Q32 0 33 8L52 292H-52L-33 8Q-32 0-26 0ZM-20 292H20V208Q20 198 0 182Q-20 198-20 208Z"/>
+<path d="M-9-12L-5-34Q0-46 5-34L9-12Z"/>
+<path d="M-60 50H-46V62H-60ZM46 50H60V62H46ZM-64 110H-50V122H-64ZM50 110H64V122H50ZM-68 170H-54V182H-68ZM54 170H68V182H54ZM-72 230H-58V242H-72ZM58 230H72V242H58Z"/>
+</g>
+</defs>
+<g>
+<path d="M40 288H76L64 456H40Q32 456 32 448V296Q32 288 40 288ZM200 288H204L192 456H200ZM308 288H312L320 456H312ZM436 288H472Q480 288 480 296V448Q480 456 472 456H448Z"/>
+</g>
+<g>
+<use href="#tower" transform="translate(136 164)"/>
+<use href="#tower" transform="translate(256 100) scale(1 1.22)"/>
+<use href="#tower" transform="translate(376 164)"/>
+</g>
+<rect x="24" y="476" width="464" height="24" rx="6"/>
+</svg>

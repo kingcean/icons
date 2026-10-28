@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="terrace">
+<path clip-rule="evenodd" d="M32 296H480V472H32ZM202 298H310V346H202ZM198 332L226 364L92 494H4ZM314 332L286 364L420 494H508ZM218 340H294L326 494H186Z"/>
+</clipPath>
+</defs>
+<g>
+<path fill-rule="evenodd" d="M226 32H286Q292 32 292 38V124H272V72H240V124H220V38Q220 32 226 32ZM248 46V54H264V46Z"/>
+<rect x="212" y="16" width="88" height="8" rx="4"/>
+</g>
+<g>
+<rect x="176" y="140" width="160" height="68" rx="6"/>
+<rect x="120" y="220" width="272" height="72" rx="6"/>
+<g clip-path="url(#terrace)">
+<rect x="48" y="304" width="416" height="160" rx="8"/>
+</g>
+</g>
+<g>
+<rect x="212" y="308" width="88" height="28" rx="4"/>
+<path fill-rule="evenodd" d="M200 344L214 364L80 484H24ZM154 378L183 391L177 399L145 386ZM110 412L149 420L141 430L100 420ZM66 448L116 450L107 460H54ZM312 344L298 364L432 484H488ZM358 378L329 391L335 399L367 386ZM402 412L363 420L371 430L412 420ZM446 448L396 450L405 460H458ZM228 348H284L312 484H200ZM222 374L220 384H292L290 374ZM216 404L214 414H298L296 404ZM210 434L208 444H304L302 434ZM204 464L202 474H310L308 464Z"/>
+</g>
+<rect x="24" y="496" width="464" height="8" rx="4"/>
+</svg>

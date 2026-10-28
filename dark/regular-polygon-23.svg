@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="tricosagonDark" x1="128" y1="96" x2="384" y2="485.839" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#A5B4FC" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 24L318.593 32.603L376.543 57.055L425.554 97.648L461.989 149.265L483.948 208.798L487.459 271.832L474.605 333.692L445.537 389.790L402.412 435.965L348.429 468.793L287.591 485.839H224.409L163.571 468.793L109.588 435.965L66.463 389.790L37.395 333.692L24.541 271.832L28.052 208.798L50.011 149.265L86.446 97.648L135.457 57.055L193.407 32.603Z" fill="url(#tricosagonDark)" stroke="#FFB454" stroke-width="16" stroke-linejoin="round"/>
+</svg>

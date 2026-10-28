@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M38 24H90Q104 24 104 38V126Q104 140 90 140H38Q24 140 24 126V38Q24 24 38 24Z M64 56L82 82L64 108L46 82Z"/>
+<defs>
+<path id="space" fill-rule="evenodd" d="M134 24H186Q200 24 200 38V126Q200 140 186 140H134Q120 140 120 126V38Q120 24 134 24Z M138 36Q132 36 132 42V122Q132 128 138 128H182Q188 128 188 122V42Q188 36 182 36Z"/>
+<g id="layers">
+<path d="M48 180H144Q160 180 160 196V216H32V196Q32 180 48 180Z"/>
+<path d="M48 228H144Q160 228 160 244V264H32V244Q32 228 48 228Z"/>
+</g>
+</defs>
+<use href="#space"/>
+<use href="#space" transform="translate(96 0)"/>
+<use href="#space" transform="translate(192 0)"/>
+<use href="#space" transform="translate(288 0)"/>
+<use href="#layers"/>
+<use href="#layers" transform="translate(160 0)"/>
+<use href="#layers" transform="translate(320 0)"/>
+<path fill-rule="evenodd" d="M48 276H144Q160 276 160 292V472Q160 488 144 488H48Q32 488 32 472V292Q32 276 48 276Z M96 418C80 405 60 391 60 374C60 354 85 348 96 365C107 348 132 354 132 374C132 391 112 405 96 418Z"/>
+<path fill-rule="evenodd" d="M208 276H304Q320 276 320 292V472Q320 488 304 488H208Q192 488 192 472V292Q192 276 208 276Z M256 350C244 370 220 385 220 401C220 419 244 423 252 407L246 434H266L260 407C268 423 292 419 292 401C292 385 268 370 256 350Z"/>
+<path fill-rule="evenodd" d="M368 276H464Q480 276 480 292V472Q480 488 464 488H368Q352 488 352 472V292Q352 276 368 276Z M416 350Q419 350 422 354L446 385Q450 390 446 395L422 426Q416 434 410 426L386 395Q382 390 386 385L410 354Q413 350 416 350Z"/>
+</svg>

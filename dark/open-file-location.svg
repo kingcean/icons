@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="locate" x1="92" y1="344" x2="267" y2="344" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0F766E"/>
+<stop offset="1" stop-color="#1D4ED8"/>
+</linearGradient>
+</defs>
+<path d="M48 80H174Q184 80 192 88L224 120H464Q488 120 488 144V408Q488 432 464 432H48Q24 432 24 408V104Q24 80 48 80Z" fill="#D79A35"/>
+<path d="M48 152H464Q488 152 488 176V408Q488 432 464 432H48Q24 432 24 408V176Q24 152 48 152Z" fill="#F5C65F"/>
+<rect x="64" y="192" width="384" height="48" rx="12" fill="#334155"/>
+<path d="M88 216H128M156 204L144 228M176 216H224M252 204L240 228M272 216H424" fill="none" stroke="#E2E8F0" stroke-width="12" stroke-linecap="round"/>
+<path d="M300 264H348L400 316V384Q400 400 384 400H300Q284 400 284 384V280Q284 264 300 264Z" fill="#8B5CF6"/>
+<path d="M348 264L400 316H364Q348 316 348 300Z" fill="#DDD6FE"/>
+<path d="M104 332H223L211 320Q203 312 211 304Q219 296 227 304L259 336Q267 344 259 352L227 384Q219 392 211 384Q203 376 211 368L223 356H104Q92 356 92 344Q92 332 104 332Z" fill="url(#locate)"/>
+</svg>

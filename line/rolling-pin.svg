@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g transform="rotate(-45 256 256)">
+<path d="M112 186H400C432 186 432 326 400 326H112C80 326 80 186 112 186Z"/>
+<path d="M112 186C144 186 144 326 112 326"/>
+<path d="M-26 234H60Q72 234 72 246V266Q72 278 60 278H-26A22 22 0 0 1-26 234ZM452 234H538A22 22 0 0 1 538 278H452Q440 278 440 266V246Q440 234 452 234Z"/>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M103 438A238 238 0 1 1 330 482Q324 485 322 479Q320 474 326 471A226 226 0 1 0 111 429Q115 425 119 430Q122 435 117 439Q110 444 103 438Z"/>
+<circle cx="106" cy="396" r="28"/>
+<circle cx="62" cy="306" r="28"/>
+<circle cx="62" cy="210" r="28"/>
+<circle cx="106" cy="124" r="28"/>
+<circle cx="190" cy="72" r="28"/>
+<circle cx="286" cy="60" r="28"/>
+<circle cx="378" cy="96" r="28"/>
+<circle cx="440" cy="170" r="28"/>
+<circle cx="456" cy="264" r="28"/>
+<circle cx="426" cy="354" r="28"/>
+<circle cx="362" cy="424" r="28"/>
+<path fill-rule="evenodd" d="M314 300A64 64 0 1 1 186 300A64 64 0 1 1 314 300Z M278 300A28 28 0 1 0 222 300A28 28 0 1 0 278 300Z"/>
+<rect x="228" y="186" width="44" height="42" rx="10" transform="rotate(32 250 300)"/>
+<circle cx="336" cy="162" r="20"/>
+</svg>

@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="fileClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM180 188H512V452H180Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#fileClip)">
+<path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+</g>
+<rect x="196" y="204" width="292" height="232" rx="24"/>
+<path d="M220 252Q252 216 284 252Q252 288 220 252Z"/>
+<circle cx="252" cy="252" r="10"/>
+<path d="M232 316V306A20 20 0 0 1 272 306V316"/>
+<rect x="228" y="316" width="48" height="30" rx="6"/>
+<path d="M252 328V334"/>
+<rect x="220" y="370" width="64" height="16" rx="4"/>
+<path d="M224 386V408Q224 412 228 412H276Q280 412 280 408V386M244 398H260M316 252H452M316 326H428M316 392H452"/>
+</svg>

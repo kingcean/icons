@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="slipper">
+<path d="M140 36C194 36 222 72 222 128V372C222 432 190 476 140 476C90 476 58 432 58 372V128C58 72 86 36 140 36Z" fill="#E0AF73"/>
+<path d="M140 50C184 50 208 80 208 128V372C208 425 182 462 140 462C98 462 72 425 72 372V128C72 80 96 50 140 50Z" fill="#F7EEDB"/>
+<path d="M70 156Q140 126 210 156L214 254Q140 226 66 254Z" fill="#57B8AA"/>
+<path d="M70 156Q140 126 210 156L211 176Q140 148 69 176Z" fill="#A9E5D4"/>
+<path d="M67 236Q140 208 213 236L214 254Q140 226 66 254Z" fill="#369E92"/>
+</g>
+</defs>
+<use href="#slipper" transform="rotate(-10 140 256)"/>
+<use href="#slipper" transform="translate(232 0) rotate(10 140 256)"/>
+</svg>

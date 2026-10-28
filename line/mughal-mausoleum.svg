@@ -1,0 +1,41 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="minaret">
+<path d="M16 0V12M0 44Q0 28 16 20Q32 28 32 44Z"/>
+<path d="M8 56H24V256H8ZM4 112H28M4 188H28"/>
+<rect x="0" y="268" width="32" height="12" rx="4"/>
+</g>
+<g id="pavilion">
+<path d="M24 0V8M4 40C0 28 10 18 24 12C38 18 48 28 44 40Z"/>
+<rect x="8" y="52" width="32" height="24" rx="3"/>
+<path d="M24 58V70"/>
+</g>
+</defs>
+<g>
+<use href="#minaret" x="80" y="132"/>
+<use href="#minaret" x="400" y="132"/>
+<use href="#minaret" x="24" y="174"/>
+<use href="#minaret" x="456" y="174"/>
+</g>
+<g>
+<path d="M256 24V64M246 44H266"/>
+<path d="M200 210C174 184 196 142 226 118Q250 100 256 80Q262 100 286 118C316 142 338 184 312 210Z"/>
+<path d="M256 100C228 138 216 174 224 198M256 100C284 138 296 174 288 198"/>
+<rect x="216" y="222" width="80" height="56" rx="4"/>
+<use href="#pavilion" x="166" y="202"/>
+<use href="#pavilion" x="298" y="202"/>
+<use href="#pavilion" x="122" y="214"/>
+<use href="#pavilion" x="342" y="214"/>
+</g>
+<g>
+<rect x="128" y="302" width="256" height="144" rx="6"/>
+<path d="M208 446V360Q208 330 256 310Q304 330 304 360V446M228 446V366Q228 346 256 332Q284 346 284 366V446"/>
+<path d="M148 414V370Q148 352 172 340Q196 352 196 370V414ZM316 414V370Q316 352 340 340Q364 352 364 370V414Z"/>
+<path d="M140 430H196M316 430H372"/>
+</g>
+<g>
+<path d="M68 466L128 454H384L444 466"/>
+<rect x="24" y="466" width="464" height="28" rx="5"/>
+</g>
+</svg>

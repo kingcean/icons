@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="henicosagonDark" x1="128" y1="96" x2="384" y2="485.409" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#A5B4FC" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M256 24L324.383 34.307L386.690 64.313L437.385 111.350L471.963 171.241L487.351 238.663L482.183 307.625L456.918 372L413.800 426.068L356.661 465.025L290.578 485.409H221.422L155.339 465.025L98.200 426.068L55.082 372L29.817 307.625L24.649 238.663L40.037 171.241L74.615 111.350L125.310 64.313L187.617 34.307Z" fill="url(#henicosagonDark)" stroke="#FFB454" stroke-width="16" stroke-linejoin="round"/>
+</svg>

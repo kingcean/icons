@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<clipPath id="verticalChecks">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM152 96H164V368H152ZM248 96H260V368H248Z"/>
+</clipPath>
+<clipPath id="horizontalChecks">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM96 152H368V164H96ZM96 248H368V260H96Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#verticalChecks)">
+<g clip-path="url(#horizontalChecks)">
+<path fill-rule="evenodd" d="M52 32H412Q432 32 432 52V280L280 432H52Q32 432 32 412V52Q32 32 52 32ZM64 58Q58 58 58 64V400Q58 406 64 406H264Q268 406 272 402L404 270Q406 268 406 264V64Q406 58 400 58ZM70 70H394V262L262 394H70Z"/>
+</g>
+</g>
+<path fill-rule="evenodd" d="M444 288L488 448Q494 472 470 468L292 444ZM446 340Q440 342 442 348L464 440L352 424Q346 423 345 429Q344 435 350 436L470 454Q480 456 478 446L454 344Q452 338 446 340Z"/>
+</svg>

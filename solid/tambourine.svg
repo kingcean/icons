@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="jingles" d="M272 48A16 5 0 1 1 240 48A16 5 0 1 1 272 48ZM272 64A16 5 0 1 1 240 64A16 5 0 1 1 272 64Z"/>
+</defs>
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256ZM432 256A176 176 0 1 1 80 256A176 176 0 1 1 432 256ZM278 56A22 22 0 1 1 234 56A22 22 0 1 1 278 56ZM451.205 156A22 22 0 1 1 407.205 156A22 22 0 1 1 451.205 156ZM451.205 356A22 22 0 1 1 407.205 356A22 22 0 1 1 451.205 356ZM278 456A22 22 0 1 1 234 456A22 22 0 1 1 278 456ZM104.795 356A22 22 0 1 1 60.795 356A22 22 0 1 1 104.795 356ZM104.795 156A22 22 0 1 1 60.795 156A22 22 0 1 1 104.795 156Z"/>
+<circle cx="256" cy="256" r="164"/>
+<use href="#jingles"/>
+<use href="#jingles" transform="rotate(60 256 256)"/>
+<use href="#jingles" transform="rotate(120 256 256)"/>
+<use href="#jingles" transform="rotate(180 256 256)"/>
+<use href="#jingles" transform="rotate(240 256 256)"/>
+<use href="#jingles" transform="rotate(300 256 256)"/>
+</svg>

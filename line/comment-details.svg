@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="cardClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM348 340H472Q502 340 502 370V436Q502 466 472 466H456V502H318V370Q318 340 348 340Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="32" width="440" height="424" rx="28" clip-path="url(#cardClip)"/>
+<circle cx="100" cy="108" r="24"/>
+<path d="M60 178V168C60 152 78 144 100 144C122 144 140 152 140 168V178Q140 184 134 184H66Q60 184 60 178Z"/>
+<path d="M172 100H310M172 148H282M76 236H412M76 288H372M76 340H286M76 392H250"/>
+<circle cx="378" cy="124" r="30"/>
+<path d="M378 106V124L392 134"/>
+<path d="M352 354H468Q488 354 488 374V432Q488 452 468 452H442V478Q442 488 434 482L394 452H352Q332 452 332 432V374Q332 354 352 354Z"/>
+<path d="M366 388H454M366 420H424"/>
+</svg>

@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="carrierPlaneCutout" d="M-30-6H-10L-2-25Q0-29 5-27L10-25L8-6H29Q39-6 42 0Q39 6 29 6H8L10 25L5 27Q0 29-2 25L-10 6H-30L-36 15H-42L-39 0L-42-15H-36Z"/>
+<mask id="carrierDeckMask">
+<rect width="512" height="512" fill="white"/>
+<g fill="black">
+<use href="#carrierPlaneCutout" transform="translate(146 262) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneCutout" transform="translate(236 273) rotate(6) scale(.72)"/>
+<use href="#carrierPlaneCutout" transform="translate(326 286) rotate(6) scale(.72)"/>
+<path d="M85 298L362 327Q368 328 367 334Q366 340 360 339L83 310Q77 309 78 303Q79 297 85 298Z"/>
+</g>
+</mask>
+</defs>
+<path d="M32 278L124 208Q132 202 142 203L410 225Q421 226 430 232L482 262Q493 269 482 277L389 345Q383 350 375 349L40 316Q24 314 24 300V292Q24 284 32 278Z" mask="url(#carrierDeckMask)"/>
+<path d="M42 329L379 363Q387 364 394 359L480 296V326Q480 339 469 347L397 400Q385 409 370 407L83 375Q68 373 61 361Z"/>
+<path d="M292 172L323 155L363 160L377 193V209L333 206L292 196Z"/>
+<path d="M316 146V118Q316 110 324 111L346 114Q354 115 354 123V148Z"/>
+<rect x="329" y="76" width="12" height="26" rx="6"/>
+</svg>

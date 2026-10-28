@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="docosagonDark" x1="128" y1="96" x2="384" y2="485.639" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#A5B4FC" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M222.983 26.361H289.017L352.376 44.965L407.928 80.666L451.171 130.571L478.602 190.638L488 256L478.602 321.362L451.171 381.429L407.928 431.334L352.376 467.035L289.017 485.639H222.983L159.624 467.035L104.072 431.334L60.829 381.429L33.398 321.362L24 256L33.398 190.638L60.829 130.571L104.072 80.666L159.624 44.965Z" fill="url(#docosagonDark)" stroke="#FFB454" stroke-width="16" stroke-linejoin="round"/>
+</svg>

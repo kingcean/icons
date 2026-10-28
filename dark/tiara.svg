@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="flower" d="M0-40C16-40 24-28 18-18C28-24 40-16 40 0C40 16 28 24 18 18C24 28 16 40 0 40C-16 40-24 28-18 18C-28 24-40 16-40 0C-40-16-28-24-18-18C-24-28-16-40 0-40Z"/>
+</defs>
+<path d="M24 308C128 384 384 384 488 308V330C384 406 128 406 24 330Z" fill="#E6B965"/>
+<path d="M24 308C128 384 384 384 488 308V318C384 394 128 394 24 318Z" fill="#FFE5A2"/>
+<g fill="#F3CB76" fill-rule="evenodd">
+<path d="M256 160C208 230 208 300 256 364C304 300 304 230 256 160ZM256 206C228 245 228 287 256 326C284 287 284 245 256 206Z"/>
+<path d="M156 202C118 251 128 304 180 358C196 294 190 250 156 202ZM156 240C137 267 147 299 171 321C178 287 172 262 156 240Z"/>
+<path d="M356 202C394 251 384 304 332 358C316 294 322 250 356 202ZM356 240C375 267 365 299 341 321C334 287 340 262 356 240Z"/>
+<path d="M70 260C48 295 68 322 108 342C112 306 96 286 70 260ZM73 293C66 301 78 312 95 315C94 306 85 298 73 293Z"/>
+<path d="M442 260C464 295 444 322 404 342C400 306 416 286 442 260ZM439 293C446 301 434 312 417 315C418 306 427 298 439 293Z"/>
+</g>
+<g fill="#FFA5C1">
+<use href="#flower" transform="translate(256 124)"/>
+<use href="#flower" transform="translate(70 236) scale(.75)"/>
+<use href="#flower" transform="translate(442 236) scale(.75)"/>
+</g>
+<g fill="#A0E4CA">
+<use href="#flower" transform="translate(156 168)"/>
+<use href="#flower" transform="translate(356 168)"/>
+</g>
+<g fill="#FFF0D1">
+<circle cx="256" cy="124" r="13"/>
+<circle cx="156" cy="168" r="13"/>
+<circle cx="356" cy="168" r="13"/>
+<circle cx="70" cy="236" r="10"/>
+<circle cx="442" cy="236" r="10"/>
+</g>
+</svg>

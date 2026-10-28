@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="cell">
+<rect width="104" height="104" rx="12" fill="#AABDD0"/>
+<path d="M12 0H92Q104 0 104 12V18H18V86H0V12Q0 0 12 0Z" fill="#DCE7F0"/>
+<path d="M86 18H104V92Q104 104 92 104H12Q0 104 0 92V86H86Z" fill="#7189A3"/>
+</g>
+</defs>
+<use href="#cell" x="24" y="24"/>
+<use href="#cell" x="144" y="24"/>
+<use href="#cell" x="264" y="24"/>
+<use href="#cell" x="384" y="24"/>
+<use href="#cell" x="24" y="144"/>
+<use href="#cell" x="144" y="144"/>
+<use href="#cell" x="264" y="144"/>
+<use href="#cell" x="384" y="144"/>
+<use href="#cell" x="24" y="264"/>
+<use href="#cell" x="144" y="264"/>
+<use href="#cell" x="264" y="264"/>
+<use href="#cell" x="384" y="264"/>
+<rect x="24" y="384" width="104" height="104" rx="12" fill="#E8EEF4"/>
+<rect x="144" y="384" width="104" height="104" rx="12" fill="#E8EEF4"/>
+<use href="#cell" x="264" y="384"/>
+<rect x="384" y="384" width="104" height="104" rx="12" fill="#F5D9B5"/>
+<path d="M300 169V225M288 225H322" fill="none" stroke="#33455F" stroke-width="10" stroke-linecap="round"/>
+<path d="M300 164L341 180Q348 184 341 188L300 205Z" fill="#D93650"/>
+<path d="M73 409H82V452H92V462H61V452H71V423L63 429L57 421Z" fill="#286EC0"/>
+<path d="M177 418C177 393 216 393 216 417C216 431 198 439 190 451H217V462H176V454C182 436 205 427 205 418C205 407 188 407 188 418Z" fill="#278366"/>
+<path d="M436 403V469M403 436H469M409 409L463 463M409 463L463 409" fill="none" stroke="#293447" stroke-width="10" stroke-linecap="round"/>
+<circle cx="436" cy="436" r="22" fill="#293447"/>
+<circle cx="430" cy="429" r="6" fill="#71859C"/>
+</svg>

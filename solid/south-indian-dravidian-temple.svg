@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<g>
+<rect x="250" y="12" width="12" height="20" rx="6"/>
+<path d="M220 88V76Q220 44 256 44Q292 44 292 76V88Z"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M204 140L220 104Q222 100 228 100H284Q290 100 292 104L308 140ZM244 112V132H268V112Z"/>
+<path fill-rule="evenodd" d="M180 192L196 156Q198 152 204 152H308Q314 152 316 156L332 192ZM216 164V184H240V164ZM272 164V184H296V164Z"/>
+<path fill-rule="evenodd" d="M156 244L172 208Q174 204 180 204H332Q338 204 340 208L356 244ZM192 216V236H216V216ZM244 216V236H268V216ZM296 216V236H320V216Z"/>
+<path fill-rule="evenodd" d="M132 296L148 260Q150 256 156 256H356Q362 256 364 260L380 296ZM168 268V288H192V268ZM244 268V288H268V268ZM320 268V288H344V268Z"/>
+<path fill-rule="evenodd" d="M108 348L124 312Q126 308 132 308H380Q386 308 388 312L404 348ZM144 320V340H168V320ZM208 320V340H232V320ZM280 320V340H304V320ZM344 320V340H368V320Z"/>
+</g>
+<g>
+<rect x="156" y="360" width="200" height="12" rx="4"/>
+<path d="M30 390L104 376H408L482 390Q490 392 484 402H28Q22 392 30 390Z"/>
+<rect x="64" y="414" width="32" height="58" rx="4"/>
+<rect x="136" y="414" width="32" height="58" rx="4"/>
+<rect x="344" y="414" width="32" height="58" rx="4"/>
+<rect x="416" y="414" width="32" height="58" rx="4"/>
+<path d="M204 414H308Q312 414 312 418V472H288V426H224V472H200V418Q200 414 204 414Z"/>
+</g>
+<rect x="24" y="484" width="464" height="16" rx="4"/>
+</svg>

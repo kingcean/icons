@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="tentacle" d="M244 108C230 86 246 66 236 46Q228 30 240 26Q252 22 260 42C278 70 254 86 268 108Q256 118 244 108Z"/>
+<g id="crown">
+<use href="#tentacle"/>
+<use href="#tentacle" transform="rotate(22.5 256 192)"/>
+<use href="#tentacle" transform="rotate(45 256 192)"/>
+<use href="#tentacle" transform="rotate(67.5 256 192)"/>
+</g>
+</defs>
+<path d="M96 450L142 446L164 454L202 448L232 458L284 450L312 458L354 446L402 452Q428 456 436 476Q440 488 424 488H88Q72 488 78 476Q82 458 96 450Z"/>
+<path d="M188 354Q256 374 324 354L332 406Q334 420 350 426Q362 438 342 438H170Q150 438 162 426Q178 420 180 406Z"/>
+<path d="M212 380L208 414M256 386V420M300 380L304 414" stroke-linecap="round"/>
+<use href="#crown"/>
+<use href="#crown" transform="rotate(90 256 192)"/>
+<use href="#crown" transform="rotate(180 256 192)"/>
+<use href="#crown" transform="rotate(270 256 192)"/>
+<circle cx="256" cy="192" r="62"/>
+<ellipse cx="256" cy="192" rx="24" ry="16"/>
+</svg>

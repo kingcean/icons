@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="spine" d="M250 146L253 29Q256 23 259 29L262 146Q256 151 250 146Z"/>
+<g id="rays">
+<use href="#spine"/>
+<use href="#spine" transform="rotate(15 256 256)"/>
+<use href="#spine" transform="rotate(30 256 256)"/>
+<use href="#spine" transform="rotate(45 256 256)"/>
+<use href="#spine" transform="rotate(60 256 256)"/>
+<use href="#spine" transform="rotate(75 256 256)"/>
+</g>
+</defs>
+<use href="#rays"/>
+<use href="#rays" transform="rotate(90 256 256)"/>
+<use href="#rays" transform="rotate(180 256 256)"/>
+<use href="#rays" transform="rotate(270 256 256)"/>
+<circle cx="256" cy="256" r="100"/>
+<path d="M210 358Q214 354 218 360C206 388 220 418 197 437Q193 440 190 436Q187 432 191 429C208 414 195 387 210 358ZM266 368Q265 362 271 363Q274 363 275 366C289 392 276 416 286 440Q288 445 283 447Q278 449 277 444C264 417 279 394 266 368ZM308 352Q305 348 310 345Q314 343 316 348C333 370 321 402 339 412Q344 415 341 419Q338 423 333 420C310 406 325 375 308 352Z"/>
+</svg>

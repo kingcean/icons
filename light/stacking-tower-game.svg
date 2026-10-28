@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="cross-layer">
+<rect x="100" width="76" height="48" rx="5" fill="#D99A50"/>
+<rect x="184" width="76" height="48" rx="5" fill="#E9B56C"/>
+<rect x="268" width="76" height="48" rx="5" fill="#D99A50"/>
+<path d="M352 4Q352 0 356-2L408-25Q416-29 416-21V17Q416 21 412 23L360 46Q352 50 352 42Z" fill="#956039"/>
+</g>
+<g id="length-layer">
+<rect x="100" width="244" height="48" rx="5" fill="#C38344"/>
+<path d="M352 0L370-8V40L352 48Z" fill="#E9B56C"/>
+<path d="M376-11L394-19V29L376 37Z" fill="#D99A50"/>
+<path d="M400-22L416-29V19L400 26Z" fill="#E9B56C"/>
+<rect x="120" y="21" width="112" height="6" rx="3" fill="#A76A36"/>
+</g>
+</defs>
+<g transform="rotate(-3 256 172) translate(-8 0)">
+<path d="M100 72L164 44H416L344 72Z" fill="#F5D29A"/>
+<path d="M180 72L244 44M264 72L328 44" stroke="#B8874D" stroke-width="6"/>
+<use href="#cross-layer" transform="translate(0 72)"/>
+<use href="#length-layer" transform="translate(0 128)"/>
+</g>
+<use href="#cross-layer" transform="translate(0 184)"/>
+<path d="M352 240L416 212V260L352 288Z" fill="#805132"/>
+<rect x="100" y="240" width="76" height="48" rx="5" fill="#D99A50"/>
+<rect x="184" y="240" width="76" height="48" rx="5" fill="#E9B56C"/>
+<path d="M280 240L344 212H488L468 240Z" fill="#FFE0A3"/>
+<path d="M468 240L488 212V272Q488 278 483 282L468 288Z" fill="#B77636"/>
+<rect x="280" y="240" width="188" height="48" rx="5" fill="#F1BA62"/>
+<rect x="304" y="261" width="104" height="6" rx="3" fill="#D59643"/>
+<use href="#cross-layer" transform="translate(0 296)"/>
+<use href="#length-layer" transform="translate(0 352)"/>
+<use href="#cross-layer" transform="translate(0 408)"/>
+</svg>

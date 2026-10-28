@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="cross-layer">
+<rect x="100" y="0" width="76" height="48" rx="5"/>
+<rect x="184" y="0" width="76" height="48" rx="5"/>
+<rect x="268" y="0" width="76" height="48" rx="5"/>
+<path d="M352 4Q352 0 356-2L408-25Q416-29 416-21V17Q416 21 412 23L360 46Q352 50 352 42Z"/>
+</g>
+<g id="length-layer">
+<rect x="100" y="0" width="244" height="48" rx="5"/>
+<path d="M352 0L370-8V40L352 48Z M376-11L394-19V29L376 37Z M400-22L416-29V19L400 26Z"/>
+</g>
+</defs>
+<g transform="rotate(-3 256 172) translate(-8 0)">
+<path d="M104 64L168 36H408L344 64Z"/>
+<use href="#cross-layer" transform="translate(0 72)"/>
+<use href="#length-layer" transform="translate(0 128)"/>
+</g>
+<use href="#cross-layer" transform="translate(0 184)"/>
+<rect x="100" y="240" width="76" height="48" rx="5"/>
+<rect x="184" y="240" width="76" height="48" rx="5"/>
+<path d="M280 232L336 208H476Q484 208 484 216V274Q484 279 480 281L470 286"/>
+<rect x="280" y="240" width="188" height="48" rx="5"/>
+<path d="M476 236L484 232"/>
+<use href="#cross-layer" transform="translate(0 296)"/>
+<use href="#length-layer" transform="translate(0 352)"/>
+<use href="#cross-layer" transform="translate(0 408)"/>
+</svg>

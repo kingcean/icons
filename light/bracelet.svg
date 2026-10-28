@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="link" fill-rule="evenodd" d="M46 0A46 22 0 1 1-46 0A46 22 0 1 1 46 0ZM30 0A30 10 0 1 1-30 0A30 10 0 1 1 30 0Z"/>
+</defs>
+<g fill="#B58230">
+<use href="#link" transform="translate(436 172) rotate(50)"/>
+<use href="#link" transform="translate(436 316) rotate(130)"/>
+<use href="#link" transform="translate(256 388)"/>
+<use href="#link" transform="translate(76 316) rotate(50)"/>
+<use href="#link" transform="translate(76 172) rotate(130)"/>
+</g>
+<g fill="#E1B34F">
+<use href="#link" transform="translate(360 119) rotate(24)"/>
+<use href="#link" transform="translate(464 244) rotate(90)"/>
+<use href="#link" transform="translate(360 369) rotate(156)"/>
+<use href="#link" transform="translate(152 369) rotate(24)"/>
+<use href="#link" transform="translate(48 244) rotate(90)"/>
+<use href="#link" transform="translate(152 119) rotate(156)"/>
+</g>
+<path fill="#B58230" fill-rule="evenodd" d="M234 80H278Q294 80 294 96V104Q294 120 278 120H234Q218 120 218 104V96Q218 80 234 80ZM238 92Q232 92 232 98V102Q232 108 238 108H272V92Z"/>
+<rect x="274" y="86" width="12" height="28" rx="5" fill="#F5D785"/>
+<path d="M256 402V452" fill="none" stroke="#B58230" stroke-width="12" stroke-linecap="round"/>
+<path d="M256 444C245 458 226 466 226 478C226 499 286 499 286 478C286 466 267 458 256 444Z" fill="#E1B34F"/>
+<path d="M256 457C247 466 237 472 237 478C237 487 275 487 275 478C275 472 265 466 256 457Z" fill="#348B75"/>
+</svg>

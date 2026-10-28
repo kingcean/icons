@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="fileClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM180 188H512V476H280V452H180Z"/>
+</clipPath>
+<clipPath id="cardClip">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM272 462L294 374L432 236Q456 212 480 236L496 252Q520 276 496 300L358 438Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#fileClip)">
+<path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+</g>
+<g clip-path="url(#cardClip)">
+<rect x="196" y="204" width="292" height="232" rx="24"/>
+<circle cx="244" cy="252" r="24"/>
+<path d="M244 242V242M244 254V266M292 252H428M228 320H412"/>
+<rect x="228" y="372" width="112" height="40" rx="12"/>
+</g>
+<path d="M292 440L308 384L444 248Q456 236 468 248L484 264Q496 276 484 288L348 424Z"/>
+<path d="M308 384L348 424M428 264L468 304"/>
+</svg>

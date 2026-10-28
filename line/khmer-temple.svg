@@ -1,0 +1,28 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="tower">
+<path d="M40 0V12M16 96C8 78 22 56 26 40Q30 22 40 16Q50 22 54 40C58 56 72 78 64 96Z"/>
+<path d="M40 32V84M24 64H56M20 84H60"/>
+<path d="M12 108H68L72 136H8ZM8 148H72L76 176H4Z"/>
+<path d="M8 188H72V228H8ZM28 228V208Q28 200 40 196Q52 200 52 208V228"/>
+</g>
+</defs>
+<g>
+<use href="#tower" transform="translate(128 128) scale(.9)"/>
+<use href="#tower" transform="translate(312 128) scale(.9)"/>
+<use href="#tower" transform="translate(216 20) scale(1 1.4)"/>
+</g>
+<g>
+<rect x="140" y="352" width="232" height="66" rx="4"/>
+<path d="M148 366H364M164 382H188V406H164ZM324 382H348V406H324ZM228 418V388Q228 372 256 372Q284 372 284 388V418"/>
+</g>
+<g>
+<use href="#tower" x="48" y="202"/>
+<use href="#tower" x="384" y="202"/>
+</g>
+<g>
+<path d="M216 430H64Q60 430 60 434V448H216M296 430H448Q452 430 452 434V448H296M216 460H36Q32 460 32 464V478H216M296 460H476Q480 460 480 464V478H296M216 490H24V502H488V490H296"/>
+<path d="M232 418L216 502M280 418L296 502M230 430H282M228 448H284M224 466H288M220 484H292"/>
+</g>
+</svg>

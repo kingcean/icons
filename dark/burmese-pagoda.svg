@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="stupa">
+<rect x="-4" y="0" width="8" height="30" rx="4" fill="#E3B462"/>
+<path d="M-10 24H10L6 40H-6Z" fill="#F5CF74"/>
+<path d="M-24 88Q-12 74-12 60Q-12 46 0 40Q12 46 12 60Q12 74 24 88Z" fill="#FFE094"/>
+<path d="M0 40Q12 46 12 60Q12 74 24 88H8Q0 72 2 60Q4 48 0 40Z" fill="#DEAD55"/>
+<rect x="-28" y="88" width="56" height="20" rx="4" fill="#D39C5B"/>
+<path d="M-24 88H24V96H-24Z" fill="#FFE6AB"/>
+</g>
+</defs>
+<g>
+<rect x="251" y="12" width="10" height="94" rx="5" fill="#E7BC6B"/>
+<path d="M236 44Q256 28 276 44ZM230 68Q256 52 282 68ZM224 88Q256 74 288 88Z" fill="#F6D17D"/>
+<path d="M226 190Q242 142 250 108Q256 96 262 108Q270 142 286 190Z" fill="#F9D175"/>
+<path d="M256 104Q270 142 286 190H270Q260 148 256 104Z" fill="#DAAA50"/>
+<path d="M240 148H272V156H240ZM232 172H280V180H232Z" fill="#FFE8AF"/>
+</g>
+<g>
+<path d="M132 360Q168 338 176 292C184 248 214 222 226 190H286C298 222 328 248 336 292Q344 338 380 360Z" fill="#F5CC6B"/>
+<path d="M256 190H286C298 222 328 248 336 292Q344 338 380 360H324Q299 326 296 288C293 248 271 217 256 190Z" fill="#DEAE50"/>
+<path d="M226 198H244C223 236 205 258 200 296Q196 326 176 344H158Q183 320 187 290C193 249 215 222 226 198Z" fill="#FFE9B1"/>
+<path d="M209 224L204 234H308L303 224ZM190 264L186 274H326L322 264ZM176 304L174 314H338L336 304ZM156 342L146 352H366L356 342Z" fill="#C9944C"/>
+</g>
+<g>
+<rect x="124" y="360" width="264" height="30" rx="5" fill="#E0B05D"/>
+<rect x="108" y="390" width="296" height="32" rx="5" fill="#D49D57"/>
+<rect x="96" y="422" width="320" height="40" rx="5" fill="#C18B55"/>
+<path d="M124 360H388V370H124ZM108 390H404V400H108ZM96 422H416V432H96Z" fill="#FFE1A0"/>
+<rect x="24" y="478" width="464" height="24" rx="5" fill="#BD8D5C"/>
+<path d="M28 478H484V486H28Z" fill="#F0CF94"/>
+</g>
+<g>
+<use href="#stupa" transform="translate(92 278) scale(.8)"/>
+<use href="#stupa" transform="translate(420 278) scale(.8)"/>
+<use href="#stupa" x="52" y="350"/>
+<use href="#stupa" x="460" y="350"/>
+</g>
+</svg>

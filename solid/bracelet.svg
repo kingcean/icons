@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="link" fill-rule="evenodd" d="M46 0A46 22 0 1 1-46 0A46 22 0 1 1 46 0ZM30 0A30 10 0 1 1-30 0A30 10 0 1 1 30 0Z"/>
+</defs>
+<use href="#link" transform="translate(360 119) rotate(24)"/>
+<use href="#link" transform="translate(436 172) rotate(50)"/>
+<use href="#link" transform="translate(464 244) rotate(90)"/>
+<use href="#link" transform="translate(436 316) rotate(130)"/>
+<use href="#link" transform="translate(360 369) rotate(156)"/>
+<use href="#link" transform="translate(256 388)"/>
+<use href="#link" transform="translate(152 369) rotate(24)"/>
+<use href="#link" transform="translate(76 316) rotate(50)"/>
+<use href="#link" transform="translate(48 244) rotate(90)"/>
+<use href="#link" transform="translate(76 172) rotate(130)"/>
+<use href="#link" transform="translate(152 119) rotate(156)"/>
+<path fill-rule="evenodd" d="M234 80H278Q294 80 294 96V104Q294 120 278 120H234Q218 120 218 104V96Q218 80 234 80ZM238 92Q232 92 232 98V102Q232 108 238 108H272V92Z"/>
+<path fill-rule="evenodd" d="M252 422H260Q268 422 268 430V432Q268 440 260 440H252Q244 440 244 432V430Q244 422 252 422ZM252 428V434H260V428Z"/>
+<path d="M256 450C247 462 230 468 230 478C230 492 282 492 282 478C282 468 265 462 256 450Z"/>
+</svg>

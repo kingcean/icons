@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="octadecagonLight" x1="128" y1="96" x2="384" y2="484.476" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#6366F1" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M215.714 27.524H296.286L372 55.082L433.722 106.873L474.009 176.651L488 256L474.009 335.349L433.722 405.127L372 456.918L296.286 484.476H215.714L140 456.918L78.278 405.127L37.991 335.349L24 256L37.991 176.651L78.278 106.873L140 55.082Z" fill="url(#octadecagonLight)" stroke="#D97706" stroke-width="16" stroke-linejoin="round"/>
+</svg>

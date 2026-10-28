@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="gem" d="M96 204Q104 196 112 204L156 248Q164 256 156 264L112 308Q104 316 96 308L52 264Q44 256 52 248Z"/>
+<path id="sparkle" d="M0-18Q4-4 18 0Q4 4 0 18Q-4 4-18 0Q-4-4 0-18Z"/>
+</defs>
+<circle cx="104" cy="92" r="52"/>
+<path d="M233 40H279Q285 40 288 46L313 86Q317 92 313 98L288 138Q285 144 279 144H233Q227 144 224 138L199 98Q195 92 199 86L224 46Q227 40 233 40Z"/>
+<rect x="356" y="40" width="104" height="104" rx="22"/>
+<path fill-rule="evenodd" d="M52 180H460Q488 180 488 208V304Q488 332 460 332H52Q24 332 24 304V208Q24 180 52 180Z M52 192Q36 192 36 208V304Q36 320 52 320H460Q476 320 476 304V208Q476 192 460 192Z"/>
+<use href="#gem"/>
+<use href="#gem" transform="translate(152 0)"/>
+<use href="#gem" transform="translate(304 0)"/>
+<rect x="52" y="364" width="104" height="104" rx="22"/>
+<circle cx="256" cy="416" r="52"/>
+<path d="M385 364H431Q437 364 440 370L465 410Q469 416 465 422L440 462Q437 468 431 468H385Q379 468 376 462L351 422Q347 416 351 410L376 370Q379 364 385 364Z"/>
+<use href="#sparkle" transform="translate(180 158)"/>
+<use href="#sparkle" transform="translate(332 354)"/>
+</svg>

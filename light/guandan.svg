@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="fan">
+<path d="M32 70L42 66L62 166L50 170Q40 174 36 162L24 86Q20 74 32 70Z" fill="#CF8B2D"/>
+<path d="M54 40L128 24Q140 21 144 34H86Q60 34 60 60V158L44 58Q41 43 54 40Z" fill="#F4C565"/>
+<rect x="72" y="46" width="88" height="142" rx="14"/>
+<path d="M116 96L136 120L116 144L96 120Z" fill="#F5F0FF"/>
+</g>
+</defs>
+<use href="#fan" fill="#397CC4"/>
+<use href="#fan" transform="translate(512 0) scale(-1 1)" fill="#8053BD"/>
+<use href="#fan" transform="translate(0 512) scale(1 -1)" fill="#8053BD"/>
+<use href="#fan" transform="translate(512 512) scale(-1 -1)" fill="#397CC4"/>
+<rect x="174" y="180" width="76" height="152" rx="14" fill="#FADCE3"/>
+<rect x="262" y="180" width="76" height="152" rx="14" fill="#F6B8C8"/>
+<path d="M212 278C200 268 184 257 184 244C184 228 203 224 212 237C221 224 240 228 240 244C240 257 224 268 212 278Z" fill="#CA3156"/>
+<path d="M300 278C288 268 272 257 272 244C272 228 291 224 300 237C309 224 328 228 328 244C328 257 312 268 300 278Z" fill="#A92349"/>
+</svg>

@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="40" y="64" width="368" height="316" rx="36" fill="#BDD8EC"/>
+<path d="M372 64Q408 64 408 100V344Q408 380 372 380H348Q384 380 384 344V100Q384 64 348 64Z" fill="#8DB5D2"/>
+<rect x="72" y="108" width="304" height="220" rx="24" fill="#244F72"/>
+<rect x="92" y="140" width="260" height="144" rx="28" fill="#C7E7EC"/>
+<rect x="112" y="164" width="196" height="68" rx="8" fill="#354C58"/>
+<path d="M324 140Q352 140 352 168V256Q352 284 324 284Z" fill="#8DB5D2"/>
+<ellipse cx="152" cy="198" rx="14" ry="22" transform="rotate(-25 152 198)" fill="#D99250"/>
+<ellipse cx="216" cy="198" rx="14" ry="22" transform="rotate(25 216 198)" fill="#F0B16D"/>
+<ellipse cx="280" cy="198" rx="14" ry="22" transform="rotate(-25 280 198)" fill="#C88A55"/>
+<path d="M148 187L156 209M220 187L212 209M276 187L284 209" fill="none" stroke="#794C32" stroke-width="6" stroke-linecap="round"/>
+<path d="M138 256A8 8 0 1 0 122 256A8 8 0 1 0 138 256ZM186 256A8 8 0 1 0 170 256A8 8 0 1 0 186 256ZM234 256A8 8 0 1 0 218 256A8 8 0 1 0 234 256ZM282 256A8 8 0 1 0 266 256A8 8 0 1 0 282 256Z" fill="#244F72"/>
+<rect x="424" y="176" width="64" height="204" rx="20" fill="#57B8AA"/>
+<path d="M444 176H468Q488 176 488 196V212H424V196Q424 176 444 176Z" fill="#369E92"/>
+<rect x="440" y="244" width="32" height="16" rx="8" fill="#D5F3E8"/>
+<rect x="440" y="276" width="32" height="16" rx="8" fill="#D5F3E8"/>
+<rect x="24" y="380" width="464" height="108" rx="28" fill="#78B7DE"/>
+<path d="M460 380Q488 380 488 408V460Q488 488 460 488H436Q464 488 464 460V408Q464 380 436 380Z" fill="#4C83A8"/>
+<circle cx="176" cy="434" r="28" fill="#FFD18A"/>
+<path d="M176 434L188 422" fill="none" stroke="#794C32" stroke-width="12" stroke-linecap="round"/>
+<rect x="248" y="410" width="136" height="48" rx="12" fill="#244F72"/>
+<rect x="268" y="426" width="52" height="16" rx="8" fill="#B5F5E6"/>
+<circle cx="346" cy="434" r="8" fill="#FFD18A"/>
+</svg>

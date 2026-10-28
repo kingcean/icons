@@ -1,0 +1,54 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="figure">
+<circle cx="12" cy="9" r="4"/>
+<path d="M6 24V21Q6 16 12 16Q18 16 18 21V24Z"/>
+</g>
+</defs>
+<g>
+<path d="M202 18Q202 12 208 12Q214 12 214 18V26H202ZM234 18Q234 12 240 12Q246 12 246 18V26H234ZM266 18Q266 12 272 12Q278 12 278 18V26H266ZM298 18Q298 12 304 12Q310 12 310 18V26H298Z"/>
+<path fill-rule="evenodd" d="M180 78V62Q180 38 204 38H308Q332 38 332 62V78ZM218 50V70H226V50ZM252 50V70H260V50ZM286 50V70H294V50Z"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M172 126L182 94Q184 90 190 90H322Q328 90 330 94L340 126ZM200 122H224V106A12 12 0 0 0 200 106ZM244 122H268V106A12 12 0 0 0 244 106ZM288 122H312V106A12 12 0 0 0 288 106Z"/>
+<path fill-rule="evenodd" d="M156 174L166 142Q168 138 174 138H338Q344 138 346 142L356 174ZM184 170H208V154A12 12 0 0 0 184 154ZM244 170H268V154A12 12 0 0 0 244 154ZM304 170H328V154A12 12 0 0 0 304 154Z"/>
+<path fill-rule="evenodd" d="M140 222L150 190Q152 186 158 186H354Q360 186 362 190L372 222ZM168 218H192V202A12 12 0 0 0 168 202ZM244 218H268V202A12 12 0 0 0 244 202ZM320 218H344V202A12 12 0 0 0 320 202Z"/>
+<path fill-rule="evenodd" d="M124 270L134 238Q136 234 142 234H370Q376 234 378 238L388 270ZM152 266H176V250A12 12 0 0 0 152 250ZM198 266H222V250A12 12 0 0 0 198 250ZM244 266H268V250A12 12 0 0 0 244 250ZM290 266H314V250A12 12 0 0 0 290 250ZM336 266H360V250A12 12 0 0 0 336 250Z"/>
+<path fill-rule="evenodd" d="M108 318L118 286Q120 282 126 282H386Q392 282 394 286L404 318ZM136 314H160V298A12 12 0 0 0 136 298ZM190 314H214V298A12 12 0 0 0 190 298ZM244 314H268V298A12 12 0 0 0 244 298ZM298 314H322V298A12 12 0 0 0 298 298ZM352 314H376V298A12 12 0 0 0 352 298Z"/>
+<path fill-rule="evenodd" d="M92 366L102 334Q104 330 110 330H402Q408 330 410 334L420 366ZM120 362H144V346A12 12 0 0 0 120 346ZM182 362H206V346A12 12 0 0 0 182 346ZM244 362H268V346A12 12 0 0 0 244 346ZM306 362H330V346A12 12 0 0 0 306 346ZM368 362H392V346A12 12 0 0 0 368 346Z"/>
+<use href="#figure" x="200" y="94"/>
+<use href="#figure" x="244" y="94"/>
+<use href="#figure" x="288" y="94"/>
+<use href="#figure" x="184" y="142"/>
+<use href="#figure" x="244" y="142"/>
+<use href="#figure" x="304" y="142"/>
+<use href="#figure" x="168" y="190"/>
+<use href="#figure" x="244" y="190"/>
+<use href="#figure" x="320" y="190"/>
+<use href="#figure" x="152" y="238"/>
+<use href="#figure" x="198" y="238"/>
+<use href="#figure" x="244" y="238"/>
+<use href="#figure" x="290" y="238"/>
+<use href="#figure" x="336" y="238"/>
+<use href="#figure" x="136" y="286"/>
+<use href="#figure" x="190" y="286"/>
+<use href="#figure" x="244" y="286"/>
+<use href="#figure" x="298" y="286"/>
+<use href="#figure" x="352" y="286"/>
+<use href="#figure" x="120" y="334"/>
+<use href="#figure" x="182" y="334"/>
+<use href="#figure" x="244" y="334"/>
+<use href="#figure" x="306" y="334"/>
+<use href="#figure" x="368" y="334"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M114 378H398Q404 378 404 384V472H298V426A42 42 0 0 0 214 426V472H108V384Q108 378 114 378ZM132 400V454H188V400ZM324 400V454H380V400Z"/>
+<path d="M230 472V428A26 26 0 0 1 282 428V472H270V428A14 14 0 0 0 242 428V472Z"/>
+<rect x="24" y="410" width="72" height="12" rx="4"/>
+<rect x="416" y="410" width="72" height="12" rx="4"/>
+<rect x="28" y="434" width="68" height="38" rx="4"/>
+<rect x="416" y="434" width="68" height="38" rx="4"/>
+</g>
+<rect x="24" y="484" width="464" height="16" rx="5"/>
+</svg>

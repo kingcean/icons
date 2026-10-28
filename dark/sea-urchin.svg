@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="spine" d="M249 166L253 29Q256 23 259 29L263 166Z"/>
+<g id="rays">
+<use href="#spine" fill="#997DB0"/>
+<use href="#spine" transform="rotate(15 256 256)" fill="#C0A0D3"/>
+<use href="#spine" transform="rotate(30 256 256)" fill="#997DB0"/>
+<use href="#spine" transform="rotate(45 256 256)" fill="#C0A0D3"/>
+<use href="#spine" transform="rotate(60 256 256)" fill="#997DB0"/>
+<use href="#spine" transform="rotate(75 256 256)" fill="#C0A0D3"/>
+</g>
+</defs>
+<path d="M214 346C200 388 214 416 194 434M270 350C284 394 270 416 282 442M304 338C328 372 316 404 336 416" fill="none" stroke="#E2BDDD" stroke-width="8" stroke-linecap="round"/>
+<use href="#rays"/>
+<use href="#rays" transform="rotate(90 256 256)"/>
+<use href="#rays" transform="rotate(180 256 256)"/>
+<use href="#rays" transform="rotate(270 256 256)"/>
+<circle cx="256" cy="256" r="100" fill="#715382"/>
+<path d="M163 220C187 163 249 146 299 169C252 160 206 184 186 227C166 270 177 311 199 339C158 311 146 263 163 220Z" fill="#A783BA"/>
+</svg>

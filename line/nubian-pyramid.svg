@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<clipPath id="pyramid">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM140 340V512H324V340Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#pyramid)">
+<path d="M256 24L124 424L306 468L388 424Z"/>
+<path d="M256 24L306 468"/>
+</g>
+<g>
+<path d="M164 352H212L220 480H152ZM252 352H300L312 480H244Z"/>
+<path d="M164 372H212M252 372H300M156 460H216M248 460H308"/>
+<rect x="224" y="392" width="16" height="20" rx="3"/>
+</g>
+<rect x="144" y="492" width="176" height="12" rx="4"/>
+</svg>

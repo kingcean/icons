@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="rotate(18 378 116)">
+<rect x="290" y="44" width="176" height="72" rx="20"/>
+<rect x="360" y="124" width="36" height="104" rx="12"/>
+</g>
+<path d="M180 334V256C150 256 150 210 179 210C185 174 216 152 256 152C296 152 327 174 333 210C362 210 362 256 332 256V334Q256 358 180 334Z"/>
+<circle cx="228" cy="242" r="7"/>
+<circle cx="284" cy="242" r="7"/>
+<path d="M244 268Q256 258 268 268Q270 276 256 282Q242 276 244 268Z M228 296Q256 320 284 296" stroke-linecap="round"/>
+<path d="M172 318C134 330 138 364 176 380C218 398 294 398 336 380C374 364 378 330 340 318M172 354Q256 382 340 354" stroke-linecap="round"/>
+<ellipse cx="100" cy="420" rx="76" ry="32"/>
+<ellipse cx="412" cy="420" rx="76" ry="32"/>
+</svg>

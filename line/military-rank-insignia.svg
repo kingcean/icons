@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="rankLine">
+<path d="M124 60Q134 52 144 60L234 122Q244 129 244 142V436Q244 456 224 456H44Q24 456 24 436V142Q24 129 34 122Z"/>
+<path d="M134 164Q138 164 140 174L150 190L170 200Q180 206 170 212L150 222L140 238Q134 248 128 238L118 222L98 212Q88 206 98 200L118 190L128 174Q130 164 134 164Z"/>
+<rect x="84" y="284" width="100" height="20" rx="6"/>
+<rect x="84" y="330" width="100" height="20" rx="6"/>
+</g>
+</defs>
+<use href="#rankLine"/>
+<use href="#rankLine" transform="translate(244 0)"/>
+</svg>

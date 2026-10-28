@@ -1,0 +1,40 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="chhatri">
+<rect x="35" y="0" width="10" height="26" rx="5" fill="#B5802B"/>
+<path d="M4 72C-4 52 12 34 28 26Q38 20 40 16Q42 20 52 26C68 34 84 52 76 72Z" fill="#C77F50"/>
+<path d="M40 16Q42 20 52 26C68 34 84 52 76 72H58C64 50 54 30 40 16Z" fill="#A96040"/>
+<rect x="12" y="72" width="56" height="44" rx="4" fill="#E6B77F"/>
+<path d="M24 84H34V108H24ZM46 84H56V108H46Z" fill="#577E83"/>
+<rect x="4" y="72" width="72" height="10" rx="3" fill="#AD6B43"/>
+</g>
+<g id="balcony">
+<path d="M0 0H88V76L64 100H24L0 76Z" fill="#D79760"/>
+<rect x="12" y="12" width="64" height="56" rx="4" fill="#F1C68B"/>
+<path d="M16 16H38V34H16ZM50 16H72V34H50ZM16 46H38V64H16ZM50 46H72V64H50Z" fill="#496F77"/>
+<path d="M0 76H88L78 86H10Z" fill="#AD6845"/>
+<rect x="-4" y="-12" width="96" height="12" rx="4" fill="#BA754A"/>
+</g>
+</defs>
+<g>
+<use href="#chhatri" x="88" y="68"/>
+<use href="#chhatri" x="216" y="44"/>
+<use href="#chhatri" x="344" y="68"/>
+</g>
+<g>
+<rect x="48" y="184" width="416" height="294" rx="8" fill="#E4B27B"/>
+<path d="M48 184H464V204H48ZM48 442H464V478H48Z" fill="#BC794E"/>
+<path d="M48 204H68V442H48ZM444 204H464V442H444Z" fill="#D39A64"/>
+<path d="M216 478V414Q216 390 256 370Q296 390 296 414V478Z" fill="#F2CB92"/>
+<path d="M232 478V416Q232 402 256 388Q280 402 280 416V478Z" fill="#624636"/>
+<path d="M244 478V420Q244 410 256 400V478Z" fill="#8E6447"/>
+<rect x="108" y="388" width="32" height="34" rx="4" fill="#577E83"/>
+<rect x="372" y="388" width="32" height="34" rx="4" fill="#577E83"/>
+</g>
+<g>
+<use href="#balcony" x="80" y="252"/>
+<use href="#balcony" x="212" y="208"/>
+<use href="#balcony" x="344" y="252"/>
+</g>
+<rect x="24" y="478" width="464" height="20" rx="5" fill="#A96644"/>
+</svg>

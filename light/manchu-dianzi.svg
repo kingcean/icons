@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="flower" d="M0-34C18-46 36-28 26-12C48-8 48 16 26 20C30 42 6 50-4 30C-22 46-42 28-30 12C-50 0-38-22-18-18C-22-34-8-42 0-34Z"/>
+</defs>
+<path fill="#35313F" fill-rule="evenodd" d="M24 366V278C24 146 120 58 256 58C392 58 488 146 488 278V366Q256 314 24 366ZM42 344Q256 300 470 344V278C470 158 382 76 256 76C130 76 42 158 42 278Z"/>
+<path d="M230 78C168 122 152 182 152 346M282 78C344 122 360 182 360 346M256 76V336M38 252Q256 164 474 252M38 310Q256 258 474 310" fill="none" stroke="#575160" stroke-width="14" stroke-linecap="round"/>
+<path d="M40 364Q256 314 472 364L462 430Q256 382 50 430Z" fill="#39303E"/>
+<path d="M48 373Q256 326 464 373M54 419Q256 373 458 419" fill="none" stroke="#B38B48" stroke-width="9" stroke-linecap="round"/>
+<use href="#flower" transform="translate(256 220)" fill="#D67491"/>
+<use href="#flower" transform="translate(130 292) scale(.75)" fill="#C9A15B"/>
+<use href="#flower" transform="translate(382 292) scale(.75)" fill="#C9A15B"/>
+<circle cx="256" cy="220" r="13" fill="#42A9B6"/>
+<circle cx="130" cy="292" r="10" fill="#C85A76"/>
+<circle cx="382" cy="292" r="10" fill="#C85A76"/>
+<path d="M256 88L274 112L256 136L238 112ZM100 184L114 202L100 220L86 202ZM412 184L426 202L412 220L398 202Z" fill="#3BA5BC"/>
+<g fill="#F1DFC0">
+<circle cx="104" cy="396" r="11"/>
+<circle cx="180" cy="384" r="11"/>
+<circle cx="256" cy="380" r="11"/>
+<circle cx="332" cy="384" r="11"/>
+<circle cx="408" cy="396" r="11"/>
+</g>
+</svg>

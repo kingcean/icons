@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="spine" d="M256 146V26" stroke-linecap="round"/>
+<g id="rays">
+<use href="#spine"/>
+<use href="#spine" transform="rotate(15 256 256)"/>
+<use href="#spine" transform="rotate(30 256 256)"/>
+<use href="#spine" transform="rotate(45 256 256)"/>
+<use href="#spine" transform="rotate(60 256 256)"/>
+<use href="#spine" transform="rotate(75 256 256)"/>
+</g>
+</defs>
+<use href="#rays"/>
+<use href="#rays" transform="rotate(90 256 256)"/>
+<use href="#rays" transform="rotate(180 256 256)"/>
+<use href="#rays" transform="rotate(270 256 256)"/>
+<circle cx="256" cy="256" r="100"/>
+<path d="M214 360C200 388 214 416 194 434M270 368C284 394 270 416 282 442M312 352C328 372 316 404 336 416" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,27 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<rect id="cell" width="104" height="104" rx="12"/>
+<path id="open-cell" fill-rule="evenodd" d="M12 0H92Q104 0 104 12V92Q104 104 92 104H12Q0 104 0 92V12Q0 0 12 0Z M18 12Q12 12 12 18V86Q12 92 18 92H86Q92 92 92 86V18Q92 12 86 12Z"/>
+</defs>
+<use href="#cell" x="24" y="24"/>
+<use href="#cell" x="144" y="24"/>
+<use href="#cell" x="264" y="24"/>
+<use href="#cell" x="384" y="24"/>
+<use href="#cell" x="24" y="144"/>
+<use href="#cell" x="144" y="144"/>
+<use href="#open-cell" transform="translate(264 144)"/>
+<use href="#cell" x="384" y="144"/>
+<use href="#cell" x="24" y="264"/>
+<use href="#cell" x="144" y="264"/>
+<use href="#cell" x="264" y="264"/>
+<use href="#cell" x="384" y="264"/>
+<use href="#open-cell" transform="translate(24 384)"/>
+<use href="#open-cell" transform="translate(144 384)"/>
+<use href="#cell" x="264" y="384"/>
+<use href="#open-cell" transform="translate(384 384)"/>
+<path d="M296 168Q296 164 300 164Q302 164 305 165L341 180Q348 184 341 188L306 202V220H320Q325 220 325 225Q325 230 320 230H290Q285 230 285 225Q285 220 290 220H296Z"/>
+<path d="M73 409H82V452H92V462H61V452H71V423L63 429L57 421Z M177 418C177 393 216 393 216 417C216 431 198 439 190 451H217V462H176V454C182 436 205 427 205 418C205 407 188 407 188 418Z"/>
+<circle cx="436" cy="436" r="22"/>
+<path d="M431 403Q431 398 436 398Q441 398 441 403V417H431Z M431 455H441V469Q441 474 436 474Q431 474 431 469Z M403 431H417V441H403Q398 441 398 436Q398 431 403 431Z M455 431H469Q474 431 474 436Q474 441 469 441H455Z M409 402L423 416L416 423L402 409Q398 405 402 402Q405 398 409 402Z M456 449L470 463Q474 467 470 470Q467 474 463 470L449 456Z M402 463L416 449L423 456L409 470Q405 474 402 470Q398 467 402 463Z M449 416L463 402Q467 398 470 402Q474 405 470 409L456 423Z"/>
+</svg>
