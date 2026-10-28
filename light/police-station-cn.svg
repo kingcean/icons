@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="248" y="24" width="16" height="148" rx="8" fill="#536578"/>
+<path d="M264 40C306 18 346 62 388 40V120C346 142 306 98 264 120Z" fill="#E53935"/>
+<rect x="56" y="178" width="400" height="310" rx="20" fill="#FFFFFF" stroke="#8C9BAD" stroke-width="12"/>
+<rect x="24" y="190" width="464" height="76" rx="12" fill="#003399"/>
+<path d="M256 206L274 212V228Q274 238 256 250Q238 238 238 228V212Z" fill="#FFFFFF"/>
+<path d="M82 220H198Q206 220 206 228Q206 236 198 236H82Q74 236 74 228Q74 220 82 220ZM314 220H430Q438 220 438 228Q438 236 430 236H314Q306 236 306 228Q306 220 314 220Z" fill="#FFFFFF"/>
+<rect x="100" y="310" width="72" height="92" rx="8" fill="#90C9E8" stroke="#536578" stroke-width="12"/>
+<rect x="340" y="310" width="72" height="92" rx="8" fill="#90C9E8" stroke="#536578" stroke-width="12"/>
+<path d="M100 356H172M340 356H412" stroke="#536578" stroke-width="12"/>
+<path d="M208 488V352Q208 340 220 340H292Q304 340 304 352V488Z" fill="#527FAA"/>
+<path d="M220 352H250V476H220ZM262 352H292V476H262Z" fill="#B7DDF1"/>
+<path d="M240 414V438M272 414V438" stroke="#003399" stroke-width="8" stroke-linecap="round"/>
+</svg>
