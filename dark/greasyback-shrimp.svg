@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M135 195C105 125 62 86 24 75M145 188C127 109 161 53 217 29M129 224C83 191 52 187 25 202" fill="none" stroke="#CBB99E" stroke-width="8" stroke-linecap="round"/>
+<path d="M168 287L151 327L108 350M192 290L186 339L147 374M218 289L223 338L194 382M247 293L260 335L242 375M297 296L308 328L288 358M332 320L344 349L329 375" fill="none" stroke="#D7BB97" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M127 202L95 178Q91 173 98 174L125 180L126 168L143 178L148 164L162 175L172 162L184 174C205 170 228 180 244 197C260 214 260 244 246 268Q213 290 171 277C153 268 140 250 137 233Z" fill="#C8BDA7"/>
+<path d="M184 174C205 170 228 180 244 197C250 205 254 214 255 225Q211 194 169 205L127 202L95 178L125 180L126 168L143 178L148 164L162 175L172 162Z" fill="#A09983"/>
+<circle cx="139" cy="216" r="11" fill="#343D39"/>
+<path d="M169 204Q192 213 200 235L187 259" fill="none" stroke="#F5ECD2" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M258 201Q283 211 301 230L288 286Q274 284 258 275Q273 240 258 201Z" fill="#D3CCB1"/>
+<path d="M311 241Q331 261 339 286L314 312L300 291Z" fill="#BEBBA3"/>
+<path d="M344 298Q357 322 356 344L331 350L319 322Z" fill="#DDD0B5"/>
+<path d="M356 356Q354 378 341 392L319 380L329 362Z" fill="#B6B59D"/>
+<path d="M343 405C363 393 397 399 421 423Q427 431 417 435L367 453L341 415Z" fill="#BDA78C"/>
+<path d="M310 397C284 391 258 404 240 430Q235 439 244 442L284 455L285 419Z" fill="#D3C2A3"/>
+<path d="M330 401L353 440Q358 449 350 454L308 481Q298 487 296 475L296 425L318 401Z" fill="#E4D0AE"/>
+<path d="M277 221L271 263M320 261L311 285M344 318L334 332M320 425L319 457M364 418L390 429M281 414L261 432" fill="none" stroke="#FFF0D2" stroke-width="7" stroke-linecap="round"/>
+<g fill="#716B59">
+<circle cx="213" cy="199" r="4"/>
+<circle cx="230" cy="218" r="4"/>
+<circle cx="218" cy="249" r="4"/>
+<circle cx="179" cy="266" r="4"/>
+<circle cx="280" cy="238" r="4"/>
+<circle cx="277" cy="271" r="4"/>
+<circle cx="324" cy="288" r="4"/>
+<circle cx="343" cy="337" r="4"/>
+<circle cx="340" cy="372" r="4"/>
+</g>
+</svg>

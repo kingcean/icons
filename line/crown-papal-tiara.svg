@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="crown">
+<path d="M-130 0V-18Q-130-26-122-20L-110-4L-82 3L-77-13Q-73-21-67-13L-59 8L-18 12L-7-9Q0-22 7-9L18 12L59 8L67-13Q73-21 77-13L82 3L110-4L122-20Q130-26 130-18V22Q0 62-130 22Z"/>
+<circle cx="-90" cy="17" r="6"/>
+<circle cx="-45" cy="27" r="6"/>
+<path d="M0 19L10 30L0 41L-10 30Z"/>
+<circle cx="45" cy="27" r="6"/>
+<circle cx="90" cy="17" r="6"/>
+</g>
+</defs>
+<path d="M127 391L76 468Q69 479 81 482L112 488Q120 489 124 480L160 398M352 399L386 480Q390 489 399 487L431 479Q441 476 435 466L389 386"/>
+<path d="M104 432L99 460M89 442L112 447M404 432L410 460M395 448L418 442"/>
+<path d="M175 181C193 132 218 106 256 106C293 106 319 129 339 170M160 242L145 256M354 229L364 244M132 324L122 335M383 307L391 317"/>
+<use href="#crown" transform="translate(256 202) skewY(-4) scale(.72)"/>
+<use href="#crown" transform="translate(256 278) skewY(-4) scale(.92)"/>
+<use href="#crown" transform="translate(256 354) skewY(-4) scale(1.13)"/>
+<path d="M248 24H264V36H277V50H264V60H248V50H235V36H248Z"/>
+<circle cx="256" cy="82" r="16"/>
+</svg>

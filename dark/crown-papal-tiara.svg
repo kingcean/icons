@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="crown">
+<path d="M-130 0V-18Q-130-26-122-20L-110-4L-82 3L-77-13Q-73-21-67-13L-59 8L-18 12L-7-9Q0-22 7-9L18 12L59 8L67-13Q73-21 77-13L82 3L110-4L122-20Q130-26 130-18V22Q0 62-130 22Z" fill="#EBC164"/>
+<path d="M-124 20Q0 57 124 20" fill="none" stroke="#FFE4A0" stroke-width="7" stroke-linecap="round"/>
+<circle cx="-90" cy="17" r="7" fill="#249E8D"/>
+<circle cx="-45" cy="27" r="7" fill="#D44E70"/>
+<path d="M0 18L11 30L0 42L-11 30Z" fill="#3C92D0"/>
+<circle cx="45" cy="27" r="7" fill="#D44E70"/>
+<circle cx="90" cy="17" r="7" fill="#249E8D"/>
+</g>
+</defs>
+<path d="M137 364L76 468Q69 479 81 482L112 488Q120 489 124 480L168 373Z" fill="#FFFBF0" stroke="#BCC8D8" stroke-width="6" stroke-linejoin="round"/>
+<path d="M344 373L386 480Q390 489 399 487L431 479Q441 476 435 466L377 363Z" fill="#E6EDF6" stroke="#BCC8D8" stroke-width="6" stroke-linejoin="round"/>
+<path d="M104 432L99 460M89 442L112 447M404 432L410 460M395 448L418 442" fill="none" stroke="#C8993D" stroke-width="8" stroke-linecap="round"/>
+<path d="M109 365C128 277 158 183 184 143C203 118 226 106 256 106C290 106 315 130 337 172C364 224 388 291 403 354Q410 381 391 389Q255 432 119 393Q103 388 109 365Z" fill="#F5F7FC" stroke="#BCC8D8" stroke-width="6" stroke-linejoin="round"/>
+<path d="M256 106C291 120 309 165 325 219C343 275 355 335 360 399L391 389Q410 381 403 354C388 291 364 224 337 172C315 130 290 106 256 106Z" fill="#D3DDEA"/>
+<use href="#crown" transform="translate(256 202) skewY(-4) scale(.72)"/>
+<use href="#crown" transform="translate(256 278) skewY(-4) scale(.92)"/>
+<use href="#crown" transform="translate(256 354) skewY(-4) scale(1.13)"/>
+<path d="M248 24H264V36H277V50H264V60H248V50H235V36H248Z" fill="#F3CE77"/>
+<circle cx="256" cy="82" r="16" fill="#EBC164"/>
+<path d="M249 76Q252 70 259 73" fill="none" stroke="#FFF0BB" stroke-width="5" stroke-linecap="round"/>
+</svg>

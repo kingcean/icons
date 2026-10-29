@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="lineIcon">
+<path d="M24 316L106 334Q256 351 408 322L488 302L476 346Q449 372 405 381Q251 409 122 373Q60 350 24 316ZM24 316L78 294L120 314Q256 332 386 306M66 340Q249 389 452 346M92 359Q252 402 428 370M60 304H146V320M76 286H134Q142 286 142 294V296H76ZM86 282V270H108V282"/>
+<path d="M154 80V178M154 306V320M302 24V156M302 294V322M48 90L234 280M66 124L212 280Q138 298 76 284ZM192 36L384 272M210 72L362 272Q286 294 222 282Z"/>
+<path d="M386 246L412 222H454L478 246Q482 252 476 256H390Q384 254 386 246ZM396 270H470V306L410 320L396 310ZM410 282V300M434 280V298M458 278V294M406 216L400 206M432 216V202M458 216L464 206M406 310L470 296"/>
+<path id="oars" d="M130 390L86 450L74 470Q71 476 77 478Q83 480 86 474L96 454"/>
+<use href="#oars" transform="translate(44 5)"/>
+<use href="#oars" transform="translate(88 8)"/>
+<use href="#oars" transform="translate(132 9)"/>
+<use href="#oars" transform="translate(176 8)"/>
+<use href="#oars" transform="translate(220 5)"/>
+<use href="#oars" transform="translate(264 0)"/>
+<use href="#oars" transform="translate(308 -9)"/>
+</g>
+</svg>
