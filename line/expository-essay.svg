@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g stroke-linecap="round">
+<rect x="88" y="24" width="336" height="464" rx="24"/>
+<rect x="128" y="72" width="224" height="24" rx="6"/>
+<path d="M128 124H384M128 152H304"/>
+<path d="M166 270C132 230 150 184 226 176C248 234 222 270 166 270Z"/>
+<path d="M156 280L216 192M177 250L172 224M193 226L217 224"/>
+<path d="M240 232L312 218"/>
+<circle cx="348" cy="210" r="32"/>
+<path d="M334 232L360 188M345 214L331 202M351 204L369 206"/>
+<path d="M128 296H216M316 262H380"/>
+<rect x="228" y="320" width="56" height="20" rx="6"/>
+<path d="M256 352V360M174 372V360H338V372"/>
+<rect x="144" y="384" width="60" height="20" rx="6"/>
+<rect x="308" y="384" width="60" height="20" rx="6"/>
+<path d="M128 432H384M128 460H316"/>
+</g>
+</svg>

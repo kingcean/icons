@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M112 24H400Q424 24 424 48V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24ZM120 48Q112 48 112 56V456Q112 464 120 464H392Q400 464 400 456V56Q400 48 392 48Z"/>
+<rect x="128" y="72" width="232" height="24" rx="6"/>
+<rect x="128" y="116" width="152" height="16" rx="8"/>
+<path fill-rule="evenodd" transform="rotate(-20 222 246)" d="M308 246A86 50 0 1 0 136 246A86 50 0 1 0 308 246ZM294 246A72 36 0 1 0 150 246A72 36 0 1 0 294 246Z"/>
+<path fill-rule="evenodd" d="M250 246A28 28 0 1 0 194 246A28 28 0 1 0 250 246ZM211 223Q205 222 203 228Q202 233 208 234Q220 236 213 245Q202 260 223 271Q229 274 232 268Q234 262 228 260Q217 255 222 250Q238 229 211 223Z"/>
+<path d="M249 212L312 188Q318 186 320 192Q322 198 316 200L253 224Q247 226 245 220Q243 214 249 212Z"/>
+<path fill-rule="evenodd" d="M384 180A34 34 0 1 0 316 180A34 34 0 1 0 384 180ZM372 180A22 22 0 1 0 328 180A22 22 0 1 0 372 180Z"/>
+<circle cx="350" cy="180" r="8"/>
+<rect x="128" y="328" width="256" height="16" rx="8"/>
+<rect x="128" y="356" width="216" height="16" rx="8"/>
+<rect x="128" y="400" width="256" height="16" rx="8"/>
+<rect x="128" y="428" width="172" height="16" rx="8"/>
+</svg>

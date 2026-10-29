@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M48 64H464Q488 64 488 88V360C474 398 440 432 400 448H48Q24 448 24 424V88Q24 64 48 64Z" fill="#F8FAFC" stroke="#CBD5E1" stroke-width="8" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="sky" x1="256" y1="88" x2="256" y2="424" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7DB7D3"/>
+<stop offset="0.65" stop-color="#E3EDE2"/>
+<stop offset="1" stop-color="#95BCB6"/>
+</linearGradient>
+<clipPath id="print">
+<path d="M48 88H464V336H416Q376 336 376 376V424H48Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#print)">
+<path d="M48 88H464V424H48Z" fill="url(#sky)"/>
+<circle cx="366" cy="160" r="28" fill="#FFF3CE"/>
+<path d="M48 318L150 194Q158 184 168 194L242 268L294 220Q302 212 310 220L464 328V424H48Z" fill="#659398"/>
+<path d="M130 220L158 188L192 218L169 212L158 204L147 218Z" fill="#EDF3E9"/>
+<path d="M48 348C128 294 174 353 242 322S378 288 464 346V424H48Z" fill="#477C5F"/>
+<path d="M48 376C152 329 192 393 270 353S402 336 464 368V424H48Z" fill="#8AB9B5"/>
+<path d="M88 376H164M208 398H316" fill="none" stroke="#E1F0E5" stroke-width="12" stroke-linecap="round"/>
+</g>
+<path d="M400 448V384Q400 360 424 360H488C474 398 440 432 400 448Z" fill="#CBD5E1" stroke="#94A3B8" stroke-width="8" stroke-linejoin="round"/>
+</svg>

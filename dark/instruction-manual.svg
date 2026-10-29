@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="assembly" x1="0" y1="208" x2="0" y2="344" gradientUnits="userSpaceOnUse">
+<stop stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#5EEAD4"/>
+</linearGradient>
+</defs>
+<path d="M48 48H224Q244 48 256 64Q268 48 288 48H464Q488 48 488 72V456Q488 480 464 480H288Q268 480 256 488Q244 480 224 480H48Q24 480 24 456V72Q24 48 48 48Z" fill="#263348" stroke="#94A3B8" stroke-width="8"/>
+<path d="M256 88V452" fill="none" stroke="#475569" stroke-width="12" stroke-linecap="round"/>
+<path d="M56 100H216M296 100H456" fill="none" stroke="#60A5FA" stroke-width="16" stroke-linecap="round"/>
+<circle cx="68" cy="166" r="20" fill="#60A5FA"/>
+<path d="M64 158L68 154V178" fill="none" stroke="#1E3A8A" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="68" cy="266" r="20" fill="#5EEAD4"/>
+<path d="M61 259Q61 252 68 252Q78 252 75 262L61 278H76" fill="none" stroke="#115E59" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M140 144H188Q194 144 196 150L212 192Q215 200 206 200H122Q113 200 116 192L132 150Q134 144 140 144ZM352 144H400Q406 144 408 150L424 192Q427 200 418 200H334Q325 200 328 192L344 150Q346 144 352 144Z" fill="#FFD16B"/>
+<path d="M157 214Q157 207 164 207Q171 207 171 214V220Q177 215 182 221Q187 226 181 232L169 244Q164 249 159 244L147 232Q141 226 146 221Q151 215 157 220ZM157 304Q157 297 164 297Q171 297 171 304V316Q177 311 182 317Q187 322 181 328L169 340Q164 345 159 340L147 328Q141 322 146 317Q151 311 157 316Z" fill="url(#assembly)"/>
+<rect x="152" y="256" width="24" height="32" rx="6" fill="#CBD5E1"/>
+<rect x="364" y="200" width="24" height="88" rx="6" fill="#CBD5E1"/>
+<path d="M140 352H188Q204 352 212 368Q216 376 208 376H120Q112 376 116 368Q124 352 140 352ZM352 280H400Q416 280 424 296Q428 304 420 304H332Q324 304 328 296Q336 280 352 280Z" fill="#5EEAD4"/>
+<path d="M56 416H216M56 444H180" fill="none" stroke="#CBD5E1" stroke-width="16" stroke-linecap="round"/>
+<rect x="296" y="340" width="160" height="100" rx="12" fill="#49371C"/>
+<path d="M338 360Q342 354 346 360L371 402Q375 410 367 410H317Q309 410 313 402Z" fill="#FBBF24"/>
+<path d="M342 376V389" fill="none" stroke="#713F12" stroke-width="8" stroke-linecap="round"/>
+<circle cx="342" cy="400" r="4" fill="#713F12"/>
+<path d="M390 376H432M390 400H422" fill="none" stroke="#E3BD87" stroke-width="12" stroke-linecap="round"/>
+</svg>

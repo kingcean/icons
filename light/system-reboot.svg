@@ -5,8 +5,7 @@
 <stop offset="1" stop-color="#FFD16B"/>
 </linearGradient>
 </defs>
-<rect x="24" y="48" width="464" height="416" rx="24" fill="#2879D8"/>
-<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#526784"/>
-<rect x="56" y="80" width="64" height="16" rx="8" fill="#E5F0FF"/>
-<path d="M356 288A100 100 0 1 1 256 188H315L304 177Q296 169 304 161Q312 153 320 161L352 193Q359 200 352 207L320 239Q312 247 304 239Q296 231 304 223L315 212H256A76 76 0 1 0 332 288A12 12 0 0 1 356 288Z" fill="url(#reboot)"/>
+<rect x="24" y="48" width="464" height="416" rx="24" fill="#526784"/>
+<rect x="48" y="72" width="416" height="368" rx="12" fill="#2879D8"/>
+<path d="M356 288A100 100 0 1 1 256 188H315L304 177Q296 169 304 161Q312 153 320 161L352 193Q359 200 352 207L320 239Q312 247 304 239Q296 231 304 223L315 212H256A76 76 0 1 0 332 288A12 12 0 0 1 356 288Z" transform="translate(0 -16)" fill="url(#reboot)"/>
 </svg>

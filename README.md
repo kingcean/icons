@@ -29,6 +29,6 @@ These icons are built by open source project [SVG Icon Generator by AI](https://
 
 ## License
 
-MIT licensed. All icons here are free to use.
+MIT licensed. All icons here are free to use on screens, on the web, in print, and across other media.
 
 Copyright (c) 2026 Kingcean Tuan. All rights reserved.

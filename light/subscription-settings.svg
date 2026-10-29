@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="40" width="216" height="432" rx="24" fill="#2563EB"/>
+<rect x="48" y="64" width="168" height="384" rx="8" fill="#EFF6FF"/>
+<g fill="#EA580C">
+<circle cx="76" cy="224" r="12"/>
+<path d="M72 158Q62 158 62 168Q62 178 72 178A46 46 0 0 1 118 224Q118 234 128 234Q138 234 138 224A66 66 0 0 0 72 158ZM72 102Q62 102 62 112Q62 122 72 122A102 102 0 0 1 174 224Q174 234 184 234Q194 234 194 224A122 122 0 0 0 72 102Z"/>
+</g>
+<rect x="64" y="302" width="136" height="20" rx="10" fill="#2563EB"/>
+<rect x="64" y="346" width="136" height="20" rx="10" fill="#2563EB"/>
+<rect x="64" y="390" width="96" height="20" rx="10" fill="#60A5FA"/>
+<rect x="264" y="176" width="224" height="296" rx="24" fill="#7C3AED"/>
+<rect x="288" y="200" width="176" height="248" rx="8" fill="#F5F3FF"/>
+<g fill="#C4B5FD">
+<rect x="296" y="240" width="160" height="16" rx="8"/>
+<rect x="296" y="320" width="160" height="16" rx="8"/>
+<rect x="296" y="400" width="160" height="16" rx="8"/>
+</g>
+<circle cx="340" cy="248" r="20" fill="#0D9488"/>
+<circle cx="412" cy="328" r="20" fill="#EA580C"/>
+<circle cx="356" cy="408" r="20" fill="#7C3AED"/>
+<path transform="translate(376 88)" fill="#0891B2" fill-rule="evenodd" d="M-12-64H12Q18-64 18-58L20-46L30-40L42-46Q48-49 52-43L62-25Q66-19 60-15L50-8V8L60 15Q66 19 62 25L52 43Q48 49 42 46L30 40L20 46L18 58Q18 64 12 64H-12Q-18 64-18 58L-20 46L-30 40L-42 46Q-48 49-52 43L-62 25Q-66 19-60 15L-50 8V-8L-60-15Q-66-19-62-25L-52-43Q-48-49-42-46L-30-40L-20-46L-18-58Q-18-64-12-64ZM22 0A22 22 0 1 0-22 0A22 22 0 1 0 22 0Z"/>
+</svg>

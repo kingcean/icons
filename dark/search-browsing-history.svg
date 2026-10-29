@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="search" x1="296" y1="268" x2="492" y2="464" gradientUnits="userSpaceOnUse">
+<stop stop-color="#5EEAD4"/>
+<stop offset="1" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+<rect x="24" y="40" width="300" height="432" rx="28" fill="#60A5FA"/>
+<rect x="48" y="64" width="252" height="384" rx="12" fill="#172554"/>
+<g fill="#FCD34D">
+<rect x="64" y="128" width="28" height="28" rx="6"/>
+<rect x="64" y="228" width="28" height="28" rx="6"/>
+<rect x="64" y="328" width="28" height="28" rx="6"/>
+</g>
+<path d="M130 132H262Q272 132 272 142Q272 152 262 152H130Q120 152 120 142Q120 132 130 132ZM130 232H262Q272 232 272 242Q272 252 262 252H130Q120 252 120 242Q120 232 130 232ZM130 332H226Q236 332 236 342Q236 352 226 352H130Q120 352 120 342Q120 332 130 332Z" fill="#93C5FD"/>
+<circle cx="410" cy="136" r="60" fill="#C4B5FD"/>
+<path d="M400 104Q400 94 410 94Q420 94 420 104V131L439 143Q450 149 444 158Q438 167 429 161L405 145Q400 142 400 136Z" fill="#4C1D95"/>
+<path d="M423 395Q433 385 443 395L488 440Q498 450 488 460Q478 470 468 460L423 415Q413 405 423 395Z" fill="url(#search)"/>
+<circle cx="376" cy="348" r="80" fill="url(#search)"/>
+<circle cx="376" cy="348" r="56" fill="#134E4A"/>
+</svg>

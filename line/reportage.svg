@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g stroke-linecap="round">
+<rect x="24" y="24" width="328" height="464" rx="24"/>
+<rect x="60" y="64" width="256" height="24" rx="6"/>
+<path d="M60 116H316M60 140H276"/>
+<rect x="60" y="164" width="256" height="120" rx="12"/>
+<path d="M80 264V212H116V264M132 264V192H176V264M192 232V208H228V232M80 264H200"/>
+<circle cx="264" cy="216" r="16"/>
+<path d="M236 264V252Q236 240 248 240H280Q292 240 292 252V264Z"/>
+<path d="M60 312H316M60 336H316M60 360H280"/>
+<rect x="60" y="388" width="256" height="64" rx="12"/>
+<path d="M92 408H84V420H96V432M120 408H112V420H124V432M152 412H292M152 436H256"/>
+<rect x="380" y="220" width="108" height="248" rx="16"/>
+<rect x="396" y="188" width="12" height="20" rx="6"/>
+<rect x="428" y="188" width="12" height="20" rx="6"/>
+<rect x="460" y="188" width="12" height="20" rx="6"/>
+<path d="M404 260H464M404 292H464M404 324H464M404 356H448M404 408L416 396L428 414L444 392L464 404"/>
+</g>
+</svg>

@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M424 33L478 54Q488 60 488 74V382Q488 396 476 403L424 432Z" fill="#92400E"/>
+<path d="M40 70L422 33Q440 31 440 49V407Q440 423 424 426L42 479Q24 482 24 464V88Q24 72 40 70Z" fill="#D97706"/>
+<path d="M48 97L416 60V401L48 452Z" fill="#FCD34D"/>
+<path d="M60 108L404 74V390L60 438Z" fill="#93C5D9"/>
+<circle cx="326" cy="152" r="30" fill="#FDE68A"/>
+<path d="M60 333L161 215Q169 205 180 214L248 270L289 226Q297 218 306 225L404 299V390L60 438Z" fill="#387F86"/>
+<path d="M60 368C127 309 174 365 230 332S337 289 404 330V390L60 438Z" fill="#46764B"/>
+<path d="M90 380L156 369M188 388L254 377" fill="none" stroke="#A3B86C" stroke-width="16" stroke-linecap="round"/>
+<path d="M104 165L160 159M213 140L255 135" fill="none" stroke="#D7E9DF" stroke-width="16" stroke-linecap="round"/>
+<path d="M145 266L171 235L202 260M286 254L299 242L329 263" fill="none" stroke="#7EB0A7" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M322 371L335 350Q341 342 341 354L339 371L355 355Q363 348 359 365L376 360" fill="none" stroke="#FDECC5" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

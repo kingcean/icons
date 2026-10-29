@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g stroke-linecap="round">
+<rect x="88" y="24" width="336" height="464" rx="24"/>
+<rect x="128" y="72" width="232" height="24" rx="6"/>
+<path d="M128 124H280"/>
+<ellipse cx="222" cy="246" rx="86" ry="50" transform="rotate(-20 222 246)"/>
+<circle cx="222" cy="246" r="28"/>
+<path d="M208 228Q226 232 218 248Q210 258 226 266"/>
+<circle cx="300" cy="226" r="10"/>
+<path d="M250 218L314 194"/>
+<circle cx="350" cy="180" r="34"/>
+<path d="M328 182Q342 162 350 182Q358 202 372 180"/>
+<path d="M128 336H384M128 364H344M128 408H384M128 436H300"/>
+</g>
+</svg>

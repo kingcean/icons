@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="argument" x1="0" y1="212" x2="0" y2="148" gradientUnits="userSpaceOnUse">
+<stop stop-color="#0D9488"/>
+<stop offset="1" stop-color="#2563EB"/>
+</linearGradient>
+</defs>
+<rect x="88" y="24" width="336" height="464" rx="24" fill="#FFF8E7" stroke="#94A3B8" stroke-width="8"/>
+<rect x="128" y="72" width="256" height="64" rx="12" fill="#2563EB"/>
+<path d="M152 96H360M152 116H304" fill="none" stroke="#DBEAFE" stroke-width="12" stroke-linecap="round"/>
+<path d="M178 204V177L174 181Q168 187 162 181Q156 175 162 169L180 151Q186 145 192 151L210 169Q216 175 210 181Q204 187 198 181L194 177V204Q194 212 186 212Q178 212 178 204ZM318 204V177L314 181Q308 187 302 181Q296 175 302 169L320 151Q326 145 332 151L350 169Q356 175 350 181Q344 187 338 181L334 177V204Q334 212 326 212Q318 212 318 204Z" fill="url(#argument)"/>
+<rect x="128" y="224" width="116" height="104" rx="12" fill="#CCF0E7"/>
+<rect x="268" y="224" width="116" height="104" rx="12" fill="#E5E0F7"/>
+<path d="M148 252H224M148 276H224M148 300H200" fill="none" stroke="#0F766E" stroke-width="12" stroke-linecap="round"/>
+<path d="M288 252H364M288 276H364M288 300H340" fill="none" stroke="#7C3AED" stroke-width="12" stroke-linecap="round"/>
+<path d="M128 376H384M128 404H384M128 432H316" fill="none" stroke="#64748B" stroke-width="16" stroke-linecap="round"/>
+</svg>

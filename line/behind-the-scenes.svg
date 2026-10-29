@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g stroke-linecap="round">
+<rect x="24" y="48" width="464" height="416" rx="28"/>
+<circle cx="144" cy="178" r="32"/>
+<path d="M88 408V292Q88 248 124 240L144 260L164 240Q190 244 202 270L220 306Q226 320 212 326Q200 332 192 318L180 294V408ZM124 240L144 260L164 240"/>
+<circle cx="280" cy="190" r="22"/>
+<circle cx="332" cy="190" r="22"/>
+<rect x="256" y="228" width="96" height="64" rx="12"/>
+<path d="M368 244L390 234Q398 230 398 240V280Q398 290 390 286L368 276Z"/>
+<path d="M304 308V350M304 322L274 350M304 322L334 350"/>
+<path d="M400 100H448Q460 100 460 112V148Q460 160 448 160H400Q388 160 388 148V112Q388 100 400 100Z"/>
+<path d="M424 176V332M412 124H436"/>
+<rect x="344" y="360" width="116" height="18" rx="5"/>
+<path d="M370 360L360 378M402 360L392 378M434 360L424 378"/>
+<rect x="344" y="390" width="116" height="42" rx="8"/>
+<path d="M388 400L412 411L388 422Z"/>
+</g>
+</svg>
