@@ -1,6 +1,6 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
-<path fill-rule="evenodd" d="M48 48H464Q488 48 488 72V440Q488 464 464 464H48Q24 464 24 440V72Q24 48 48 48ZM56 136V424Q56 432 64 432H448Q456 432 456 424V136ZM64 80Q56 80 56 88Q56 96 64 96H112Q120 96 120 88Q120 80 112 80Z"/>
+<path fill-rule="evenodd" d="M56 64H456Q488 64 488 96V416Q488 448 456 448H56Q24 448 24 416V96Q24 64 56 64ZM64 160Q56 160 56 168V408Q56 416 64 416H448Q456 416 456 408V168Q456 160 448 160Z"/>
 <rect x="80" y="192" width="56" height="56" rx="12"/>
 <rect x="168" y="192" width="88" height="56" rx="12"/>
 <rect x="288" y="192" width="56" height="56" rx="12"/>

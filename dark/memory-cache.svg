@@ -5,10 +5,9 @@
 <stop offset="1" stop-color="#FFAC63"/>
 </linearGradient>
 </defs>
-<rect x="24" y="48" width="464" height="416" rx="24" fill="#65B6FF"/>
-<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#93A7C2"/>
-<rect x="56" y="80" width="64" height="16" rx="8" fill="#173D65"/>
-<path d="M200 184V408M256 184V408M312 184V408M144 240H368M144 296H368M144 352H368" fill="none" stroke="#48316F" stroke-width="16" stroke-linecap="round"/>
+<rect x="24" y="64" width="464" height="384" rx="32" fill="#344660"/>
+<path d="M56 64H456Q488 64 488 96V144H24V96Q24 64 56 64Z" fill="#60A5FA"/>
+<path d="M200 184V408M256 184V408M312 184V408M144 240H368M144 296H368M144 352H368" fill="none" stroke="#DCD0FA" stroke-width="16" stroke-linecap="round"/>
 <rect x="168" y="208" width="176" height="176" rx="20" fill="#15564E"/>
 <path d="M262 240Q268 240 266 246L250 282H282Q290 282 286 290L244 344Q238 352 240 342L252 308H230Q222 308 226 300L258 244Q260 240 262 240Z" fill="url(#cache)"/>
 </svg>

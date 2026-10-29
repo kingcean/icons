@@ -1,7 +1,6 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="24" y="48" width="464" height="416" rx="24" fill="#2879D8"/>
-<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#526784"/>
-<rect x="56" y="80" width="64" height="16" rx="8" fill="#E5F0FF"/>
+<rect x="24" y="64" width="464" height="384" rx="32" fill="#17243B"/>
+<path d="M56 64H456Q488 64 488 96V144H24V96Q24 64 56 64Z" fill="#2563EB"/>
 <rect x="80" y="208" width="104" height="144" rx="16" fill="#AEEDE3"/>
 <rect x="204" y="208" width="104" height="144" rx="16" fill="#FFD16B"/>
 <rect x="328" y="208" width="104" height="144" rx="16" fill="#DCD0FA"/>
@@ -11,5 +10,5 @@
 <circle cx="132" cy="312" r="12" fill="#15564E"/>
 <circle cx="256" cy="312" r="12" fill="#694B16"/>
 <circle cx="380" cy="312" r="12" fill="#48316F"/>
-<path d="M132 360Q140 360 140 368V384H248V368Q248 360 256 360Q264 360 264 368V384H372V368Q372 360 380 360Q388 360 388 368V384Q388 400 372 400H140Q124 400 124 384V368Q124 360 132 360Z" fill="#E5F0FF"/>
+<path d="M132 360Q140 360 140 368V384H248V368Q248 360 256 360Q264 360 264 368V384H372V368Q372 360 380 360Q388 360 388 368V384Q388 400 372 400H140Q124 400 124 384V368Q124 360 132 360Z" fill="#93C5FD"/>
 </svg>

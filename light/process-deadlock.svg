@@ -5,9 +5,8 @@
 <stop offset="1" stop-color="#FF927A"/>
 </linearGradient>
 </defs>
-<rect x="24" y="48" width="464" height="416" rx="24" fill="#2879D8"/>
-<path d="M48 48H464Q488 48 488 72V128H24V72Q24 48 48 48Z" fill="#526784"/>
-<rect x="56" y="80" width="64" height="16" rx="8" fill="#E5F0FF"/>
+<rect x="24" y="64" width="464" height="384" rx="32" fill="#17243B"/>
+<path d="M56 64H456Q488 64 488 96V144H24V96Q24 64 56 64Z" fill="#2563EB"/>
 <rect x="80" y="216" width="112" height="160" rx="16" fill="#AEEDE3"/>
 <rect x="320" y="216" width="112" height="160" rx="16" fill="#DCD0FA"/>
 <path fill-rule="evenodd" d="M136 244Q108 244 108 272V280Q100 280 100 292V324Q100 336 112 336H160Q172 336 172 324V292Q172 280 164 280V272Q164 244 136 244ZM124 272Q124 260 136 260Q148 260 148 272V280H124Z" fill="#15564E"/>

@@ -1,7 +1,9 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M56 48H456Q488 48 488 80V432Q488 464 456 464H56Q24 464 24 432V80Q24 48 56 48ZM24 128H488"/>
-<path d="M84 88A8 8 0 1 1 68 88A8 8 0 1 1 84 88ZM124 88A8 8 0 1 1 108 88A8 8 0 1 1 124 88ZM164 88A8 8 0 1 1 148 88A8 8 0 1 1 164 88Z"/>
-<path d="M84 176H212Q228 176 228 192V320Q228 336 212 336H84Q68 336 68 320V192Q68 176 84 176ZM68 296L116 248L156 288L180 264L228 312" stroke-linecap="round"/>
-<path d="M272 188H440M272 236H440M272 284H376M68 384H440M68 420H336" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="64" width="464" height="384" rx="32"/>
+<path d="M40 144H472"/>
+<rect x="88" y="208" width="152" height="128" rx="16"/>
+<path d="M104 316L144 272L172 300L192 280L224 316"/>
+<circle cx="198" cy="242" r="12"/>
+<path d="M280 222H424M280 270H424M280 318H384M88 384H424"/>
 </svg>
