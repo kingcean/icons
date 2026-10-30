@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<pattern id="kira-weave" width="64" height="72" patternUnits="userSpaceOnUse">
+<rect width="64" height="72" fill="#65ACB1"/>
+<path d="M0 0H12V72H0Z" fill="#F4CF87"/>
+<path d="M18 0H24V72H18Z" fill="#B95E7E"/>
+<path d="M56 0H60V72H56Z" fill="#D1E9CC"/>
+<path d="M40 6L50 22L40 38L30 22ZM40 50L46 58L40 66L34 58Z" fill="#FFE5AC"/>
+</pattern>
+</defs>
+<path d="M164 174H348V476Q348 488 336 488H176Q164 488 164 476Z" fill="url(#kira-weave)"/>
+<path d="M210 52H302L288 216H224Z" fill="url(#kira-weave)"/>
+<path d="M216 24H230Q256 56 282 24H296L256 122Z" fill="#FFF3DF"/>
+<path d="M198 24H216L242 196Q244 208 232 208H164V138L90 242Q84 252 74 246L34 228Q22 222 28 210L104 88Q112 74 126 66L180 30Q188 24 198 24ZM314 24H296L270 196Q268 208 280 208H348V138L422 242Q428 252 438 246L478 228Q490 222 484 210L408 88Q400 74 386 66L332 30Q324 24 314 24Z" fill="#CF7894"/>
+<path d="M314 24Q324 24 332 30L386 66Q400 74 408 88L348 138V208H280Q268 208 270 196L296 24Z" fill="#E894A7"/>
+<path d="M46 182L100 214L90 242Q84 252 74 246L34 228Q22 222 28 210ZM466 182L412 214L422 242Q428 252 438 246L478 228Q490 222 484 210Z" fill="#FFF9EC" stroke="#DACCB2" stroke-width="6" stroke-linejoin="round"/>
+<path d="M216 30L240 192M296 30L272 192M178 194H226M286 194H334" fill="none" stroke="#F6D59B" stroke-width="8" stroke-linecap="round"/>
+<circle cx="220" cy="90" r="13" fill="#FFE3A1"/>
+<circle cx="292" cy="90" r="13" fill="#FFE3A1"/>
+<circle cx="220" cy="90" r="5" fill="#448F9A"/>
+<circle cx="292" cy="90" r="5" fill="#448F9A"/>
+<rect x="164" y="216" width="184" height="30" rx="6" fill="#DFAD68"/>
+<path d="M176 231H336M178 476H334" fill="none" stroke="#FFE7B6" stroke-width="8" stroke-linecap="round"/>
+</svg>

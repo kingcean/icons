@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M272 62Q310 76 320 110L342 152Q318 162 300 152L284 114Q268 102 264 86Z" fill="#E9EEF2" stroke="#A7B2BD" stroke-width="6" stroke-linejoin="round"/>
+<path d="M200 128V102Q198 68 222 44Q244 22 278 24Q288 24 282 34Q252 60 254 86Q256 104 276 112L282 128Q242 142 200 128Z" fill="#FFFCF4" stroke="#A7B2BD" stroke-width="7" stroke-linejoin="round"/>
+<path d="M210 116Q240 124 270 118" fill="none" stroke="#D2DCE3" stroke-width="7" stroke-linecap="round"/>
+<path d="M178 316H334L400 472Q408 488 390 488H122Q104 488 112 472Z" fill="#23252E"/>
+<path d="M256 328H334L400 472Q408 488 390 488H256Z" fill="#343640"/>
+<path d="M202 352L170 448M310 352L342 448" fill="none" stroke="#131720" stroke-width="10" stroke-linecap="round"/>
+<path d="M194 176H226Q226 202 256 202Q286 202 286 176H318Q332 176 344 188L396 222Q408 230 414 244L482 314Q492 326 478 332L444 348Q434 354 426 344L342 268L328 316H184L170 268L86 344Q78 354 68 348L34 332Q20 326 30 314L98 244Q104 230 116 222L168 188Q180 176 194 176Z" fill="#23252E"/>
+<path d="M286 176H318Q332 176 344 188L342 268L328 306H256V202Q286 202 286 176Z" fill="#343640"/>
+<path d="M210 188Q212 220 256 226Q300 220 302 188M50 304L94 330M462 304L418 330" fill="none" stroke="#D4AD58" stroke-width="8" stroke-linecap="round"/>
+<path d="M256 226V300" fill="none" stroke="#11151D" stroke-width="8"/>
+<rect x="180" y="306" width="152" height="20" rx="6" fill="#A9863E"/>
+<path d="M192 316H228M284 316H320" fill="none" stroke="#F3D899" stroke-width="7" stroke-linecap="round"/>
+<rect x="236" y="302" width="40" height="28" rx="7" fill="#E6C77F"/>
+<rect x="246" y="310" width="20" height="12" rx="4" fill="#8B6537"/>
+<path d="M200 458Q218 418 224 382M312 458Q294 418 288 382M130 470H382" fill="none" stroke="#D4AD58" stroke-width="8" stroke-linecap="round"/>
+<path d="M212 430Q186 428 190 408Q210 408 212 430ZM220 406Q242 404 242 386Q224 386 220 406ZM300 430Q326 428 322 408Q302 408 300 430ZM292 406Q270 404 270 386Q288 386 292 406Z" fill="#C6A14C"/>
+<path d="M224 368Q202 346 204 368Q202 386 224 382Q246 386 244 368Q246 346 224 368ZM288 368Q266 346 268 368Q266 386 288 382Q310 386 308 368Q310 346 288 368Z" fill="#E8C579"/>
+<circle cx="224" cy="374" r="5" fill="#A77838"/>
+<circle cx="288" cy="374" r="5" fill="#A77838"/>
+</svg>

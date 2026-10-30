@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="felt" x1="151" y1="124" x2="362" y2="327" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#B89478"/>
+<stop offset="1" stop-color="#75513F"/>
+</linearGradient>
+<linearGradient id="brim" x1="98" y1="331" x2="409" y2="412" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A68163"/>
+<stop offset="1" stop-color="#684534"/>
+</linearGradient>
+</defs>
+<path d="M84 339Q267 375 412 332L477 369Q490 375 486 389Q480 406 461 409C324 427 134 411 44 367Q25 358 24 340L25 315Q26 300 38 309L58 336Z" fill="url(#brim)" stroke="#563A2E" stroke-width="7" stroke-linejoin="round"/>
+<path d="M48 350Q69 367 104 375M435 373L465 388" fill="none" stroke="#D0AC8A" stroke-width="7" stroke-linecap="round"/>
+<path d="M104 177Q100 149 126 132C178 96 255 92 312 112Q353 126 376 157Q389 173 390 195L410 319Q266 360 86 326Z" fill="url(#felt)" stroke="#563A2E" stroke-width="7" stroke-linejoin="round"/>
+<path d="M143 154C166 126 239 118 286 136Q309 145 343 169Q349 175 340 178L283 185Q264 188 249 178C220 159 177 154 151 164Q139 169 143 154Z" fill="#674735" stroke="#D7B697" stroke-width="6" stroke-linejoin="round"/>
+<path d="M350 195Q324 210 327 258" fill="none" stroke="#654333" stroke-width="10" stroke-linecap="round"/>
+<path d="M88 313Q266 348 408 306L412 332Q267 375 84 339Z" fill="#34313E" stroke="#27232E" stroke-width="6" stroke-linejoin="round"/>
+<path d="M105 331Q265 361 394 327" fill="none" stroke="#7C687D" stroke-width="5" stroke-linecap="round"/>
+</svg>

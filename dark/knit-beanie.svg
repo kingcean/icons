@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="knit" x1="136" y1="72" x2="370" y2="352" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9DE8DC"/>
+<stop offset="0.5" stop-color="#64C9C9"/>
+<stop offset="1" stop-color="#429BB3"/>
+</linearGradient>
+<linearGradient id="cuff" x1="112" y1="350" x2="398" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#59AFC5"/>
+<stop offset="1" stop-color="#397B9F"/>
+</linearGradient>
+</defs>
+<path d="M90 360V196C90 97 157 24 256 24C355 24 422 97 422 196V360Z" fill="url(#knit)" stroke="#BAEEE8" stroke-width="7" stroke-linejoin="round"/>
+<path d="M148 344V199Q148 105 206 61M202 344V185Q202 102 234 54M256 344V52M310 344V185Q310 102 278 54M364 344V199Q364 105 306 61" fill="none" stroke="#D1FAEF" stroke-width="9" stroke-linecap="round"/>
+<rect x="68" y="348" width="376" height="140" rx="24" fill="url(#cuff)" stroke="#A9DDE9" stroke-width="7"/>
+<path d="M108 374V462M157 374V462M206 374V462M256 374V462M306 374V462M355 374V462M404 374V462" fill="none" stroke="#A0DEEA" stroke-width="11" stroke-linecap="round"/>
+</svg>

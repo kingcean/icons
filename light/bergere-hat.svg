@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="straw" x1="151" y1="109" x2="350" y2="264" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F6DFA1"/>
+<stop offset="1" stop-color="#C39B58"/>
+</linearGradient>
+<linearGradient id="silk" x1="302" y1="230" x2="389" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D9A3B8"/>
+<stop offset="1" stop-color="#AE708F"/>
+</linearGradient>
+</defs>
+<path d="M325 237C305 340 280 410 242 469Q236 479 247 477L274 469L292 486Q299 493 301 480C305 405 325 337 352 242Z" fill="url(#silk)" stroke="#925A77" stroke-width="6" stroke-linejoin="round"/>
+<path d="M359 240C375 339 376 407 363 464Q360 478 370 473L394 461L421 473Q432 478 427 466C398 402 402 335 382 238Z" fill="url(#silk)" stroke="#925A77" stroke-width="6" stroke-linejoin="round"/>
+<path d="M322 308Q299 384 283 446M381 306Q395 383 394 438" fill="none" stroke="#F0CAD5" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="256" cy="183" rx="232" ry="81" fill="url(#straw)" stroke="#98743D" stroke-width="7"/>
+<path d="M55 187C55 220 146 245 256 245C366 245 457 220 457 187" fill="none" stroke="#FBEBC1" stroke-width="7" stroke-linecap="round"/>
+<path d="M78 173L92 179M102 211L117 204M157 226L166 214M222 235L225 220M289 235L286 220M426 169L413 177" fill="none" stroke="#B28A49" stroke-width="5" stroke-linecap="round"/>
+<path d="M156 116V159C156 195 356 195 356 159V116Z" fill="#CEAB6B" stroke="#98743D" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="256" cy="116" rx="100" ry="30" fill="#F5DFA7" stroke="#98743D" stroke-width="7"/>
+<path d="M182 116Q256 145 330 116M180 163L195 166M309 167L324 163" fill="none" stroke="#FFF0CC" stroke-width="5" stroke-linecap="round"/>
+<path d="M215 91Q230 114 246 145L248 181L271 180L269 143Q253 111 238 89Z" fill="#D9A3B8" stroke="#AC728F" stroke-width="5" stroke-linejoin="round"/>
+<path d="M374 201Q399 173 427 188Q414 215 382 214M324 206Q302 178 279 188Q288 214 315 219" fill="#739F88" stroke="#49765F" stroke-width="5" stroke-linejoin="round"/>
+<path d="M352 184C335 163 311 176 316 196C294 195 288 219 308 230C299 250 321 266 336 250C348 269 373 261 372 241C395 243 403 217 383 205C391 186 369 171 352 184Z" fill="#C2B4DA" stroke="#8D79AD" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="345" cy="218" r="12" fill="#E9BC65" stroke="#AC833F" stroke-width="4"/>
+</svg>

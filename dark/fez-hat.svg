@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="felt" x1="104" y1="151" x2="392" y2="421" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F57576"/>
+<stop offset="0.55" stop-color="#DF485B"/>
+<stop offset="1" stop-color="#B82E4C"/>
+</linearGradient>
+<linearGradient id="top" x1="154" y1="57" x2="301" y2="147" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF9B8E"/>
+<stop offset="1" stop-color="#EA6373"/>
+</linearGradient>
+</defs>
+<path d="M88 100L32 410Q28 422 41 427Q230 479 419 427Q432 422 428 410L372 100Z" fill="url(#felt)" stroke="#FFB0B2" stroke-width="8" stroke-linejoin="round"/>
+<ellipse cx="230" cy="100" rx="142" ry="52" fill="url(#top)" stroke="#FFB0B2" stroke-width="8"/>
+<path d="M108 188L70 387" fill="none" stroke="#FFA7A0" stroke-width="10" stroke-linecap="round"/>
+<path d="M230 100C333 69 423 110 447 224L452 285" fill="none" stroke="#ABA9BE" stroke-width="18" stroke-linecap="round"/>
+<path d="M230 100C333 69 423 110 447 224L452 285" fill="none" stroke="#353543" stroke-width="10" stroke-linecap="round"/>
+<path d="M436 282Q452 273 468 282L486 369Q488 377 478 381Q452 391 432 379Q426 375 428 367Z" fill="#353543" stroke="#ABA9BE" stroke-width="6" stroke-linejoin="round"/>
+<path d="M450 299L444 366M460 299L472 366" fill="none" stroke="#848297" stroke-width="5" stroke-linecap="round"/>
+</svg>

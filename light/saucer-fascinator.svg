@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sinamay" x1="130" y1="210" x2="339" y2="370" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E0D4ED"/>
+<stop offset="1" stop-color="#AB90C3"/>
+</linearGradient>
+<linearGradient id="ribbon" x1="245" y1="118" x2="381" y2="228" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C0A5D6"/>
+<stop offset="1" stop-color="#82629F"/>
+</linearGradient>
+</defs>
+<path d="M110 449C96 330 333 258 402 387L408 409Q411 421 399 422Q389 423 386 409C339 287 118 358 130 445Q133 457 121 458Q111 458 110 449Z" fill="#745D8B" stroke="#594569" stroke-width="6" stroke-linejoin="round"/>
+<ellipse cx="252" cy="282" rx="230" ry="76" transform="rotate(-20 252 282)" fill="url(#sinamay)" stroke="#8D72A6" stroke-width="7"/>
+<path d="M66 319C112 365 345 291 432 218" fill="none" stroke="#EDE2F5" stroke-width="8" stroke-linecap="round"/>
+<path d="M113 315L132 323M169 293L188 301M225 272L244 280M281 251L300 259M337 230L356 238M164 327L170 308M220 309L226 289M277 289L283 269M334 266L340 246" fill="none" stroke="#B59AC9" stroke-width="4" stroke-linecap="round"/>
+<path d="M324 215C317 145 328 76 374 29Q387 17 383 36C368 86 342 116 337 155L335 218Z" fill="#AE8CC5" stroke="#8B68A7" stroke-width="5" stroke-linejoin="round"/>
+<path d="M350 222C371 157 410 97 455 84Q468 81 459 94C433 126 392 152 363 221Z" fill="#D1BDDF" stroke="#A084B5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M329 190Q329 107 372  forty" visibility="hidden"/>
+<path d="M329 190Q329 110 371 46M357 205Q401 122 448 94" fill="none" stroke="#EADCF3" stroke-width="4" stroke-linecap="round"/>
+<path fill-rule="evenodd" d="M313 215C275 184 220 161 230 126C237 101 267 107 285 132C303 157 306 184 313 215ZM292 183C279 145 256 119 248 132C238 147 268 169 292 183Z" fill="url(#ribbon)" stroke="#806096" stroke-width="5" stroke-linejoin="round"/>
+<path fill-rule="evenodd" d="M328 219C332 181 372 133 404 143C440 157 407 195 328 219ZM350 198C383 185 409 162 396 160C379 156 360 180 350 198Z" fill="#BFA0D1" stroke="#806096" stroke-width="5" stroke-linejoin="round"/>
+<path d="M329 229Q316 215 310 226Q304 237 317 245Q331 249 340 237Q344 225 329 229Z" fill="#9270AE" stroke="#745289" stroke-width="5" stroke-linejoin="round"/>
+</svg>

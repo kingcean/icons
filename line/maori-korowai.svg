@@ -1,0 +1,35 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="tassel">
+<path d="M-5 0Q-12 18-6 36L0 56L6 36Q12 18 5 0M0 10Q-4 26 0 42" stroke-linecap="round"/>
+</g>
+</defs>
+<path d="M42 34Q256 86 470 34Q482 30 484 44L488 438Q488 452 474 456Q256 516 38 456Q24 452 24 438L28 44Q30 30 42 34Z"/>
+<path d="M42 66Q256 118 470 66M44 90Q256 142 468 90M42 434Q256 494 470 434" stroke-linecap="round"/>
+<path d="M68 52L76 76M108 62L116 86M148 70L156 94M188 76L196 100M228 80L236 104M268 80L276 104M308 76L316 100M348 70L356 94M388 62L396 86M428 52L436 76" stroke-linecap="round"/>
+<use href="#tassel" transform="translate(70 116)"/>
+<use href="#tassel" transform="translate(144 130)"/>
+<use href="#tassel" transform="translate(218 140)"/>
+<use href="#tassel" transform="translate(294 140)"/>
+<use href="#tassel" transform="translate(368 130)"/>
+<use href="#tassel" transform="translate(442 116)"/>
+<use href="#tassel" transform="translate(70 196)"/>
+<use href="#tassel" transform="translate(144 210)"/>
+<use href="#tassel" transform="translate(218 220)"/>
+<use href="#tassel" transform="translate(294 220)"/>
+<use href="#tassel" transform="translate(368 210)"/>
+<use href="#tassel" transform="translate(442 196)"/>
+<use href="#tassel" transform="translate(70 276)"/>
+<use href="#tassel" transform="translate(144 290)"/>
+<use href="#tassel" transform="translate(218 300)"/>
+<use href="#tassel" transform="translate(294 300)"/>
+<use href="#tassel" transform="translate(368 290)"/>
+<use href="#tassel" transform="translate(442 276)"/>
+<use href="#tassel" transform="translate(70 356)"/>
+<use href="#tassel" transform="translate(144 370)"/>
+<use href="#tassel" transform="translate(218 380)"/>
+<use href="#tassel" transform="translate(294 380)"/>
+<use href="#tassel" transform="translate(368 370)"/>
+<use href="#tassel" transform="translate(442 356)"/>
+</svg>

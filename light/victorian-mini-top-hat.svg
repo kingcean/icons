@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="satin" x1="145" y1="139" x2="322" y2="322" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#66546F"/>
+<stop offset="1" stop-color="#302938"/>
+</linearGradient>
+<linearGradient id="plume" x1="353" y1="264" x2="415" y2="109" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9B5277"/>
+<stop offset="1" stop-color="#DF9FB7"/>
+</linearGradient>
+</defs>
+<g transform="rotate(-22 256 256)">
+<path d="M143 345Q232 370 321 340L338 436Q327 454 308 444Q291 460 272 447Q254 464 235 447Q216 462 198 444Q179 458 162 440Q145 452 134 435Z" fill="#A68DAE" fill-opacity="0.35" stroke="#8E759A" stroke-width="6" stroke-linejoin="round"/>
+<path d="M150 385L208 445M185 382L248 446M223 379L290 443M263 375L329 435M163 434L220 382M204 441L267 379M247 441L307 376" fill="none" stroke="#A88AB3" stroke-width="5" stroke-linecap="round"/>
+<path d="M122 305C72 320 91 345 149 356Q240 375 331 346C377 331 384 309 340 303Q228 276 122 305Z" fill="#59445F" stroke="#35283F" stroke-width="7" stroke-linejoin="round"/>
+<path d="M140 130L132 318Q226 352 328 318L316 130Z" fill="url(#satin)" stroke="#35283F" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="228" cy="130" rx="88" ry="30" fill="#796580" stroke="#35283F" stroke-width="7"/>
+<path d="M160 177L156 256" fill="none" stroke="#9C83A2" stroke-width="9" stroke-linecap="round"/>
+<path d="M134 280Q226 311 325 280L328 318Q226 352 132 318Z" fill="#B77590" stroke="#8D506C" stroke-width="6" stroke-linejoin="round"/>
+<path d="M148 293Q225 317 308 294" fill="none" stroke="#E1A8BE" stroke-width="5" stroke-linecap="round"/>
+<path d="M322 277C347 237 337 194 359 151C375 118 400 96 424 106C451 118 452 151 431 166C414 180 391 170 396 153Q400 143 409 148C403 157 418 163 426 152C440 133 421 114 404 124C382 137 376 163 375 188C375 223 355 257 333 282Z" fill="url(#plume)" stroke="#894560" stroke-width="5" stroke-linejoin="round"/>
+<path d="M331 261Q354 231 358 196Q364 151 391 129" fill="none" stroke="#F0BDCB" stroke-width="5" stroke-linecap="round"/>
+</g>
+</svg>

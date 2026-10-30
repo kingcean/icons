@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="straw" x1="133" y1="83" x2="318" y2="317" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF0C8"/>
+<stop offset="1" stop-color="#CBA468"/>
+</linearGradient>
+<linearGradient id="brim" x1="285" y1="76" x2="447" y2="330" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF4D6"/>
+<stop offset="0.55" stop-color="#E6C990"/>
+<stop offset="1" stop-color="#BD9258"/>
+</linearGradient>
+<linearGradient id="silk" x1="199" y1="270" x2="315" y2="475" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#78B9AD"/>
+<stop offset="1" stop-color="#347E78"/>
+</linearGradient>
+</defs>
+<path d="M294 54C174 27 72 104 80 222C85 302 150 345 260 310L279 277C231 201 237 109 294 54Z" fill="url(#straw)" stroke="#987445" stroke-width="8" stroke-linejoin="round"/>
+<path d="M119 215C111 151 150 96 205 83M126 243Q137 286 182 298" fill="none" stroke="#FFF7DF" stroke-width="9" stroke-linecap="round"/>
+<path d="M142 149L157 153M130 192L146 196M145 238L161 242M177 272L193 276" fill="none" stroke="#B99761" stroke-width="5" stroke-linecap="round"/>
+<path d="M271 69C229 128 230 223 282 284L262 307C205 230 208 133 250 75Z" fill="#5B9E95" stroke="#36766F" stroke-width="6" stroke-linejoin="round"/>
+<path fill-rule="evenodd" d="M298 54C365 38 452 105 476 204C496 283 453 345 392 350C325 347 266 288 250 214C235 143 251 84 298 54ZM321 87C371 76 424 132 443 209C459 275 430 318 392 319C348 311 303 261 287 205C272 151 283 104 321 87Z" fill="url(#brim)" stroke="#987445" stroke-width="8" stroke-linejoin="round"/>
+<path d="M300 113C276 172 305 263 361 303M349 66L352 80M405 102L397 113M462 226L449 229M433 321L423 309" fill="none" stroke="#FFF3CD" stroke-width="6" stroke-linecap="round"/>
+<path d="M223 316C209 377 183 425 156 470Q152 478 161 477L187 470L205 485Q212 491 214 480C218 427 237 379 249 318ZM255 318C278 382 283 424 277 475Q275 485 284 481L307 469L331 477Q340 480 336 470C312 420 302 374 278 316Z" fill="url(#silk)" stroke="#36766F" stroke-width="6" stroke-linejoin="round"/>
+<path d="M232 351Q212 416 199 451M274 350Q296 409 306 448" fill="none" stroke="#A3D1BF" stroke-width="7" stroke-linecap="round"/>
+<path d="M237 274C222 255 200 266 204 285C180 284 175 309 196 318C184 338 206 353 223 338C233 359 259 350 257 330C280 332 288 308 268 297C281 277 257 260 243 275Q240 277 237 274Z" fill="#D98CA1" stroke="#9D536D" stroke-width="6" stroke-linejoin="round"/>
+<path d="M213 291L222 299M250 287L242 298M252 321L242 315M214 326L223 316" fill="none" stroke="#F9C7D0" stroke-width="6" stroke-linecap="round"/>
+<circle cx="232" cy="307" r="13" fill="#E8BE66" stroke="#A17A36" stroke-width="5"/>
+</svg>

@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="copy" x1="176" y1="344" x2="424" y2="296" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6EE7D0"/>
+<stop offset="1" stop-color="#60A5FA"/>
+</linearGradient>
+<linearGradient id="restore" x1="28" y1="248" x2="76" y2="350" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FFAB91"/>
+</linearGradient>
+</defs>
+<path d="M156 284H418Q488 284 488 218Q488 160 430 156Q426 96 370 96Q342 96 322 112Q298 24 220 24Q138 24 124 128Q80 136 80 202Q80 284 156 284Z" fill="#60A5FA"/>
+<rect x="234" y="140" width="128" height="104" rx="12" fill="#20A99A"/>
+<rect x="218" y="124" width="128" height="104" rx="12" fill="#6EE7D0"/>
+<rect x="202" y="108" width="128" height="104" rx="12" fill="#F1F5FF"/>
+<path d="M214 108H318Q330 108 330 120V140H202V120Q202 108 214 108Z" fill="#DDD6FE"/>
+<rect x="220" y="90" width="12" height="30" rx="6" fill="#514879"/>
+<rect x="300" y="90" width="12" height="30" rx="6" fill="#514879"/>
+<path d="M220 158H240V170H220ZM256 158H276V170H256ZM292 158H312V170H292ZM220 182H240V194H220ZM256 182H276V194H256Z" fill="#7463A0"/>
+<path d="M168 332V320H158Q152 320 156 314L171 296Q176 290 181 296L196 314Q200 320 194 320H184V332ZM416 344V320H406Q400 320 404 314L419 296Q424 290 429 296L444 314Q448 320 442 320H432V344Z" fill="url(#copy)"/>
+<path d="M74 240C13 253 7 307 50 337L43 344Q39 349 46 350L71 350Q78 350 77 343L75 318Q74 311 69 316L62 323C30 301 35 266 78 256Q86 254 84 247Q82 239 74 240Z" fill="url(#restore)"/>
+<rect x="32" y="348" width="208" height="112" rx="16" fill="#647D9E"/>
+<path d="M56 364H216Q224 364 224 372V424H48V372Q48 364 56 364Z" fill="#E0F2FE"/>
+<rect x="80" y="378" width="40" height="12" rx="6" fill="#2563EB"/>
+<rect x="80" y="402" width="80" height="12" rx="6" fill="#168B83"/>
+<path d="M104 460H168V480H184Q192 480 192 488Q192 496 184 496H88Q80 496 80 488Q80 480 88 480H104Z" fill="#A0B4CF"/>
+<path d="M352 382H480V458Q480 478 416 478Q352 478 352 458Z" fill="#B9A1F5"/>
+<path d="M352 422Q352 442 416 442Q480 442 480 422V434Q480 454 416 454Q352 454 352 434Z" fill="#7463A0"/>
+<ellipse cx="416" cy="382" rx="64" ry="20" fill="#DDD6FE"/>
+</svg>

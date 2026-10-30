@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="reason-arrow" x1="112" y1="256" x2="380" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#3568C0"/>
+<stop offset="1" stop-color="#16877D"/>
+</linearGradient>
+</defs>
+<circle cx="64" cy="144" r="40" fill="#7961AC"/>
+<circle cx="64" cy="368" r="40" fill="#D99424"/>
+<path d="M113 151Q106 144 113 137Q120 130 127 137L228 246H344L329 231Q322 224 329 217Q336 210 343 217L375 249Q382 256 375 263L343 295Q336 302 329 295Q322 288 329 281L344 266H224Q220 266 217 263Z M113 361L217 249Q224 242 231 249Q238 256 231 263L127 375Q120 382 113 375Q106 368 113 361Z" fill="url(#reason-arrow)"/>
+<rect x="392" y="208" width="96" height="96" rx="16" fill="#16877D"/>
+</svg>

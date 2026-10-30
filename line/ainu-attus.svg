@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="panel" d="M190 24H224L250 104V476Q250 488 238 488H154Q142 488 142 476V208L112 272Q108 280 98 276L34 248Q22 244 28 230L76 100Q80 88 92 86L164 40Q176 24 190 24Z"/>
+<path id="border" d="M202 32L206 112V450H154M36 208L112 240" stroke-linecap="round"/>
+<path id="embroidery" d="M216 56L232 108V132M232 144H224Q212 144 212 156V172Q212 184 224 184H232V168H224M232 202V270M232 294H224Q212 294 212 306V322Q212 334 224 334H232V318H224M232 352V432M162 468H180Q192 468 192 480M204 480V466H230M42 228L58 234Q70 240 76 228L82 216M82 246L88 232L100 238" stroke-linecap="round"/>
+</defs>
+<use href="#panel"/>
+<use href="#panel" transform="translate(512 0) scale(-1 1)"/>
+<use href="#border"/>
+<use href="#border" transform="translate(512 0) scale(-1 1)"/>
+<use href="#embroidery"/>
+<use href="#embroidery" transform="translate(512 0) scale(-1 1)"/>
+</svg>

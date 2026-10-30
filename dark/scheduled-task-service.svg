@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="recurrence" x1="276" y1="44" x2="476" y2="244" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#75E0DC"/>
+<stop offset="1" stop-color="#77BBF1"/>
+</linearGradient>
+</defs>
+<path d="M240 224V160Q240 144 256 144H276" fill="none" stroke="#809BB8" stroke-width="16" stroke-linecap="round"/>
+<rect x="24" y="224" width="272" height="240" rx="24" fill="#A0B5CF"/>
+<path d="M48 288H272V432Q272 440 264 440H56Q48 440 48 432Z" fill="#25364A"/>
+<path d="M56 256H96" stroke="#344B68" stroke-width="16" stroke-linecap="round"/>
+<path d="M60 328L72 340L92 316M60 380L72 392L92 368M60 432L72 444L92 420" fill="none" stroke="#68DDA0" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="120" y="320" width="136" height="16" rx="8" fill="#B09AEF"/>
+<rect x="120" y="372" width="136" height="16" rx="8" fill="#B09AEF"/>
+<rect x="120" y="424" width="100" height="16" rx="8" fill="#B09AEF"/>
+<circle cx="376" cy="144" r="64" fill="#EDBB7C"/>
+<path d="M376 104V144L404 160" fill="none" stroke="#725133" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M477 188A110 110 0 1 1 460 71L445 84A90 90 0 1 0 459 180Z" fill="url(#recurrence)"/>
+<path d="M442 46Q442 36 452 36Q462 36 462 46V78Q462 88 452 88H420Q410 88 410 78Q410 68 420 68H442Z" fill="url(#recurrence)"/>
+</svg>

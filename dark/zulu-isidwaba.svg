@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="leather">
+<path d="M144 116H368L486 442Q490 456 474 460Q452 470 436 456Q410 476 376 460Q346 480 316 462Q286 482 256 464Q226 482 196 462Q166 480 136 460Q102 476 76 456Q60 470 38 460Q22 456 26 442Z"/>
+</clipPath>
+</defs>
+<rect x="132" y="48" width="248" height="56" rx="12" fill="#6A4E3F" stroke="#B09475" stroke-width="7"/>
+<path d="M148 76H364" fill="none" stroke="#D0A977" stroke-width="8" stroke-linecap="round"/>
+<path d="M144 116H368L486 442Q490 456 474 460Q452 470 436 456Q410 476 376 460Q346 480 316 462Q286 482 256 464Q226 482 196 462Q166 480 136 460Q102 476 76 456Q60 470 38 460Q22 456 26 442Z" fill="#504039" stroke="#A58C74" stroke-width="7" stroke-linejoin="round"/>
+<g clip-path="url(#leather)">
+<path d="M144 116H164L76 456L26 466ZM194 116H224L196 480L136 478ZM256 116H288L316 480L256 482ZM318 116H348L436 478L376 478Z" fill="#795B49"/>
+<path d="M164 116H178L102 470L76 456ZM224 116H238L226 482L196 480ZM288 116H302L346 480L316 480ZM348 116H360L464 474L436 478Z" fill="#614738"/>
+<path d="M164 134L76 432M194 134L136 436M224 134L196 438M256 134V440M288 134L316 438M318 134L376 436M348 134L436 432" fill="none" stroke="#322822" stroke-width="10" stroke-linecap="round"/>
+<path d="M150 180L98 360M212 190L198 340M272 184L278 336M332 178L374 344" fill="none" stroke="#B58E68" stroke-width="7" stroke-linecap="round"/>
+</g>
+<path d="M46 432Q60 440 70 434M90 440Q110 450 124 440M150 444Q168 454 184 446M210 446Q230 458 244 448M268 448Q282 458 302 446M328 446Q344 454 362 444M388 440Q402 450 422 440M442 434Q452 440 466 432" fill="none" stroke="#D5AE78" stroke-width="5" stroke-linecap="round"/>
+<g fill="#FFF0CF">
+<circle cx="58" cy="434" r="6"/>
+<circle cx="166" cy="448" r="6"/>
+<circle cx="286" cy="452" r="6"/>
+<circle cx="404" cy="444" r="6"/>
+</g>
+<g fill="#ED9274">
+<circle cx="108" cy="444" r="6"/>
+<circle cx="226" cy="452" r="6"/>
+<circle cx="346" cy="448" r="6"/>
+<circle cx="454" cy="434" r="6"/>
+</g>
+</svg>

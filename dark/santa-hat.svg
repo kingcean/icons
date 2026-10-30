@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="velvet" x1="154" y1="104" x2="365" y2="358" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF8580"/>
+<stop offset="0.55" stop-color="#F54D5A"/>
+<stop offset="1" stop-color="#CA2B4B"/>
+</linearGradient>
+<linearGradient id="fur" x1="180" y1="372" x2="261" y2="485" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFFDF4"/>
+<stop offset="0.55" stop-color="#F6FAFF"/>
+<stop offset="1" stop-color="#C6DBEB"/>
+</linearGradient>
+</defs>
+<path d="M84 380C107 250 137 139 196 73C228 36 275 23 312 54C364 98 383 175 442 216Q455 227 441 248L405 255C359 219 320 174 282 143C299 222 347 282 386 380Q233 410 84 380Z" fill="url(#velvet)" stroke="#FFACAA" stroke-width="8" stroke-linejoin="round"/>
+<path d="M196 113C155 169 135 232 124 288" fill="none" stroke="#FFC1AC" stroke-width="12" stroke-linecap="round"/>
+<path d="M282 143Q268 122 260 109" fill="none" stroke="#CD304D" stroke-width="9" stroke-linecap="round"/>
+<path d="M80 366Q95 356 112 367Q133 357 154 367Q175 357 196 367Q217 357 238 367Q259 357 280 367Q301 357 322 367Q343 357 364 367Q384 357 400 372Q418 387 410 408Q421 430 409 447Q410 469 387 475Q369 487 349 478Q329 489 308 479Q288 489 267 479Q247 489 226 479Q206 489 185 479Q165 489 144 479Q124 489 103 479Q80 486 65 469Q48 457 57 436Q46 416 57 398Q54 378 80 366Z" fill="url(#fur)" stroke="#D6E6F2" stroke-width="8" stroke-linejoin="round"/>
+<path d="M91 405Q234 422 382 405" fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+<path d="M428 248Q441 238 454 249Q474 244 481 264Q495 274 485 290Q488 308 469 313Q458 329 441 321Q423 329 412 313Q393 309 397 290Q387 273 401 263Q407 244 428 248Z" fill="#E7F1FA" stroke="#D6E6F2" stroke-width="8" stroke-linejoin="round"/>
+<path d="M416 274Q425 258 442 261" fill="none" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+</svg>

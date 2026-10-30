@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="felt" x1="135" y1="94" x2="402" y2="365" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E8ADC0"/>
+<stop offset="1" stop-color="#B8708E"/>
+</linearGradient>
+<linearGradient id="brim" x1="152" y1="376" x2="365" y2="454" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D59AB1"/>
+<stop offset="1" stop-color="#A55F7C"/>
+</linearGradient>
+</defs>
+<path d="M82 366Q256 412 430 366L456 422Q460 432 448 436Q256 480 64 436Q52 432 56 422Z" fill="url(#brim)" stroke="#F1C5D4" stroke-width="7" stroke-linejoin="round"/>
+<path d="M88 358V210C88 94 154 24 256 24C358 24 424 94 424 210V358Q256 408 88 358Z" fill="url(#felt)" stroke="#F1C5D4" stroke-width="7" stroke-linejoin="round"/>
+<path d="M128 238C128 146 164 91 216 77" fill="none" stroke="#FFDAE5" stroke-width="9" stroke-linecap="round"/>
+<path d="M86 342Q256 386 426 336L430 366Q256 416 82 368Z" fill="#65506C" stroke="#C7A5CD" stroke-width="6" stroke-linejoin="round"/>
+<path d="M352 346L331 330Q318 320 318 337V375Q318 392 331 384L352 372ZM390 346L424 328Q438 321 438 337V377Q438 393 424 386L390 372Z" fill="#8A688C" stroke="#DAB8DE" stroke-width="6" stroke-linejoin="round"/>
+<rect x="358" y="340" width="26" height="40" rx="9" fill="#E4BDD2" stroke="#AB83B0" stroke-width="6"/>
+<path d="M80 421Q256 461 432 421" fill="none" stroke="#F6D0DF" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="flower">
+<path d="M0 -22C-26 -58 -54 -28 -30 -8C-68 0 -52 42 -20 26C-18 66 18 66 20 26C52 42 68 0 30 -8C54 -28 26 -58 0 -22Z"/>
+<circle cx="0" cy="8" r="14"/>
+</g>
+</defs>
+<path d="M38 48H218Q218 100 256 100Q294 100 294 48H474Q488 48 488 62V450Q488 464 474 464H38Q24 464 24 450V62Q24 48 38 48Z"/>
+<path d="M202 62Q202 116 256 116Q310 116 310 62M174 64V448M338 64V448" stroke-linecap="round"/>
+<use href="#flower" x="112" y="196"/>
+<use href="#flower" x="256" y="196"/>
+<use href="#flower" x="400" y="196"/>
+<path d="M112 260V316M256 260V316M400 260V316M112 298Q74 308 64 272Q102 268 112 298ZM112 284Q120 252 154 256Q152 288 112 284ZM256 298Q218 308 208 272Q246 268 256 298ZM256 284Q264 252 298 256Q296 288 256 284ZM400 298Q362 308 352 272Q390 268 400 298ZM400 284Q408 252 442 256Q440 288 400 284Z" stroke-linecap="round"/>
+<path d="M42 342H158M190 342H322M354 342H470M42 412H158M190 412H322M354 412H470M42 436H158M190 436H322M354 436H470" stroke-linecap="round"/>
+</svg>

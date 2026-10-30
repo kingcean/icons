@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="132" width="104" height="88" rx="16"/>
+<rect x="24" y="292" width="104" height="88" rx="16"/>
+<path d="M36 160H116M36 320H116M56 180L48 188L56 196M96 180L104 188L96 196M56 340L48 348L56 356M96 340L104 348L96 356" stroke-linecap="round"/>
+<rect x="188" y="64" width="136" height="384" rx="28"/>
+<path d="M236 112L220 128L236 144M276 112L292 128L276 144M264 112L248 144" stroke-linecap="round"/>
+<circle cx="256" cy="244" r="36"/>
+<circle cx="244" cy="240" r="9"/>
+<path d="M253 240H278M268 240V252M278 240V248" stroke-linecap="round"/>
+<circle cx="256" cy="356" r="36"/>
+<path d="M234 364A22 22 0 0 1 278 364M256 364L270 344M242 376H270" stroke-linecap="round"/>
+<rect x="384" y="52" width="104" height="88" rx="16"/>
+<rect x="384" y="212" width="104" height="88" rx="16"/>
+<rect x="384" y="372" width="104" height="88" rx="16"/>
+<path d="M408 84H464M408 108H448M408 244H464M408 268H448M408 404H464M408 428H448" stroke-linecap="round"/>
+<path d="M140 176H176M164 164L176 176L164 188M140 336H176M164 324L176 336L164 348M336 96H372M360 84L372 96L360 108M336 256H372M360 244L372 256L360 268M336 416H372M360 404L372 416L360 428" stroke-linecap="round"/>
+</svg>

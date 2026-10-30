@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#3568C0" fill-rule="evenodd" d="M400 216A184 184 0 1 1 32 216A184 184 0 1 1 400 216Z M380 216A164 164 0 1 1 52 216A164 164 0 1 1 380 216Z M353 367Q346 360 353 353Q360 346 367 353L487 473Q494 480 487 487Q480 494 473 487Z"/>
+<rect x="120" y="240" width="32" height="64" rx="12" fill="#D99424"/>
+<rect x="200" y="192" width="32" height="112" rx="12" fill="#7961AC"/>
+<rect x="280" y="144" width="32" height="160" rx="12" fill="#16877D"/>
+</svg>

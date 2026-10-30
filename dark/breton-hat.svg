@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="crown" x1="146" y1="116" x2="372" y2="302" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#607CA5"/>
+<stop offset="1" stop-color="#30496F"/>
+</linearGradient>
+<linearGradient id="brim" x1="128" y1="285" x2="374" y2="418" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#718DB6"/>
+<stop offset="0.55" stop-color="#4C6993"/>
+<stop offset="1" stop-color="#354F77"/>
+</linearGradient>
+</defs>
+<path d="M24 250C24 210 128 178 256 178C384 178 488 210 488 250L478 324C464 387 367 426 256 426C145 426 48 387 34 324Z" fill="#354D72" stroke="#A0B7D7" stroke-width="8" stroke-linejoin="round"/>
+<path d="M106 294L112 252C112 154 170 88 256 88C342 88 400 154 400 252L406 294Q256 340 106 294Z" fill="url(#crown)" stroke="#A0B7D7" stroke-width="8" stroke-linejoin="round"/>
+<path d="M110 266Q256 310 402 266L406 294Q256 340 106 294Z" fill="#293D5E" stroke="#7E99BC" stroke-width="6" stroke-linejoin="round"/>
+<path d="M24 250C70 302 156 336 256 336C356 336 442 302 488 250L478 324C464 387 367 426 256 426C145 426 48 387 34 324Z" fill="url(#brim)" stroke="#A0B7D7" stroke-width="8" stroke-linejoin="round"/>
+<path d="M45 270C96 317 170 345 256 345C342 345 416 317 467 270" fill="none" stroke="#BDCEE6" stroke-width="7" stroke-linecap="round"/>
+</svg>

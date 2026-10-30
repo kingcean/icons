@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="motif" d="M-8-24H8V-16H16V-8H24V8H16V16H8V24H-8V16H-16V8H-24V-8H-16V-16H-8Z"/>
+</defs>
+<path fill-rule="evenodd" d="M148 24H364Q380 24 380 40V472Q380 488 364 488H148Q132 488 132 472V40Q132 24 148 24ZM148 46V58H364V46ZM148 70V82H364V70ZM160 96H352Q360 96 360 104V160Q360 168 352 168H160Q152 168 152 160V104Q152 96 160 96ZM148 188V200H364V188ZM160 220H352Q360 220 360 228V284Q360 292 352 292H160Q152 292 152 284V228Q152 220 160 220ZM148 312V324H364V312ZM160 344H352Q360 344 360 352V408Q360 416 352 416H160Q152 416 152 408V352Q152 344 160 344ZM148 430V442H364V430ZM148 454V466H364V454Z"/>
+<use href="#motif" transform="translate(184 132)"/>
+<use href="#motif" transform="translate(256 132)"/>
+<use href="#motif" transform="translate(328 132)"/>
+<use href="#motif" transform="translate(184 256)"/>
+<use href="#motif" transform="translate(256 256)"/>
+<use href="#motif" transform="translate(328 256)"/>
+<use href="#motif" transform="translate(184 380)"/>
+<use href="#motif" transform="translate(256 380)"/>
+<use href="#motif" transform="translate(328 380)"/>
+</svg>

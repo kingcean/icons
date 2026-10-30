@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M218 24Q256 60 294 24L348 44Q362 48 372 60L480 108Q492 114 486 128L456 224Q452 238 438 232L356 196V254Q356 270 340 270H172Q156 270 156 254V196L74 232Q60 238 56 224L26 128Q20 114 32 108L140 60Q150 48 164 44Z" fill="#96CDD2" stroke="#C4ECE9" stroke-width="7" stroke-linejoin="round"/>
+<path d="M212 34Q210 66 248 80L324 112Q336 118 330 134L290 250M52 106L86 214M460 106L426 214M172 250H340" fill="none" stroke="#6B588A" stroke-width="26" stroke-linejoin="round"/>
+<path d="M212 34Q210 66 248 80L324 112Q336 118 330 134L290 250M52 106L86 214M460 106L426 214M172 250H340" fill="none" stroke="#FFDB99" stroke-width="10" stroke-linejoin="round"/>
+<path d="M318 154L342 162M304 192L328 200" fill="none" stroke="#6B588A" stroke-width="10" stroke-linecap="round"/>
+<path d="M194 130C182 112 164 126 174 140C152 142 154 164 174 164C164 182 184 194 196 178C210 194 228 180 218 164C240 160 236 140 216 140C224 122 206 114 194 130Z" fill="#D66894"/>
+<circle cx="196" cy="152" r="9" fill="#FFE6B8"/>
+<path d="M176 288H336Q350 288 354 302L416 470Q422 488 404 488H108Q90 488 96 470L158 302Q162 288 176 288Z" fill="#CF7798" stroke="#F3B4CB" stroke-width="7" stroke-linejoin="round"/>
+<path d="M226 318H286V456H226Z" fill="#E899B0"/>
+<path d="M172 306H340" fill="none" stroke="#6B588A" stroke-width="20"/>
+<path d="M194 326L156 450M170 338L128 450M318 326L356 450M342 338L384 450" fill="none" stroke="#9B547A" stroke-width="9" stroke-linecap="round"/>
+<path d="M226 322V450M286 322V450" fill="none" stroke="#FFDB99" stroke-width="7"/>
+<path d="M256 356C242 336 222 352 234 368C210 370 212 394 234 394C222 414 244 428 258 410C272 428 294 412 282 394C306 390 300 368 280 368C290 348 270 338 256 356Z" fill="#FFE1A4"/>
+<circle cx="258" cy="382" r="11" fill="#AF587F"/>
+<path d="M246 430Q224 446 212 428Q232 418 246 430ZM270 430Q292 446 304 428Q284 418 270 430Z" fill="#B3E5CB"/>
+<path d="M108 470H404" fill="none" stroke="#6B588A" stroke-width="24"/>
+<path d="M108 470H404" fill="none" stroke="#FFDB99" stroke-width="9"/>
+</svg>

@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="bronze" x1="115" y1="202" x2="235" y2="352" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F0CF86"/>
+<stop offset="0.45" stop-color="#C49A50"/>
+<stop offset="1" stop-color="#87622E"/>
+</linearGradient>
+<linearGradient id="iron" x1="180" y1="148" x2="294" y2="373" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8499AC"/>
+<stop offset="1" stop-color="#455A6C"/>
+</linearGradient>
+</defs>
+<path d="M258 24L466 64V448L258 488Z" fill="#A87956" stroke="#513825" stroke-width="7" stroke-linejoin="round"/>
+<path d="M466 64L488 82V432L466 448Z" fill="#61432F" stroke="#513825" stroke-width="7" stroke-linejoin="round"/>
+<path d="M328 104L442 126M328 412L442 390M356 146V372" fill="none" stroke="#D6AC7F" stroke-width="8" stroke-linecap="round"/>
+<path d="M145 212L141 164Q137 126 171 120Q202 114 210 145L218 185L201 191L193 150Q189 133 174 136Q156 139 159 161L166 207Z" fill="#8499AC" stroke="#455A6C" stroke-width="6" stroke-linejoin="round"/>
+<path d="M90 218C151 227 216 201 266 155Q277 145 288 148Q320 260 288 372Q277 375 266 365C216 319 151 293 90 302C60 306 60 214 90 218Z" fill="url(#bronze)" stroke="#725328" stroke-width="7" stroke-linejoin="round"/>
+<path d="M89 234Q135 240 166 230M221 208L259 183" fill="none" stroke="#FFE6A7" stroke-width="8" stroke-linecap="round"/>
+<path d="M180 194Q198 260 180 326L198 333Q220 260 198 187ZM276 157Q306 260 276 363L294 373Q330 260 294 147Z" fill="url(#iron)" stroke="#293B48" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="194" cy="260" r="7" fill="#D7E4EB"/>
+<circle cx="303" cy="260" r="7" fill="#D7E4EB"/>
+</svg>

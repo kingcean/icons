@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<g transform="rotate(45 256 256)">
+<path d="M256-56L295 34L302 304Q302 310 296 310H216Q210 310 210 304L217 34Z"/>
+<rect x="202" y="324" width="108" height="40" rx="18"/>
+<path fill-rule="evenodd" d="M246 378H266Q280 378 280 392V480Q280 494 266 494H246Q232 494 232 480V392Q232 378 246 378ZM244 401Q240 401 240 406Q240 411 244 411H268Q272 411 272 406Q272 401 268 401ZM244 431Q240 431 240 436Q240 441 244 441H268Q272 441 272 436Q272 431 268 431ZM244 461Q240 461 240 466Q240 471 244 471H268Q272 471 272 466Q272 461 268 461Z"/>
+<circle cx="256" cy="542" r="34"/>
+</g>
+</svg>

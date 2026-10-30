@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="flower">
+<path d="M0-16C-20-40-40-18-22-4C-48 4-34 34-12 22C-10 48 18 48 18 22C42 30 50 2 26-6C40-28 14-40 0-16Z"/>
+<circle cx="2" cy="6" r="9"/>
+</g>
+</defs>
+<path d="M106 24Q256 70 406 24Q416 20 420 32L456 108Q462 122 448 128Q444 156 418 150Q404 180 378 166L330 148L338 214Q340 226 326 226H186Q172 226 174 214L182 148L134 166Q108 180 94 150Q68 156 64 128Q50 122 56 108L92 32Q96 20 106 24Z"/>
+<path d="M92 66Q256 122 420 66M76 112Q256 184 436 112M202 176L198 208M310 176L314 208" stroke-linecap="round"/>
+<circle cx="256" cy="94" r="18"/>
+<circle cx="256" cy="208" r="16"/>
+<path d="M182 242H330Q342 242 348 256C376 324 424 394 478 446Q498 466 482 480Q474 488 456 488H56Q38 488 30 480Q14 466 34 446C88 394 136 324 164 256Q170 242 182 242Z"/>
+<path d="M172 266H340M136 326Q256 362 376 326M72 416Q256 474 440 416M42 458Q256 514 470 458M208 282L190 310M256 282V320M304 282L322 310" stroke-linecap="round"/>
+<use href="#flower" transform="translate(188 300) scale(.48)"/>
+<use href="#flower" transform="translate(324 300) scale(.48)"/>
+<use href="#flower" transform="translate(122 390) scale(.72)"/>
+<use href="#flower" transform="translate(256 412) scale(.82)"/>
+<use href="#flower" transform="translate(390 390) scale(.72)"/>
+<path d="M122 426Q98 440 88 418Q112 410 122 426ZM256 452Q228 464 218 442Q246 434 256 452ZM390 426Q414 440 424 418Q400 410 390 426Z"/>
+</svg>

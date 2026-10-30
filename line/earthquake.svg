@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="rock-faces">
+<path d="M24 176H280L200 464H24ZM304 200H440V488H224Z"/>
+</clipPath>
+</defs>
+<path d="M24 176L72 128H328L280 176ZM24 176V464H200L280 176"/>
+<path d="M304 200L352 152H488L440 200ZM304 200L224 488H440L488 440V152M440 200V488"/>
+<g clip-path="url(#rock-faces)">
+<circle cx="256" cy="330" r="88"/>
+<circle cx="256" cy="330" r="58"/>
+<circle cx="256" cy="330" r="28"/>
+</g>
+<circle cx="256" cy="330" r="8"/>
+<path d="M112 88Q96 60 112 32M152 80Q140 60 152 40M392 88Q408 60 392 32M352 80Q364 60 352 40"/>
+</svg>

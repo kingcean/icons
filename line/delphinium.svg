@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="bloom">
+<path d="M-12-24C-25-52 14-58 24-28C44-43 66-26 48-7Q70 10 52 27Q35 47 13 28Q-2 54-24 31Q-46 44-54 21Q-66 0-43-9L-76-21Q-85-29-74-30L-37-27Q-28-41-12-24Z"/>
+<ellipse cx="2" cy="1" rx="12" ry="10"/>
+</g>
+</defs>
+<path d="M256 98V488M246 142L256 153M266 182L256 193M243 224L256 237M269 264L256 278M243 306L256 319M269 344L256 359"/>
+<path d="M241 424Q207 445 172 435Q157 430 182 412Q130 427 103 410Q93 401 141 384Q91 386 61 361Q50 350 68 350L147 366Q111 335 117 320Q121 310 133 319L190 374Q182 340 193 331Q200 325 206 338Q226 378 241 424ZM273 447Q312 466 344 452Q357 445 330 430Q382 440 411 420Q421 410 373 398Q422 395 455 371Q468 360 449 361L369 381Q403 345 394 332Q389 324 379 334L327 389Q333 354 322 347Q314 342 310 355Q288 395 273 447Z"/>
+<path d="M232 419L92 361M282 441L431 375"/>
+<use href="#bloom" transform="translate(256 58) scale(.62)"/>
+<use href="#bloom" transform="translate(206 124) scale(.7)"/>
+<use href="#bloom" transform="translate(306 164) scale(-.7 .7)"/>
+<use href="#bloom" transform="translate(204 206) scale(.74)"/>
+<use href="#bloom" transform="translate(308 246) scale(-.74 .74)"/>
+<use href="#bloom" transform="translate(204 288) scale(.74)"/>
+<use href="#bloom" transform="translate(306 328) scale(-.7 .7)"/>
+</svg>

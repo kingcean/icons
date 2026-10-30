@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="iron" x1="66" y1="160" x2="120" y2="148" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#455A6C"/>
+<stop offset="0.45" stop-color="#B9CBD7"/>
+<stop offset="1" stop-color="#637D92"/>
+</linearGradient>
+<g id="barrel">
+<path d="M98 242L62 130Q58 110 78 110Q94 110 98 126L138 242Z" fill="url(#iron)" stroke="#293B48" stroke-width="6" stroke-linejoin="round"/>
+<path d="M78 127L111 221" fill="none" stroke="#D7E4EB" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="118" cy="242" rx="20" ry="25" fill="#9EB4C5" stroke="#293B48" stroke-width="6"/>
+<ellipse cx="118" cy="242" rx="10" ry="14" fill="#25333D"/>
+</g>
+<g id="wheel">
+<path d="M0-68V68M-68 0H68M-48-48L48 48M48-48L-48 48" fill="none" stroke="#A87956" stroke-width="13" stroke-linecap="round"/>
+<circle r="69" fill="none" stroke="#513825" stroke-width="20"/>
+<circle r="69" fill="none" stroke="#C09970" stroke-width="10"/>
+<circle r="19" fill="#B88A3D" stroke="#725328" stroke-width="6"/>
+<circle r="6" fill="#455A6C"/>
+</g>
+</defs>
+<path d="M108 300V400H404V300" fill="none" stroke="#513825" stroke-width="20" stroke-linejoin="round"/>
+<path d="M24 280L76 196H436L488 280Z" fill="#C09970" stroke="#513825" stroke-width="7" stroke-linejoin="round"/>
+<path d="M24 280H488V298Q488 310 476 310H36Q24 310 24 298Z" fill="#79513A" stroke="#513825" stroke-width="7" stroke-linejoin="round"/>
+<path d="M44 291H468" fill="none" stroke="#D6AC7F" stroke-width="6" stroke-linecap="round"/>
+<use href="#barrel"/>
+<use href="#barrel" x="60"/>
+<use href="#barrel" x="120"/>
+<use href="#barrel" x="180"/>
+<use href="#barrel" x="240"/>
+<use href="#barrel" x="300"/>
+<use href="#wheel" x="108" y="400"/>
+<use href="#wheel" x="404" y="400"/>
+</svg>

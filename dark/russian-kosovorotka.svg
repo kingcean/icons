@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M176 354H336L352 474Q354 488 340 488H172Q158 488 160 474Z" fill="#F8ECD3" stroke="#D3C2A3" stroke-width="7" stroke-linejoin="round"/>
+<path d="M204 382L192 454M308 382L320 454" fill="none" stroke="#DFCCAA" stroke-width="9" stroke-linecap="round"/>
+<path d="M190 48H214V32Q214 24 222 24H290Q298 24 298 32V48H322Q338 48 350 60L402 98Q416 108 422 124L484 316Q488 330 476 334L440 346Q428 350 422 338L348 194L338 354H174L164 194L90 338Q84 350 72 346L36 334Q24 330 28 316L90 124Q96 108 110 98L162 60Q174 48 190 48Z" fill="#FFF6E3" stroke="#D3C2A3" stroke-width="7" stroke-linejoin="round"/>
+<path d="M190 102L202 164L208 322M322 102L310 234L304 322" fill="none" stroke="#E7D7B9" stroke-width="9" stroke-linecap="round"/>
+<path d="M222 24H290Q298 24 298 32V64H214V32Q214 24 222 24Z" fill="#E36D7C"/>
+<path d="M280 64H312V184Q312 196 300 196H292Q280 196 280 184Z" fill="#E36D7C"/>
+<path d="M296 70V182" fill="none" stroke="#A64058" stroke-width="8" stroke-linecap="round"/>
+<path d="M228 40L240 48L252 40L264 48L280 40" fill="none" stroke="#FFE0A0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M296 90L302 100L296 110L290 100ZM296 140L302 150L296 160L290 150Z" fill="#FFE0A0"/>
+<path d="M38 284L102 306L90 338Q84 350 72 346L36 334Q24 330 28 316ZM474 284L410 306L422 338Q428 350 440 346L476 334Q488 330 484 316Z" fill="#E36D7C"/>
+<path d="M38 300L96 320M474 300L416 320" fill="none" stroke="#FFE0A0" stroke-width="7"/>
+<path d="M52 313L58 325L70 321L76 333M460 313L454 325L442 321L436 333" fill="none" stroke="#FFF0C8" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M170 470H342" fill="none" stroke="#E5CEA2" stroke-width="8"/>
+<rect x="170" y="342" width="172" height="24" rx="7" fill="#658AA8"/>
+<path d="M182 347H330M182 361H330" fill="none" stroke="#E36D7C" stroke-width="5" stroke-linecap="round"/>
+<path d="M196 354L206 347L216 354L206 361ZM246 354L256 347L266 354L256 361ZM296 354L306 347L316 354L306 361Z" fill="#FFE0A0"/>
+</svg>

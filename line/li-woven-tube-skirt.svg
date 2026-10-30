@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="motif" d="M-8-24H8V-16H16V-8H24V8H16V16H8V24H-8V16H-16V8H-24V-8H-16V-16H-8Z"/>
+</defs>
+<rect x="132" y="24" width="248" height="464" rx="16"/>
+<path d="M148 52H364M148 76H364M148 188H364M148 200H364M148 312H364M148 324H364M148 436H364M148 460H364" stroke-linecap="round"/>
+<rect x="152" y="96" width="208" height="72" rx="8"/>
+<rect x="152" y="220" width="208" height="72" rx="8"/>
+<rect x="152" y="344" width="208" height="72" rx="8"/>
+<use href="#motif" transform="translate(184 132)"/>
+<use href="#motif" transform="translate(256 132)"/>
+<use href="#motif" transform="translate(328 132)"/>
+<use href="#motif" transform="translate(184 256)"/>
+<use href="#motif" transform="translate(256 256)"/>
+<use href="#motif" transform="translate(328 256)"/>
+<use href="#motif" transform="translate(184 380)"/>
+<use href="#motif" transform="translate(256 380)"/>
+<use href="#motif" transform="translate(328 380)"/>
+</svg>

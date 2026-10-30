@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="straw" x1="140" y1="150" x2="372" y2="285" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE3A5"/>
+<stop offset="1" stop-color="#DDB66D"/>
+</linearGradient>
+</defs>
+<path d="M24 308C24 274 128 246 256 246C384 246 488 274 488 308V330C488 364 384 392 256 392C128 392 24 364 24 330Z" fill="#BD914D" stroke="#F0D194" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="256" cy="308" rx="232" ry="66" fill="#F0CD89" stroke="#F7DCA2" stroke-width="7"/>
+<path d="M49 314C132 367 380 367 463 314M66 299C145 347 367 347 446 299" fill="none" stroke="#FFEBC0" stroke-width="7" stroke-linecap="round"/>
+<path d="M71 306L84 328M109 321L122 344M153 334L166 355M199 341L212 363M245 344L258 366M291 341L304 363M337 334L350 355M381 321L394 344M419 306L432 328" fill="none" stroke="#CCA255" stroke-width="6" stroke-linecap="round"/>
+<path d="M106 140Q256 216 406 140V278Q256 322 106 278Z" fill="url(#straw)" stroke="#F7DCA2" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="256" cy="140" rx="150" ry="38" fill="#FFE6AF" stroke="#E5BF78" stroke-width="7"/>
+<path d="M144 128Q256 103 368 128M134 145Q256 119 378 145M169 159Q256 139 343 159" fill="none" stroke="#CFA85F" stroke-width="6" stroke-linecap="round"/>
+<path d="M167 117L184 157M217 110L234 166M267 110L284 166M317 117L334 157" fill="none" stroke="#FFF5D7" stroke-width="7" stroke-linecap="round"/>
+<path d="M127 198Q256 237 385 198M127 220Q256 259 385 220" fill="none" stroke="#FFF0C6" stroke-width="6" stroke-linecap="round"/>
+<path d="M145 194L159 226M208 207L222 239M271 209L285 241M334 199L348 231" fill="none" stroke="#BF944D" stroke-width="6" stroke-linecap="round"/>
+<path d="M104 240Q256 282 408 240V278Q256 322 104 278Z" fill="#51485F" stroke="#B8A0BF" stroke-width="6" stroke-linejoin="round"/>
+<path d="M124 265Q256 300 388 265" fill="none" stroke="#D4B7D7" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="steel" x1="0" y1="178" x2="0" y2="202" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#EDF6FC"/>
+<stop offset="1" stop-color="#8CAEC8"/>
+</linearGradient>
+</defs>
+<path d="M48 226H116Q138 208 160 214H474Q484 214 484 224V232Q484 242 474 242H263Q232 242 207 282L151 319Q129 334 124 366L131 382Q136 410 111 421Q91 432 70 419Q50 405 57 384L77 318Q85 288 58 268L38 253Q24 241 32 232Q38 226 48 226Z" fill="#A87956" stroke="#DEB58E" stroke-width="7" stroke-linejoin="round"/>
+<path d="M47 237H117M257 229H470M94 310Q106 323 98 350L86 384" fill="none" stroke="#F0CF9F" stroke-width="8" stroke-linecap="round"/>
+<rect x="214" y="178" width="274" height="24" rx="6" fill="url(#steel)" stroke="#D2E4F1" stroke-width="7"/>
+<path d="M473 183V197" fill="none" stroke="#344A5B" stroke-width="7" stroke-linecap="round"/>
+<path d="M168 218C189 186 145 173 148 153C151 134 171 129 186 137L207 151L200 164L179 151Q169 143 165 153Q162 161 179 173Q202 189 184 222Z" fill="#9BB3C8" stroke="#D2E4F1" stroke-width="7" stroke-linejoin="round"/>
+<path d="M216 139L232 145Q237 147 234 152L230 161Q228 165 223 163L211 158Z" fill="#D3A653" stroke="#F4D396" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="181" cy="258" r="32" fill="#D3A653" stroke="#F4D396" stroke-width="7"/>
+<circle cx="181" cy="258" r="23" fill="#B5D2E5"/>
+<circle cx="181" cy="258" r="8" fill="#344A5B"/>
+<path d="M119 390Q121 407 105 413Q86 420 72 407Q63 397 69 383Z" fill="#F0C16D"/>
+</svg>

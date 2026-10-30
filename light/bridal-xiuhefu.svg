@@ -1,0 +1,29 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="phoenix">
+<path d="M-8-30Q-20-46-4-48L12-42L24-32L8-28Q12-14 0-4Q26-18 34-38Q42-8 20 12L8 22Q30 34 36 56Q14 48 0 32Q10 56-6 66Q-12 42-20 30Q-34 42-40 54Q-42 26-22 12Q-36 2-34-18Q-24-4-12-4Q-2-16-8-30Z" fill="#F2C565"/>
+<path d="M0-4Q14-2 22-18M8 22L-8 14M0 32L-16 22" fill="none" stroke="#FFF0C9" stroke-width="6" stroke-linecap="round"/>
+<circle cx="3" cy="-38" r="3" fill="#963044"/>
+</g>
+<g id="flower">
+<path d="M0-14C-18-34-36-14-20-2C-42 6-28 30-10 20C-8 44 16 44 16 20C36 28 42 4 22-4C34-22 12-34 0-14Z" fill="#EAB552"/>
+<circle cx="1" cy="5" r="8" fill="#FFF0C9"/>
+</g>
+</defs>
+<path d="M216 24H296V54L344 66Q358 68 368 84L486 148Q494 152 488 166L458 236Q452 248 440 242L350 196L344 238Q344 254 328 254H184Q168 254 168 238L162 196L72 242Q60 248 54 236L24 166Q18 152 26 148L144 84Q154 68 168 66L216 54Z" fill="#C93146" stroke="#94283D" stroke-width="7" stroke-linejoin="round"/>
+<path d="M216 24H296V54H216Z" fill="#A8243C"/>
+<path d="M216 54H296M226 36V54L300 126L238 234M38 158L68 226M474 158L444 226M184 236H328" fill="none" stroke="#E9B756" stroke-width="9" stroke-linejoin="round"/>
+<path d="M252 86L270 72M278 112L296 98M280 160L300 170M258 198L278 208" fill="none" stroke="#FFF0C9" stroke-width="7" stroke-linecap="round"/>
+<use href="#phoenix" transform="translate(212 145) scale(.7)"/>
+<use href="#flower" transform="translate(325 111) scale(.55)"/>
+<path d="M94 154Q116 132 132 148Q124 170 102 164ZM418 154Q396 132 380 148Q388 170 410 164Z" fill="#DCA446"/>
+<path d="M178 272H334Q348 272 354 286C380 346 422 412 472 464Q492 488 464 488H48Q20 488 40 464C90 412 132 346 158 286Q164 272 178 272Z" fill="#BA2943" stroke="#94283D" stroke-width="7" stroke-linejoin="round"/>
+<path d="M224 306H288L310 478H202Z" fill="#D94050"/>
+<path d="M170 296H342M54 466Q256 498 458 466" fill="none" stroke="#E9B756" stroke-width="12"/>
+<path d="M198 316L150 422M314 316L362 422M118 374L82 430M394 374L430 430" fill="none" stroke="#E9B756" stroke-width="8" stroke-linecap="round"/>
+<use href="#phoenix" transform="translate(256 386) scale(.95)"/>
+<use href="#flower" transform="translate(142 380) scale(.75)"/>
+<use href="#flower" transform="translate(370 380) scale(.75)"/>
+<path d="M130 418Q102 426 96 404Q120 398 130 418ZM382 418Q410 426 416 404Q392 398 382 418Z" fill="#DCA446"/>
+<path d="M168 445L180 433L192 445L180 457ZM320 445L332 433L344 445L332 457Z" fill="#FFF0C9"/>
+</svg>

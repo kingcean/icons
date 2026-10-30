@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="tweed" x1="152" y1="144" x2="366" y2="325" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E3CD99"/>
+<stop offset="0.55" stop-color="#C3AE7B"/>
+<stop offset="1" stop-color="#9A8B63"/>
+</linearGradient>
+<linearGradient id="bills" x1="113" y1="311" x2="271" y2="389" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C2AA75"/>
+<stop offset="1" stop-color="#93835A"/>
+</linearGradient>
+</defs>
+<path d="M377 303Q438 305 481 334Q497 346 479 353Q441 369 397 354L356 332ZM111 310Q173 334 243 335C209 380 111 404 35 378Q17 372 28 358Q58 329 111 310Z" fill="url(#bills)" stroke="#E6CF9D" stroke-width="8" stroke-linejoin="round"/>
+<path d="M48 365Q127 386 204 357M417 338Q446 346 471 344" fill="none" stroke="#FFE6B2" stroke-width="6" stroke-linecap="round"/>
+<path d="M110 310C112 182 173 106 258 106C339 106 382 178 390 300Q256 355 110 310Z" fill="url(#tweed)" stroke="#E6CF9D" stroke-width="8" stroke-linejoin="round"/>
+<path d="M254 158Q263 229 260 319" fill="none" stroke="#89734E" stroke-width="8" stroke-linecap="round"/>
+<path d="M221 194L230 204L239 194M278 194L287 204L296 194M211 238L220 248L229 238M278 238L287 248L296 238M211 282L220 292L229 282M279 282L288 292L297 282" fill="none" stroke="#FFF0C3" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M132 294L186 173Q203 137 245 91L258 104Q222 154 203 221L177 306Q154 304 132 294Z" fill="#D5B57B" stroke="#F1D7A6" stroke-width="7" stroke-linejoin="round"/>
+<path d="M266 97Q310 135 333 184L370 284L338 299L307 207Q293 165 252 114Z" fill="#B39465" stroke="#F1D7A6" stroke-width="7" stroke-linejoin="round"/>
+<path d="M164 269L173 246L181 251L190 228M322 228L331 250L339 245L348 268" fill="none" stroke="#FFE6B5" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M246 77L209 60Q194 52 196 69L201 91Q203 104 216 98L246 88ZM269 77L305 59Q319 52 317 69L312 91Q310 104 297 98L269 88Z" fill="#A4795A" stroke="#E9C29C" stroke-width="6" stroke-linejoin="round"/>
+<rect x="246" y="68" width="22" height="31" rx="8" fill="#E3B889" stroke="#F5D6B0" stroke-width="6"/>
+</svg>

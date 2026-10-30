@@ -1,0 +1,27 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(80 30) rotate(25)">
+<rect x="0" y="-18" width="240" height="36" rx="12"/>
+<path d="M26-18V18M214-18V18M44-5H196" stroke-linecap="round"/>
+</g>
+<g transform="rotate(25 317 142)">
+<rect x="303" y="132" width="28" height="20" rx="9"/>
+</g>
+<g transform="rotate(25 346 155)">
+<rect x="332" y="145" width="28" height="20" rx="9"/>
+</g>
+<g transform="translate(361 182) rotate(145)">
+<rect x="0" y="-18" width="240" height="36" rx="12"/>
+<path d="M26-18V18M214-18V18M44-5H196" stroke-linecap="round"/>
+</g>
+<g transform="rotate(145 147 334)">
+<rect x="133" y="324" width="28" height="20" rx="9"/>
+</g>
+<g transform="rotate(145 123 351)">
+<rect x="109" y="341" width="28" height="20" rx="9"/>
+</g>
+<g transform="translate(99 384) rotate(25)">
+<rect x="0" y="-18" width="240" height="36" rx="12"/>
+<path d="M26-18V18M214-18V18M44-5H196" stroke-linecap="round"/>
+</g>
+</svg>

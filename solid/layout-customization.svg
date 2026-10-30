@@ -1,12 +1,7 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
-<path fill-rule="evenodd" d="M48 32H464Q488 32 488 56V456Q488 480 464 480H48Q24 480 24 456V56Q24 32 48 32ZM48 120V448Q48 456 56 456H456Q464 456 464 448V120ZM64 62Q54 62 54 72Q54 82 64 82H96Q106 82 106 72Q106 62 96 62Z"/>
-<rect x="64" y="152" width="128" height="280" rx="16"/>
-<rect x="224" y="152" width="216" height="112" rx="16"/>
-<rect x="232" y="316" width="200" height="104" rx="16"/>
-<path d="M224 286H248Q254 286 254 292Q254 298 248 298H224Q214 298 214 308V328Q214 334 208 334Q202 334 202 328V308Q202 286 224 286ZM416 286H440Q462 286 462 308V328Q462 334 456 334Q450 334 450 328V308Q450 298 440 298H416Q410 298 410 292Q410 286 416 286ZM462 408V428Q462 450 440 450H416Q410 450 410 444Q410 438 416 438H440Q450 438 450 428V408Q450 402 456 402Q462 402 462 408ZM248 450H224Q202 450 202 428V408Q202 402 208 402Q214 402 214 408V428Q214 438 224 438H248Q254 438 254 444Q254 450 248 450Z"/>
-<rect x="302" y="286" width="60" height="12" rx="6"/>
-<rect x="302" y="438" width="60" height="12" rx="6"/>
-<rect x="202" y="346" width="12" height="44" rx="6"/>
-<rect x="450" y="346" width="12" height="44" rx="6"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M56 64H456Q488 64 488 96V416Q488 448 456 448H56Q24 448 24 416V96Q24 64 56 64ZM64 160Q56 160 56 168V408Q56 416 64 416H448Q456 416 456 408V168Q456 160 448 160Z"/>
+<rect x="80" y="192" width="96" height="200" rx="16"/>
+<rect x="200" y="192" width="232" height="80" rx="16"/>
+<rect x="200" y="296" width="232" height="96" rx="16"/>
 </svg>

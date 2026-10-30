@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="barrel" fill-rule="evenodd" d="M98 242L62 130Q58 110 78 110Q94 110 98 126L138 242A20 25 0 0 1 118 267A20 25 0 0 1 98 242ZM108 242A10 14 0 1 0 128 242A10 14 0 1 0 108 242Z"/>
+<g id="wheel">
+<path fill-rule="evenodd" d="M-78 0A78 78 0 1 0 78 0A78 78 0 1 0-78 0ZM-62 0A62 62 0 1 0 62 0A62 62 0 1 0-62 0Z"/>
+<rect x="-7" y="-66" width="14" height="132" rx="6"/>
+<rect x="-66" y="-7" width="132" height="14" rx="6"/>
+<rect x="-7" y="-66" width="14" height="132" rx="6" transform="rotate(45)"/>
+<rect x="-7" y="-66" width="14" height="132" rx="6" transform="rotate(-45)"/>
+<circle r="19"/>
+</g>
+</defs>
+<path d="M24 270L76 196H436L488 270H450Q446 278 432 278H108Q94 278 90 270Z"/>
+<path d="M24 290H488V298Q488 310 476 310H36Q24 310 24 298Z"/>
+<rect x="198" y="320" width="116" height="14" rx="7"/>
+<use href="#barrel"/>
+<use href="#barrel" x="60"/>
+<use href="#barrel" x="120"/>
+<use href="#barrel" x="180"/>
+<use href="#barrel" x="240"/>
+<use href="#barrel" x="300"/>
+<use href="#wheel" x="108" y="400"/>
+<use href="#wheel" x="404" y="400"/>
+</svg>

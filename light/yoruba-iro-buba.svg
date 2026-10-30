@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M166 316H346Q360 316 360 330L380 472Q382 488 366 488H146Q130 488 132 472L152 330Q152 316 166 316Z" fill="#68508F" stroke="#48356C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M162 350H352M158 384H356M152 418H362M146 474H366" fill="none" stroke="#D5A95A" stroke-width="12"/>
+<path d="M182 336L168 464M204 336L190 456M340 336L356 464" fill="none" stroke="#9475AF" stroke-width="8"/>
+<path d="M172 330H344L320 458Q318 470 304 466L224 444Q214 442 216 430L230 348Z" fill="#9272AC"/>
+<path d="M234 352H338M228 386H332M222 420H326M224 444L308 466" fill="none" stroke="#E4BA70" stroke-width="12"/>
+<path d="M258 350L244 438M292 350L278 448M326 350L308 454" fill="none" stroke="#6D518D" stroke-width="8"/>
+<path d="M172 330H344L320 458Q318 470 304 466L224 444Q214 442 216 430L230 348M224 444L156 474" fill="none" stroke="#48356C" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M184 164H222Q222 196 256 196Q290 196 290 164H328Q344 164 360 174L478 224Q490 230 486 244L470 286Q466 300 452 296L350 266L360 290Q364 302 350 302H162Q148 302 152 290L162 266L60 296Q46 300 42 286L26 244Q22 230 34 224L152 174Q168 164 184 164Z" fill="#9272AC" stroke="#594077" stroke-width="7" stroke-linejoin="round"/>
+<path d="M208 174Q208 210 256 210Q304 210 304 174M60 248L78 280M452 248L434 280M174 286H338" fill="none" stroke="#E4BA70" stroke-width="12" stroke-linejoin="round"/>
+<path d="M176 238L172 266M208 234V266M240 234V266M272 234V266M304 234V266M336 238L340 266" fill="none" stroke="#6D518D" stroke-width="8" stroke-linecap="round"/>
+<path d="M176 250H336" fill="none" stroke="#C7AAD1" stroke-width="8"/>
+<path d="M170 142L108 94Q98 86 108 76L154 38Q166 28 182 34L208 44L250 26Q264 20 278 30L306 50L338 40Q352 36 362 48L406 96Q416 108 400 116L342 142Z" fill="#167F86" stroke="#155B69" stroke-width="7" stroke-linejoin="round"/>
+<path d="M120 78L198 116M164 42L220 102M214 44L242 96M264 32L266 96M304 52L290 102M348 52L312 114M394 102L330 130" fill="none" stroke="#69BAB5" stroke-width="10" stroke-linecap="round"/>
+<path d="M170 142Q208 96 256 96Q304 96 342 142Z" fill="#D5A95A"/>
+<path d="M190 138Q220 110 256 110Q292 110 322 138" fill="none" stroke="#167F86" stroke-width="10" stroke-linecap="round"/>
+</svg>

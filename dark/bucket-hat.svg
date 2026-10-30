@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="cotton" x1="154" y1="166" x2="366" y2="302" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A2DFCF"/>
+<stop offset="1" stop-color="#5AAC9F"/>
+</linearGradient>
+<linearGradient id="brim" x1="154" y1="286" x2="354" y2="410" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#6FBEB0"/>
+<stop offset="1" stop-color="#438E86"/>
+</linearGradient>
+</defs>
+<path d="M112 270Q256 316 400 270L484 350Q492 360 478 366C360 424 152 424 34 366Q20 360 28 350Z" fill="url(#brim)" stroke="#B5E6D6" stroke-width="7" stroke-linejoin="round"/>
+<path d="M78 329Q256 391 434 329M54 351Q256 428 458 351" fill="none" stroke="#C3EBDD" stroke-width="6" stroke-linecap="round"/>
+<path d="M132 140Q256 204 380 140L400 270Q256 316 112 270Z" fill="url(#cotton)" stroke="#B5E6D6" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="256" cy="140" rx="124" ry="32" fill="#C1EBD9" stroke="#89C9B6" stroke-width="7"/>
+<path d="M166 137C207 120 288 119 331 132" fill="none" stroke="#EDFFF2" stroke-width="8" stroke-linecap="round"/>
+<path d="M152 259Q256 286 360 259" fill="none" stroke="#D9F5E7" stroke-width="6" stroke-linecap="round"/>
+</svg>

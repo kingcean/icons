@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="straw" x1="154" y1="124" x2="365" y2="313" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF0C8"/>
+<stop offset="1" stop-color="#D8BA7A"/>
+</linearGradient>
+<linearGradient id="brim" x1="135" y1="321" x2="352" y2="413" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F6E3AE"/>
+<stop offset="1" stop-color="#CDA86B"/>
+</linearGradient>
+</defs>
+<path d="M100 328Q270 367 400 322L467 330Q489 329 488 348Q484 371 460 384C358 432 154 430 44 379Q24 370 24 353V335Q24 317 42 321L68 332Z" fill="url(#brim)" stroke="#9C7C47" stroke-width="7" stroke-linejoin="round"/>
+<path d="M50 354Q255 437 462 354M67 340Q255 414 447 341" fill="none" stroke="#FFF1CA" stroke-width="6" stroke-linecap="round"/>
+<path d="M82 348L93 364M128 360L139 376M174 370L185 386M220 375L231 391M266 376L277 392M312 372L323 388M358 364L369 380M404 351L415 367" fill="none" stroke="#B79559" stroke-width="5" stroke-linecap="round"/>
+<path d="M122 172Q119 145 144 129L195 105Q212 97 231 108L271 127Q284 133 299 123Q319 110 336 123L365 148Q377 160 378 180L397 307Q270 351 103 312Z" fill="url(#straw)" stroke="#9C7C47" stroke-width="7" stroke-linejoin="round"/>
+<path d="M156 151L207 127Q218 123 229 130L267 149Q282 157 298 147L321 135Q330 132 336 141Q341 149 330 156L295 175Q280 183 264 175L220 154Q210 149 199 154L166 171Q152 177 156 151Z" fill="#BE9A5F" stroke="#FFF5D8" stroke-width="6" stroke-linejoin="round"/>
+<path d="M333 188Q306 203 314 247M363 188Q348 210 357 239" fill="none" stroke="#B68E54" stroke-width="8" stroke-linecap="round"/>
+<path d="M140 205Q214 227 291 223M137 224Q214 247 291 241M133 244Q214 267 294 261M130 263Q214 287 298 280" fill="none" stroke="#FFF5D5" stroke-width="5" stroke-linecap="round"/>
+<path d="M152 202L164 219M193 211L205 228M234 217L246 234M275 215L287 232M147 240L159 257M188 249L200 266M229 255L241 272M270 253L282 270" fill="none" stroke="#C4A467" stroke-width="5" stroke-linecap="round"/>
+<path d="M106 296Q270 332 394 290L400 322Q270 367 100 328Z" fill="#303441" stroke="#202430" stroke-width="6" stroke-linejoin="round"/>
+<path d="M120 318Q270 349 383 316" fill="none" stroke="#716877" stroke-width="5" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M166 304H346L398 470Q404 488 386 488H126Q108 488 114 470Z" fill="#292E3D"/>
+<path d="M178 352L140 466M208 352L184 466M240 352L230 466M272 352L282 466M304 352L328 466M334 352L372 466" fill="none" stroke="#536078" stroke-width="12" stroke-linecap="round"/>
+<path d="M226 128Q226 164 256 164Q286 164 286 128H324Q338 128 348 140L476 196Q490 202 486 216L466 294Q462 308 448 302L394 282L346 220V298Q346 310 334 310H178Q166 310 166 298V220L118 282L64 302Q50 308 46 294L26 216Q22 202 36 196L164 140Q174 128 188 128Z" fill="#D63E48"/>
+<path d="M212 132Q212 180 256 180Q300 180 300 132M180 288H332" fill="none" stroke="#8F293F" stroke-width="12" stroke-linecap="round"/>
+<path d="M46 224L64 282M466 224L448 282" fill="none" stroke="#30394F" stroke-width="24" stroke-linecap="round"/>
+<path d="M66 214L84 274M446 214L428 274" fill="none" stroke="#EBC58E" stroke-width="12" stroke-linecap="round"/>
+<path d="M94 218L102 210L110 218L102 226ZM120 204L128 196L136 204L128 212ZM146 190L154 182L162 190L154 198ZM350 190L358 182L366 190L358 198ZM376 204L384 196L392 204L384 212ZM402 218L410 210L418 218L410 226Z" fill="#F4D7A4"/>
+<path d="M178 332H334" fill="none" stroke="#A53546" stroke-width="16" stroke-linecap="round"/>
+<path d="M190 24H314Q328 24 332 40L346 88Q350 104 334 104H178Q162 104 166 88L176 40Q178 24 190 24Z" fill="#30394F"/>
+<path d="M174 84L296 52" fill="none" stroke="#202738" stroke-width="12" stroke-linecap="round"/>
+<path d="M180 50Q252 72 336 80" fill="none" stroke="#617088" stroke-width="14" stroke-linecap="round"/>
+</svg>

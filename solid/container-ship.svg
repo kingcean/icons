@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solid-icon">
+<path d="M92 86Q92 80 98 80Q104 80 104 86V102H92ZM80 114H122Q126 114 126 118V130H76V118Q76 114 80 114Z"/>
+<path fill-rule="evenodd" d="M68 142H112Q118 142 118 148V288H62V148Q62 142 68 142ZM74 152V166H106V152ZM74 184V204H86V184ZM94 184V204H106V184ZM74 226V246H86V226ZM94 226V246H106V226Z"/>
+<rect x="134" y="174" width="60" height="32" rx="4"/>
+<rect x="204" y="174" width="60" height="32" rx="4"/>
+<rect x="274" y="174" width="60" height="32" rx="4"/>
+<rect x="344" y="174" width="60" height="32" rx="4"/>
+<rect x="134" y="216" width="60" height="32" rx="4"/>
+<rect x="204" y="216" width="60" height="32" rx="4"/>
+<rect x="274" y="216" width="60" height="32" rx="4"/>
+<rect x="344" y="216" width="60" height="32" rx="4"/>
+<rect x="414" y="216" width="60" height="32" rx="4"/>
+<rect x="134" y="258" width="60" height="32" rx="4"/>
+<rect x="204" y="258" width="60" height="32" rx="4"/>
+<rect x="274" y="258" width="60" height="32" rx="4"/>
+<rect x="344" y="258" width="60" height="32" rx="4"/>
+<rect x="414" y="258" width="60" height="32" rx="4"/>
+<path fill-rule="evenodd" d="M30 306H100Q280 322 426 306L482 292Q492 288 488 302L460 366Q436 414 374 422H110Q58 416 44 378L24 318Q20 302 30 306ZM55 386Q49 385 48 391Q47 397 53 398Q260 426 441 398Q447 397 446 391Q445 385 439 386Q260 414 55 386Z"/>
+<path d="M27 455Q58 473 89 455Q114 441 139 455Q170 473 201 455Q226 441 251 455Q282 473 313 455Q338 441 363 455Q394 473 425 455Q450 441 475 455Q480 458 483 453Q486 448 481 445Q450 427 419 445Q394 459 369 445Q338 427 307 445Q282 459 257 445Q226 427 195 445Q170 459 145 445Q114 427 83 445Q58 459 33 445Q28 442 25 447Q22 452 27 455Z"/>
+</g>
+</svg>

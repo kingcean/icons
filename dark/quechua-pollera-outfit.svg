@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="skirt">
+<path d="M176 286H336Q350 286 356 302Q394 392 478 456Q490 466 482 478Q476 488 462 488H50Q36 488 30 478Q22 466 34 456Q118 392 156 302Q162 286 176 286Z"/>
+</clipPath>
+</defs>
+<path d="M174 70V48Q174 24 256 24Q338 24 338 48V70Z" fill="#E05268"/>
+<path d="M154 62Q256 32 358 62Q372 66 366 78Q346 108 256 108Q166 108 146 78Q140 66 154 62Z" fill="#F16974" stroke="#FFADB3" stroke-width="7" stroke-linejoin="round"/>
+<path d="M166 76Q256 100 346 76" fill="none" stroke="#FFD078" stroke-width="10" stroke-linecap="round"/>
+<path d="M172 134H222Q256 170 290 134H340Q354 134 364 148L432 224Q440 234 430 244L400 270Q390 278 382 266L336 208L328 234L342 256Q348 270 332 270H180Q164 270 170 256L184 234L176 208L130 266Q122 278 112 270L82 244Q72 234 80 224L148 148Q158 134 172 134Z" fill="#E05268" stroke="#FFADB3" stroke-width="7" stroke-linejoin="round"/>
+<path d="M172 134H222Q256 170 290 134H340L320 192L256 236L192 192Z" fill="#439FB0"/>
+<path d="M186 146L204 182L256 218L308 182L326 146" fill="none" stroke="#FFDB8A" stroke-width="12" stroke-linejoin="round"/>
+<path d="M210 154L222 174L256 198L290 174L302 154" fill="none" stroke="#EBF5E9" stroke-width="8" stroke-linejoin="round"/>
+<path d="M100 230L126 252M412 230L386 252" fill="none" stroke="#FFDB8A" stroke-width="14"/>
+<circle cx="256" cy="253" r="7" fill="#FFDB8A"/>
+<path d="M176 286H336Q350 286 356 302Q394 392 478 456Q490 466 482 478Q476 488 462 488H50Q36 488 30 478Q22 466 34 456Q118 392 156 302Q162 286 176 286Z" fill="#F06580" stroke="#FFB1C0" stroke-width="7" stroke-linejoin="round"/>
+<g clip-path="url(#skirt)">
+<path d="M150 286H362V316H150Z" fill="#B84B6E"/>
+<path d="M136 346Q256 370 376 346L400 382Q256 412 112 382Z" fill="#FFD16A"/>
+<path d="M104 402Q256 436 408 402L432 430Q256 466 80 430Z" fill="#4CB7B7"/>
+<path d="M56 452Q256 492 456 452L494 484Q256 524 18 484Z" fill="#AC7BC7"/>
+<path d="M142 350Q256 374 370 350M112 396Q256 430 400 396M64 446Q256 484 448 446" fill="none" stroke="#FFE7AC" stroke-width="8"/>
+<path d="M210 330L198 352M256 330V358M302 330L314 352" fill="none" stroke="#C13F64" stroke-width="9" stroke-linecap="round"/>
+</g>
+</svg>

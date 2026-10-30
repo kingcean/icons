@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M196 202Q256 226 316 202L350 474Q352 488 338 488H174Q160 488 162 474Z" fill="#F780A2"/>
+<path d="M218 266L208 462M274 264L292 462" fill="none" stroke="#D55483" stroke-width="10" stroke-linecap="round"/>
+<path fill-rule="evenodd" d="M256 24Q178 24 164 124L150 180Q120 220 112 280L90 468Q88 488 108 488H404Q424 488 420 468L386 290Q380 228 350 184L338 124Q324 24 256 24ZM210 118L196 190Q256 218 316 190L302 118Q300 66 256 66Q212 66 210 118ZM192 224L170 374Q264 330 348 310L328 216Q250 250 192 224Z" fill="#68E0D8" fill-opacity="0.86" stroke="#9CECE4" stroke-width="7" stroke-linejoin="round"/>
+<path d="M256 38Q190 38 178 126L164 184Q132 228 126 282L104 470Q104 474 110 474H402M210 118Q212 66 256 66Q300 66 302 118L316 190Q256 218 196 190Z" fill="none" stroke="#FFD47D" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M192 224Q250 250 328 216L348 310Q264 330 170 374L156 474M348 310Q362 394 398 474" fill="none" stroke="#FFE8A6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M164 142Q154 214 184 218M334 190Q350 210 356 240M182 400L178 448M228 372V448M274 352L286 448" fill="none" stroke="#38ABA9" stroke-opacity="0.7" stroke-width="9" stroke-linecap="round"/>
+</svg>

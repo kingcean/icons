@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="metal" x1="0" y1="190" x2="0" y2="322" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#B5D2E5"/>
+<stop offset="0.35" stop-color="#EDF6FC"/>
+<stop offset="1" stop-color="#8CAEC8"/>
+</linearGradient>
+</defs>
+<g transform="rotate(-30 256 256)">
+<rect x="0" y="238" width="244" height="36" rx="10" fill="#DEB58E"/>
+<path d="M16 246H218" fill="none" stroke="#F0CF9F" stroke-width="7" stroke-linecap="round"/>
+<path d="M474 204H294Q278 190 252 190H236Q218 190 218 208V304Q218 322 236 322H252Q278 322 294 308H474Z" fill="url(#metal)" stroke="#D2E4F1" stroke-width="7" stroke-linejoin="round"/>
+<path d="M237 205H252Q273 205 289 218H447" fill="none" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round"/>
+<ellipse cx="474" cy="256" rx="28" ry="52" fill="#B5D2E5" stroke="#D2E4F1" stroke-width="7"/>
+<ellipse cx="474" cy="256" rx="15" ry="36" fill="#344A5B"/>
+<path d="M476 222Q487 256 476 290" fill="none" stroke="#7894AD" stroke-width="5" stroke-linecap="round"/>
+</g>
+</svg>

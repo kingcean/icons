@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="rotate(45 256 256)">
+<path d="M236-64C217-12 218 46 240 112H270V82C252 40 241-10 236-64Z"/>
+<path d="M232-22Q225 42 249 94" stroke-linecap="round"/>
+<rect x="220" y="126" width="72" height="24" rx="8"/>
+<rect x="242" y="164" width="28" height="412" rx="10"/>
+</g>
+</svg>

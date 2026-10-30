@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="indigo" x1="117" y1="114" x2="392" y2="327" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#344D79"/>
+<stop offset="1" stop-color="#172846"/>
+</linearGradient>
+</defs>
+<path d="M92 321L91 386M422 307L432 379" fill="none" stroke="#385D81" stroke-width="12" stroke-linecap="round"/>
+<path d="M78 382Q91 375 104 382L119 422Q121 431 111 434Q91 441 70 434Q61 431 64 423Z" fill="#D45D86" stroke="#953C62" stroke-width="6" stroke-linejoin="round"/>
+<path d="M417 373Q430 366 443 373L459 413Q462 422 452 425Q432 433 411 426Q402 423 404 416Z" fill="#39A7A8" stroke="#246F7F" stroke-width="6" stroke-linejoin="round"/>
+<path d="M85 396L79 422M97 396L105 423" fill="none" stroke="#F6B3BD" stroke-width="6" stroke-linecap="round"/>
+<path d="M424 388L418 414M436 388L445 414" fill="none" stroke="#A4E3CE" stroke-width="6" stroke-linecap="round"/>
+<path d="M40 286C42 169 117 82 233 82C352 82 447 156 472 266L466 311C352 374 164 387 51 335Q44 332 44 323Z" fill="url(#indigo)" stroke="#14233E" stroke-width="8" stroke-linejoin="round"/>
+<path d="M53 240C176 286 348 274 458 219L466 250C352 302 174 316 49 270Z" fill="#A74673"/>
+<path d="M53 240C176 286 348 274 458 219M49 270C174 316 352 302 466 250" fill="none" stroke="#EDAB65" stroke-width="6" stroke-linecap="round"/>
+<path d="M91 256L111 246L129 267L109 276ZM254 274L272 258L294 275L276 291ZM410 236L423 217L445 228L432 247Z" fill="#F3CA72"/>
+<path d="M171 273L190 259L210 279L191 293ZM337 259L352 240L376 253L361 272Z" fill="#78D5CB"/>
+<path d="M46 300C168 351 353 336 468 278L466 311C352 374 164 387 51 335Z" fill="#258B99"/>
+<path d="M50 310C170 359 351 345 463 289M54 330C173 375 349 361 462 307" fill="none" stroke="#E9AF64" stroke-width="6" stroke-linecap="round"/>
+<path d="M80 333L94 324L108 341L122 332L137 347L152 338L167 352L182 342L198 355L214 344L230 356L246 344L262 354L278 341L294 350L309 336L325 344L340 329L356 336L370 319L385 325L398 307L414 312L426 294L441 298" fill="none" stroke="#F1CAD6" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M85 202C111 147 160 112 217 107" fill="none" stroke="#61779A" stroke-width="8" stroke-linecap="round"/>
+</svg>

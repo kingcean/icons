@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M56 64H456Q488 64 488 96V416Q488 448 456 448H56Q24 448 24 416V96Q24 64 56 64ZM64 160Q56 160 56 168V408Q56 416 64 416H448Q456 416 456 408V168Q456 160 448 160Z"/>
+<rect x="168" y="176" width="16" height="224" rx="8"/>
+<circle cx="104" cy="216" r="24"/>
+<circle cx="140" cy="240" r="10"/>
+<circle cx="104" cy="328" r="24"/>
+<circle cx="140" cy="352" r="10"/>
+<path d="M240 192H416Q432 192 432 208V248Q432 264 416 264H256L232 282Q224 288 224 278V208Q224 192 240 192Z"/>
+<path d="M256 312H432Q448 312 448 328V406Q448 416 440 410L416 392H256Q240 392 240 376V328Q240 312 256 312Z"/>
+</svg>

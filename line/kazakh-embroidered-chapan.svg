@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="half" d="M198 24H222L250 104L246 236H172V194L122 254L64 276Q50 282 46 266L26 186Q22 170 36 164L166 50Q180 24 198 24ZM170 280H244L238 476Q238 488 226 488H118Q100 488 106 470Z"/>
+<path id="trim" d="M210 48L230 108L224 222M222 298L216 464H130M48 184L68 254" stroke-linecap="round"/>
+<path id="curl" d="M220 144C184 144 184 188 208 188C230 188 230 164 212 164Q200 164 204 176" stroke-linecap="round"/>
+</defs>
+<use href="#half"/>
+<use href="#half" transform="translate(512 0) scale(-1 1)"/>
+<use href="#trim"/>
+<use href="#trim" transform="translate(512 0) scale(-1 1)"/>
+<use href="#curl"/>
+<use href="#curl" transform="translate(512 0) scale(-1 1)"/>
+<use href="#curl" transform="translate(-6 176)"/>
+<use href="#curl" transform="translate(518 176) scale(-1 1)"/>
+<path d="M132 440Q150 420 168 440T204 440M308 440Q326 420 344 440T380 440M80 200Q104 190 108 208Q112 224 96 226M432 200Q408 190 404 208Q400 224 416 226" stroke-linecap="round"/>
+<rect x="168" y="248" width="176" height="20" rx="8"/>
+<path d="M302 280L322 330Q324 338 332 334L344 328Q350 326 346 318L326 280" stroke-linecap="round"/>
+</svg>

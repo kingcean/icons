@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M112 316H408Q488 316 488 240Q488 174 426 164Q426 96 362 96Q334 96 312 112Q288 40 212 40Q124 40 108 132Q24 140 24 224Q24 316 112 316ZM122 172Q112 172 112 182V226Q112 236 122 236H166Q176 236 176 226V182Q176 172 166 172ZM122 156V164H134V156ZM154 156V164H166V156ZM122 244V252H134V244ZM154 244V252H166V244ZM96 182V194H104V182ZM96 214V226H104V214ZM184 182V194H192V182ZM184 214V226H192V214ZM224 180Q216 180 216 188V220Q216 228 224 228H288Q296 228 296 220V188Q296 180 288 180ZM226 236V248H238V236ZM250 236V248H262V236ZM274 236V248H286V236ZM340 156Q328 156 328 168V248Q328 260 340 260H388Q400 260 400 248V168Q400 156 388 156Z"/>
+<rect x="128" y="188" width="32" height="32" rx="4"/>
+<rect x="228" y="192" width="12" height="24" rx="3"/>
+<rect x="250" y="192" width="12" height="24" rx="3"/>
+<rect x="272" y="192" width="12" height="24" rx="3"/>
+<path d="M328 202H400V214H328Z"/>
+<rect x="340" y="174" width="28" height="12" rx="6"/>
+<rect x="340" y="226" width="28" height="12" rx="6"/>
+<circle cx="384" cy="180" r="4"/>
+<circle cx="384" cy="232" r="4"/>
+<rect x="136" y="328" width="16" height="24" rx="8"/>
+<rect x="360" y="328" width="16" height="24" rx="8"/>
+<path fill-rule="evenodd" d="M80 364H208Q224 364 224 380V460Q224 476 208 476H80Q64 476 64 460V380Q64 364 80 364ZM84 404Q80 404 80 408V456Q80 460 84 460H204Q208 460 208 456V408Q208 404 204 404ZM304 364H432Q448 364 448 380V460Q448 476 432 476H304Q288 476 288 460V380Q288 364 304 364ZM308 404Q304 404 304 408V456Q304 460 308 460H428Q432 460 432 456V408Q432 404 428 404Z"/>
+<rect x="88" y="416" width="28" height="36" rx="6"/>
+<rect x="312" y="416" width="28" height="36" rx="6"/>
+<rect x="132" y="416" width="68" height="12" rx="6"/>
+<rect x="132" y="440" width="44" height="12" rx="6"/>
+<rect x="356" y="416" width="68" height="12" rx="6"/>
+<rect x="356" y="440" width="44" height="12" rx="6"/>
+</svg>

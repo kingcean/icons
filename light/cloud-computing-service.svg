@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M144 308V364M368 308V364" fill="none" stroke="#168B83" stroke-width="16" stroke-linecap="round"/>
+<path d="M112 316H408Q488 316 488 240Q488 174 426 164Q426 96 362 96Q334 96 312 112Q288 40 212 40Q124 40 108 132Q24 140 24 224Q24 316 112 316Z" fill="#2563EB"/>
+<path d="M128 156V172M160 156V172M128 236V252M160 236V252M96 188H112M96 220H112M176 188H192M176 220H192" fill="none" stroke="#BAE6FD" stroke-width="10" stroke-linecap="round"/>
+<rect x="112" y="172" width="64" height="64" rx="10" fill="#17243B"/>
+<rect x="128" y="188" width="32" height="32" rx="4" fill="#55D5BC"/>
+<path d="M232 228V244M256 228V244M280 228V244" fill="none" stroke="#FFD46C" stroke-width="10" stroke-linecap="round"/>
+<rect x="216" y="180" width="80" height="48" rx="8" fill="#514879"/>
+<rect x="228" y="192" width="12" height="24" rx="3" fill="#C4B5FD"/>
+<rect x="250" y="192" width="12" height="24" rx="3" fill="#C4B5FD"/>
+<rect x="272" y="192" width="12" height="24" rx="3" fill="#C4B5FD"/>
+<rect x="328" y="156" width="72" height="104" rx="12" fill="#17243B"/>
+<rect x="338" y="168" width="52" height="28" rx="6" fill="#7DD3FC"/>
+<rect x="338" y="220" width="52" height="28" rx="6" fill="#55D5BC"/>
+<path d="M346 178H368V186H346ZM346 230H368V238H346Z" fill="#285A72"/>
+<circle cx="380" cy="182" r="4" fill="#15564E"/>
+<circle cx="380" cy="234" r="4" fill="#15564E"/>
+<rect x="64" y="364" width="160" height="112" rx="16" fill="#17243B"/>
+<rect x="288" y="364" width="160" height="112" rx="16" fill="#17243B"/>
+<path d="M80 364H208Q224 364 224 380V396H64V380Q64 364 80 364Z" fill="#168B83"/>
+<path d="M304 364H432Q448 364 448 380V396H288V380Q288 364 304 364Z" fill="#7060A9"/>
+<rect x="84" y="416" width="32" height="40" rx="6" fill="#55D5BC"/>
+<rect x="308" y="416" width="32" height="40" rx="6" fill="#C4B5FD"/>
+<path d="M132 418H200V430H132ZM356 418H424V430H356Z" fill="#E8F0FC"/>
+<path d="M132 442H176V454H132ZM356 442H400V454H356Z" fill="#7387A5"/>
+</svg>

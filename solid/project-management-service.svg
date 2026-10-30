@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path fill-rule="evenodd" d="M56 64H456Q488 64 488 96V416Q488 448 456 448H56Q24 448 24 416V96Q24 64 56 64ZM64 160Q56 160 56 168V408Q56 416 64 416H112V432H400V416H448Q456 416 456 408V168Q456 160 448 160Z"/>
+<path fill-rule="evenodd" d="M76 184H124Q136 184 136 196V316Q136 328 124 328H76Q64 328 64 316V196Q64 184 76 184ZM80 220V312H120V220Z M164 184H212Q224 184 224 196V316Q224 328 212 328H164Q152 328 152 316V196Q152 184 164 184ZM168 220V312H208V220Z"/>
+<rect x="86" y="232" width="28" height="40" rx="6"/>
+<rect x="174" y="264" width="28" height="40" rx="6"/>
+<rect x="260" y="200" width="80" height="20" rx="10"/>
+<rect x="320" y="240" width="112" height="20" rx="10"/>
+<path d="M256 294H260V306H256Z M300 294H328V306H300Z M368 294H400V306H368Z M440 294H448V306H440Z"/>
+<circle cx="280" cy="300" r="12"/>
+<circle cx="348" cy="300" r="12"/>
+<circle cx="420" cy="300" r="12"/>
+<circle cx="160" cy="368" r="16"/>
+<path d="M128 416V408Q128 392 160 392Q192 392 192 408V416Z"/>
+<circle cx="256" cy="368" r="16"/>
+<path d="M224 416V408Q224 392 256 392Q288 392 288 408V416Z"/>
+<circle cx="352" cy="368" r="16"/>
+<path d="M320 416V408Q320 392 352 392Q384 392 384 408V416Z"/>
+</svg>

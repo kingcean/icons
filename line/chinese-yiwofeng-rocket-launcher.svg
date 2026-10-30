@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="arrow">
+<path d="M-17 29L1 9M-13 7L23-25Q27-29 26-23L17 21Q16 25 12 22L-11 12Q-16 10-13 7Z" stroke-linecap="round"/>
+</g>
+</defs>
+<path d="M132 204L24 332C24 406 83 456 180 456C277 456 356 404 356 332L484 204"/>
+<ellipse cx="308" cy="204" rx="176" ry="132"/>
+<path d="M40 350Q123 433 250 430M64 294Q112 347 172 365M66 383L137 316M116 426L190 354M182 443L253 375M248 429L305 375" stroke-linecap="round"/>
+<g>
+<use href="#arrow" x="230" y="137"/>
+<use href="#arrow" x="294" y="119"/>
+<use href="#arrow" x="358" y="139"/>
+<use href="#arrow" x="421" y="179"/>
+<use href="#arrow" x="185" y="201"/>
+<use href="#arrow" x="253" y="203"/>
+<use href="#arrow" x="321" y="209"/>
+<use href="#arrow" x="389" y="244"/>
+<use href="#arrow" x="237" y="266"/>
+<use href="#arrow" x="306" y="278"/>
+</g>
+<path d="M116 465L103 479Q100 487 111 488H158Q166 488 171 481L183 466" stroke-linecap="round"/>
+</svg>

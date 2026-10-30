@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="skirt"><path d="M180 288H332L398 472Q404 488 388 488H124Q108 488 114 472Z"/></clipPath>
+</defs>
+<path d="M180 288H332L398 472Q404 488 388 488H124Q108 488 114 472Z" fill="#293F59"/>
+<g clip-path="url(#skirt)" fill="none">
+<path d="M184 300L136 488M214 300L182 488M244 300L230 488M268 300L282 488M298 300L330 488M328 300L376 488" stroke="#AD3942" stroke-width="18"/>
+<path d="M196 300L150 488M226 300L196 488M286 300L316 488M316 300L362 488" stroke="#DDBA7A" stroke-width="5"/>
+</g>
+<path d="M194 122H226Q226 150 256 150Q286 150 286 122H318Q334 122 346 134L400 170Q412 178 418 196L484 292Q492 304 480 310L448 328Q436 334 428 322L342 224L330 278H182L170 224L84 322Q76 334 64 328L32 310Q20 304 28 292L94 196Q100 178 112 170L166 134Q178 122 194 122Z" fill="#F8F4E9" stroke="#B8AE9D" stroke-width="7" stroke-linejoin="round"/>
+<path d="M134 182L116 232M378 182L396 232" fill="none" stroke="#D8CEBB" stroke-width="9" stroke-linecap="round"/>
+<path d="M46 280L94 308M466 280L418 308" fill="none" stroke="#A43E45" stroke-width="7" stroke-linecap="round"/>
+<path d="M198 144H208L216 182L246 202V288H208L204 202Z" fill="#A72F3E"/>
+<path d="M314 144H304L296 182L266 202V288H304L308 202Z" fill="#C1444C"/>
+<path d="M208 150L216 182L246 202V270M304 150L296 182L266 202V270" fill="none" stroke="#DFBB78" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M220 220L226 214L232 220L226 226ZM280 220L286 214L292 220L286 226Z" fill="#F4DFB1"/>
+<path d="M218 290H294L326 472H186Z" fill="#EEE2C5"/>
+<path d="M232 322L222 424M280 322L290 424" fill="none" stroke="#D6C5A3" stroke-width="8" stroke-linecap="round"/>
+<path d="M194 438H318M190 460H322" fill="none" stroke="#A43E45" stroke-width="6"/>
+<path d="M222 444L230 450L222 456L214 450ZM256 444L264 450L256 456L248 450ZM290 444L298 450L290 456L282 450Z" fill="#A43E45"/>
+<rect x="180" y="282" width="152" height="14" rx="6" fill="#A72F3E"/>
+<path d="M206 92V64Q206 24 246 24H266Q306 24 306 64V92Q256 108 206 92Z" fill="#A72F3E"/>
+<path d="M206 74Q256 90 306 74V92Q256 108 206 92Z" fill="#EEE2C5"/>
+<path d="M222 84Q256 94 290 84" fill="none" stroke="#A43E45" stroke-width="5" stroke-linecap="round"/>
+</svg>

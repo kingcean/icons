@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path d="M56 64H456Q488 64 488 96V272H456V168Q456 160 448 160H64Q56 160 56 168V408Q56 416 64 416H328V448H56Q24 448 24 416V96Q24 64 56 64Z"/>
+<path fill-rule="evenodd" d="M88 184H112Q120 184 120 192V224Q120 232 112 232H88Q80 232 80 224V192Q80 184 88 184ZM90 196V204H110V196ZM90 212V220H104V212Z"/>
+<path fill-rule="evenodd" d="M88 264H112Q120 264 120 272V292Q120 300 112 300H96L84 310Q80 313 80 308V272Q80 264 88 264ZM90 276V286H110V276Z"/>
+<path d="M76 348Q86 346 95 351V391Q85 386 76 388Q72 389 72 385V352Q72 348 76 348ZM105 351Q114 346 124 348Q128 348 128 352V385Q128 389 124 388Q115 386 105 391Z"/>
+<rect x="144" y="188" width="160" height="16" rx="8"/>
+<rect x="144" y="212" width="112" height="16" rx="8"/>
+<rect x="144" y="268" width="160" height="16" rx="8"/>
+<rect x="144" y="292" width="128" height="16" rx="8"/>
+<rect x="152" y="348" width="152" height="16" rx="8"/>
+<rect x="152" y="372" width="96" height="16" rx="8"/>
+<path fill-rule="evenodd" d="M464 328A64 64 0 1 1 336 328A64 64 0 1 1 464 328ZM444 328A44 44 0 1 0 356 328A44 44 0 1 0 444 328Z"/>
+<path d="M442 384L472 414Q480 422 488 414Q496 406 488 398L458 368Z"/>
+</svg>

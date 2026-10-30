@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="barrel">
+<path d="M98 242L62 130Q58 110 78 110Q94 110 98 126L138 242"/>
+<ellipse cx="118" cy="242" rx="20" ry="25"/>
+<ellipse cx="118" cy="242" rx="10" ry="14"/>
+</g>
+<g id="wheel">
+<circle r="78"/>
+<circle r="16"/>
+<path d="M0-78V-16M0 16V78M-78 0H-16M16 0H78M-55-55L-12-12M12 12L55 55M55-55L12-12M-12 12L-55 55" stroke-linecap="round"/>
+</g>
+</defs>
+<path d="M24 280L62 218M456 218L488 280M24 280H488V298Q488 310 476 310H36Q24 310 24 298ZM198 326H314" stroke-linecap="round"/>
+<use href="#barrel"/>
+<use href="#barrel" x="60"/>
+<use href="#barrel" x="120"/>
+<use href="#barrel" x="180"/>
+<use href="#barrel" x="240"/>
+<use href="#barrel" x="300"/>
+<use href="#wheel" x="108" y="400"/>
+<use href="#wheel" x="404" y="400"/>
+</svg>

@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M178 304H334L370 472Q374 488 358 488H154Q138 488 142 472Z" fill="#535E78"/>
+<path d="M178 322H334L370 472Q374 488 358 488H154Q138 488 142 472ZM194 342L166 466H346L318 342Z" fill="#F17C9C" fill-rule="evenodd"/>
+<path d="M194 342H318L346 466H166Z" fill="none" stroke="#FFD581" stroke-width="10" stroke-linejoin="round"/>
+<path d="M180 444H332L336 460H176Z" fill="#7DE0D3"/>
+<path d="M238 374L256 356L274 374L256 392Z" fill="#7DE0D3"/>
+<path d="M238 414L256 396L274 414L256 432Z" fill="#F17C9C"/>
+<path d="M250 368H262V380H250ZM250 408H262V420H250Z" fill="#FFE8AD"/>
+<path d="M220 128L256 166L292 128H324Q338 128 348 140L476 196Q490 202 486 216L466 294Q462 308 448 302L394 282L346 220V298Q346 310 334 310H178Q166 310 166 298V220L118 282L64 302Q50 308 46 294L26 216Q22 202 36 196L164 140Q174 128 188 128Z" fill="#5D6B86"/>
+<path d="M200 128H220L256 166L292 128H312L276 168V300H248V184Z" fill="#F17C9C"/>
+<path d="M208 136L256 184L304 136M256 184V292" fill="none" stroke="#FFD581" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M278 194V290M184 290H240M294 290H328" fill="none" stroke="#7DE0D3" stroke-width="12" stroke-linecap="round"/>
+<path d="M52 222L70 282M460 222L442 282" fill="none" stroke="#F17C9C" stroke-width="28" stroke-linecap="round"/>
+<path d="M74 214L92 272M438 214L420 272" fill="none" stroke="#FFD581" stroke-width="12" stroke-linecap="round"/>
+<path d="M184 76Q162 60 180 44Q192 34 204 48L226 68L220 38Q218 24 234 24Q250 24 252 40L256 62L260 40Q262 24 278 24Q294 24 292 38L286 68L308 48Q320 34 332 44Q350 60 328 76L320 104H192Z" fill="#ED718D"/>
+<path d="M188 50L220 74M234 36L240 66M278 36L272 66M324 50L292 74" fill="none" stroke="#FFE29A" stroke-width="10" stroke-linecap="round"/>
+<path d="M184 80Q256 56 328 80L320 104H192Z" fill="#5D6B86"/>
+<path d="M192 84Q256 62 320 84" fill="none" stroke="#FFD581" stroke-width="10" stroke-linecap="round"/>
+<path d="M244 88L256 76L268 88L256 100Z" fill="#7DE0D3"/>
+</svg>

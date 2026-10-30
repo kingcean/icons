@@ -1,12 +1,11 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M48 80H174Q184 80 192 88L224 120H464Q488 120 488 144V408Q488 432 464 432H48Q24 432 24 408V104Q24 80 48 80Z" fill="#E9A52B"/>
-<path d="M48 152H464Q488 152 488 176V408Q488 432 464 432H48Q24 432 24 408V176Q24 152 48 152Z" fill="#FFD16B"/>
-<rect x="64" y="192" width="384" height="48" rx="12" fill="#475569"/>
-<path d="M88 216H224M408 208L420 220L432 208" fill="none" stroke="#F1F5F9" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M88 264V360H280M88 288H124" fill="none" stroke="#64748B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
-<path d="M136 264H160L176 280H212Q224 280 224 292V304Q224 316 212 316H136Q124 316 124 304V276Q124 264 136 264Z" fill="#0F766E"/>
-<path d="M136 284H212Q224 284 224 296V304Q224 316 212 316H136Q124 316 124 304V296Q124 284 136 284Z" fill="#2DD4BF"/>
-<path d="M296 324H332L352 344H408Q424 344 424 360V384Q424 400 408 400H296Q280 400 280 384V340Q280 324 296 324Z" fill="#1D4ED8"/>
-<path d="M296 348H408Q424 348 424 364V384Q424 400 408 400H296Q280 400 280 384V364Q280 348 296 348Z" fill="#2563EB"/>
-<path d="M320 364L336 380L384 356" fill="none" stroke="#EFF6FF" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="24" y="56" width="464" height="400" rx="28" fill="#E8EEF5" stroke="#64748B" stroke-width="8"/>
+<rect x="64" y="96" width="384" height="64" rx="14" fill="#475569"/>
+<path d="M88 128H256M404 120L420 136L436 120" fill="none" stroke="#F1F5F9" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M88 196V360H276M88 232H132" fill="none" stroke="#64748B" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148 196H180L200 216H232Q248 216 248 232V252Q248 268 232 268H148Q132 268 132 252V212Q132 196 148 196Z" fill="#0F766E"/>
+<path d="M148 224H232Q248 224 248 240V252Q248 268 232 268H148Q132 268 132 252V240Q132 224 148 224Z" fill="#2DD4BF"/>
+<path d="M296 304H340L364 328H420Q440 328 440 348V396Q440 416 420 416H296Q276 416 276 396V324Q276 304 296 304Z" fill="#1D4ED8"/>
+<path d="M296 336H420Q440 336 440 356V396Q440 416 420 416H296Q276 416 276 396V356Q276 336 296 336Z" fill="#2563EB"/>
+<path d="M316 368L340 392L400 356" fill="none" stroke="#EFF6FF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

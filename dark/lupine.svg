@@ -1,0 +1,37 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="bloom">
+<path d="M0-30C-38-60-58-24-24-4Q0 10 24-4C58-24 38-60 0-30Z" fill="#BB91EF"/>
+<path d="M-27 10Q-43 2-38 21Q-26 43 0 45Q26 43 38 21Q43 2 27 10Q0 28-27 10Z" fill="#9265CF"/>
+<path d="M-27 10Q0 28 27 10Q18 35 0 39Q-18 35-27 10Z" fill="#A67DE0"/>
+<path d="M-9-19Q0-27 9-19L5-8H-5Z" fill="#FFF5D0"/>
+</g>
+<path id="leaflet" d="M0 0C-13-28-12-82 0-116C12-82 13-28 0 0Z"/>
+<g id="fan">
+<use href="#leaflet" transform="rotate(-75)"/>
+<use href="#leaflet" transform="rotate(-50)"/>
+<use href="#leaflet" transform="rotate(-25)"/>
+<use href="#leaflet"/>
+<use href="#leaflet" transform="rotate(25)"/>
+<use href="#leaflet" transform="rotate(50)"/>
+<use href="#leaflet" transform="rotate(75)"/>
+</g>
+</defs>
+<path d="M256 84V480M256 151L220 124M256 151L292 124M256 211L215 184M256 211L297 184M256 271L215 244M256 271L297 244M256 331L215 304M256 331L297 304M256 454L156 426M256 468L356 448" fill="none" stroke="#A6C482" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<g>
+<use href="#fan" transform="translate(156 426) rotate(-20)" fill="#6BB394"/>
+<use href="#fan" transform="translate(356 448) rotate(20)" fill="#8ACA9E"/>
+<path d="M156 426L117 320M156 426L52 377M156 426L221 339M356 448L395 342M356 448L460 399M356 448L291 361" fill="none" stroke="#C9E5BB" stroke-width="5" stroke-linecap="round"/>
+</g>
+<g>
+<use href="#bloom" transform="translate(256 57) scale(.7)"/>
+<use href="#bloom" transform="translate(214 124) scale(.75)"/>
+<use href="#bloom" transform="translate(298 124) scale(.75)"/>
+<use href="#bloom" transform="translate(208 184) scale(.9)"/>
+<use href="#bloom" transform="translate(304 184) scale(.9)"/>
+<use href="#bloom" transform="translate(208 244)"/>
+<use href="#bloom" transform="translate(304 244)"/>
+<use href="#bloom" transform="translate(208 304)"/>
+<use href="#bloom" transform="translate(304 304)"/>
+</g>
+</svg>

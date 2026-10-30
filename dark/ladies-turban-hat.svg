@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="satin" x1="109" y1="121" x2="399" y2="413" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#45C59F"/>
+<stop offset="0.55" stop-color="#159A7C"/>
+<stop offset="1" stop-color="#08715E"/>
+</linearGradient>
+<linearGradient id="upperFold" x1="189" y1="102" x2="339" y2="277" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7CDEB7"/>
+<stop offset="0.6" stop-color="#35B28B"/>
+<stop offset="1" stop-color="#107E65"/>
+</linearGradient>
+<linearGradient id="lowerFold" x1="88" y1="286" x2="237" y2="371" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#59CEA7"/>
+<stop offset="0.5" stop-color="#2BAA87"/>
+<stop offset="1" stop-color="#107A62"/>
+</linearGradient>
+<linearGradient id="knot" x1="266" y1="284" x2="327" y2="345" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#9AE8C5"/>
+<stop offset="0.55" stop-color="#4BC39A"/>
+<stop offset="1" stop-color="#188B6C"/>
+</linearGradient>
+</defs>
+<path d="M24 324C24 183 113 90 249 90C389 90 480 191 488 322Q490 365 455 389Q356 441 185 416C86 403 24 373 24 324Z" fill="url(#satin)" stroke="#8CE1BE" stroke-width="8" stroke-linejoin="round"/>
+<path d="M104 154C190 160 270 204 310 287C335 226 383 181 427 181C382 121 319 90 249 90C191 90 142 114 104 154Z" fill="url(#upperFold)"/>
+<path d="M34 298C117 318 219 276 286 221C273 253 275 286 303 318C241 364 137 393 59 365Q27 349 34 298Z" fill="url(#lowerFold)"/>
+<path d="M104 154C190 160 265 202 301 266M427 181C388 182 346 216 321 267M34 298C117 318 219 276 286 221M59 365C128 389 205 366 258 336M346 326Q413 325 475 284M341 351Q392 381 455 389" fill="none" stroke="#0A745C" stroke-width="7" stroke-linecap="round"/>
+<path d="M58 310C134 320 209 284 257 249M130 151C205 164 257 198 285 240M357 331Q420 330 461 304" fill="none" stroke="#ACF0D0" stroke-opacity="0.8" stroke-width="7" stroke-linecap="round"/>
+<path d="M283 279C309 264 335 288 327 312C347 342 305 358 285 338C256 348 248 317 267 300Q268 286 283 279Z" fill="url(#knot)" stroke="#A0E9C9" stroke-width="7" stroke-linejoin="round"/>
+<path d="M283 289C271 307 296 313 313 322Q324 333 307 340M273 325Q290 330 299 310" fill="none" stroke="#137D61" stroke-width="7" stroke-linecap="round"/>
+</svg>

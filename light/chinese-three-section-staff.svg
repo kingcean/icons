@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g transform="translate(80 30) rotate(25)">
+<rect x="0" y="-18" width="240" height="36" rx="12" fill="#79513A" stroke="#513825" stroke-width="7"/>
+<path d="M28-10H212V-1H28Z" fill="#C09970"/>
+<path d="M12-18H26V18H12Q0 18 0 6V-6Q0-18 12-18ZM214-18H228Q240-18 240-6V6Q240 18 228 18H214Z" fill="#8499AC"/>
+</g>
+<g fill="none" stroke="#455A6C" stroke-width="7">
+<rect x="303" y="132" width="28" height="20" rx="9" transform="rotate(25 317 142)"/>
+<rect x="332" y="145" width="28" height="20" rx="9" transform="rotate(25 346 155)"/>
+<rect x="133" y="324" width="28" height="20" rx="9" transform="rotate(145 147 334)"/>
+<rect x="109" y="341" width="28" height="20" rx="9" transform="rotate(145 123 351)"/>
+</g>
+<g transform="translate(361 182) rotate(145)">
+<rect x="0" y="-18" width="240" height="36" rx="12" fill="#79513A" stroke="#513825" stroke-width="7"/>
+<path d="M28 1H212V10H28Z" fill="#C09970"/>
+<path d="M12-18H26V18H12Q0 18 0 6V-6Q0-18 12-18ZM214-18H228Q240-18 240-6V6Q240 18 228 18H214Z" fill="#8499AC"/>
+</g>
+<g transform="translate(99 384) rotate(25)">
+<rect x="0" y="-18" width="240" height="36" rx="12" fill="#79513A" stroke="#513825" stroke-width="7"/>
+<path d="M28-10H212V-1H28Z" fill="#C09970"/>
+<path d="M12-18H26V18H12Q0 18 0 6V-6Q0-18 12-18ZM214-18H228Q240-18 240-6V6Q240 18 228 18H214Z" fill="#8499AC"/>
+</g>
+</svg>

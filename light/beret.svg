@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="wool" x1="152" y1="180" x2="320" y2="333" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D66B82"/>
+<stop offset="0.5" stop-color="#B83F61"/>
+<stop offset="1" stop-color="#812C4C"/>
+</linearGradient>
+</defs>
+<path d="M92 317Q263 340 429 297L425 337Q266 391 100 359Q90 355 92 317Z" fill="#493449" stroke="#352738" stroke-width="7" stroke-linejoin="round"/>
+<path d="M113 347Q265 370 402 334" fill="none" stroke="#91627C" stroke-width="7" stroke-linecap="round"/>
+<path d="M251 175L247 129Q245 118 255 117Q265 116 267 126L274 173Z" fill="#B83F61" stroke="#74283F" stroke-width="6" stroke-linejoin="round"/>
+<path d="M24 277C30 232 100 192 178 175C278 151 415 168 471 225C494 248 493 269 475 286C419 319 134 356 46 309Q24 301 24 277Z" fill="url(#wool)" stroke="#74283F" stroke-width="7" stroke-linejoin="round"/>
+<path d="M61 272C88 232 154 209 210 198" fill="none" stroke="#F0A2B2" stroke-width="9" stroke-linecap="round"/>
+</svg>

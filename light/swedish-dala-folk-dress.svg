@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="apron"><path d="M212 296H300L324 472H188Z"/></clipPath>
+</defs>
+<path d="M180 288H332L392 472Q398 488 382 488H130Q114 488 120 472Z" fill="#315C83"/>
+<path d="M180 320L150 464M332 320L362 464" fill="none" stroke="#234561" stroke-width="10" stroke-linecap="round"/>
+<path d="M194 122H228Q228 150 256 150Q284 150 284 122H318Q332 122 344 132L398 168Q410 176 416 192L484 290Q492 302 480 308L448 326Q436 332 430 320L342 222L328 270H184L170 222L82 320Q76 332 64 326L32 308Q20 302 28 290L96 192Q102 176 114 168L168 132Q180 122 194 122Z" fill="#F8F4E9" stroke="#B5AEA0" stroke-width="7" stroke-linejoin="round"/>
+<path d="M46 276L94 304M466 276L418 304M140 174L116 228M372 174L396 228" fill="none" stroke="#D2CABB" stroke-width="9" stroke-linecap="round"/>
+<path d="M194 140H212L218 180Q256 202 294 180L300 140H318L310 200L304 288H208L202 200Z" fill="#283345"/>
+<path d="M212 144L218 180Q256 202 294 180L300 144" fill="none" stroke="#B64A4C" stroke-width="7" stroke-linecap="round"/>
+<path d="M256 202V268" fill="none" stroke="#171F2C" stroke-width="8"/>
+<path d="M236 214L276 226M276 214L236 226M236 238L276 250M276 238L236 250" fill="none" stroke="#DBC28C" stroke-width="7" stroke-linecap="round"/>
+<path d="M212 296H300L324 472H188Z" fill="#DDAF44"/>
+<g clip-path="url(#apron)" fill="none">
+<path d="M214 296L192 472M244 296L240 472M280 296L292 472" stroke="#C34449" stroke-width="16"/>
+<path d="M228 296L218 472M298 296L322 472" stroke="#3D765D" stroke-width="12"/>
+<path d="M263 296L267 472" stroke="#315C83" stroke-width="14"/>
+<path d="M237 296L231 472M273 296L280 472" stroke="#F8E1A1" stroke-width="5"/>
+</g>
+<path d="M192 456H320" fill="none" stroke="#A7353D" stroke-width="10"/>
+<rect x="180" y="282" width="152" height="14" rx="6" fill="#C34449"/>
+<path d="M208 90V62Q208 24 246 24H266Q304 24 304 62V90Q256 106 208 90Z" fill="#C34449"/>
+<path d="M208 72Q256 88 304 72V90Q256 106 208 90Z" fill="#283345"/>
+<path d="M220 80Q256 90 292 80" fill="none" stroke="#DDAF44" stroke-width="5" stroke-linecap="round"/>
+</svg>

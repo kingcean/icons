@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<path id="bird" d="M-38 6Q-16 2-4-8Q-22-28-12-44Q8-30 14-12Q24-22 34-14L46-6L34-2Q32 18 12 22Q-12 28-38 6Z"/>
+<path id="flower" d="M0-26C10-36 24-24 20-12C38-10 36 10 22 14C24 32 4 38 0 24C-12 38-30 24-22 12C-38 4-32-14-18-14C-22-30-6-36 0-26Z"/>
+</defs>
+<path d="M196 24H222L256 88L290 24H316Q330 24 342 38L478 92Q488 96 488 108V298Q488 310 476 310H370Q358 310 358 298V170L330 232L392 472Q396 488 380 488H132Q116 488 120 472L182 232L154 170V298Q154 310 142 310H36Q24 310 24 298V108Q24 96 34 92L170 38Q182 24 196 24Z"/>
+<path d="M212 42L246 108M302 42L216 220L190 398M154 170V110M358 170V110" stroke-linecap="round"/>
+<use href="#bird" transform="translate(88 234)"/>
+<use href="#bird" transform="translate(424 234) scale(-1 1)"/>
+<path d="M62 240Q82 256 108 244M450 240Q430 256 404 244" stroke-linecap="round"/>
+<use href="#flower" transform="translate(234 292)"/>
+<circle cx="234" cy="292" r="9"/>
+<use href="#flower" transform="translate(306 366)"/>
+<circle cx="306" cy="366" r="9"/>
+<path d="M236 330Q250 352 246 386M246 356Q218 356 212 340Q236 336 246 356M294 398Q280 416 276 432M172 426C216 392 236 454 278 426S332 408 348 426M164 450C208 416 230 478 272 450S336 432 356 450" stroke-linecap="round"/>
+</svg>

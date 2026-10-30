@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="felt" x1="134" y1="161" x2="385" y2="292" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#697783"/>
+<stop offset="1" stop-color="#303E4C"/>
+</linearGradient>
+<linearGradient id="brim" x1="256" y1="278" x2="256" y2="378" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#5B6977"/>
+<stop offset="1" stop-color="#293744"/>
+</linearGradient>
+</defs>
+<path d="M96 300Q256 342 416 300L458 298L474 276Q488 267 488 288V312Q488 331 468 342C368 390 144 390 44 342Q24 331 24 312V288Q24 267 38 276L54 298Z" fill="url(#brim)" stroke="#22303C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M48 316Q256 400 464 316" fill="none" stroke="#8C9CA9" stroke-width="7" stroke-linecap="round"/>
+<path d="M92 160C140 205 372 205 420 160L412 285Q256 326 100 285Z" fill="url(#felt)" stroke="#22303C" stroke-width="7" stroke-linejoin="round"/>
+<ellipse cx="256" cy="160" rx="164" ry="42" fill="#7A8893" stroke="#22303C" stroke-width="7"/>
+<ellipse cx="256" cy="160" rx="128" ry="25" fill="#536371" stroke="#354653" stroke-width="7"/>
+<ellipse cx="256" cy="157" rx="116" ry="18" fill="#8E9DA6"/>
+<path d="M101 274Q256 314 411 274L416 300Q256 342 96 300Z" fill="#694052" stroke="#432937" stroke-width="6" stroke-linejoin="round"/>
+<path d="M116 293Q256 329 396 293" fill="none" stroke="#AE7D91" stroke-width="5" stroke-linecap="round"/>
+</svg>

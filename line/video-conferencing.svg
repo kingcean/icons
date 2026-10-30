@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="64" width="464" height="384" rx="32"/>
+<path d="M40 144H472"/>
+<rect x="64" y="168" width="180" height="100" rx="16"/>
+<rect x="268" y="168" width="180" height="100" rx="16"/>
+<rect x="64" y="280" width="180" height="100" rx="16"/>
+<rect x="268" y="280" width="180" height="100" rx="16"/>
+<circle cx="154" cy="196" r="14"/>
+<path d="M122 246V240Q122 220 154 220Q186 220 186 240V246Z"/>
+<circle cx="358" cy="196" r="14"/>
+<path d="M326 246V240Q326 220 358 220Q390 220 390 240V246Z"/>
+<circle cx="154" cy="308" r="14"/>
+<path d="M122 358V352Q122 332 154 332Q186 332 186 352V358Z"/>
+<circle cx="358" cy="308" r="14"/>
+<path d="M326 358V352Q326 332 358 332Q390 332 390 352V358Z"/>
+<rect x="210" y="398" width="12" height="18" rx="6"/>
+<path d="M202 412V414Q202 426 216 426Q230 426 230 414V412M216 426V434M208 434H224" stroke-linecap="round"/>
+<rect x="272" y="400" width="30" height="26" rx="6"/>
+<path d="M312 407L326 400V426L312 419Z"/>
+</svg>

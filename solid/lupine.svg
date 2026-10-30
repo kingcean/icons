@@ -1,0 +1,32 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<g id="bloom">
+<path d="M0-30C-38-60-58-24-24-4Q0 10 24-4C58-24 38-60 0-30Z"/>
+<path d="M-27 10Q-43 2-38 21Q-26 43 0 45Q26 43 38 21Q43 2 27 10Q0 28-27 10Z"/>
+</g>
+<path id="leaflet" d="M0 0C-13-28-12-82 0-116C12-82 13-28 0 0Z"/>
+<g id="fan">
+<use href="#leaflet" transform="rotate(-75)"/>
+<use href="#leaflet" transform="rotate(-50)"/>
+<use href="#leaflet" transform="rotate(-25)"/>
+<use href="#leaflet"/>
+<use href="#leaflet" transform="rotate(25)"/>
+<use href="#leaflet" transform="rotate(50)"/>
+<use href="#leaflet" transform="rotate(75)"/>
+</g>
+</defs>
+<path d="M249 112H263V480Q263 488 256 488Q249 488 249 480Z"/>
+<path d="M241 444L170 424L167 434L241 456ZM271 459L342 446L345 456L271 471Z"/>
+<use href="#fan" transform="translate(156 426) rotate(-20)"/>
+<use href="#fan" transform="translate(356 448) rotate(20)"/>
+<use href="#bloom" transform="translate(256 57) scale(.7)"/>
+<use href="#bloom" transform="translate(214 124) scale(.75)"/>
+<use href="#bloom" transform="translate(298 124) scale(.75)"/>
+<use href="#bloom" transform="translate(208 184) scale(.9)"/>
+<use href="#bloom" transform="translate(304 184) scale(.9)"/>
+<use href="#bloom" transform="translate(208 244)"/>
+<use href="#bloom" transform="translate(304 244)"/>
+<use href="#bloom" transform="translate(208 304)"/>
+<use href="#bloom" transform="translate(304 304)"/>
+</svg>

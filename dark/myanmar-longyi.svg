@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<pattern id="checks" width="96" height="96" patternUnits="userSpaceOnUse" x="136" y="112">
+<rect width="96" height="96" fill="#608FA6"/>
+<path d="M0 0H48V48H0ZM48 48H96V96H48Z" fill="#8BBFBB"/>
+<path d="M24 0V96M72 0V96M0 24H96M0 72H96" fill="none" stroke="#E8D5AB" stroke-width="6"/>
+</pattern>
+</defs>
+<path d="M144 24H368L380 474Q380 488 366 488H146Q132 488 132 474Z" fill="url(#checks)"/>
+<path d="M144 24H244L228 100H140ZM268 24H368L372 100H284Z" fill="#79ADB0"/>
+<path d="M158 52L230 60M282 60L354 52" fill="none" stroke="#CDE4D3" stroke-width="12" stroke-linecap="round"/>
+<path d="M140 96H228M284 96H372" fill="none" stroke="#49758C" stroke-width="10"/>
+<path d="M250 38Q256 32 262 38L278 70Q284 82 272 90L260 96L276 132Q278 140 270 142L248 146Q240 148 240 138L244 98L230 88Q222 82 228 70Z" fill="#E5C68D"/>
+<path d="M246 70L258 86M252 106L258 130" fill="none" stroke="#AA8D60" stroke-width="10" stroke-linecap="round"/>
+</svg>

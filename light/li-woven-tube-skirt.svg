@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="motif" d="M-8-24H8V-16H16V-8H24V8H16V16H8V24H-8V16H-16V8H-24V-8H-16V-16H-8Z"/>
+</defs>
+<rect x="132" y="24" width="248" height="464" rx="16" fill="#27262C"/>
+<path d="M148 24H364Q380 24 380 40V64H132V40Q132 24 148 24ZM132 448H380V472Q380 488 364 488H148Q132 488 132 472Z" fill="#A9343E"/>
+<path d="M132 46H380V58H132ZM132 70H380V82H132ZM132 188H380V200H132ZM132 312H380V324H132ZM132 430H380V442H132ZM132 454H380V466H132Z" fill="#D9A744"/>
+<path d="M132 86H380V94H132ZM132 170H380V178H132ZM132 210H380V218H132ZM132 294H380V302H132ZM132 334H380V342H132ZM132 418H380V426H132Z" fill="#EEE2C8"/>
+<rect x="152" y="96" width="208" height="72" rx="8" fill="#AE3943"/>
+<rect x="152" y="220" width="208" height="72" rx="8" fill="#AE3943"/>
+<rect x="152" y="344" width="208" height="72" rx="8" fill="#AE3943"/>
+<g fill="#E8BB58">
+<use href="#motif" transform="translate(184 132)"/>
+<use href="#motif" transform="translate(256 132)"/>
+<use href="#motif" transform="translate(328 132)"/>
+<use href="#motif" transform="translate(184 256)"/>
+<use href="#motif" transform="translate(256 256)"/>
+<use href="#motif" transform="translate(328 256)"/>
+<use href="#motif" transform="translate(184 380)"/>
+<use href="#motif" transform="translate(256 380)"/>
+<use href="#motif" transform="translate(328 380)"/>
+</g>
+<path d="M176 124H192V140H176ZM248 124H264V140H248ZM320 124H336V140H320ZM176 248H192V264H176ZM248 248H264V264H248ZM320 248H336V264H320ZM176 372H192V388H176ZM248 372H264V388H248ZM320 372H336V388H320Z" fill="#F7EEDB"/>
+<path d="M368 84V428" fill="none" stroke="#57505A" stroke-width="8" stroke-linecap="round"/>
+</svg>

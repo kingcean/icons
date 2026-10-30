@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<pattern id="chapan-silk" width="64" height="96" patternUnits="userSpaceOnUse">
+<rect width="64" height="96" fill="#236F88"/>
+<path d="M0 0H18V96H0Z" fill="#BE3D61"/>
+<path d="M22 0H30V96H22Z" fill="#E8B44E"/>
+<path d="M52 0H60V96H52Z" fill="#6EA694"/>
+<path d="M40 8L50 32L40 56L30 32ZM40 68L48 80L40 92L32 80Z" fill="#F5D99A"/>
+</pattern>
+</defs>
+<path d="M198 98H226L256 178L286 98H314Q328 98 340 108L398 146Q410 154 418 170L486 290Q492 300 480 306L438 326Q426 332 420 320L350 218V304L378 474Q380 488 366 488H278L256 464L234 488H146Q132 488 134 474L162 304V218L92 320Q86 332 74 326L32 306Q20 300 26 290L94 170Q102 154 114 146L172 108Q184 98 198 98Z" fill="url(#chapan-silk)"/>
+<path d="M286 100L230 252L236 474M226 100L248 158" fill="none" stroke="#553550" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M286 100L230 252L236 474M226 100L248 158" fill="none" stroke="#E7BA64" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M44 272L96 298L92 320Q86 332 74 326L32 306Q20 300 26 290ZM468 272L416 298L420 320Q426 332 438 326L480 306Q492 300 486 290Z" fill="#663755"/>
+<path d="M44 272L96 298M468 272L416 298M150 476H216M292 476H362" fill="none" stroke="#E7BA64" stroke-width="10" stroke-linecap="round"/>
+<rect x="162" y="280" width="188" height="32" rx="6" fill="#C67A33"/>
+<path d="M176 296H336" fill="none" stroke="#F6D38A" stroke-width="8" stroke-linecap="round"/>
+<path d="M208 28Q256 20 304 28Q312 30 312 38V78H200V38Q200 30 208 28Z" fill="#285C59"/>
+<path d="M222 40L236 54L222 68L208 54ZM256 36L270 50L256 64L242 50ZM290 40L304 54L290 68L276 54Z" fill="#F3DEAC"/>
+<path d="M206 74H306" fill="none" stroke="#CB9750" stroke-width="6" stroke-linecap="round"/>
+</svg>

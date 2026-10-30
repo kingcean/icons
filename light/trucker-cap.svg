@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="mesh" x1="88" y1="120" x2="246" y2="336" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#499FAD"/>
+<stop offset="1" stop-color="#235C70"/>
+</linearGradient>
+<linearGradient id="foam" x1="304" y1="133" x2="398" y2="302" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF4DA"/>
+<stop offset="1" stop-color="#DECAA2"/>
+</linearGradient>
+<linearGradient id="bill" x1="290" y1="317" x2="407" y2="414" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#E78262"/>
+<stop offset="1" stop-color="#B74739"/>
+</linearGradient>
+</defs>
+<path d="M212 339Q330 324 414 286C450 307 477 329 488 350Q435 416 350 420C297 421 245 395 212 339Z" fill="url(#bill)" stroke="#773B32" stroke-width="7" stroke-linejoin="round"/>
+<path d="M250 359Q300 403 358 400Q423 397 463 354" fill="none" stroke="#F6B391" stroke-width="7" stroke-linecap="round"/>
+<path fill-rule="evenodd" d="M48 324C25 250 54 151 128 111Q183 79 252 94L302 115C276 176 265 249 276 332Q160 353 48 324ZM144 141L156 156L144 171L132 156ZM184 141L196 156L184 171L172 156ZM224 141L236 156L224 171L212 156ZM104 181L116 196L104 211L92 196ZM144 181L156 196L144 211L132 196ZM184 181L196 196L184 211L172 196ZM224 181L236 196L224 211L212 196ZM84 221L96 236L84 251L72 236ZM124 221L136 236L124 251L112 236ZM164 221L176 236L164 251L152 236ZM204 221L216 236L204 251L192 236ZM244 221L256 236L244 251L232 236ZM84 261L96 276L84 291L72 276ZM124 261L136 276L124 291L112 276ZM164 261L176 276L164 291L152 276ZM204 261L216 276L204 291L192 276ZM244 261L256 276L244 291L232 276ZM84 301L96 316L84 331L72 316ZM124 301L136 316L124 331L112 316ZM164 301L176 316L164 331L152 316ZM204 301L216 316L204 331L192 316ZM244 301L256 316L244 331L232 316Z" fill="url(#mesh)"/>
+<path d="M48 324C25 250 54 151 128 111Q183 79 252 94L302 115C276 176 265 249 276 332Q160 353 48 324Z" fill="none" stroke="#234B5D" stroke-width="7" stroke-linejoin="round"/>
+<path d="M302 115C381 142 426 214 414 286Q355 316 276 332C265 249 276 176 302 115Z" fill="url(#foam)" stroke="#806C4C" stroke-width="7" stroke-linejoin="round"/>
+<path d="M314 143C295 193 286 253 292 303" fill="none" stroke="#FFFAEB" stroke-width="8" stroke-linecap="round"/>
+</svg>

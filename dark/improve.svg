@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="improve-arrow" x1="456" y1="460" x2="456" y2="53" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6DE0CB"/>
+<stop offset="1" stop-color="#98F0DC"/>
+</linearGradient>
+</defs>
+<path d="M36 328H140Q152 328 152 316V212Q152 200 164 200H268Q280 200 280 188V84Q280 72 292 72H372Q384 72 384 84V444Q384 456 372 456H36Q24 456 24 444V340Q24 328 36 328Z" fill="#8AB9FF"/>
+<path d="M444 448V93L432 105Q424 113 416 105Q408 97 416 89L448 57Q456 49 464 57L496 89Q504 97 496 105Q488 113 480 105L468 93V448Q468 460 456 460Q444 460 444 448Z" fill="url(#improve-arrow)"/>
+</svg>

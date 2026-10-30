@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<rect x="0" y="-18" width="240" height="36" rx="12" transform="translate(80 30) rotate(25)"/>
+<path fill-rule="evenodd" d="M-5-10H5Q14-10 14-1V1Q14 10 5 10H-5Q-14 10-14 1V-1Q-14-10-5-10ZM-5-3Q-7-3-7 0Q-7 3-5 3H5Q7 3 7 0Q7-3 5-3Z" transform="translate(317 142) rotate(25)"/>
+<path fill-rule="evenodd" d="M-5-10H5Q14-10 14-1V1Q14 10 5 10H-5Q-14 10-14 1V-1Q-14-10-5-10ZM-5-3Q-7-3-7 0Q-7 3-5 3H5Q7 3 7 0Q7-3 5-3Z" transform="translate(346 155) rotate(25)"/>
+<rect x="0" y="-18" width="240" height="36" rx="12" transform="translate(361 182) rotate(145)"/>
+<path fill-rule="evenodd" d="M-5-10H5Q14-10 14-1V1Q14 10 5 10H-5Q-14 10-14 1V-1Q-14-10-5-10ZM-5-3Q-7-3-7 0Q-7 3-5 3H5Q7 3 7 0Q7-3 5-3Z" transform="translate(147 334) rotate(145)"/>
+<path fill-rule="evenodd" d="M-5-10H5Q14-10 14-1V1Q14 10 5 10H-5Q-14 10-14 1V-1Q-14-10-5-10ZM-5-3Q-7-3-7 0Q-7 3-5 3H5Q7 3 7 0Q7-3 5-3Z" transform="translate(123 351) rotate(145)"/>
+<rect x="0" y="-18" width="240" height="36" rx="12" transform="translate(99 384) rotate(25)"/>
+</svg>

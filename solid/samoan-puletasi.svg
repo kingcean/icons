@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="floral" d="M0-20C-22-50-48-24-28-6C-58 2-44 36-18 24C-16 58 16 58 18 24C44 36 58 2 28-6C48-24 22-50 0-20ZM0 52Q-30 66-38 42Q-12 36 0 52ZM8 38Q16 16 38 22Q36 46 8 38Z"/>
+<mask id="tunic-cut">
+<rect width="512" height="512" fill="white"/>
+<use href="#floral" transform="translate(150 170) scale(.78)" fill="black"/>
+<use href="#floral" transform="translate(150 300) scale(.78)" fill="black"/>
+<path d="M96 38Q96 82 150 82Q204 82 204 38H192Q192 70 150 70Q108 70 108 38ZM36 116L68 136L74 126L42 106ZM258 106L226 126L232 136L264 116ZM80 394V406H220V394ZM78 420V432H222V420ZM108 414L118 404L128 414L118 424ZM172 414L182 404L192 414L182 424Z" fill="black"/>
+</mask>
+<mask id="skirt-cut">
+<rect width="512" height="512" fill="white"/>
+<use href="#floral" transform="translate(391 158) scale(.88)" fill="black"/>
+<use href="#floral" transform="translate(391 304) scale(.88)" fill="black"/>
+<path d="M318 46V58H464V46ZM306 432V444H476V432ZM306 460V472H476V460ZM336 452L348 440L360 452L348 464ZM380 452L392 440L404 452L392 464ZM424 452L436 440L448 452L436 464Z" fill="black"/>
+</mask>
+</defs>
+<path d="M112 24Q112 60 150 60Q188 60 188 24L218 34Q230 38 236 50L274 108Q280 120 270 126L238 144Q228 150 222 138L214 124L208 248L232 430Q234 448 218 448H82Q66 448 68 430L92 248L86 124L78 138Q72 150 62 144L30 126Q20 120 26 108L64 50Q70 38 82 34Z" mask="url(#tunic-cut)"/>
+<path d="M318 24H464Q478 24 478 38L488 470Q488 488 472 488H310Q294 488 294 470L304 38Q304 24 318 24Z" mask="url(#skirt-cut)"/>
+<circle cx="150" cy="175" r="8"/>
+<circle cx="150" cy="305" r="8"/>
+<circle cx="391" cy="163" r="9"/>
+<circle cx="391" cy="309" r="9"/>
+</svg>
