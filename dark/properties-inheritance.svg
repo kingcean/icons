@@ -1,11 +1,14 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M256 200V256M128 320V272Q128 256 144 256H368Q384 256 384 272V320" fill="none" stroke="#94A3B8" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-<rect x="152" y="24" width="208" height="176" rx="24" fill="#E2E8F0"/>
-<rect x="24" y="320" width="208" height="168" rx="24" fill="#CBD5E1"/>
-<rect x="280" y="320" width="208" height="168" rx="24" fill="#CBD5E1"/>
-<path d="M184 72H200M240 72H328M184 136H200M56 368H72M112 368H200M56 432H72M312 368H328M368 368H456M312 432H328" fill="none" stroke="#475569" stroke-width="20" stroke-linecap="round"/>
-<rect x="224" y="112" width="112" height="48" rx="12" fill="#3B82F6"/>
-<rect x="96" y="408" width="112" height="48" rx="12" fill="#3B82F6"/>
-<rect x="352" y="408" width="112" height="48" rx="12" fill="#3B82F6"/>
-<path d="M256 136H304M128 432H176M384 432H432" fill="none" stroke="#CCFBF1" stroke-width="16" stroke-linecap="round"/>
+<defs>
+<linearGradient id="panelGradient" x1="24" y1="40" x2="488" y2="472" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#93C5FD"/>
+<stop offset="0.5" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#3B82F6"/>
+</linearGradient>
+</defs>
+<path fill="url(#panelGradient)" d="M56 40H456Q488 40 488 72V280H400A120 120 0 0 0 280 400V472H56Q24 472 24 440V72Q24 40 56 40Z"/>
+<path fill="#1D4ED8" d="M88 128A16 16 0 0 0 88 160H128A16 16 0 0 0 128 128ZM88 240A16 16 0 0 0 88 272H128A16 16 0 0 0 128 240ZM88 352A16 16 0 0 0 88 384H128A16 16 0 0 0 128 352Z"/>
+<path fill="#0F172A" d="M200 128A16 16 0 0 0 200 160H424A16 16 0 0 0 424 128ZM200 240A16 16 0 0 0 200 272H376A16 16 0 0 0 376 240ZM200 352A16 16 0 0 0 200 384H248A16 16 0 0 0 248 352Z"/>
+<circle cx="400" cy="400" r="88" fill="#C4B5FD"/>
+<path fill="#0F172A" d="M390 344H410Q416 344 416 350V366Q416 372 410 372H408V390H436Q444 390 444 398V414H450Q456 414 456 420V442Q456 448 450 448H426Q420 448 420 442V420Q420 414 426 414H428V406H372V414H378Q384 414 384 420V442Q384 448 378 448H354Q348 448 348 442V420Q348 414 354 414H360V398Q360 390 368 390H392V372H390Q384 372 384 366V350Q384 344 390 344Z"/>
 </svg>

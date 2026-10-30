@@ -1,12 +1,5 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<defs>
-<linearGradient id="copy-link-dark" x1="224" y1="280" x2="488" y2="24" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#5EEAD4"/>
-<stop offset="1" stop-color="#60A5FA"/>
-</linearGradient>
-</defs>
-<rect x="24" y="264" width="168" height="168" rx="24" fill="#CBD5E1"/>
-<rect x="80" y="320" width="176" height="168" rx="24" fill="#A78BFA"/>
-<path fill-rule="evenodd" d="M248 116H304A40 40 0 0 1 304 196H248A40 40 0 0 1 248 116ZM248 140A16 16 0 0 0 248 172H304A16 16 0 0 0 304 140ZM408 116H464A40 40 0 0 1 464 196H408A40 40 0 0 1 408 116ZM408 140A16 16 0 0 0 408 172H464A16 16 0 0 0 464 140Z" transform="rotate(-45 356 156)" fill="url(#copy-link-dark)"/>
-<rect x="292" y="144" width="128" height="24" rx="12" transform="rotate(-45 356 156)" fill="#C4B5FD"/>
+<rect x="152" y="24" width="336" height="336" rx="24" fill="#22D3EE"/>
+<rect x="24" y="136" width="336" height="352" rx="24" fill="#60A5FA"/>
+<path transform="rotate(-45 192 312)" fill="#EFF6FF" fill-rule="evenodd" d="M96 280H144A32 32 0 0 1 173.665 300H210.335A32 32 0 0 1 240 280H288A32 32 0 0 1 288 344H240A32 32 0 0 1 210.335 324H173.665A32 32 0 0 1 144 344H96A32 32 0 0 1 96 280ZM96 300H128A12 12 0 0 1 128 324H96A12 12 0 0 1 96 300ZM256 300H288A12 12 0 0 1 288 324H256A12 12 0 0 1 256 300Z"/>
 </svg>

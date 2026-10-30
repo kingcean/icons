@@ -1,8 +1,12 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#CBD5E1" d="M48 32H164L236 104V456Q236 480 212 480H48Q24 480 24 456V56Q24 32 48 32Z"/>
-<path fill="#64748B" d="M164 32L236 104H188Q164 104 164 80Z"/>
-<path fill="none" stroke="#475569" stroke-width="24" stroke-linecap="round" d="M76 164H184M76 212H168M76 260H136"/>
-<rect x="252" y="184" width="236" height="280" rx="24" fill="#60A5FA"/>
-<path fill="none" stroke="#1D4ED8" stroke-width="24" stroke-linecap="round" d="M296 248H304M296 324H304M296 400H304"/>
-<path fill="none" stroke="#0F172A" stroke-width="24" stroke-linecap="round" d="M360 248H444M360 324H444M360 400H412"/>
+<defs>
+<linearGradient id="panelGradient" x1="24" y1="40" x2="488" y2="472" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#93C5FD"/>
+<stop offset="0.5" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#3B82F6"/>
+</linearGradient>
+</defs>
+<rect x="24" y="40" width="464" height="432" rx="32" fill="url(#panelGradient)"/>
+<path d="M88 128A16 16 0 0 0 88 160H128A16 16 0 0 0 128 128ZM88 240A16 16 0 0 0 88 272H128A16 16 0 0 0 128 240ZM88 352A16 16 0 0 0 88 384H128A16 16 0 0 0 128 352Z" fill="#1D4ED8"/>
+<path d="M200 128A16 16 0 0 0 200 160H424A16 16 0 0 0 424 128ZM200 240A16 16 0 0 0 200 272H424A16 16 0 0 0 424 240ZM200 352A16 16 0 0 0 200 384H344A16 16 0 0 0 344 352Z" fill="#0F172A"/>
 </svg>

@@ -1,7 +1,10 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
-<path d="M56 432H48Q24 432 24 408V288Q24 264 48 264H168Q192 264 192 288V296M104 320H232Q256 320 256 344V464Q256 488 232 488H104Q80 488 80 464V344Q80 320 104 320Z" stroke-linecap="round"/>
-<rect x="208" y="116" width="136" height="80" rx="40" transform="rotate(-45 356 156)"/>
-<rect x="368" y="116" width="136" height="80" rx="40" transform="rotate(-45 356 156)"/>
-<path d="M304 156H408" transform="rotate(-45 356 156)" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<path d="M152 104V48Q152 24 176 24H464Q488 24 488 48V336Q488 360 464 360H392" stroke-linecap="round"/>
+<rect x="24" y="136" width="336" height="352" rx="24"/>
+<g transform="rotate(-45 192 312)">
+<rect x="64" y="280" width="112" height="64" rx="32"/>
+<rect x="208" y="280" width="112" height="64" rx="32"/>
+<path d="M132 312H252" stroke-linecap="round"/>
+</g>
 </svg>
