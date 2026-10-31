@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Weak interaction</title>
+<desc>Neutron beta decay produces a proton, an electron, and an electron antineutrino. Separate arrows indicate the outgoing particles; symbols identify n, p, negative charge, and an antineutrino.</desc>
+<circle cx="96" cy="256" r="72"/>
+<path d="M72 280V236M72 250C72 230 120 230 120 252V280"/>
+<circle cx="352" cy="256" r="72"/>
+<path d="M332 292V232M332 246C332 228 376 228 376 252S332 276 332 258"/>
+<circle cx="440" cy="80" r="44"/>
+<path d="M420 80H460"/>
+<circle cx="440" cy="432" r="44"/>
+<path d="M422 404H458M424 420L432 446Q436 456 444 446Q456 432 456 420"/>
+<path d="M188 256H256M236 236L256 256L236 276"/>
+<path d="M188 220H404M384 200L404 220L384 240" transform="rotate(-32 188 220)"/>
+<path d="M188 292H404M384 272L404 292L384 312" transform="rotate(32 188 292)"/>
+</svg>

@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Three quarks confined within a hadron, linked by strong interactions</title>
+<desc>Red, green, and blue markers symbolize strong-interaction color charge, not literal visible colors.</desc>
+<circle cx="256" cy="256" r="224" fill="#EAF4F7" fill-opacity="0.75" stroke="#54869A" stroke-width="16"/>
+<path fill="#D69A18" d="M220 183Q232 155 244 181Q248 193 252 181Q264 155 276 181Q280 193 284 181L294 187Q282 213 270 187Q266 175 262 187Q250 213 238 187Q234 175 230 187ZM190 234Q170 255 196 260Q211 261 203 266Q185 282 213 292L220 299Q223 302 228 299Q232 296 228 292L223 281Q207 282 213 275Q231 253 205 249Q189 248 198 242ZM322 234Q342 255 316 260Q301 261 309 266Q327 282 299 292L292 299Q289 302 284 299Q280 296 284 292L289 281Q305 282 299 275Q281 253 307 249Q323 248 314 242Z"/>
+<circle cx="164" cy="184" r="50" fill="#D95763"/>
+<circle cx="348" cy="184" r="50" fill="#349567"/>
+<circle cx="256" cy="350" r="50" fill="#357CB9"/>
+</svg>

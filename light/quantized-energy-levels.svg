@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Quantized energy levels</title>
+<desc>Blue discrete energy levels hold one violet state marker. An amber downward transition is paired with a teal emitted photon wave packet.</desc>
+<defs>
+<linearGradient id="transition" x1="256" y1="206" x2="256" y2="306" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D69A18"/>
+<stop offset="1" stop-color="#D96B32"/>
+</linearGradient>
+</defs>
+<g fill="#357CB9">
+<rect x="24" y="48" width="304" height="16" rx="8"/>
+<rect x="24" y="176" width="64" height="16" rx="8"/>
+<rect x="168" y="176" width="160" height="16" rx="8"/>
+<rect x="24" y="320" width="304" height="16" rx="8"/>
+<rect x="24" y="448" width="304" height="16" rx="8"/>
+</g>
+<circle cx="128" cy="184" r="24" fill="#7351BA"/>
+<path fill="url(#transition)" d="M246 216A10 10 0 0 1 266 216V272L273 265A10 10 0 0 1 287 279L263 303Q256 310 249 303L225 279A10 10 0 0 1 239 265L246 272Z"/>
+<path fill="#008F96" d="M352 247C368 247 368 231 380 231S392 279 408 279S424 215 440 215S456 263 468 263S480 247 488 247A9 9 0 0 1 488 265C480 265 480 281 468 281S456 233 440 233S424 297 408 297S392 249 380 249S368 265 352 265A9 9 0 0 1 352 247Z"/>
+</svg>

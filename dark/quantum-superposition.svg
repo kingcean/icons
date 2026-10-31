@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Quantum superposition</title>
+<desc>One blue state branches into translucent violet and teal wave alternatives. Their overlapping waves coherently recombine into one amber output.</desc>
+<circle cx="56" cy="256" r="32" fill="#79BDF2"/>
+<path fill="#C2A7F0" opacity="0.78" d="M100 244C120 244 138 140 178 140C228 140 286 348 334 348C360 348 384 244 412 244V268C392 268 384 372 334 372C284 372 226 164 178 164C150 164 138 268 100 268Z"/>
+<path fill="#66D5C8" opacity="0.78" d="M100 268C120 268 138 372 178 372C228 372 286 164 334 164C360 164 384 268 412 268V244C392 244 384 140 334 140C284 140 226 348 178 348C150 348 138 244 100 244Z"/>
+<circle cx="456" cy="256" r="32" fill="#F4C458"/>
+</svg>

@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Magnetic force</title>
+<desc>Luminous blue and coral bar magnets face with opposite poles adjacent. Equal amber arrows point inward, and violet field curves link the facing pole regions.</desc>
+<defs>
+<linearGradient id="force" x1="200" y1="228" x2="240" y2="284" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F4C458"/>
+<stop offset="1" stop-color="#FF9F70"/>
+</linearGradient>
+<path id="attraction-arrow" d="M200 248H218L212 242A8 8 0 0 1 224 230L242 250Q248 256 242 262L224 282A8 8 0 0 1 212 270L218 264H200A8 8 0 0 1 200 248Z"/>
+<path id="field-arc" d="M168 181C194 91 318 91 344 181A8 8 0 0 1 328 187C306 117 206 117 184 187A8 8 0 0 1 168 181Z"/>
+</defs>
+<g>
+<path fill="#79BDF2" d="M40 200H104V312H40Q24 312 24 296V216Q24 200 40 200Z"/>
+<path fill="#FF8E9A" d="M104 200H168Q184 200 184 216V296Q184 312 168 312H104Z"/>
+<path fill="#79BDF2" d="M344 200H408V312H344Q328 312 328 296V216Q328 200 344 200Z"/>
+<path fill="#FF8E9A" d="M408 200H472Q488 200 488 216V296Q488 312 472 312H408Z"/>
+</g>
+<g fill="#C2A7F0">
+<use href="#field-arc"/>
+<use href="#field-arc" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<g fill="url(#force)">
+<use href="#attraction-arrow"/>
+<use href="#attraction-arrow" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

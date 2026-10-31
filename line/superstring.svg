@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Superstring</title>
+<desc>A theoretical vibrating string loop with coordinated abstract mode symbols: parallel waves for bosonic degrees of freedom and opposing-phase waves for fermionic degrees of freedom.</desc>
+<path d="M24 176C24 96 88 48 144 80S224 120 256 72S344 48 400 88S488 120 488 176S424 256 368 280S288 240 256 280S168 304 112 264S24 232 24 176Z"/>
+<g>
+<path d="M40 392C72 392 72 368 104 368S136 416 168 416S200 392 224 392"/>
+<path d="M40 448C72 448 72 424 104 424S136 472 168 472S200 448 224 448"/>
+</g>
+<g>
+<path d="M288 424C320 424 320 376 352 376S384 472 416 472S448 424 472 424"/>
+<path d="M288 424C320 424 320 472 352 472S384 376 416 376S448 424 472 424"/>
+</g>
+</svg>

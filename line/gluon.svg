@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Gluon mediating the strong interaction between two quarks</title>
+<circle cx="68" cy="256" r="44"/>
+<path d="M128 256C144 256 144 208 160 208S176 304 192 304S208 208 224 208S240 304 256 304S272 208 288 208S304 304 320 304S336 208 352 208S368 256 384 256"/>
+<circle cx="444" cy="256" r="44"/>
+</svg>

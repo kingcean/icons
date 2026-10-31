@@ -1,0 +1,31 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Dipole–dipole interaction</title>
+<desc>Two polar molecules align their delta-positive and delta-negative ends. Separated dashes distinguish intermolecular attraction from solid internal bonds.</desc>
+<defs>
+<path id="cloud" fill-rule="evenodd" d="M128 160A104 96 0 1 1 128 352A104 96 0 1 1 128 160ZM128 176A88 80 0 1 0 128 336A88 80 0 1 0 128 176Z"/>
+<path id="delta" fill-rule="evenodd" d="M-10-28C-14-28-22-29-24-24C-26-19-19-15-14-12C-24-12-30-5-30 4C-30 16-8 18-5 7C-2-4-13-16-18-20C-21-23-17-24-10-22Q-4-21-5-25Q-6-28-10-28ZM-17-7C-8-7-6 11-17 11C-28 11-27-7-17-7Z"/>
+<g id="partial-minus">
+<use href="#delta"/>
+<rect x="4" y="-10" width="20" height="8" rx="4"/>
+</g>
+<g id="partial-plus">
+<use href="#delta"/>
+<path d="M10-16Q10-20 14-20Q18-20 18-16V-10H24Q28-10 28-6Q28-2 24-2H18V4Q18 8 14 8Q10 8 10 4V-2H4Q0-2 0-6Q0-10 4-10H10Z"/>
+</g>
+</defs>
+<use href="#cloud"/>
+<use href="#cloud" transform="translate(256 0)"/>
+<use href="#partial-minus" transform="translate(80 224)"/>
+<use href="#partial-plus" transform="translate(184 224)"/>
+<use href="#partial-minus" transform="translate(336 224)"/>
+<use href="#partial-plus" transform="translate(440 224)"/>
+<circle cx="76" cy="288" r="24"/>
+<circle cx="180" cy="288" r="24"/>
+<circle cx="332" cy="288" r="24"/>
+<circle cx="436" cy="288" r="24"/>
+<rect x="108" y="282" width="40" height="12" rx="6"/>
+<rect x="364" y="282" width="40" height="12" rx="6"/>
+<rect x="240" y="282" width="12" height="12" rx="5"/>
+<rect x="260" y="282" width="12" height="12" rx="5"/>
+</svg>

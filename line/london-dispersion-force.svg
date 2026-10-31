@@ -1,0 +1,26 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>London dispersion force</title>
+<desc>Two neutral atoms have momentarily asymmetric electron clouds. A temporary dipole induces a complementary neighboring dipole, with partial charges and a dashed attraction connector.</desc>
+<defs>
+<path id="cloud" d="M128 120C60 108 24 164 24 232C24 312 64 384 136 392C200 400 232 348 232 276C232 204 196 132 128 120Z"/>
+<path id="delta" d="M-8-24C-16-28-27-26-25-20C-23-15-14-13-10-7C-26-13-33-2-29 9C-25 20-8 19-4 9C1-4-13-17-19-20M-10-7C-4-1-5 12-15 13C-27 14-29-6-17-8"/>
+<g id="partial-minus">
+<use href="#delta"/>
+<path d="M6-8H26"/>
+</g>
+<g id="partial-plus">
+<use href="#delta"/>
+<path d="M6-8H26M16-18V2"/>
+</g>
+</defs>
+<use href="#cloud"/>
+<use href="#cloud" transform="translate(256 0)"/>
+<use href="#partial-minus" transform="translate(80 232)"/>
+<use href="#partial-plus" transform="translate(184 232)"/>
+<use href="#partial-minus" transform="translate(336 232)"/>
+<use href="#partial-plus" transform="translate(440 232)"/>
+<circle cx="140" cy="300" r="24"/>
+<circle cx="396" cy="300" r="24"/>
+<path d="M244 264H268" stroke-dasharray="8 8"/>
+</svg>

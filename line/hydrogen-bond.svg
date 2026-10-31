@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Hydrogen bond</title>
+<desc>Two bent water molecules. Solid internal bonds join each oxygen to its hydrogens, and a dashed hydrogen bond connects the first molecule's hydrogen to the second molecule's oxygen.</desc>
+<circle cx="124" cy="368" r="44"/>
+<circle cx="60" cy="256" r="24"/>
+<circle cx="236" cy="312" r="24"/>
+<circle cx="384" cy="208" r="44"/>
+<circle cx="352" cy="80" r="24"/>
+<circle cx="480" cy="224" r="24"/>
+<path d="M98 323L76 284M170 345L207 327M371 158L360 111M434 216L448 219"/>
+<path d="M266 291L340 239" stroke-dasharray="12 14"/>
+</svg>

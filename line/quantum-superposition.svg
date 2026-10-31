@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum superposition</title>
+<desc>A single input state branches into two overlapping coherent wave alternatives that recombine into one output state.</desc>
+<circle cx="56" cy="256" r="32"/>
+<g>
+<path d="M108 256C140 256 142 152 178 152C226 152 286 360 334 360C370 360 372 256 404 256"/>
+<path d="M108 256C140 256 142 360 178 360C226 360 286 152 334 152C370 152 372 256 404 256"/>
+</g>
+<circle cx="456" cy="256" r="32"/>
+</svg>

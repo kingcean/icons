@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Photon wave packet and propagation arrow</title>
+<defs>
+<linearGradient id="wave" x1="24" y1="128" x2="344" y2="384" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#168D92"/>
+<stop offset="0.5" stop-color="#357CB9"/>
+<stop offset="1" stop-color="#8076CA"/>
+</linearGradient>
+<linearGradient id="arrow" x1="364" y1="256" x2="496" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D69A18"/>
+<stop offset="1" stop-color="#D96B32"/>
+</linearGradient>
+</defs>
+<path fill="url(#wave)" d="M24 244C44 244 44 212 64 212S84 276 104 276S124 116 144 116S164 372 184 372S204 116 224 116S244 276 264 276S284 212 304 212S324 244 344 244A12 12 0 0 1 344 268C324 268 324 236 304 236S284 300 264 300S244 140 224 140S204 396 184 396S164 140 144 140S124 300 104 300S84 236 64 236S44 268 24 268A12 12 0 0 1 24 244Z"/>
+<path fill="url(#arrow)" d="M376 244H452L432 224A12 12 0 0 1 449 207L489 247Q498 256 489 265L449 305A12 12 0 0 1 432 288L452 268H376A12 12 0 0 1 376 244Z"/>
+</svg>

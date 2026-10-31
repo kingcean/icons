@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum teleportation</title>
+<desc>Three quantum systems: an input state and two members of a shared entangled pair. The input and local member undergo a joint measurement. A classical message leads to a conditional correction at the receiver; the shared correlation is not a signal path.</desc>
+<g>
+<circle cx="72" cy="184" r="32"/>
+<circle cx="200" cy="184" r="32"/>
+<circle cx="440" cy="184" r="32"/>
+<path d="M72 232V264M200 232V264M440 232V264"/>
+</g>
+<path d="M200 136C200 40 440 40 440 136"/>
+<g>
+<rect x="24" y="280" width="256" height="128" rx="20"/>
+<path d="M104 368A48 48 0 0 1 200 368M152 368L176 332"/>
+</g>
+<path d="M296 344H352M332 324L352 344L332 364"/>
+<g>
+<rect x="376" y="280" width="112" height="128" rx="20"/>
+<path d="M408 320V352Q408 376 432 376Q456 376 456 352V320"/>
+</g>
+</svg>

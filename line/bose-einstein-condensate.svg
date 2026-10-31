@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Bose–Einstein condensate</title>
+<desc>Many separate bosonic atom markers occupy one smooth shared matter-wave distribution inside an atom trap. A low thermometer indicates ultralow temperature.</desc>
+<path d="M24 144V396Q24 440 68 440H324Q368 440 368 396V144"/>
+<path d="M48 380C96 380 112 176 196 176S296 380 344 380Z"/>
+<g>
+<circle cx="196" cy="224" r="12"/>
+<circle cx="168" cy="268" r="12"/>
+<circle cx="224" cy="268" r="12"/>
+<circle cx="140" cy="312" r="12"/>
+<circle cx="196" cy="312" r="12"/>
+<circle cx="252" cy="312" r="12"/>
+<circle cx="112" cy="352" r="12"/>
+<circle cx="168" cy="352" r="12"/>
+<circle cx="224" cy="352" r="12"/>
+<circle cx="280" cy="352" r="12"/>
+</g>
+<g>
+<path d="M428 328V88A16 16 0 0 1 460 88V328A36 36 0 1 1 428 328Z"/>
+<circle cx="444" cy="360" r="14"/>
+<path d="M444 346V312M472 136H488M472 192H488M472 248H488"/>
+</g>
+</svg>

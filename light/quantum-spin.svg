@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Quantum spin</title>
+<desc>A blue beam passes between violet asymmetric magnetic poles. Two discrete blue output paths end in amber detection markers, representing Stern–Gerlach spin measurement.</desc>
+<circle cx="48" cy="256" r="24" fill="#357CB9"/>
+<g fill="#7351BA">
+<path d="M192 64H312Q332 64 332 84V136Q332 144 324 152L268 208Q256 220 244 208L180 152Q172 144 172 136V84Q172 64 192 64Z"/>
+<rect x="172" y="304" width="160" height="144" rx="16"/>
+</g>
+<g fill="#357CB9">
+<path d="M88 246H336C376 246 376 150 432 150A10 10 0 0 1 432 170C396 170 396 266 336 266H88A10 10 0 0 1 88 246Z"/>
+<path d="M336 246C396 246 396 342 432 342A10 10 0 0 1 432 362C376 362 376 266 336 266A10 10 0 0 1 336 246Z"/>
+</g>
+<g fill="#D69A18">
+<circle cx="472" cy="160" r="24"/>
+<circle cx="472" cy="352" r="24"/>
+</g>
+</svg>

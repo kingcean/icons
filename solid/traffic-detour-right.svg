@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M42 96H470Q488 96 488 114V398Q488 416 470 416H42Q24 416 24 398V114Q24 96 42 96ZM54 118Q46 118 46 126V386Q46 394 54 394H458Q466 394 466 386V126Q466 118 458 118Z"/>
+<text x="256" y="218" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" text-anchor="middle">DETOUR</text>
+<path d="M118 292H342V264Q342 254 350 260L408 304Q416 310 408 316L350 360Q342 366 342 356V328H118Q112 328 112 322V298Q112 292 118 292Z"/>
+</svg>

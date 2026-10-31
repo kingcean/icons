@@ -1,0 +1,33 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Metallic bond</title>
+<desc>An orderly array of six positive metal-ion cores is surrounded by a shared electron region containing twelve delocalized electrons, without connecting rods.</desc>
+<defs>
+<g id="ion">
+<circle r="36"/>
+<path d="M-14 0H14M0-14V14"/>
+</g>
+<g id="electrons">
+<circle cx="80" cy="120" r="12"/>
+<circle cx="192" cy="120" r="12"/>
+<circle cx="320" cy="120" r="12"/>
+<circle cx="432" cy="120" r="12"/>
+<circle cx="64" cy="256" r="12"/>
+<circle cx="176" cy="256" r="12"/>
+<circle cx="336" cy="256" r="12"/>
+<circle cx="448" cy="256" r="12"/>
+<circle cx="80" cy="392" r="12"/>
+<circle cx="192" cy="392" r="12"/>
+<circle cx="320" cy="392" r="12"/>
+<circle cx="432" cy="392" r="12"/>
+</g>
+</defs>
+<rect x="24" y="80" width="464" height="352" rx="32"/>
+<use href="#ion" transform="translate(112 184)"/>
+<use href="#ion" transform="translate(256 184)"/>
+<use href="#ion" transform="translate(400 184)"/>
+<use href="#ion" transform="translate(112 328)"/>
+<use href="#ion" transform="translate(256 328)"/>
+<use href="#ion" transform="translate(400 328)"/>
+<use href="#electrons"/>
+</svg>

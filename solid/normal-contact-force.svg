@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Normal contact force</title>
+<desc>A block on an incline has a narrow cutout separating it from the single outward normal-force arrow. The arrow is perpendicular to the plane.</desc>
+<g transform="rotate(-25 256 328)">
+<rect x="0" y="328" width="512" height="16" rx="8"/>
+<path d="M192 192H240V312H192Q176 312 176 296V208Q176 192 192 192ZM272 192H320Q336 192 336 208V296Q336 312 320 312H272Z"/>
+<path d="M248 312V91L238 101A8 8 0 0 1 226 89L250 65Q256 59 262 65L286 89A8 8 0 0 1 274 101L264 91V312A8 8 0 0 1 248 312Z"/>
+</g>
+</svg>

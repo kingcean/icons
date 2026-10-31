@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Covalent bond</title>
+<desc>Luminous blue and teal translucent hydrogen clouds overlap around a gold shared electron pair. Coral proton centers identify the two hydrogen nuclei.</desc>
+<circle cx="176" cy="256" r="148" fill="#79BDF2" fill-opacity="0.24" stroke="#79BDF2" stroke-width="8"/>
+<circle cx="336" cy="256" r="148" fill="#66D5C8" fill-opacity="0.24" stroke="#66D5C8" stroke-width="8"/>
+<circle cx="176" cy="256" r="26" fill="#FF8E9A"/>
+<path fill="#6B3444" d="M171 241H181V251H191V261H181V271H171V261H161V251H171Z"/>
+<circle cx="336" cy="256" r="26" fill="#FF8E9A"/>
+<path fill="#6B3444" d="M331 241H341V251H351V261H341V271H331V261H321V251H331Z"/>
+<circle cx="256" cy="232" r="16" fill="#F4C458"/>
+<circle cx="256" cy="280" r="16" fill="#F4C458"/>
+</svg>

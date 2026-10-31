@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Ionic bond</title>
+<desc>Luminous coral positive ions and blue negative ions alternate in a three-dimensional cubic lattice. A gold enclosure highlights one neighboring opposite-charge pair without electron-sharing rods or a background.</desc>
+<defs>
+<g id="positive">
+<circle r="40" fill="#FF8E9A"/>
+<path fill="#6B3444" d="M-6-20H6V-6H20V6H6V20H-6V6H-20V-6H-6Z"/>
+</g>
+<g id="negative">
+<circle r="40" fill="#79BDF2"/>
+<rect x="-20" y="-6" width="40" height="12" rx="6" fill="#304D6A"/>
+</g>
+</defs>
+<use href="#negative" transform="translate(224 96)"/>
+<use href="#positive" transform="translate(416 96)"/>
+<use href="#positive" transform="translate(224 288)"/>
+<use href="#negative" transform="translate(416 288)"/>
+<use href="#positive" transform="translate(96 224)"/>
+<use href="#negative" transform="translate(288 224)"/>
+<use href="#negative" transform="translate(96 416)"/>
+<use href="#positive" transform="translate(288 416)"/>
+<path fill="#F4C458" fill-rule="evenodd" d="M96 352H288A64 64 0 0 1 288 480H96A64 64 0 0 1 96 352ZM96 368A48 48 0 0 0 96 464H288A48 48 0 0 0 288 368Z"/>
+</svg>

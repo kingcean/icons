@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Photoelectric effect</title>
+<desc>Blue photon wave packets strike a gray metal plate. Amber outward trajectories lead to violet electrons with clear minus signs.</desc>
+<defs>
+<linearGradient id="light" x1="80" y1="104" x2="220" y2="320" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#357CB9"/>
+<stop offset="1" stop-color="#008F96"/>
+</linearGradient>
+<linearGradient id="emission" x1="300" y1="310" x2="430" y2="176" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D96B32"/>
+<stop offset="1" stop-color="#D69A18"/>
+</linearGradient>
+</defs>
+<rect x="24" y="336" width="464" height="112" rx="16" fill="#657B95"/>
+<rect x="56" y="368" width="400" height="16" rx="8" fill="#B6C8DA"/>
+<g fill="url(#light)">
+<path d="M40 96C10 126 78 135 58 146C24 174 108 179 82 194C48 222 128 228 105 244Q101 248 105 254L127 292L119 290A10 10 0 0 0 113 310L145 320Q156 323 158 312L164 280A10 10 0 0 0 144 276L142 281L119 244C146 216 72 211 94 206C128 178 48 173 70 158C100 128 35 121 46 110A10 10 0 0 0 40 96Z"/>
+<path transform="translate(104 0)" d="M40 96C10 126 78 135 58 146C24 174 108 179 82 194C48 222 128 228 105 244Q101 248 105 254L127 292L119 290A10 10 0 0 0 113 310L145 320Q156 323 158 312L164 280A10 10 0 0 0 144 276L142 281L119 244C146 216 72 211 94 206C128 178 48 173 70 158C100 128 35 121 46 110A10 10 0 0 0 40 96Z"/>
+</g>
+<g fill="url(#emission)">
+<path d="M292 307L327 198L323 201A9 9 0 0 1 313 185L337 169Q347 163 351 173L361 203A9 9 0 0 1 344 209L341 200L308 313A9 9 0 0 1 292 307Z"/>
+<path d="M386 304L409 281L405 283A9 9 0 0 1 403 265L429 263Q440 262 439 273L437 299A9 9 0 0 1 419 297L420 294L398 316A9 9 0 0 1 386 304Z"/>
+</g>
+<g fill="#7351BA">
+<circle cx="356" cy="120" r="32"/>
+<circle cx="456" cy="224" r="28"/>
+</g>
+<g fill="#FFFFFF">
+<rect x="335" y="113" width="42" height="14" rx="7"/>
+<rect x="438" y="218" width="36" height="12" rx="6"/>
+</g>
+</svg>

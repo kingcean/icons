@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<rect x="24" y="132" width="464" height="248" rx="100"/>
+<rect x="52" y="160" width="408" height="192" rx="76"/>
+<rect x="108" y="228" width="296" height="56" rx="24"/>
+</svg>

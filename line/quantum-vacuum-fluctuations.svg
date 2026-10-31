@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum vacuum fluctuations</title>
+<desc>A schematic quantum-field patch shows small irregular amplitudes around a ground-state baseline. A separate distribution inset represents the spread of field amplitudes, not literal particles or extractable energy.</desc>
+<rect x="24" y="32" width="464" height="288" rx="24"/>
+<path opacity="0.4" stroke-dasharray="16 16" d="M48 184H464"/>
+<path d="M48 184C64 184 64 168 80 168S96 204 112 204S128 144 148 144S168 224 188 224S208 164 224 164S240 196 256 196S272 128 292 128S312 216 332 216S352 160 368 160S384 200 400 200S416 172 432 172S448 184 464 184"/>
+<g>
+<rect x="280" y="352" width="208" height="136" rx="20"/>
+<path d="M304 448H328C352 448 356 376 384 376S416 448 440 448H464"/>
+<path opacity="0.5" d="M304 464H464"/>
+</g>
+</svg>

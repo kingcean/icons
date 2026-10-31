@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232" fill="#1767C5"/>
+<circle cx="256" cy="256" r="184" fill="none" stroke="#FFFFFF" stroke-width="24"/>
+<path fill="#FFFFFF" fill-rule="evenodd" d="M204 350V162Q204 156 210 156H272C314 156 338 176 338 212C338 248 314 268 272 268H240V350Q240 356 234 356H210Q204 356 204 350ZM240 188V236H270C291 236 302 228 302 212C302 196 291 188 270 188Z"/>
+</svg>

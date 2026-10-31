@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="letter-gap">
+<path d="M26 0H512V486ZM0 26L486 512H0Z"/>
+</clipPath>
+</defs>
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256ZM436 256A180 180 0 1 0 76 256A180 180 0 1 0 436 256Z"/>
+<g clip-path="url(#letter-gap)">
+<path fill-rule="evenodd" d="M204 350V162Q204 156 210 156H272C314 156 338 176 338 212C338 248 314 268 272 268H240V350Q240 356 234 356H210Q204 356 204 350ZM240 188V236H270C291 236 302 228 302 212C302 196 291 188 270 188Z"/>
+</g>
+<path d="M91 113Q80 102 91 91Q102 80 113 91L421 399Q432 410 421 421Q410 432 399 421Z"/>
+</svg>

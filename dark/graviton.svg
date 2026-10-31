@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Hypothetical graviton exchange between two masses</title>
+<desc>A schematic exchange above curved spacetime. The question-mark badge indicates a hypothetical, experimentally unconfirmed gravitational quantum.</desc>
+<path fill="none" stroke="#94C8DA" stroke-width="14" stroke-linecap="round" opacity="0.65" d="M24 288Q256 368 488 288M24 360Q256 440 488 360M24 432Q256 496 488 432M96 310Q132 380 96 450M256 336V464M416 310Q380 380 416 450"/>
+<path fill="#D0BCFF" d="M124 199H148A9 9 0 0 1 148 217H124A9 9 0 0 1 124 199ZM172 199H196A9 9 0 0 1 196 217H172A9 9 0 0 1 172 199ZM220 199H244A9 9 0 0 1 244 217H220A9 9 0 0 1 220 199ZM268 199H292A9 9 0 0 1 292 217H268A9 9 0 0 1 268 199ZM316 199H340A9 9 0 0 1 340 217H316A9 9 0 0 1 316 199ZM364 199H388A9 9 0 0 1 388 217H364A9 9 0 0 1 364 199Z"/>
+<g fill="#79BDF2">
+<circle cx="68" cy="208" r="36"/>
+<circle cx="444" cy="208" r="36"/>
+</g>
+<g>
+<circle cx="256" cy="100" r="60" fill="#F4C458"/>
+<path fill="#182D3D" d="M230 82C230 48 284 48 284 82Q284 100 264 109V112A8 8 0 0 1 248 112V104Q248 99 253 97Q268 90 268 82C268 68 246 68 246 82A8 8 0 0 1 230 82ZM256 123A9 9 0 1 1 256 141A9 9 0 1 1 256 123Z"/>
+</g>
+</svg>

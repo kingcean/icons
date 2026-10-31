@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Viscous drag</title>
+<desc>A luminous sphere moves right through translucent liquid. Teal flow lines curve around the sphere, while amber drag points left and a violet-blue motion arrow points right.</desc>
+<defs>
+<linearGradient id="drag" x1="194" y1="256" x2="62" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF9F70"/>
+<stop offset="1" stop-color="#F4C458"/>
+</linearGradient>
+<linearGradient id="motion" x1="318" y1="256" x2="450" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C2A7F0"/>
+<stop offset="1" stop-color="#79BDF2"/>
+</linearGradient>
+<path id="flow" d="M64 176C144 176 176 128 256 128S368 176 448 176A8 8 0 0 1 448 192C368 192 336 144 256 144S144 192 64 192A8 8 0 0 1 64 176Z"/>
+<path id="arrow" d="M184 246H96L103 239A10 10 0 0 0 89 225L65 249Q58 256 65 263L89 287A10 10 0 0 0 103 273L96 266H184A10 10 0 0 0 184 246Z"/>
+</defs>
+<rect x="24" y="64" width="464" height="384" rx="32" fill="#79BDF2" fill-opacity="0.18"/>
+<g fill="#66D5C8">
+<use href="#flow"/>
+<use href="#flow" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<circle cx="256" cy="256" r="56" fill="#79BDF2"/>
+<path fill="#D4EDFF" d="M218 256A38 38 0 0 1 256 218A6 6 0 0 1 256 230A26 26 0 0 0 230 256A6 6 0 0 1 218 256Z"/>
+<use href="#arrow" fill="url(#drag)"/>
+<path fill="url(#motion)" d="M328 246H416L409 239A10 10 0 0 1 423 225L447 249Q454 256 447 263L423 287A10 10 0 0 1 409 273L416 266H328A10 10 0 0 1 328 246Z"/>
+</svg>

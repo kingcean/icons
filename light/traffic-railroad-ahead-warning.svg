@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232" fill="#171717"/>
+<circle cx="256" cy="256" r="208" fill="#FFD02E"/>
+<rect x="244" y="118" width="24" height="276" rx="12" transform="rotate(-39 256 256)" fill="#171717"/>
+<rect x="244" y="118" width="24" height="276" rx="12" transform="rotate(39 256 256)" fill="#171717"/>
+<text x="136" y="288" fill="#171717" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="900" text-anchor="middle">R</text>
+<text x="376" y="288" fill="#171717" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="900" text-anchor="middle">R</text>
+</svg>

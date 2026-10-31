@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Gravitational force</title>
+<desc>Two spherical masses with equally sized inward force arrows on their shared centerline.</desc>
+<path fill-rule="evenodd" d="M88 192A64 64 0 1 1 88 320A64 64 0 1 1 88 192ZM42 256A46 46 0 0 1 88 210A6 6 0 0 1 88 222A34 34 0 0 0 54 256A6 6 0 0 1 42 256Z"/>
+<path fill-rule="evenodd" transform="translate(336 0)" d="M88 192A64 64 0 1 1 88 320A64 64 0 1 1 88 192ZM42 256A46 46 0 0 1 88 210A6 6 0 0 1 88 222A34 34 0 0 0 54 256A6 6 0 0 1 42 256Z"/>
+<path d="M240 246H200L207 239A10 10 0 0 0 193 225L169 249Q162 256 169 263L193 287A10 10 0 0 0 207 273L200 266H240A10 10 0 0 0 240 246Z"/>
+<path transform="translate(512 0) scale(-1 1)" d="M240 246H200L207 239A10 10 0 0 0 193 225L169 249Q162 256 169 263L193 287A10 10 0 0 0 207 273L200 266H240A10 10 0 0 0 240 246Z"/>
+</svg>

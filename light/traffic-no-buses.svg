@@ -1,0 +1,8 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="256" r="232" fill="#D92532"/>
+<circle cx="256" cy="256" r="180" fill="#FFFFFF"/>
+<path fill="#171717" fill-rule="evenodd" d="M144 188H358Q382 188 382 212V308Q382 320 370 320H138Q126 320 126 308V206Q126 188 144 188ZM146 212V252H180V212ZM192 212V252H226V212ZM238 212V252H272V212ZM284 212V252H318V212ZM330 212V252H362V212Z"/>
+<circle cx="180" cy="350" r="22" fill="#171717"/>
+<circle cx="334" cy="350" r="22" fill="#171717"/>
+<path fill="#D92532" d="M91 113Q80 102 91 91Q102 80 113 91L421 399Q432 410 421 421Q410 432 399 421Z"/>
+</svg>

@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Capillary force</title>
+<desc>A narrow tube contains a raised water column with a concave meniscus. Two upward arrows mark the capillary lifting effect.</desc>
+<path d="M24 280A8 8 0 0 1 40 280V448Q40 472 64 472H448Q472 472 472 448V280A8 8 0 0 1 488 280V448Q488 488 448 488H64Q24 488 24 448Z"/>
+<rect x="192" y="24" width="16" height="384" rx="8"/>
+<rect x="304" y="24" width="16" height="384" rx="8"/>
+<path d="M216 156Q256 196 296 156V408H216ZM56 312H176V408Q176 424 192 424H320Q336 424 336 408V312H456V440Q456 456 440 456H72Q56 456 56 440Z"/>
+<path id="lift" d="M152 224V163L146 169A8 8 0 0 1 134 157L154 137Q160 131 166 137L186 157A8 8 0 0 1 174 169L168 163V224A8 8 0 0 1 152 224Z"/>
+<use href="#lift" transform="translate(192 0)"/>
+</svg>

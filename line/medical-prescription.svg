@@ -1,7 +1,9 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
 <path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/>
 <path d="M292 24L424 156H324Q292 156 292 124Z"/>
+<g transform="translate(0 -16)">
 <path d="M172 328V232H208Q240 232 240 252Q240 272 208 272H172M208 272L278 348M278 292L232 344"/>
 <path d="M160 390H352M160 434H320"/>
+</g>
 </svg>

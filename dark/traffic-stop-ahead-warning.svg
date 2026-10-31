@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrow" x1="256" y1="122" x2="256" y2="226" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#111111"/>
+<stop offset="1" stop-color="#303030"/>
+</linearGradient>
+</defs>
+<path fill="#171717" d="M242 30Q256 16 270 30L482 242Q496 256 482 270L270 482Q256 496 242 482L30 270Q16 256 30 242Z"/>
+<path fill="#FFDA46" d="M248 60Q256 52 264 60L452 248Q460 256 452 264L264 452Q256 460 248 452L60 264Q52 256 60 248Z"/>
+<path fill="url(#arrow)" d="M270 220V160L285 175Q292 182 299 175Q306 168 299 161L263 125Q256 118 249 125L213 161Q206 168 213 175Q220 182 227 175L242 160V220Q242 226 248 226H264Q270 226 270 220Z"/>
+<path fill="#E73542" d="M212 248H300Q304 248 307 251L331 275Q334 278 334 282V342Q334 346 331 349L307 373Q304 376 300 376H212Q208 376 205 373L181 349Q178 346 178 342V282Q178 278 181 275L205 251Q208 248 212 248Z"/>
+<text x="256" y="326" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="40" font-weight="900" text-anchor="middle">STOP</text>
+</svg>

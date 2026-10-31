@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Weak interaction</title>
+<desc>A blue neutron decays into a coral proton, a teal electron, and a violet electron antineutrino. Amber arrows show the distinct outgoing paths. The barred neutrino symbol denotes the antineutrino.</desc>
+<defs>
+<linearGradient id="decay" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#D69A18"/>
+<stop offset="1" stop-color="#D96B32"/>
+</linearGradient>
+</defs>
+<circle cx="96" cy="256" r="72" fill="#357CB9"/>
+<path fill="#E4F1FC" d="M66 282V234H78V240C96 226 126 232 126 252V282H114V254C114 237 78 239 78 254V282Z"/>
+<circle cx="352" cy="256" r="72" fill="#D85865"/>
+<path fill="#FFF0F1" fill-rule="evenodd" d="M326 294V230H338V236C357 225 382 232 382 252C382 273 357 280 338 269V294ZM338 252C338 267 370 267 370 252S338 237 338 252Z"/>
+<circle cx="440" cy="80" r="44" fill="#008F96"/>
+<rect x="414" y="74" width="52" height="12" rx="6" fill="#DDF8F3"/>
+<circle cx="440" cy="432" r="44" fill="#7351BA"/>
+<path fill="#EADFFF" d="M422 398A6 6 0 0 0 422 410H458A6 6 0 0 0 458 398ZM418 422L426 448Q433 466 448 450Q462 435 462 420A6 6 0 0 0 450 420Q450 430 440 441Q438 444 438 442L430 418A6 6 0 0 0 418 422Z"/>
+<g fill="url(#decay)">
+<path d="M188 248H237L230 241A8 8 0 0 1 242 229L263 250Q269 256 263 262L242 283A8 8 0 0 1 230 271L237 264H188A8 8 0 0 1 188 248Z"/>
+<path d="M188 212H385L378 205A8 8 0 0 1 390 193L411 214Q417 220 411 226L390 247A8 8 0 0 1 378 235L385 228H188A8 8 0 0 1 188 212Z" transform="rotate(-32 188 220)"/>
+<path d="M188 284H385L378 277A8 8 0 0 1 390 265L411 286Q417 292 411 298L390 319A8 8 0 0 1 378 307L385 300H188A8 8 0 0 1 188 284Z" transform="rotate(32 188 292)"/>
+</g>
+</svg>

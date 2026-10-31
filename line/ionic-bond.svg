@@ -1,0 +1,24 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Ionic bond</title>
+<desc>A three-dimensional lattice of eight alternating positive and negative ions. A rounded enclosure highlights one neighboring opposite-charge pair without connecting rods.</desc>
+<defs>
+<g id="positive">
+<circle r="40"/>
+<path d="M-18 0H18M0-18V18"/>
+</g>
+<g id="negative">
+<circle r="40"/>
+<path d="M-18 0H18"/>
+</g>
+</defs>
+<use href="#negative" transform="translate(224 96)"/>
+<use href="#positive" transform="translate(416 96)"/>
+<use href="#positive" transform="translate(224 288)"/>
+<use href="#negative" transform="translate(416 288)"/>
+<use href="#positive" transform="translate(96 224)"/>
+<use href="#negative" transform="translate(288 224)"/>
+<use href="#negative" transform="translate(96 416)"/>
+<use href="#positive" transform="translate(288 416)"/>
+<rect x="32" y="352" width="320" height="128" rx="64"/>
+</svg>

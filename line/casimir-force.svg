@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Casimir force</title>
+<desc>Two closely spaced parallel conducting plates attract with equal inward force arrows. Schematic electromagnetic mode curves differ inside and outside the gap.</desc>
+<rect x="176" y="32" width="24" height="448" rx="10"/>
+<rect x="312" y="32" width="24" height="448" rx="10"/>
+<path id="outside-mode" d="M24 160C35 132 45 132 56 160S77 188 88 160S109 132 120 160S141 188 152 160"/>
+<use href="#outside-mode" transform="translate(0 192)"/>
+<use href="#outside-mode" transform="translate(336 0)"/>
+<use href="#outside-mode" transform="translate(336 192)"/>
+<path d="M216 160Q256 120 296 160M216 352Q256 392 296 352"/>
+<path d="M216 256H244M228 240L244 256L228 272M296 256H268M284 240L268 256L284 272"/>
+</svg>

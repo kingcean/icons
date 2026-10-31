@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Gravitational force</title>
+<desc>Luminous blue and violet spherical masses attract with equal opposing amber arrows along the line joining their centers.</desc>
+<defs>
+<linearGradient id="force" x1="256" y1="224" x2="256" y2="288" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F4C458"/>
+<stop offset="1" stop-color="#FF9F70"/>
+</linearGradient>
+</defs>
+<circle cx="88" cy="256" r="64" fill="#79BDF2"/>
+<path fill="#D4EDFF" d="M42 256A46 46 0 0 1 88 210A6 6 0 0 1 88 222A34 34 0 0 0 54 256A6 6 0 0 1 42 256Z"/>
+<circle cx="424" cy="256" r="64" fill="#C2A7F0"/>
+<path fill="#EADFFF" transform="translate(336 0)" d="M42 256A46 46 0 0 1 88 210A6 6 0 0 1 88 222A34 34 0 0 0 54 256A6 6 0 0 1 42 256Z"/>
+<g fill="url(#force)">
+<path d="M240 246H200L207 239A10 10 0 0 0 193 225L169 249Q162 256 169 263L193 287A10 10 0 0 0 207 273L200 266H240A10 10 0 0 0 240 246Z"/>
+<path transform="translate(512 0) scale(-1 1)" d="M240 246H200L207 239A10 10 0 0 0 193 225L169 249Q162 256 169 263L193 287A10 10 0 0 0 207 273L200 266H240A10 10 0 0 0 240 246Z"/>
+</g>
+</svg>

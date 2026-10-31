@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Magnetic force</title>
+<desc>Two divided bar magnets attract, with equally sized inward force arrows and curved magnetic field connections.</desc>
+<g>
+<path d="M40 200H96V312H40Q24 312 24 296V216Q24 200 40 200ZM112 200H168Q184 200 184 216V296Q184 312 168 312H112Z"/>
+<path d="M344 200H400V312H344Q328 312 328 296V216Q328 200 344 200ZM416 200H472Q488 200 488 216V296Q488 312 472 312H416Z"/>
+</g>
+<g>
+<path id="field-arc" d="M168 181C194 91 318 91 344 181A8 8 0 0 1 328 187C306 117 206 117 184 187A8 8 0 0 1 168 181Z"/>
+<use href="#field-arc" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<g>
+<path id="attraction-arrow" d="M200 248H218L212 242A8 8 0 0 1 224 230L242 250Q248 256 242 262L224 282A8 8 0 0 1 212 270L218 264H200A8 8 0 0 1 200 248Z"/>
+<use href="#attraction-arrow" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

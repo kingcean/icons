@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>General relativity</title>
+<desc>A massive central body distorts an abstract spacetime coordinate grid. A nearby light path bends through the geometry. The grid is an analogy, not a material surface or funnel.</desc>
+<g>
+<path d="M24 112C140 112 176 144 256 144S372 112 488 112M24 184C140 184 176 192 256 192S372 184 488 184M24 328C140 328 176 320 256 320S372 328 488 328M24 440C140 440 176 408 256 408S372 440 488 440"/>
+<path d="M64 80C64 164 96 192 96 256S64 348 64 472M160 80C160 164 192 192 192 256S160 348 160 472M352 80C352 164 320 192 320 256S352 348 352 472M448 80C448 164 416 192 416 256S448 348 448 472"/>
+</g>
+<circle cx="256" cy="256" r="48"/>
+<path d="M24 40C220 40 330 76 356 176S384 298 488 304"/>
+</svg>

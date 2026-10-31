@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Air resistance</title>
+<path d="M72 280C88 104 424 104 440 280Q398 252 348 280Q302 252 256 280Q210 252 164 280Q114 252 72 280Z"/>
+<path d="M100 296L256 472L412 296M256 296V472"/>
+<path d="M256 120V24M228 52L256 24L284 52"/>
+<path d="M456 344V408M438 390L456 408L474 390"/>
+<path d="M40 312C12 260 16 208 48 168M472 312C500 260 496 208 464 168"/>
+</svg>

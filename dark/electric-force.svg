@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Electric force</title>
+<desc>Luminous blue positive and violet negative charges attract on the left. Two blue positive charges repel on the right, indicated by clearly separated amber force arrows.</desc>
+<defs>
+<linearGradient id="force" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#F4C458"/>
+<stop offset="1" stop-color="#FF9F70"/>
+</linearGradient>
+<path id="positive-symbol" d="M120 76V96H100A8 8 0 0 0 100 112H120V132A8 8 0 0 0 136 132V112H156A8 8 0 0 0 156 96H136V76A8 8 0 0 0 120 76Z"/>
+<path id="down-force" d="M120 200V229L116 225A8 8 0 0 0 104 237L122 255Q128 261 134 255L152 237A8 8 0 0 0 140 225L136 229V200A8 8 0 0 0 120 200Z"/>
+</defs>
+<g>
+<circle cx="128" cy="104" r="80" fill="#79BDF2"/>
+<use href="#positive-symbol" fill="#304D6A"/>
+<circle cx="128" cy="408" r="80" fill="#C2A7F0"/>
+<rect x="92" y="400" width="72" height="16" rx="8" fill="#493A65"/>
+</g>
+<g fill="url(#force)">
+<use href="#down-force"/>
+<use href="#down-force" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<g>
+<circle cx="384" cy="104" r="80" fill="#79BDF2"/>
+<use href="#positive-symbol" transform="translate(256 0)" fill="#304D6A"/>
+<circle cx="384" cy="408" r="80" fill="#79BDF2"/>
+<use href="#positive-symbol" transform="translate(256 304)" fill="#304D6A"/>
+</g>
+<g fill="url(#force)">
+<use href="#down-force" transform="translate(256 448) scale(1 -1)"/>
+<use href="#down-force" transform="translate(256 64)"/>
+</g>
+</svg>

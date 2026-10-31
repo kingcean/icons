@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Capillary force</title>
+<desc>Luminous blue water forms a raised column and concave meniscus inside a narrow glass tube. Amber arrows indicate capillary lifting near the contact line.</desc>
+<defs>
+<linearGradient id="lift-color" x1="160" y1="232" x2="160" y2="132" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF9F70"/>
+<stop offset="1" stop-color="#F4C458"/>
+</linearGradient>
+<path id="lift" d="M152 224V163L146 169A8 8 0 0 1 134 157L154 137Q160 131 166 137L186 157A8 8 0 0 1 174 169L168 163V224A8 8 0 0 1 152 224Z"/>
+</defs>
+<path fill="#79BDF2" d="M56 312H216V156Q256 196 296 156V312H456V440Q456 456 440 456H72Q56 456 56 440Z"/>
+<path fill="#C2A7F0" d="M24 280A8 8 0 0 1 40 280V448Q40 472 64 472H448Q472 472 472 448V280A8 8 0 0 1 488 280V448Q488 488 448 488H64Q24 488 24 448Z"/>
+<g fill="#A0B3CD">
+<rect x="192" y="24" width="16" height="384" rx="8"/>
+<rect x="304" y="24" width="16" height="384" rx="8"/>
+</g>
+<g fill="url(#lift-color)">
+<use href="#lift"/>
+<use href="#lift" transform="translate(192 0)"/>
+</g>
+</svg>

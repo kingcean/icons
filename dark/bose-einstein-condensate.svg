@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Bose–Einstein condensate</title>
+<desc>Ten luminous violet atom markers remain distinct inside one shared blue matter-wave distribution. A teal trap and low blue thermometer indicate an ultracold condensate.</desc>
+<path fill="#66D5C8" d="M14 144A10 10 0 0 1 34 144V396Q34 430 68 430H324Q358 430 358 396V144A10 10 0 0 1 378 144V396Q378 450 324 450H68Q14 450 14 396Z"/>
+<path fill="#304D6A" d="M48 380C96 380 112 176 196 176S296 380 344 380Z"/>
+<g fill="#C2A7F0">
+<circle cx="196" cy="224" r="12"/>
+<circle cx="168" cy="268" r="12"/>
+<circle cx="224" cy="268" r="12"/>
+<circle cx="140" cy="312" r="12"/>
+<circle cx="196" cy="312" r="12"/>
+<circle cx="252" cy="312" r="12"/>
+<circle cx="112" cy="352" r="12"/>
+<circle cx="168" cy="352" r="12"/>
+<circle cx="224" cy="352" r="12"/>
+<circle cx="280" cy="352" r="12"/>
+</g>
+<g>
+<path fill="#A0B3CD" d="M428 328V88A16 16 0 0 1 460 88V328A36 36 0 1 1 428 328Z"/>
+<path fill="#304D6A" d="M440 337V88A4 4 0 0 1 448 88V337A24 24 0 1 1 440 337Z"/>
+<circle cx="444" cy="360" r="14" fill="#79BDF2"/>
+<rect x="438" y="308" width="12" height="42" rx="6" fill="#79BDF2"/>
+<path fill="#F4C458" d="M478 130H482A6 6 0 0 1 482 142H478A6 6 0 0 1 478 130ZM478 186H482A6 6 0 0 1 482 198H478A6 6 0 0 1 478 186ZM478 242H482A6 6 0 0 1 482 254H478A6 6 0 0 1 478 242Z"/>
+</g>
+</svg>

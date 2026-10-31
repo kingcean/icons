@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="turn-gap">
+<path d="M26 0H512V486ZM0 26L486 512H0Z"/>
+</clipPath>
+</defs>
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256ZM436 256A180 180 0 1 0 76 256A180 180 0 1 0 436 256Z"/>
+<g clip-path="url(#turn-gap)">
+<path d="M236 360V244Q236 236 244 236H309L287 258Q280 265 287 272Q294 279 301 272L346 227Q353 220 346 213L301 168Q294 161 287 168Q280 175 287 182L309 204H244Q204 204 204 244V360Q204 368 212 368H228Q236 368 236 360Z"/>
+</g>
+<path d="M91 113Q80 102 91 91Q102 80 113 91L421 399Q432 410 421 421Q410 432 399 421Z"/>
+</svg>

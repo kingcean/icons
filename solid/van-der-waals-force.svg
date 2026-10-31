@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Van der Waals forces</title>
+<desc>Distorted cloud boundaries surround two neutral molecules. Opposite partial charges face each other, with short separated dashes marking weak attraction rather than covalent bonds.</desc>
+<path id="cloud" fill-rule="evenodd" d="M128 112C64 104 24 156 24 224C24 312 64 394 136 400C200 406 232 350 232 272C232 200 200 122 128 112ZM128 128C72 120 40 164 40 224C40 304 72 378 136 384C188 390 216 344 216 272C216 208 192 138 128 128Z"/>
+<use href="#cloud" transform="translate(512 0) scale(-1 1)"/>
+<circle cx="96" cy="296" r="22"/>
+<circle cx="176" cy="296" r="22"/>
+<circle cx="336" cy="296" r="22"/>
+<circle cx="416" cy="296" r="22"/>
+<rect x="124" y="290" width="24" height="12" rx="6"/>
+<rect x="364" y="290" width="24" height="12" rx="6"/>
+<rect x="68" y="211" width="24" height="10" rx="5"/>
+<path d="M187 204Q187 200 192 200Q197 200 197 204V211H204Q208 211 208 216Q208 221 204 221H197V228Q197 232 192 232Q187 232 187 228V221H180Q176 221 176 216Q176 211 180 211H187Z"/>
+<rect x="308" y="211" width="24" height="10" rx="5"/>
+<path d="M427 204Q427 200 432 200Q437 200 437 204V211H444Q448 211 448 216Q448 221 444 221H437V228Q437 232 432 232Q427 232 427 228V221H420Q416 221 416 216Q416 211 420 211H427Z"/>
+<rect x="242" y="226" width="10" height="12" rx="5"/>
+<rect x="260" y="226" width="10" height="12" rx="5"/>
+<rect x="242" y="266" width="10" height="12" rx="5"/>
+<rect x="260" y="266" width="10" height="12" rx="5"/>
+</svg>

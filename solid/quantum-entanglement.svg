@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Quantum entanglement</title>
+<desc>A shared state boundary encloses two separated systems with matching measurement branches. No traveling signal is depicted.</desc>
+<path fill-rule="evenodd" d="M112 64H400Q488 64 488 152V360Q488 448 400 448H112Q24 448 24 360V152Q24 64 112 64ZM112 84Q44 84 44 152V360Q44 428 112 428H400Q468 428 468 360V152Q468 84 400 84Z"/>
+<g>
+<circle cx="144" cy="196" r="40"/>
+<circle cx="368" cy="196" r="40"/>
+</g>
+<g>
+<path d="M136 252Q136 244 144 244Q152 244 152 252V277L190 314Q196 320 190 326Q184 332 178 326L144 292L110 326Q104 332 98 326Q92 320 98 314L136 277ZM360 252Q360 244 368 244Q376 244 376 252V277L414 314Q420 320 414 326Q408 332 402 326L368 292L334 326Q328 332 322 326Q316 320 322 314L360 277Z"/>
+<circle cx="104" cy="364" r="20"/>
+<rect x="164" y="344" width="40" height="40" rx="8"/>
+<circle cx="328" cy="364" r="20"/>
+<rect x="388" y="344" width="40" height="40" rx="8"/>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="car-gap">
+<path d="M16 0H512V496ZM0 16L496 512H0Z"/>
+</clipPath>
+</defs>
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="180"/>
+<g clip-path="url(#car-gap)" stroke-linecap="round">
+<path d="M164 244L181 185Q184 174 196 174H316Q328 174 331 185L348 244Q362 248 362 264V328Q362 340 350 340H162Q150 340 150 328V264Q150 248 164 244Z"/>
+<path d="M180 244L193 198H319L332 244Z"/>
+<path d="M170 274H198M314 274H342M224 308H288"/>
+<path d="M168 352V366Q168 374 176 374H196Q204 374 204 366V352M308 352V366Q308 374 316 374H336Q344 374 344 366V352"/>
+</g>
+<path d="M92 92L420 420" stroke-linecap="round"/>
+</svg>

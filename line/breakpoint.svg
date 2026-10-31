@@ -1,7 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="24" y="24" width="464" height="464" rx="32"/>
-<circle cx="108" cy="256" r="44"/>
-<path d="M208 144H432M208 256H384M208 368H432"/>
+<circle cx="96" cy="256" r="72"/>
+<path d="M212 152H476M212 256H412M212 360H476" stroke-linecap="round"/>
 </svg>

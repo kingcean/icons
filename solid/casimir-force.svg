@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Casimir force</title>
+<desc>Parallel conducting plates have equal inward attraction arrows. Different schematic field modes appear within the narrow gap and outside the plates.</desc>
+<rect x="176" y="32" width="24" height="448" rx="10"/>
+<rect x="312" y="32" width="24" height="448" rx="10"/>
+<path id="outside-mode" d="M19 158C32 125 48 125 61 158S72 183 83 158S112 125 125 158S136 183 147 158A6 6 0 0 1 157 162C144 195 128 195 115 162S104 137 93 162S64 195 51 162S40 137 29 162A6 6 0 0 1 19 158Z"/>
+<use href="#outside-mode" transform="translate(0 192)"/>
+<use href="#outside-mode" transform="translate(336 0)"/>
+<use href="#outside-mode" transform="translate(336 192)"/>
+<path id="inside-mode" d="M212 156Q256 112 300 156A6 6 0 0 1 292 164Q256 128 220 164A6 6 0 0 1 212 156Z"/>
+<use href="#inside-mode" transform="translate(0 512) scale(1 -1)"/>
+<path id="attraction" d="M216 248H225L222 245A8 8 0 0 1 234 233L250 250Q256 256 250 262L234 279A8 8 0 0 1 222 267L225 264H216A8 8 0 0 1 216 248Z"/>
+<use href="#attraction" transform="translate(512 0) scale(-1 1)"/>
+</svg>

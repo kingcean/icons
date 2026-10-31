@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Neutrino trajectory passing through matter without deflection</title>
+<path d="M196 232V172Q196 152 216 152H316Q336 152 336 172V232M196 280V340Q196 360 216 360H316Q336 360 336 340V280"/>
+<path d="M24 256H40M68 256H84M112 256H128M156 256H172M200 256H216M244 256H260M288 256H304M332 256H348M376 256H392M420 256H436"/>
+<circle cx="464" cy="256" r="20"/>
+</svg>

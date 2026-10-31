@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Normal contact force</title>
+<desc>A blue block rests on a violet incline. An amber arrow emerges from its contact face and points obliquely outward, perpendicular to the plane rather than vertically upward.</desc>
+<defs>
+<linearGradient id="normal-force" x1="256" y1="312" x2="256" y2="64" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D96B32"/>
+<stop offset="1" stop-color="#D69A18"/>
+</linearGradient>
+</defs>
+<g transform="rotate(-25 256 328)">
+<rect x="0" y="328" width="512" height="16" rx="8" fill="#7351BA"/>
+<rect x="176" y="192" width="160" height="136" rx="16" fill="#357CB9"/>
+<path d="M248 320V91L238 101A8 8 0 0 1 226 89L250 65Q256 59 262 65L286 89A8 8 0 0 1 274 101L264 91V320A8 8 0 0 1 248 320Z" fill="url(#normal-force)"/>
+</g>
+</svg>

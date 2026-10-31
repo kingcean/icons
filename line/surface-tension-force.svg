@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Surface tension</title>
+<desc>A horizontal needle depresses a water surface. A circular magnified inset shows outward and upward tension arrows tangent to the surface at the contact edges.</desc>
+<rect x="144" y="148" width="224" height="28" rx="14"/>
+<path d="M24 128H96C128 128 136 184 160 184H352C376 184 384 128 416 128H488"/>
+<circle cx="256" cy="352" r="136"/>
+<rect x="208" y="332" width="96" height="28" rx="14"/>
+<path d="M144 312C168 312 184 348 208 368Q256 400 304 368C328 348 344 312 368 312"/>
+<path id="tension" d="M198 352H262M244 334L262 352L244 370" transform="rotate(-140 198 352)"/>
+<use href="#tension" transform="translate(512 0) scale(-1 1)"/>
+</svg>

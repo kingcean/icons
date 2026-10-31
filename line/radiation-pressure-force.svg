@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Radiation pressure force</title>
+<desc>Incoming light wave packets strike a reflective sail. Reflected light returns leftward, while radiation pressure pushes the sail rightward.</desc>
+<rect x="328" y="104" width="40" height="304" rx="12"/>
+<path id="incoming" d="M24 176C40 148 56 148 72 176S104 204 120 176S152 148 168 176S200 204 216 176H296M278 158L296 176L278 194"/>
+<use href="#incoming" transform="translate(0 80)"/>
+<use href="#incoming" transform="translate(0 160)"/>
+<path d="M312 128Q200 64 48 64M68 44L48 64L68 84M312 384Q200 448 48 448M68 428L48 448L68 468"/>
+<path d="M388 256H480M452 228L480 256L452 284"/>
+</svg>

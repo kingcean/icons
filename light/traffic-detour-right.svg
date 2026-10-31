@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrow" x1="112" y1="260" x2="412" y2="360" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#111111"/>
+<stop offset="1" stop-color="#303030"/>
+</linearGradient>
+</defs>
+<rect x="24" y="96" width="464" height="320" rx="18" fill="#171717"/>
+<rect x="46" y="118" width="420" height="276" rx="8" fill="#F58A24"/>
+<text x="256" y="218" fill="#000000" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" text-anchor="middle">DETOUR</text>
+<path fill="url(#arrow)" d="M118 292H342V264Q342 254 350 260L408 304Q416 310 408 316L350 360Q342 366 342 356V328H118Q112 328 112 322V298Q112 292 118 292Z"/>
+</svg>

@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Superconductivity</title>
+<desc>A floating magnet, flux-excluding superconducting disk, surrounding field lines, and cooling snowflake.</desc>
+<path fill-rule="evenodd" d="M212 40H300Q316 40 316 56V128Q316 144 300 144H212Q196 144 196 128V56Q196 40 212 40ZM196 84V100H316V84Z"/>
+<g>
+<path d="M172 60C40 60 104 212 48 260C-20 326 8 440 136 440A8 8 0 0 0 136 424C24 424-4 326 60 272C120 220 56 76 172 76A8 8 0 0 0 172 60Z"/>
+<path transform="translate(512 0) scale(-1 1)" d="M172 60C40 60 104 212 48 260C-20 326 8 440 136 440A8 8 0 0 0 136 424C24 424-4 326 60 272C120 220 56 76 172 76A8 8 0 0 0 172 60Z"/>
+</g>
+<g>
+<ellipse cx="256" cy="304" rx="160" ry="44"/>
+<path d="M96 336C140 384 372 384 416 336V368C416 427 96 427 96 368Z"/>
+</g>
+<g>
+<path id="cold-arm" d="M250 456V440L239 429A6 6 0 0 1 247 421L250 424A6 6 0 0 1 262 424L265 421A6 6 0 0 1 273 429L262 440V456Z"/>
+<use href="#cold-arm" transform="rotate(60 256 456)"/>
+<use href="#cold-arm" transform="rotate(120 256 456)"/>
+<use href="#cold-arm" transform="rotate(180 256 456)"/>
+<use href="#cold-arm" transform="rotate(240 256 456)"/>
+<use href="#cold-arm" transform="rotate(300 256 456)"/>
+</g>
+</svg>

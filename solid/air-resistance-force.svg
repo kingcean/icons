@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Air resistance</title>
+<path d="M72 280C88 104 424 104 440 280Q398 252 348 280Q302 252 256 280Q210 252 164 280Q114 252 72 280Z"/>
+<path d="M92 296H112L248 450V296H264V450L400 296H420L268 467Q256 481 244 467Z"/>
+<path d="M244 120V53L237 60A12 12 0 0 1 219 44L247 16Q256 7 265 16L293 44A12 12 0 0 1 275 60L268 53V120A12 12 0 0 1 244 120Z"/>
+<path d="M448 344V389L444 385A8 8 0 0 0 432 397L450 415Q456 421 462 415L480 397A8 8 0 0 0 468 385L464 389V344A8 8 0 0 0 448 344Z"/>
+<path id="airflow" d="M33 316C3 260 7 205 42 163A8 8 0 0 1 54 173C25 211 21 260 47 308A8 8 0 0 1 33 316Z"/>
+<use href="#airflow" transform="translate(512 0) scale(-1 1)"/>
+</svg>

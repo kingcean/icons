@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Heisenberg uncertainty principle</title>
+<desc>Paired position x and momentum p distributions: narrow position accompanies broad momentum, while broad position accompanies narrow momentum. The complementary spreads are intrinsic, not instrument errors.</desc>
+<g>
+<path d="M24 208H232"/>
+<path d="M24 184H72C100 184 102 56 128 56S156 184 184 184H232"/>
+<path d="M192 232L216 256M216 232L192 256"/>
+</g>
+<g>
+<path d="M280 208H488"/>
+<path d="M280 184C312 184 336 120 384 120S456 184 488 184"/>
+<path d="M460 268V232H472C492 232 492 252 472 252H460"/>
+</g>
+<g>
+<path d="M24 432H232"/>
+<path d="M24 408C56 408 80 344 128 344S200 408 232 408"/>
+<path d="M192 456L216 480M216 456L192 480"/>
+</g>
+<g>
+<path d="M280 432H488"/>
+<path d="M280 408H328C356 408 358 280 384 280S412 408 440 408H488"/>
+<path d="M460 492V456H472C492 456 492 476 472 476H460"/>
+</g>
+</svg>

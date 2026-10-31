@@ -1,0 +1,35 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Casimir force</title>
+<desc>Silver-blue parallel conducting plates attract with equal amber arrows. Violet exterior mode curves and blue interior curves schematically suggest different allowed electromagnetic modes.</desc>
+<defs>
+<linearGradient id="force" x1="208" y1="256" x2="254" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D96B32"/>
+<stop offset="1" stop-color="#D69A18"/>
+</linearGradient>
+<path id="outside-mode" d="M19 158C32 125 48 125 61 158S72 183 83 158S112 125 125 158S136 183 147 158A6 6 0 0 1 157 162C144 195 128 195 115 162S104 137 93 162S64 195 51 162S40 137 29 162A6 6 0 0 1 19 158Z"/>
+<path id="inside-mode" d="M212 156Q256 112 300 156A6 6 0 0 1 292 164Q256 128 220 164A6 6 0 0 1 212 156Z"/>
+<path id="attraction" d="M216 248H225L222 245A8 8 0 0 1 234 233L250 250Q256 256 250 262L234 279A8 8 0 0 1 222 267L225 264H216A8 8 0 0 1 216 248Z"/>
+</defs>
+<g fill="#7351BA">
+<use href="#outside-mode"/>
+<use href="#outside-mode" transform="translate(0 192)"/>
+<use href="#outside-mode" transform="translate(336 0)"/>
+<use href="#outside-mode" transform="translate(336 192)"/>
+</g>
+<g fill="#357CB9">
+<use href="#inside-mode"/>
+<use href="#inside-mode" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<g fill="#657B95">
+<rect x="176" y="32" width="24" height="448" rx="10"/>
+<rect x="312" y="32" width="24" height="448" rx="10"/>
+</g>
+<g fill="#B8DCF2">
+<rect x="182" y="44" width="6" height="424" rx="3"/>
+<rect x="318" y="44" width="6" height="424" rx="3"/>
+</g>
+<g fill="url(#force)">
+<use href="#attraction"/>
+<use href="#attraction" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

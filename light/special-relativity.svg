@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Special relativity</title>
+<desc>Matching blue mirror pairs form two light clocks. Amber light travels vertically in the stationary clock and along a diagonal reflected path in the moving clock, viewed from the stationary frame. A violet motion arrow emphasizes time dilation.</desc>
+<defs>
+<linearGradient id="motion" x1="306" y1="456" x2="482" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7351BA"/>
+<stop offset="1" stop-color="#357CB9"/>
+</linearGradient>
+</defs>
+<g fill="#357CB9">
+<rect x="24" y="80" width="200" height="28" rx="14"/>
+<rect x="24" y="376" width="200" height="28" rx="14"/>
+<rect x="288" y="80" width="200" height="28" rx="14"/>
+<rect x="288" y="376" width="200" height="28" rx="14"/>
+</g>
+<g fill="#D69A18">
+<rect x="116" y="120" width="16" height="240" rx="8"/>
+<path d="M300 349L380 125Q388 113 396 125L476 349A8 8 0 0 1 460 355L388 153L316 355A8 8 0 0 1 300 349Z"/>
+</g>
+<path fill="url(#motion)" d="M316 446H448L441 439A10 10 0 0 1 455 425L479 449Q486 456 479 463L455 487A10 10 0 0 1 441 473L448 466H316A10 10 0 0 1 316 446Z"/>
+</svg>

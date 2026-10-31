@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Superconductivity</title>
+<desc>A magnet levitates above a cooled superconducting disk. Magnetic-field lines bend around the disk rather than penetrating it. A snowflake indicates cooling.</desc>
+<g>
+<rect x="196" y="40" width="120" height="104" rx="16"/>
+<path d="M196 92H316"/>
+</g>
+<g>
+<path d="M172 68C56 68 120 220 60 272C-4 326 24 432 136 432"/>
+<path d="M340 68C456 68 392 220 452 272C516 326 488 432 376 432"/>
+</g>
+<g>
+<ellipse cx="256" cy="304" rx="160" ry="44"/>
+<path d="M96 304V368C96 427 416 427 416 368V304"/>
+</g>
+<g>
+<path d="M256 424V488M228 440L284 472M228 472L284 440"/>
+<path d="M246 432L256 442L266 432M246 480L256 470L266 480M230 452L242 448L240 436M272 476L270 464L282 460M230 460L242 464L240 476M272 436L270 448L282 452"/>
+</g>
+</svg>

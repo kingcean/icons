@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(26.67 24) scale(2.60601)">
+<path d="M62 137.65C22 110 22 68 61.5 41.5L107.08 86.51" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+<path d="M115.1 40.5C155 68 155 110 115.6 137.55L69.7 92.04" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+<path d="M7.58 34.41V27.1C7.58 16.26 16.4 7.43 27.26 7.43H34.58M7.44 143.64V150.95C7.44 161.8 16.27 170.62 27.12 170.62H34.44M168.42 34.41V27.1C168.42 16.26 159.6 7.43 148.73 7.43H141.41M168.69 143.64V150.95C168.69 161.8 159.87 170.62 148.88 170.62H141.56" stroke-linecap="round" vector-effect="non-scaling-stroke"/>
+</g>
+</svg>

@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Van der Waals forces</title>
+<desc>Two neutral diatomic molecules have distorted electron clouds and complementary partial-charge regions. Solid internal bonds contrast with dashed intermolecular attraction.</desc>
+<path id="cloud" d="M128 112C64 104 24 156 24 224C24 312 64 394 136 400C200 406 232 350 232 272C232 200 200 122 128 112Z"/>
+<use href="#cloud" transform="translate(512 0) scale(-1 1)"/>
+<circle cx="96" cy="296" r="22"/>
+<circle cx="176" cy="296" r="22"/>
+<circle cx="336" cy="296" r="22"/>
+<circle cx="416" cy="296" r="22"/>
+<path d="M124 296H148M364 296H388"/>
+<path d="M68 216H92M180 216H204M192 204V228M308 216H332M420 216H444M432 204V228"/>
+<path d="M244 232H268M244 272H268" stroke-dasharray="8 8"/>
+</svg>

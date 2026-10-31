@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Magnetic force</title>
+<desc>Two bar magnets with opposite facing poles attract. Equal inward arrows indicate force, while curved lines connect the facing pole regions.</desc>
+<g>
+<rect x="24" y="200" width="160" height="112" rx="16"/>
+<path d="M104 200V312"/>
+<rect x="328" y="200" width="160" height="112" rx="16"/>
+<path d="M408 200V312"/>
+</g>
+<g>
+<path d="M176 184C200 104 312 104 336 184"/>
+<path d="M176 328C200 408 312 408 336 328"/>
+</g>
+<g>
+<path d="M200 256H240M222 238L240 256L222 274"/>
+<path d="M312 256H272M290 238L272 256L290 274"/>
+</g>
+</svg>

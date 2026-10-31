@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Strong interaction</title>
+<desc>A proton boundary confines three distinct quarks linked by wavy gluon connections, without springs or electron orbits.</desc>
+<path fill-rule="evenodd" d="M256 24A232 232 0 1 1 256 488A232 232 0 1 1 256 24ZM256 40A216 216 0 1 0 256 472A216 216 0 1 0 256 40Z"/>
+<g>
+<circle cx="256" cy="128" r="32"/>
+<circle cx="145" cy="320" r="32"/>
+<circle cx="367" cy="320" r="32"/>
+</g>
+<g>
+<path id="gluon" d="M193 312C205 312 205 296 217 296S229 328 241 328S253 296 265 296S277 328 289 328S301 312 319 312A8 8 0 0 1 319 328C301 328 301 344 289 344S277 312 265 312S253 344 241 344S229 312 217 312S205 328 193 328A8 8 0 0 1 193 312Z"/>
+<use href="#gluon" transform="rotate(120 256 256)"/>
+<use href="#gluon" transform="rotate(240 256 256)"/>
+</g>
+</svg>

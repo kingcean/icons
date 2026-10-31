@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="chevron" x1="176" y1="130" x2="326" y2="382" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#111111"/>
+<stop offset="1" stop-color="#303030"/>
+</linearGradient>
+</defs>
+<rect x="104" y="24" width="304" height="464" rx="18" fill="#171717"/>
+<rect x="126" y="46" width="260" height="420" rx="8" fill="#FFDA46"/>
+<path fill="url(#chevron)" d="M196 130Q202 124 208 130L326 248Q334 256 326 264L208 382Q202 388 196 382L176 362Q170 356 176 350L270 256L176 162Q170 156 176 150Z"/>
+</svg>

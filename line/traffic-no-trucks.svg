@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="truck-gap">
+<path d="M16 0H512V496ZM0 16L496 512H0Z"/>
+</clipPath>
+</defs>
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="180"/>
+<g clip-path="url(#truck-gap)" stroke-linecap="round">
+<path d="M142 186H270Q282 186 282 198V292H130V198Q130 186 142 186Z"/>
+<path d="M294 292V230Q294 218 306 218H334Q342 218 348 226L376 262Q382 268 382 278V292Z"/>
+<path d="M310 234H332L354 262H310Z"/>
+<circle cx="180" cy="322" r="22"/>
+<circle cx="338" cy="322" r="22"/>
+</g>
+<path d="M92 92L420 420" stroke-linecap="round"/>
+</svg>

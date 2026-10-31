@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#171717" d="M242 30Q256 16 270 30L482 242Q496 256 482 270L270 482Q256 496 242 482L30 270Q16 256 30 242Z"/>
+<path fill="#FFDA46" d="M248 60Q256 52 264 60L452 248Q460 256 452 264L264 452Q256 460 248 452L60 264Q52 256 60 248Z"/>
+<text x="256" y="240" fill="#000000" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="900" text-anchor="middle">PAVEMENT</text>
+<text x="256" y="310" fill="#000000" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="900" text-anchor="middle">ENDS</text>
+</svg>

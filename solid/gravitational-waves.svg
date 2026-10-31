@@ -1,0 +1,34 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Gravitational waves</title>
+<desc>A binary source and outgoing gravitational wavefronts accompany two particle rings stretched along perpendicular axes at alternating phases of spacetime strain.</desc>
+<g>
+<path fill-rule="evenodd" transform="rotate(35 100 256)" d="M100 210A68 46 0 1 1 100 302A68 46 0 1 1 100 210ZM100 222A56 34 0 1 0 100 290A56 34 0 1 0 100 222Z"/>
+<circle cx="72" cy="236" r="18"/>
+<circle cx="128" cy="276" r="18"/>
+</g>
+<g>
+<path d="M162 197Q209 256 162 315A8 8 0 0 0 174 325Q231 256 174 187A8 8 0 0 0 162 197Z"/>
+<path d="M186 149Q265 256 186 363A8 8 0 0 0 198 373Q287 256 198 139A8 8 0 0 0 186 149Z"/>
+</g>
+<g>
+<circle cx="372" cy="82" r="14"/>
+<circle cx="443" cy="99" r="14"/>
+<circle cx="472" cy="140" r="14"/>
+<circle cx="443" cy="181" r="14"/>
+<circle cx="372" cy="198" r="14"/>
+<circle cx="301" cy="181" r="14"/>
+<circle cx="272" cy="140" r="14"/>
+<circle cx="301" cy="99" r="14"/>
+</g>
+<g>
+<circle cx="372" cy="272" r="14"/>
+<circle cx="413" cy="301" r="14"/>
+<circle cx="430" cy="372" r="14"/>
+<circle cx="413" cy="443" r="14"/>
+<circle cx="372" cy="472" r="14"/>
+<circle cx="331" cy="443" r="14"/>
+<circle cx="314" cy="372" r="14"/>
+<circle cx="331" cy="301" r="14"/>
+</g>
+</svg>

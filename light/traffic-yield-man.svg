@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#D92532" d="M48 32H464Q488 32 476 54L278 474Q256 514 234 474L36 54Q24 32 48 32Z"/>
+<path fill="#FFFFFF" d="M86 68H426Q434 68 430 76L262 402Q256 414 250 402L82 76Q78 68 86 68Z"/>
+<text x="256" y="236" fill="#D92532" font-family="Noto Sans CJK SC,Microsoft YaHei,PingFang SC,SimHei,sans-serif" font-size="144" font-weight="700" text-anchor="middle">慢</text>
+</svg>

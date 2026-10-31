@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="-286" y="-38" width="572" height="76" rx="8" transform="translate(256 256) rotate(-45)" fill="#E8EDF2" stroke="#88939F" stroke-width="10"/>
+<rect x="-286" y="-38" width="572" height="76" rx="8" transform="translate(256 256) rotate(45)" fill="#FFFFFF" stroke="#88939F" stroke-width="10"/>
+<text transform="translate(256 256) rotate(45)" x="-225" y="16" fill="#111111" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" textLength="450" lengthAdjust="spacingAndGlyphs">RAILROAD</text>
+<text transform="translate(256 256) rotate(-45)" y="16" fill="#111111" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700"><tspan x="-245" textLength="185" lengthAdjust="spacingAndGlyphs">CROSS</tspan><tspan x="70" textLength="155" lengthAdjust="spacingAndGlyphs">ING</tspan></text>
+</svg>

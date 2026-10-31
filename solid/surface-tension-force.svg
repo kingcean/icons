@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Surface tension</title>
+<desc>A needle rests in a depressed water surface. A magnified contact diagram shows two tangent tension forces with upward supporting components.</desc>
+<rect x="144" y="148" width="224" height="28" rx="14"/>
+<path d="M24 184H160C136 184 128 128 96 128H24A8 8 0 0 0 24 144H96C116 144 124 200 160 200H352C388 200 396 144 416 144H488A8 8 0 0 0 488 128H416C384 128 376 184 352 184H160Z"/>
+<path fill-rule="evenodd" d="M256 216A136 136 0 1 1 256 488A136 136 0 1 1 256 216ZM256 232A120 120 0 1 0 256 472A120 120 0 1 0 256 232Z"/>
+<rect x="208" y="332" width="96" height="28" rx="14"/>
+<path d="M144 368C168 368 184 348 208 368Q256 400 304 368C328 348 344 312 368 312A8 8 0 0 1 368 328C348 328 336 364 304 384Q256 416 208 384C176 364 164 328 144 328A8 8 0 0 1 144 312C168 312 184 348 208 368Z"/>
+<path id="tension" d="M198 344H243L238 339A8 8 0 0 1 250 327L268 346Q274 352 268 358L250 377A8 8 0 0 1 238 365L243 360H198A8 8 0 0 1 198 344Z" transform="rotate(-140 198 352)"/>
+<use href="#tension" transform="translate(512 0) scale(-1 1)"/>
+</svg>

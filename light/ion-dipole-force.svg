@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="water">
+<path d="M-62-76L0 0L62-76" fill="none" stroke="#71859B" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="0" cy="0" r="32" fill="#E64B52"/>
+<circle cx="-62" cy="-76" r="22" fill="#329BD5"/>
+<circle cx="62" cy="-76" r="22" fill="#329BD5"/>
+</g>
+<path id="attraction" d="M256 194V158" fill="none" stroke="#8B789E" stroke-width="12" stroke-dasharray="12 12" stroke-linecap="round"/>
+</defs>
+<use href="#water" transform="translate(256 118)"/>
+<use href="#water" transform="translate(136.49 325) rotate(-120)"/>
+<use href="#water" transform="translate(375.51 325) rotate(120)"/>
+<use href="#attraction"/>
+<use href="#attraction" transform="rotate(-120 256 256)"/>
+<use href="#attraction" transform="rotate(120 256 256)"/>
+<circle cx="256" cy="256" r="50" fill="#F4B83E"/>
+<path d="M256 234V278M234 256H278" fill="none" stroke="#74450D" stroke-width="14" stroke-linecap="round"/>
+</svg>

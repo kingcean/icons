@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Quantum decoherence</title>
+<desc>A blue wave-state persists while teal interactions connect it to amber environmental markers. Violet interference bands progressively lose contrast across the adjacent display.</desc>
+<defs>
+<linearGradient id="contrast" x1="344" y1="256" x2="464" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7351BA"/>
+<stop offset="1" stop-color="#7351BA" stop-opacity="0.08"/>
+</linearGradient>
+</defs>
+<circle cx="144" cy="256" r="88" fill="#357CB9"/>
+<path fill="#E4F1FC" d="M80 247C96 247 96 215 112 215S128 279 144 279S160 215 176 215S192 247 208 247A9 9 0 0 1 208 265C192 265 192 233 176 233S160 297 144 297S128 233 112 233S96 265 80 265A9 9 0 0 1 80 247Z"/>
+<g fill="#D69A18">
+<circle cx="48" cy="88" r="24"/>
+<circle cx="240" cy="72" r="24"/>
+<circle cx="48" cy="424" r="24"/>
+</g>
+<g fill="#008F96">
+<path d="M56 124Q56 160 84 179A8 8 0 0 0 92 165Q72 152 72 124A8 8 0 0 0 56 124Z"/>
+<path d="M216 108Q216 140 201 168A8 8 0 0 0 215 176Q232 148 232 108A8 8 0 0 0 216 108Z"/>
+<path d="M56 388Q56 352 84 333A8 8 0 0 1 92 347Q72 360 72 388A8 8 0 0 1 56 388Z"/>
+</g>
+<rect x="320" y="64" width="168" height="384" rx="24" fill="#E8DFF5"/>
+<g fill="url(#contrast)">
+<rect x="344" y="116" width="120" height="24" rx="12"/>
+<rect x="344" y="180" width="120" height="24" rx="12"/>
+<rect x="344" y="244" width="120" height="24" rx="12"/>
+<rect x="344" y="308" width="120" height="24" rx="12"/>
+<rect x="344" y="372" width="120" height="24" rx="12"/>
+</g>
+</svg>

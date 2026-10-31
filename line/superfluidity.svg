@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Superfluidity</title>
+<desc>A chilled annular vessel supports persistent circulation. A separate inset shows two discrete vortex cores, indicating a superfluid rather than an ordinary flowing liquid.</desc>
+<g>
+<ellipse cx="210" cy="208" rx="182" ry="112"/>
+<ellipse cx="210" cy="208" rx="100" ry="56"/>
+<path d="M28 208V264C28 326 109 376 210 376S392 326 392 264V208"/>
+</g>
+<path d="M86 174C118 112 280 108 334 170M306 164L334 170L336 142"/>
+<g>
+<path d="M446 32V108M413 51L479 89M413 89L479 51"/>
+<path d="M435 40L446 51L457 40M435 100L446 89L457 100M414 64L429 60L425 45M467 95L463 80L478 76M414 76L429 80L425 95M467 45L463 60L478 64"/>
+</g>
+<g>
+<rect x="288" y="392" width="200" height="96" rx="20"/>
+<path d="M358 458A26 26 0 1 1 358 422"/>
+<circle cx="340" cy="440" r="8"/>
+<path d="M454 458A26 26 0 1 1 454 422"/>
+<circle cx="436" cy="440" r="8"/>
+</g>
+</svg>

@@ -1,6 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill-rule="evenodd" d="M56 24H456Q488 24 488 56V456Q488 488 456 488H56Q24 488 24 456V56Q24 24 56 24ZM108 192A64 64 0 1 0 108 320A64 64 0 1 0 108 192ZM220 132H420Q432 132 432 144Q432 156 420 156H220Q208 156 208 144Q208 132 220 132ZM220 244H372Q384 244 384 256Q384 268 372 268H220Q208 268 208 256Q208 244 220 244ZM220 356H420Q432 356 432 368Q432 380 420 380H220Q208 380 208 368Q208 356 220 356Z"/>
-<circle cx="108" cy="256" r="44"/>
+<circle cx="96" cy="256" r="72"/>
+<rect x="200" y="140" width="288" height="24" rx="12"/>
+<rect x="200" y="244" width="224" height="24" rx="12"/>
+<rect x="200" y="348" width="288" height="24" rx="12"/>
 </svg>

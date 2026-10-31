@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<g id="water">
+<circle cx="0" cy="0" r="32"/>
+<circle cx="-62" cy="-76" r="22"/>
+<circle cx="62" cy="-76" r="22"/>
+<path d="M-29.65-27.2L-47.65-49.2Q-51.45-53.85-46.8-57.65Q-42.15-61.45-38.35-56.8L-20.35-34.8Q-16.55-30.15-21.2-26.35Q-25.85-22.55-29.65-27.2ZM29.65-27.2L47.65-49.2Q51.45-53.85 46.8-57.65Q42.15-61.45 38.35-56.8L20.35-34.8Q16.55-30.15 21.2-26.35Q25.85-22.55 29.65-27.2Z"/>
+</g>
+<path id="attraction" d="M250 190V182Q250 178 256 178Q262 178 262 182V190Q262 194 256 194Q250 194 250 190ZM250 166V162Q250 158 256 158Q262 158 262 162V166Q262 170 256 170Q250 170 250 166Z"/>
+</defs>
+<use href="#water" transform="translate(256 118)"/>
+<use href="#water" transform="translate(136.49 325) rotate(-120)"/>
+<use href="#water" transform="translate(375.51 325) rotate(120)"/>
+<use href="#attraction"/>
+<use href="#attraction" transform="rotate(-120 256 256)"/>
+<use href="#attraction" transform="rotate(120 256 256)"/>
+<path fill-rule="evenodd" d="M306 256A50 50 0 1 1 206 256A50 50 0 1 1 306 256ZM252 234H260Q263 234 263 237V249H275Q278 249 278 252V260Q278 263 275 263H263V275Q263 278 260 278H252Q249 278 249 275V263H237Q234 263 234 260V252Q234 249 237 249H249V237Q249 234 252 234Z"/>
+</svg>

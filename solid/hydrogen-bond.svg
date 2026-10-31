@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Hydrogen bond</title>
+<desc>Two bent water molecules with filled atoms, solid covalent bonds, and three separated dashes marking the intermolecular hydrogen bond.</desc>
+<circle cx="124" cy="368" r="44"/>
+<circle cx="60" cy="256" r="24"/>
+<circle cx="236" cy="312" r="24"/>
+<circle cx="384" cy="208" r="44"/>
+<circle cx="352" cy="80" r="24"/>
+<circle cx="480" cy="224" r="24"/>
+<rect x="0" y="-6" width="45" height="12" rx="6" transform="translate(76 284) rotate(60.6)"/>
+<rect x="0" y="-6" width="41" height="12" rx="6" transform="translate(170 345) rotate(-26)"/>
+<rect x="0" y="-6" width="48" height="12" rx="6" transform="translate(360 111) rotate(76.9)"/>
+<rect x="0" y="-6" width="15" height="12" rx="6" transform="translate(434 216) rotate(9.5)"/>
+<g transform="translate(266 291) rotate(-35.1)">
+<rect x="0" y="-6" width="18" height="12" rx="6"/>
+<rect x="32" y="-6" width="18" height="12" rx="6"/>
+<rect x="64" y="-6" width="18" height="12" rx="6"/>
+</g>
+</svg>

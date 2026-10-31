@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantized energy levels</title>
+<desc>Four separated energy levels, one state marker, a downward transition arrow, and an emitted photon wave packet.</desc>
+<g>
+<path d="M32 56H320M32 184H88M168 184H320M32 328H320M32 456H320"/>
+</g>
+<circle cx="128" cy="184" r="24"/>
+<path d="M256 216V296M232 272L256 296L280 272"/>
+<path d="M352 256C368 256 368 240 380 240S392 288 408 288S424 224 440 224S456 272 468 272S480 256 488 256"/>
+</svg>

@@ -1,0 +1,30 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Dipole–dipole interaction</title>
+<desc>Two aligned polar molecules have complementary partial charges facing each other. A dashed connector indicates attraction between the delta-positive and delta-negative ends.</desc>
+<defs>
+<g id="delta">
+<path fill-rule="evenodd" d="M-10-28C-14-28-22-29-24-24C-26-19-19-15-14-12C-24-12-30-5-30 4C-30 16-8 18-5 7C-2-4-13-16-18-20C-21-23-17-24-10-22Q-4-21-5-25Q-6-28-10-28ZM-17-7C-8-7-6 11-17 11C-28 11-27-7-17-7Z"/>
+</g>
+<g id="partial-minus">
+<use href="#delta"/>
+<path d="M4-6H24"/>
+</g>
+<g id="partial-plus">
+<use href="#delta"/>
+<path d="M4-6H24M14-16V4"/>
+</g>
+</defs>
+<ellipse cx="128" cy="256" rx="104" ry="96"/>
+<ellipse cx="384" cy="256" rx="104" ry="96"/>
+<use href="#partial-minus" transform="translate(80 224)"/>
+<use href="#partial-plus" transform="translate(184 224)"/>
+<use href="#partial-minus" transform="translate(336 224)"/>
+<use href="#partial-plus" transform="translate(440 224)"/>
+<circle cx="76" cy="288" r="24"/>
+<circle cx="180" cy="288" r="24"/>
+<circle cx="332" cy="288" r="24"/>
+<circle cx="436" cy="288" r="24"/>
+<path d="M108 288H148M364 288H404"/>
+<path d="M242 288H270" stroke-dasharray="8 12"/>
+</svg>

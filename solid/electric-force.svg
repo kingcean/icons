@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Electric force</title>
+<desc>Positive and negative charges attract on the left. Two positive charges repel on the right, with distinct force arrows between each pair.</desc>
+<g>
+<path fill-rule="evenodd" d="M128 24A80 80 0 1 1 128 184A80 80 0 1 1 128 24ZM120 76V96H100A8 8 0 0 0 100 112H120V132A8 8 0 0 0 136 132V112H156A8 8 0 0 0 156 96H136V76A8 8 0 0 0 120 76Z"/>
+<path fill-rule="evenodd" d="M128 328A80 80 0 1 1 128 488A80 80 0 1 1 128 328ZM100 400A8 8 0 0 0 100 416H156A8 8 0 0 0 156 400Z"/>
+</g>
+<g>
+<path id="down-force" d="M120 200V229L116 225A8 8 0 0 0 104 237L122 255Q128 261 134 255L152 237A8 8 0 0 0 140 225L136 229V200A8 8 0 0 0 120 200Z"/>
+<use href="#down-force" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<g>
+<path fill-rule="evenodd" transform="translate(256 0)" d="M128 24A80 80 0 1 1 128 184A80 80 0 1 1 128 24ZM120 76V96H100A8 8 0 0 0 100 112H120V132A8 8 0 0 0 136 132V112H156A8 8 0 0 0 156 96H136V76A8 8 0 0 0 120 76Z"/>
+<path fill-rule="evenodd" transform="translate(256 304)" d="M128 24A80 80 0 1 1 128 184A80 80 0 1 1 128 24ZM120 76V96H100A8 8 0 0 0 100 112H120V132A8 8 0 0 0 136 132V112H156A8 8 0 0 0 156 96H136V76A8 8 0 0 0 120 76Z"/>
+</g>
+<g>
+<use href="#down-force" transform="translate(256 448) scale(1 -1)"/>
+<use href="#down-force" transform="translate(256 64)"/>
+</g>
+</svg>

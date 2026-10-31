@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Viscous drag</title>
+<path fill-rule="evenodd" d="M56 64H456Q488 64 488 96V416Q488 448 456 448H56Q24 448 24 416V96Q24 64 56 64ZM56 80Q40 80 40 96V416Q40 432 56 432H456Q472 432 472 416V96Q472 80 456 80Z"/>
+<circle cx="256" cy="256" r="56"/>
+<path id="flow" d="M64 176C144 176 176 128 256 128S368 176 448 176A8 8 0 0 1 448 192C368 192 336 144 256 144S144 192 64 192A8 8 0 0 1 64 176Z"/>
+<use href="#flow" transform="translate(0 512) scale(1 -1)"/>
+<path id="drag-arrow" d="M184 246H96L103 239A10 10 0 0 0 89 225L65 249Q58 256 65 263L89 287A10 10 0 0 0 103 273L96 266H184A10 10 0 0 0 184 246Z"/>
+<use href="#drag-arrow" transform="translate(512 0) scale(-1 1)"/>
+</svg>

@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Surface tension</title>
+<desc>A steel needle depresses a blue water surface. The magnified inset shows amber tangent tension arrows pointing outward and upward at both contact edges.</desc>
+<defs>
+<linearGradient id="force" x1="198" y1="352" x2="272" y2="352" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D96B32"/>
+<stop offset="1" stop-color="#D69A18"/>
+</linearGradient>
+</defs>
+<rect x="144" y="148" width="224" height="36" rx="18" fill="#657B95"/>
+<path fill="#357CB9" d="M24 128H96C128 128 136 184 160 184H352C376 184 384 128 416 128H488A8 8 0 0 1 488 144H416C396 144 388 200 352 200H160C124 200 116 144 96 144H24A8 8 0 0 1 24 128Z"/>
+<path fill="#7351BA" fill-rule="evenodd" d="M256 216A136 136 0 1 1 256 488A136 136 0 1 1 256 216ZM256 232A120 120 0 1 0 256 472A120 120 0 1 0 256 232Z"/>
+<rect x="208" y="332" width="96" height="36" rx="18" fill="#657B95"/>
+<path fill="#357CB9" d="M144 312C168 312 184 348 208 368Q256 400 304 368C328 348 344 312 368 312A8 8 0 0 1 368 328C348 328 336 364 304 384Q256 416 208 384C176 364 164 328 144 328A8 8 0 0 1 144 312Z"/>
+<path id="tension" fill="url(#force)" d="M198 344H243L238 339A8 8 0 0 1 250 327L268 346Q274 352 268 358L250 377A8 8 0 0 1 238 365L243 360H198A8 8 0 0 1 198 344Z" transform="rotate(-140 198 352)"/>
+<use href="#tension" transform="translate(512 0) scale(-1 1)"/>
+</svg>

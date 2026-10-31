@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Van der Waals forces</title>
+<desc>Softly distorted blue and teal electron clouds surround two neutral molecules. Amber positive and violet negative partial-charge regions face each other. Amber dashes indicate weak intermolecular attraction, distinct from slate covalent bonds.</desc>
+<path d="M128 112C64 104 24 156 24 224C24 312 64 394 136 400C200 406 232 350 232 272C232 200 200 122 128 112Z" fill="#357CB9" fill-opacity="0.24" stroke="#357CB9" stroke-width="8"/>
+<path d="M384 112C448 104 488 156 488 224C488 312 448 394 376 400C312 406 280 350 280 272C280 200 312 122 384 112Z" fill="#008F96" fill-opacity="0.24" stroke="#008F96" stroke-width="8"/>
+<path d="M96 296H176M336 296H416" fill="none" stroke="#657B95" stroke-width="12" stroke-linecap="round"/>
+<g fill="#D85865">
+<circle cx="96" cy="296" r="22"/>
+<circle cx="176" cy="296" r="22"/>
+<circle cx="336" cy="296" r="22"/>
+<circle cx="416" cy="296" r="22"/>
+</g>
+<g fill="#7351BA">
+<rect x="68" y="211" width="24" height="10" rx="5"/>
+<rect x="308" y="211" width="24" height="10" rx="5"/>
+</g>
+<path d="M180 216H204M192 204V228M420 216H444M432 204V228" fill="none" stroke="#B7790C" stroke-width="10" stroke-linecap="round"/>
+<g fill="#B7790C">
+<rect x="242" y="226" width="10" height="12" rx="5"/>
+<rect x="260" y="226" width="10" height="12" rx="5"/>
+<rect x="242" y="266" width="10" height="12" rx="5"/>
+<rect x="260" y="266" width="10" height="12" rx="5"/>
+</g>
+</svg>

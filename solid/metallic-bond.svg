@@ -1,0 +1,30 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Metallic bond</title>
+<desc>Six positive metal-ion cores with plus-shaped cutouts form a regular array within one shared electron region. Twelve small dots represent delocalized electrons.</desc>
+<defs>
+<path id="ion" fill-rule="evenodd" d="M0-36A36 36 0 1 1 0 36A36 36 0 1 1 0-36ZM-6-18H6V-6H18V6H6V18H-6V6H-18V-6H-6Z"/>
+<g id="electrons">
+<circle cx="80" cy="120" r="12"/>
+<circle cx="192" cy="120" r="12"/>
+<circle cx="320" cy="120" r="12"/>
+<circle cx="432" cy="120" r="12"/>
+<circle cx="64" cy="256" r="12"/>
+<circle cx="176" cy="256" r="12"/>
+<circle cx="336" cy="256" r="12"/>
+<circle cx="448" cy="256" r="12"/>
+<circle cx="80" cy="392" r="12"/>
+<circle cx="192" cy="392" r="12"/>
+<circle cx="320" cy="392" r="12"/>
+<circle cx="432" cy="392" r="12"/>
+</g>
+</defs>
+<path fill-rule="evenodd" d="M56 80H456Q488 80 488 112V400Q488 432 456 432H56Q24 432 24 400V112Q24 80 56 80ZM56 96Q40 96 40 112V400Q40 416 56 416H456Q472 416 472 400V112Q472 96 456 96Z"/>
+<use href="#ion" transform="translate(112 184)"/>
+<use href="#ion" transform="translate(256 184)"/>
+<use href="#ion" transform="translate(400 184)"/>
+<use href="#ion" transform="translate(112 328)"/>
+<use href="#ion" transform="translate(256 328)"/>
+<use href="#ion" transform="translate(400 328)"/>
+<use href="#electrons"/>
+</svg>

@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Heisenberg uncertainty principle</title>
+<desc>Two paired rows show complementary position x and momentum p spreads, with narrow and broad distributions exchanging roles.</desc>
+<g>
+<rect x="24" y="200" width="208" height="16" rx="8"/>
+<path d="M72 184C100 184 102 56 128 56S156 184 184 184Z"/>
+<path d="M189 229Q192 226 195 229L204 238L213 229Q216 226 219 229Q222 232 219 235L210 244L219 253Q222 256 219 259Q216 262 213 259L204 250L195 259Q192 262 189 259Q186 256 189 253L198 244L189 235Q186 232 189 229Z"/>
+</g>
+<g>
+<rect x="280" y="200" width="208" height="16" rx="8"/>
+<path d="M280 184C312 184 336 120 384 120S456 184 488 184Z"/>
+<path fill-rule="evenodd" d="M456 268V232Q456 228 460 228H472C497 228 497 256 472 256H464V268Q464 272 460 272Q456 272 456 268ZM464 236V248H472C486 248 486 236 472 236Z"/>
+</g>
+<g>
+<rect x="24" y="424" width="208" height="16" rx="8"/>
+<path d="M24 408C56 408 80 344 128 344S200 408 232 408Z"/>
+<path d="M189 453Q192 450 195 453L204 462L213 453Q216 450 219 453Q222 456 219 459L210 468L219 477Q222 480 219 483Q216 486 213 483L204 474L195 483Q192 486 189 483Q186 480 189 477L198 468L189 459Q186 456 189 453Z"/>
+</g>
+<g>
+<rect x="280" y="424" width="208" height="16" rx="8"/>
+<path d="M328 408C356 408 358 280 384 280S412 408 440 408Z"/>
+<path fill-rule="evenodd" d="M456 492V456Q456 452 460 452H472C497 452 497 480 472 480H464V492Q464 496 460 496Q456 496 456 492ZM464 460V472H472C486 472 486 460 472 460Z"/>
+</g>
+</svg>

@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M87 31L256 200L425 31Q431 25 437 31L481 75Q487 81 481 87L312 256L481 425Q487 431 481 437L437 481Q431 487 425 481L256 312L87 481Q81 487 75 481L31 437Q25 431 31 425L200 256L31 87Q25 81 31 75L75 31Q81 25 87 31Z"/>
+<path d="M200 256L256 312M256 200L312 256"/>
+<text transform="translate(256 256) rotate(45)" x="-225" y="16" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700" textLength="450" lengthAdjust="spacingAndGlyphs">RAILROAD</text>
+<text transform="translate(256 256) rotate(-45)" y="16" font-family="Arial,Helvetica,sans-serif" font-size="44" font-weight="700"><tspan x="-245" textLength="185" lengthAdjust="spacingAndGlyphs">CROSS</tspan><tspan x="70" textLength="155" lengthAdjust="spacingAndGlyphs">ING</tspan></text>
+</svg>

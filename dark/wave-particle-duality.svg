@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Wave–particle duality</title>
+<desc>A blue propagating quantum amplitude reaches a violet detector screen bearing discrete amber detection spots, showing complementary aspects of one experiment.</desc>
+<path fill="#79BDF2" d="M24 246C42 246 42 218 60 218S78 274 96 274S118 182 140 182S162 310 184 310S206 166 228 166S250 326 272 326S294 190 316 190S346 246 380 246A10 10 0 0 1 380 266C346 266 338 210 316 210S294 346 272 346S250 186 228 186S206 330 184 330S162 202 140 202S114 294 96 294S78 238 60 238S42 266 24 266A10 10 0 0 1 24 246Z"/>
+<rect x="400" y="48" width="88" height="416" rx="20" fill="#9B7DD1"/>
+<g fill="#FFE49A">
+<circle cx="444" cy="104" r="10"/>
+<circle cx="454" cy="164" r="12"/>
+<circle cx="432" cy="212" r="12"/>
+<circle cx="454" cy="256" r="14"/>
+<circle cx="432" cy="300" r="12"/>
+<circle cx="454" cy="348" r="12"/>
+<circle cx="444" cy="408" r="10"/>
+</g>
+</svg>

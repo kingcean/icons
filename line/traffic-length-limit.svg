@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="84" y="24" width="344" height="464" rx="20"/>
+<rect x="102" y="42" width="308" height="428" rx="8"/>
+<g font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+<text x="256" y="116" font-size="56">NO</text>
+<text x="256" y="190" font-size="48" textLength="260" lengthAdjust="spacingAndGlyphs">VEHICLES</text>
+<text x="256" y="264" font-size="48">OVER</text>
+<text x="256" y="338" font-size="48">FEET</text>
+<text x="256" y="412" font-size="46" textLength="260" lengthAdjust="spacingAndGlyphs">IN LENGTH</text>
+</g>
+</svg>

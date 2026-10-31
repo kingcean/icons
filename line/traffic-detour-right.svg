@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="96" width="464" height="320" rx="18"/>
+<rect x="46" y="118" width="420" height="276" rx="8"/>
+<text x="256" y="218" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" text-anchor="middle">DETOUR</text>
+<path d="M112 310H400M354 264L400 310L354 356" stroke-linecap="round"/>
+</svg>

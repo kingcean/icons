@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum spin</title>
+<desc>A Stern–Gerlach beam passes between asymmetric magnetic poles and separates into two discrete spin-measurement outputs. No classical rotation is depicted.</desc>
+<circle cx="48" cy="256" r="24"/>
+<path d="M88 256H336"/>
+<g>
+<path d="M192 64H312Q332 64 332 84V136Q332 144 324 152L268 208Q256 220 244 208L180 152Q172 144 172 136V84Q172 64 192 64Z"/>
+<rect x="172" y="304" width="160" height="144" rx="16"/>
+</g>
+<g>
+<path d="M336 256C386 256 386 160 432 160"/>
+<path d="M336 256C386 256 386 352 432 352"/>
+<circle cx="472" cy="160" r="24"/>
+<circle cx="472" cy="352" r="24"/>
+</g>
+</svg>

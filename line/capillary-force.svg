@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Capillary force</title>
+<desc>Water rises in a narrow glass tube above the reservoir surface. A concave meniscus and two short upward arrows indicate capillary lifting near the contact line.</desc>
+<path d="M32 280V448Q32 480 64 480H448Q480 480 480 448V280"/>
+<path d="M200 32V400M312 32V400"/>
+<path d="M216 156Q256 196 296 156M56 312H184M328 312H456"/>
+<path d="M160 224V144M140 164L160 144L180 164M352 224V144M332 164L352 144L372 164"/>
+</svg>

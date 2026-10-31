@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Photoelectric effect</title>
+<desc>Two incoming photon wave packets strike a metal plate. Separate outward paths lead to emitted electrons marked with minus signs.</desc>
+<rect x="24" y="336" width="464" height="112" rx="16"/>
+<path d="M56 376H456"/>
+<g>
+<path d="M40 104C16 128 88 128 64 152S112 176 88 200S136 224 112 248L148 310M116 300L148 310L154 278"/>
+<path d="M144 104C120 128 192 128 168 152S216 176 192 200S240 224 216 248L252 310M220 300L252 310L258 278"/>
+</g>
+<g>
+<path d="M300 310L342 176M318 192L342 176L352 206"/>
+<path d="M392 310L430 272M404 274L430 272L428 298"/>
+</g>
+<g>
+<circle cx="356" cy="120" r="32"/>
+<path d="M342 120H370"/>
+<circle cx="456" cy="224" r="28"/>
+<path d="M444 224H468"/>
+</g>
+</svg>

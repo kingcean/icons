@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="turn-gap">
+<path d="M16 0H512V496ZM0 16L496 512H0Z"/>
+</clipPath>
+</defs>
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="180"/>
+<g clip-path="url(#turn-gap)" stroke-linecap="round">
+<path d="M220 360V244Q220 220 244 220H348M308 180L348 220L308 260"/>
+</g>
+<path d="M92 92L420 420" stroke-linecap="round"/>
+</svg>

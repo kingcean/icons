@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Quantum teleportation</title>
+<desc>A blue input state and two violet entangled systems. A teal joint measurement sends an amber classical message to a blue receiver correction marked U. Classical communication is required; no object or instantaneous signal is transported.</desc>
+<defs>
+<linearGradient id="message" x1="287" y1="344" x2="362" y2="344" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F4C458"/>
+<stop offset="1" stop-color="#FF9F70"/>
+</linearGradient>
+</defs>
+<path fill="#C2A7F0" d="M192 136C192 29 448 29 448 136A8 8 0 0 1 432 136C432 51 208 51 208 136A8 8 0 0 1 192 136Z"/>
+<circle cx="72" cy="184" r="32" fill="#79BDF2"/>
+<g fill="#C2A7F0">
+<circle cx="200" cy="184" r="32"/>
+<circle cx="440" cy="184" r="32"/>
+</g>
+<g fill="#A0B3CD">
+<rect x="64" y="232" width="16" height="32" rx="8"/>
+<rect x="192" y="232" width="16" height="32" rx="8"/>
+<rect x="432" y="232" width="16" height="32" rx="8"/>
+</g>
+<g>
+<rect x="24" y="280" width="256" height="128" rx="20" fill="#66D5C8"/>
+<path fill="#245A60" d="M96 368A56 56 0 0 1 208 368H192A40 40 0 0 0 112 368Z"/>
+<path fill="#59482F" d="M145 364L169 328A8 8 0 0 1 183 336L159 372A8 8 0 0 1 145 364Z"/>
+</g>
+<path fill="url(#message)" d="M296 335H330L326 331A9 9 0 0 1 338 317L358 337Q365 344 358 351L338 371A9 9 0 0 1 326 357L330 353H296A9 9 0 0 1 296 335Z"/>
+<g>
+<rect x="376" y="280" width="112" height="128" rx="20" fill="#79BDF2"/>
+<path fill="#304D6A" d="M400 320A8 8 0 0 1 416 320V352C416 373 448 373 448 352V320A8 8 0 0 1 464 320V352C464 395 400 395 400 352Z"/>
+</g>
+</svg>

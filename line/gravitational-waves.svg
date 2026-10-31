@@ -1,0 +1,34 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Gravitational waves</title>
+<desc>A compact binary source emits gravitational wavefronts. Two schematic rings of freely falling particles show alternating horizontal and vertical spacetime strain, not sound or water ripples.</desc>
+<g>
+<ellipse cx="100" cy="256" rx="68" ry="46" transform="rotate(35 100 256)"/>
+<circle cx="72" cy="236" r="18"/>
+<circle cx="128" cy="276" r="18"/>
+</g>
+<g>
+<path d="M168 192Q220 256 168 320"/>
+<path d="M192 144Q276 256 192 368"/>
+</g>
+<g>
+<circle cx="372" cy="82" r="14"/>
+<circle cx="443" cy="99" r="14"/>
+<circle cx="472" cy="140" r="14"/>
+<circle cx="443" cy="181" r="14"/>
+<circle cx="372" cy="198" r="14"/>
+<circle cx="301" cy="181" r="14"/>
+<circle cx="272" cy="140" r="14"/>
+<circle cx="301" cy="99" r="14"/>
+</g>
+<g>
+<circle cx="372" cy="272" r="14"/>
+<circle cx="413" cy="301" r="14"/>
+<circle cx="430" cy="372" r="14"/>
+<circle cx="413" cy="443" r="14"/>
+<circle cx="372" cy="472" r="14"/>
+<circle cx="331" cy="443" r="14"/>
+<circle cx="314" cy="372" r="14"/>
+<circle cx="331" cy="301" r="14"/>
+</g>
+</svg>

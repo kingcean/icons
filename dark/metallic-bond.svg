@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Metallic bond</title>
+<desc>Luminous coral positive metal-ion cores form a regular array inside a shared translucent blue region. Twelve gold electron dots depict the delocalized electron sea, without connecting rods or a background.</desc>
+<defs>
+<g id="ion">
+<circle r="36" fill="#FF8E9A"/>
+<path fill="#6B3444" d="M-6-18H6V-6H18V6H6V18H-6V6H-18V-6H-6Z"/>
+</g>
+<g id="electrons" fill="#F4C458">
+<circle cx="80" cy="120" r="12"/>
+<circle cx="192" cy="120" r="12"/>
+<circle cx="320" cy="120" r="12"/>
+<circle cx="432" cy="120" r="12"/>
+<circle cx="64" cy="256" r="12"/>
+<circle cx="176" cy="256" r="12"/>
+<circle cx="336" cy="256" r="12"/>
+<circle cx="448" cy="256" r="12"/>
+<circle cx="80" cy="392" r="12"/>
+<circle cx="192" cy="392" r="12"/>
+<circle cx="320" cy="392" r="12"/>
+<circle cx="432" cy="392" r="12"/>
+</g>
+</defs>
+<rect x="28" y="84" width="456" height="344" rx="28" fill="#79BDF2" fill-opacity="0.2" stroke="#79BDF2" stroke-width="8"/>
+<use href="#ion" transform="translate(112 184)"/>
+<use href="#ion" transform="translate(256 184)"/>
+<use href="#ion" transform="translate(400 184)"/>
+<use href="#ion" transform="translate(112 328)"/>
+<use href="#ion" transform="translate(256 328)"/>
+<use href="#ion" transform="translate(400 328)"/>
+<use href="#electrons"/>
+</svg>

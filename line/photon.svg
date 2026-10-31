@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Photon wave packet and propagation arrow</title>
+<path d="M24 256C44 256 44 224 64 224S84 288 104 288S124 128 144 128S164 384 184 384S204 128 224 128S244 288 264 288S284 224 304 224S324 256 344 256"/>
+<path d="M376 256H480M448 224L480 256L448 288"/>
+</svg>

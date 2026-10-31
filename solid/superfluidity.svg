@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Superfluidity</title>
+<desc>A ring-shaped superfluid vessel, persistent circulation arrow, cooling snowflake, and inset with two distinct hollow vortex cores.</desc>
+<path fill-rule="evenodd" d="M210 96A182 112 0 1 1 210 320A182 112 0 1 1 210 96ZM210 152A100 56 0 1 1 210 264A100 56 0 1 1 210 152ZM79 170C116 102 283 100 326 143L327 141A8 8 0 0 1 343 143L342 171Q342 181 332 178L304 172A8 8 0 0 1 308 156L316 158C270 116 122 120 93 178A8 8 0 0 1 79 170Z"/>
+<path d="M28 248C92 363 328 363 392 248V264C392 326 311 376 210 376S28 326 28 264Z"/>
+<g>
+<path id="cold-arm" d="M440 70V51L429 40A6 6 0 0 1 437 32L440 35A6 6 0 0 1 452 35L455 32A6 6 0 0 1 463 40L452 51V70Z"/>
+<use href="#cold-arm" transform="rotate(60 446 70)"/>
+<use href="#cold-arm" transform="rotate(120 446 70)"/>
+<use href="#cold-arm" transform="rotate(180 446 70)"/>
+<use href="#cold-arm" transform="rotate(240 446 70)"/>
+<use href="#cold-arm" transform="rotate(300 446 70)"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M308 392H468Q488 392 488 412V468Q488 488 468 488H308Q288 488 288 468V412Q288 392 308 392ZM308 406Q302 406 302 412V468Q302 474 308 474H468Q474 474 474 468V412Q474 406 468 406Z"/>
+<path d="M362 462A32 32 0 1 1 362 418A6 6 0 0 1 354 426A20 20 0 1 0 354 454A6 6 0 0 1 362 462Z"/>
+<path fill-rule="evenodd" d="M340 428A12 12 0 1 1 340 452A12 12 0 1 1 340 428ZM340 436A4 4 0 1 0 340 444A4 4 0 1 0 340 436Z"/>
+<path d="M458 462A32 32 0 1 1 458 418A6 6 0 0 1 450 426A20 20 0 1 0 450 454A6 6 0 0 1 458 462Z"/>
+<path fill-rule="evenodd" d="M436 428A12 12 0 1 1 436 452A12 12 0 1 1 436 428ZM436 436A4 4 0 1 0 436 444A4 4 0 1 0 436 436Z"/>
+</g>
+</svg>

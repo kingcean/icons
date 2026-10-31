@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Proton: two up quarks and one down quark</title>
+<circle cx="256" cy="256" r="232"/>
+<g>
+<path d="M224 184Q232 164 240 184T256 184T272 184T288 184"/>
+<path d="M194 238Q178 255 202 254T210 270T218 286L224 296"/>
+<path d="M318 238Q334 255 310 254T302 270T294 286L288 296"/>
+</g>
+<g>
+<circle cx="164" cy="184" r="50"/>
+<path d="M147 163V189Q147 205 164 205T181 189V163"/>
+<circle cx="348" cy="184" r="50"/>
+<path d="M331 163V189Q331 205 348 205T365 189V163"/>
+<circle cx="256" cy="350" r="50"/>
+<path d="M240 329V371H253Q273 371 273 350T253 329Z"/>
+</g>
+</svg>

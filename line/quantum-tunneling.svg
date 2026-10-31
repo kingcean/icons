@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum tunneling</title>
+<desc>An incident wave packet meets a rectangular potential barrier. Its amplitude decays inside the barrier, with a smaller nonzero transmitted packet and a partial reflected packet directed left.</desc>
+<rect x="220" y="72" width="112" height="360" rx="8"/>
+<g>
+<path d="M24 256C40 256 40 224 56 224S72 288 88 288S104 200 128 200S152 320 176 320C188 320 184 200 196 200"/>
+<path d="M352 242C364 242 364 270 376 270S388 242 400 242S412 268 424 268S436 250 448 250S472 256 488 256"/>
+</g>
+<path d="M244 204C256 228 276 240 308 244"/>
+<g>
+<path d="M32 376C48 376 48 352 64 352S80 400 96 400S112 352 128 352S144 388 160 388S180 376 192 376"/>
+<path d="M180 448H48M72 424L48 448L72 472"/>
+</g>
+</svg>

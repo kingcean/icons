@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Higgs boson as a localized excitation of a field</title>
+<desc>An abstract field surface with one highlighted excitation, not a depiction of gravity or a source of all mass.</desc>
+<defs>
+<linearGradient id="excitation" x1="256" y1="88" x2="256" y2="284" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE49A"/>
+<stop offset="0.45" stop-color="#F4C458"/>
+<stop offset="1" stop-color="#FF9F70"/>
+</linearGradient>
+</defs>
+<path fill="#79BDF2" d="M24 264Q82 232 140 264Q256 340 372 264Q430 232 488 264V384Q488 396 476 402Q382 448 256 416Q130 384 36 424Q24 430 24 416Z"/>
+<path fill="url(#excitation)" d="M156 264C200 264 204 88 256 88S312 264 356 264Q256 304 156 264Z"/>
+<path fill="#387E90" d="M74 340Q160 320 259 348Q352 375 434 340A10 10 0 0 1 442 358Q352 397 253 368Q160 340 78 360A10 10 0 0 1 74 340Z"/>
+</svg>

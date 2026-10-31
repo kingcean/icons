@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Hypothetical graviton exchange between two masses</title>
+<desc>A dashed exchange line above curved spacetime, with a question-mark badge indicating an unconfirmed gravitational quantum.</desc>
+<path opacity="0.55" d="M24 288Q256 368 488 288M24 360Q256 440 488 360M24 432Q256 496 488 432M96 310Q132 380 96 450M256 336V464M416 310Q380 380 416 450"/>
+<path d="M124 208H148M172 208H196M220 208H244M268 208H292M316 208H340M364 208H388"/>
+<g>
+<circle cx="68" cy="208" r="36"/>
+<circle cx="444" cy="208" r="36"/>
+</g>
+<g>
+<circle cx="256" cy="100" r="60"/>
+<path d="M238 82C238 58 276 58 276 82Q276 94 256 104V112"/>
+<circle cx="256" cy="132" r="5"/>
+</g>
+</svg>

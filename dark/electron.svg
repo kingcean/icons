@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Electron with a probability distribution</title>
+<defs>
+<radialGradient id="probability" cx="50%" cy="50%" r="50%">
+<stop offset="0" stop-color="#79BDF2" stop-opacity="0.5"/>
+<stop offset="0.42" stop-color="#85B7EF" stop-opacity="0.34"/>
+<stop offset="0.72" stop-color="#B3A2F4" stop-opacity="0.16"/>
+<stop offset="1" stop-color="#B3A2F4" stop-opacity="0"/>
+</radialGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#probability)"/>
+<path fill="#79BDF2" opacity="0.7" d="M216 148a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM302 174a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM358 238a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM326 324a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM264 366a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM186 344a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM138 278a8 8 0 1 0 16 0a8 8 0 1 0-16 0ZM158 194a8 8 0 1 0 16 0a8 8 0 1 0-16 0Z"/>
+<path fill="#98B1EF" opacity="0.45" d="M264 84a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM370 126a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM424 214a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM406 328a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM320 418a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM206 428a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM102 366a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM78 224a6 6 0 1 0 12 0a6 6 0 1 0-12 0ZM138 112a6 6 0 1 0 12 0a6 6 0 1 0-12 0Z"/>
+<path fill="#B3A2F4" opacity="0.22" d="M200 38a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM332 46a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM448 132a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM480 270a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM430 404a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM282 480a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM136 456a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM34 356a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM24 244a4 4 0 1 0 8 0a4 4 0 1 0-8 0ZM62 104a4 4 0 1 0 8 0a4 4 0 1 0-8 0Z"/>
+<circle cx="256" cy="256" r="62" fill="#79BDF2"/>
+<path fill="#182D3D" d="M232 248a8 8 0 0 0 0 16H280a8 8 0 0 0 0-16Z"/>
+</svg>

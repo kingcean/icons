@@ -1,0 +1,21 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Quantum teleportation</title>
+<desc>An input system and an entangled pair feed a joint measurement and receiver correction. The rightward arrow represents a required classical message, not instantaneous quantum communication.</desc>
+<g>
+<circle cx="72" cy="184" r="32"/>
+<circle cx="200" cy="184" r="32"/>
+<circle cx="440" cy="184" r="32"/>
+<rect x="64" y="232" width="16" height="32" rx="8"/>
+<rect x="192" y="232" width="16" height="32" rx="8"/>
+<rect x="432" y="232" width="16" height="32" rx="8"/>
+</g>
+<path d="M192 136C192 29 448 29 448 136A8 8 0 0 1 432 136C432 51 208 51 208 136A8 8 0 0 1 192 136Z"/>
+<g>
+<path fill-rule="evenodd" d="M44 280H260Q280 280 280 300V388Q280 408 260 408H44Q24 408 24 388V300Q24 280 44 280ZM96 368H112A40 40 0 0 1 192 368H208A56 56 0 0 0 96 368ZM145 364A8 8 0 0 0 159 372L183 336A8 8 0 0 0 169 328Z"/>
+</g>
+<path d="M296 335H330L326 331A9 9 0 0 1 338 317L358 337Q365 344 358 351L338 371A9 9 0 0 1 326 357L330 353H296A9 9 0 0 1 296 335Z"/>
+<g>
+<path fill-rule="evenodd" d="M396 280H468Q488 280 488 300V388Q488 408 468 408H396Q376 408 376 388V300Q376 280 396 280ZM400 320V352C400 395 464 395 464 352V320A8 8 0 0 0 448 320V352C448 373 416 373 416 352V320A8 8 0 0 0 400 320Z"/>
+</g>
+</svg>

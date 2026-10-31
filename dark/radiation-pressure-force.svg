@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Radiation pressure force</title>
+<desc>Luminous blue light packets strike a reflective sail. Violet paths show reflected light returning leftward, and a larger amber force arrow pushes the sail rightward.</desc>
+<defs>
+<linearGradient id="pressure" x1="376" y1="256" x2="494" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF9F70"/>
+<stop offset="1" stop-color="#F4C458"/>
+</linearGradient>
+<linearGradient id="light" x1="24" y1="0" x2="304" y2="0" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#66D5C8"/>
+<stop offset="1" stop-color="#79BDF2"/>
+</linearGradient>
+<path id="incoming" d="M19 173C38 140 58 140 77 173S98 200 115 173S154 140 173 173S194 200 211 173Q213 170 216 170H281L274 163A6 6 0 0 1 282 155L300 172Q304 176 300 180L282 197A6 6 0 0 1 274 189L281 182H216C198 214 178 211 163 179S142 152 125 179S86 212 67 179S46 152 29 179A6 6 0 0 1 19 173Z"/>
+<path id="reflected" d="M309 133Q199 70 63 70L72 79A6 6 0 0 1 64 89L44 69Q39 64 44 59L64 39A6 6 0 0 1 72 49L63 58Q202 58 315 123A6 6 0 0 1 309 133Z"/>
+</defs>
+<g fill="url(#light)">
+<use href="#incoming"/>
+<use href="#incoming" transform="translate(0 80)"/>
+<use href="#incoming" transform="translate(0 160)"/>
+</g>
+<g fill="#C2A7F0">
+<use href="#reflected"/>
+<use href="#reflected" transform="translate(0 512) scale(1 -1)"/>
+</g>
+<rect x="328" y="104" width="40" height="304" rx="12" fill="#A0B3CD"/>
+<rect x="334" y="116" width="12" height="280" rx="6" fill="#D4EDFF"/>
+<path fill="url(#pressure)" d="M388 244H451L444 237A12 12 0 0 1 461 219L489 247Q498 256 489 265L461 293A12 12 0 0 1 444 275L451 268H388A12 12 0 0 1 388 244Z"/>
+</svg>

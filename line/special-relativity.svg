@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Special relativity</title>
+<desc>Matching light clocks have equally separated mirror pairs. The stationary clock has a straight light path; the moving clock has a diagonal reflected path as viewed from the stationary frame. A rightward arrow indicates motion, illustrating time dilation without curved spacetime.</desc>
+<g>
+<rect x="24" y="80" width="200" height="28" rx="14"/>
+<rect x="24" y="376" width="200" height="28" rx="14"/>
+<path d="M124 352V128"/>
+</g>
+<g>
+<rect x="288" y="80" width="200" height="28" rx="14"/>
+<rect x="288" y="376" width="200" height="28" rx="14"/>
+<path d="M308 352L388 128L468 352"/>
+</g>
+<path d="M316 456H472M448 432L472 456L448 480"/>
+</svg>

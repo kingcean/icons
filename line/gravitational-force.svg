@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Gravitational force</title>
+<desc>Two spherical masses attract with equal opposing forces along the line joining their centers.</desc>
+<circle cx="88" cy="256" r="64"/>
+<path d="M48 256A40 40 0 0 1 88 216"/>
+<circle cx="424" cy="256" r="64"/>
+<path d="M384 256A40 40 0 0 1 424 216"/>
+<path d="M240 256H176M200 232L176 256L200 280"/>
+<path d="M272 256H336M312 232L336 256L312 280"/>
+</svg>

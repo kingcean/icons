@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Air resistance</title>
+<desc>A descending parachute with a large upward drag arrow, a smaller downward motion arrow, and airflow curving around its canopy. No person or background.</desc>
+<defs>
+<linearGradient id="drag" x1="256" y1="132" x2="256" y2="12" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FF9F70"/>
+<stop offset="1" stop-color="#F4C458"/>
+</linearGradient>
+<linearGradient id="motion" x1="456" y1="336" x2="456" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#C2A7F0"/>
+<stop offset="1" stop-color="#79BDF2"/>
+</linearGradient>
+</defs>
+<path fill="#A0B3CD" d="M92 296H112L248 450V296H264V450L400 296H420L268 467Q256 481 244 467Z"/>
+<path fill="#79BDF2" d="M72 280C88 104 424 104 440 280Q398 252 348 280Q302 252 256 280Q210 252 164 280Q114 252 72 280Z"/>
+<path fill="#66D5C8" d="M164 280C174 194 211 148 256 148C301 148 338 194 348 280Q302 252 256 280Q210 252 164 280Z"/>
+<path fill="url(#drag)" d="M244 120V53L237 60A12 12 0 0 1 219 44L247 16Q256 7 265 16L293 44A12 12 0 0 1 275 60L268 53V120A12 12 0 0 1 244 120Z"/>
+<path fill="url(#motion)" d="M448 344V389L444 385A8 8 0 0 0 432 397L450 415Q456 421 462 415L480 397A8 8 0 0 0 468 385L464 389V344A8 8 0 0 0 448 344Z"/>
+<g fill="#C2A7F0">
+<path id="airflow" d="M33 316C3 260 7 205 42 163A8 8 0 0 1 54 173C25 211 21 260 47 308A8 8 0 0 1 33 316Z"/>
+<use href="#airflow" transform="translate(512 0) scale(-1 1)"/>
+</g>
+</svg>

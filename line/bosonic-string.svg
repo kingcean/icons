@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Bosonic string</title>
+<desc>A theoretical closed string with smooth oscillating lobes. Separate subtle traces suggest alternative vibration modes, not direct observation or rope fibers.</desc>
+<path d="M32 256C32 168 88 112 152 144S224 192 256 144S344 112 400 160S480 208 480 256S424 352 360 368S288 320 256 368S168 400 112 352S32 304 32 256Z"/>
+<path opacity="0.5" d="M24 104C72 104 80 48 128 48S208 104 256 104S336 48 384 48S440 104 488 104"/>
+<path opacity="0.5" d="M24 424C64 424 64 464 104 464S144 424 184 424S224 464 264 464S304 424 344 424S384 464 424 464S464 424 488 424"/>
+</svg>

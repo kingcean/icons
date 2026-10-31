@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<title>Quantum decoherence</title>
+<desc>A persistent quantum wave-state interacts with three environmental markers. A nearby interference pattern progressively loses contrast, representing loss of observable coherence rather than disappearance of the system.</desc>
+<g>
+<circle cx="144" cy="256" r="88"/>
+<path d="M80 256C96 256 96 224 112 224S128 288 144 288S160 224 176 224S192 256 208 256"/>
+</g>
+<g>
+<circle cx="48" cy="88" r="24"/>
+<circle cx="240" cy="72" r="24"/>
+<circle cx="48" cy="424" r="24"/>
+</g>
+<g>
+<path d="M64 124Q64 156 88 172M224 108Q224 144 208 172M64 388Q64 356 88 340"/>
+</g>
+<g>
+<rect x="320" y="64" width="168" height="384" rx="24"/>
+<path d="M344 128H384M344 192H384M344 256H384M344 320H384M344 384H384"/>
+<path opacity="0.45" d="M400 128H424M400 192H424M400 256H424M400 320H424M400 384H424"/>
+<path opacity="0.15" d="M440 128H464M440 192H464M440 256H464M440 320H464M440 384H464"/>
+</g>
+</svg>

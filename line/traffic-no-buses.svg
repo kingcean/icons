@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="bus-gap">
+<path d="M16 0H512V496ZM0 16L496 512H0Z"/>
+</clipPath>
+</defs>
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="180"/>
+<g clip-path="url(#bus-gap)" stroke-linecap="round">
+<path d="M144 188H358Q382 188 382 212V308Q382 320 370 320H138Q126 320 126 308V206Q126 188 144 188Z"/>
+<path d="M146 212H180V252H146ZM192 212H226V252H192ZM238 212H272V252H238ZM284 212H318V252H284ZM330 212H362V252H330Z"/>
+<circle cx="180" cy="350" r="22"/>
+<circle cx="334" cy="350" r="22"/>
+</g>
+<path d="M92 92L420 420" stroke-linecap="round"/>
+</svg>

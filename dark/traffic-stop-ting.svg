@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill="#F04450" d="M164 24H348Q356 24 362 30L482 150Q488 156 488 164V348Q488 356 482 362L362 482Q356 488 348 488H164Q156 488 150 482L30 362Q24 356 24 348V164Q24 156 30 150L150 30Q156 24 164 24Z"/>
+<path fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linejoin="round" d="M170 48H342L464 170V342L342 464H170L48 342V170Z"/>
+<text x="256" y="330" fill="#FFFFFF" font-family="Noto Sans CJK SC,Microsoft YaHei,PingFang SC,SimHei,sans-serif" font-size="200" font-weight="700" text-anchor="middle">停</text>
+</svg>

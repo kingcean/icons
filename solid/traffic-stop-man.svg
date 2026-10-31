@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256ZM436 256A180 180 0 1 0 76 256A180 180 0 1 0 436 256Z"/>
+<text x="256" y="330" font-family="Noto Sans CJK SC,Microsoft YaHei,PingFang SC,SimHei,sans-serif" font-size="200" font-weight="700" text-anchor="middle">慢</text>
+</svg>

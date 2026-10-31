@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Gluon mediating the strong interaction between two quarks</title>
+<desc>Quark marker colors symbolize strong-interaction color charge, not literal visible colors.</desc>
+<circle cx="68" cy="256" r="44" fill="#D95763"/>
+<path fill="#D69A18" d="M128 246C144 246 144 198 160 198S176 294 192 294S208 198 224 198S240 294 256 294S272 198 288 198S304 294 320 294S336 198 352 198S368 246 384 246A10 10 0 0 1 384 266C368 266 368 218 352 218S336 314 320 314S304 218 288 218S272 314 256 314S240 218 224 218S208 314 192 314S176 218 160 218S144 266 128 266A10 10 0 0 1 128 246Z"/>
+<circle cx="444" cy="256" r="44" fill="#357CB9"/>
+</svg>

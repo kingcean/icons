@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Covalent bond</title>
+<desc>Overlapping hydrogen electron-cloud boundaries enclose two nuclei and a single shared electron pair.</desc>
+<path fill-rule="evenodd" d="M176 104A152 152 0 1 1 176 408A152 152 0 1 1 176 104ZM176 120A136 136 0 1 0 176 392A136 136 0 1 0 176 120Z"/>
+<path fill-rule="evenodd" d="M336 104A152 152 0 1 1 336 408A152 152 0 1 1 336 104ZM336 120A136 136 0 1 0 336 392A136 136 0 1 0 336 120Z"/>
+<path fill-rule="evenodd" d="M176 230A26 26 0 1 1 176 282A26 26 0 1 1 176 230ZM171 241H181V251H191V261H181V271H171V261H161V251H171Z"/>
+<path fill-rule="evenodd" d="M336 230A26 26 0 1 1 336 282A26 26 0 1 1 336 230ZM331 241H341V251H351V261H341V271H331V261H321V251H331Z"/>
+<circle cx="256" cy="232" r="16"/>
+<circle cx="256" cy="280" r="16"/>
+</svg>

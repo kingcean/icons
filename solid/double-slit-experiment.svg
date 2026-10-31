@@ -1,0 +1,36 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>Double-slit experiment</title>
+<desc>A source, a barrier with exactly two slits, overlapping coherent paths, and individual screen detections arranged in dense and sparse interference bands.</desc>
+<circle cx="52" cy="256" r="28"/>
+<rect x="100" y="248" width="24" height="16" rx="8"/>
+<g>
+<rect x="148" y="24" width="32" height="164" rx="6"/>
+<rect x="148" y="216" width="32" height="80" rx="6"/>
+<rect x="148" y="324" width="32" height="164" rx="6"/>
+</g>
+<g>
+<path d="M204 193C252 193 284 301 324 301A9 9 0 0 1 324 319C276 319 244 211 204 211A9 9 0 0 1 204 193Z"/>
+<path d="M204 301C244 301 276 193 324 193A9 9 0 0 1 324 211C284 211 252 319 204 319A9 9 0 0 1 204 301Z"/>
+</g>
+<path fill-rule="evenodd" d="M368 24H468Q488 24 488 44V468Q488 488 468 488H368Q348 488 348 468V44Q348 24 368 24ZM368 40Q364 40 364 44V468Q364 472 368 472H468Q472 472 472 468V44Q472 40 468 40Z"/>
+<g>
+<circle cx="382" cy="100" r="9"/>
+<circle cx="418" cy="112" r="9"/>
+<circle cx="454" cy="100" r="9"/>
+<circle cx="394" cy="128" r="9"/>
+<circle cx="442" cy="130" r="9"/>
+<circle cx="426" cy="186" r="8"/>
+<circle cx="382" cy="240" r="9"/>
+<circle cx="418" cy="250" r="9"/>
+<circle cx="454" cy="240" r="9"/>
+<circle cx="394" cy="268" r="9"/>
+<circle cx="442" cy="270" r="9"/>
+<circle cx="406" cy="326" r="8"/>
+<circle cx="382" cy="380" r="9"/>
+<circle cx="418" cy="392" r="9"/>
+<circle cx="454" cy="380" r="9"/>
+<circle cx="394" cy="408" r="9"/>
+<circle cx="442" cy="410" r="9"/>
+</g>
+</svg>

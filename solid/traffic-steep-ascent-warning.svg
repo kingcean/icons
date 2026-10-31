@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M242 40Q256 16 270 40L486 434Q499 458 472 458H40Q13 458 26 434ZM250 78Q256 66 262 78L454 428Q458 436 448 436H64Q54 436 58 428Z"/>
+<text x="256" y="278" font-family="Arial, Helvetica, sans-serif" font-size="68" font-weight="700" text-anchor="middle">%</text>
+<path d="M142 314Q142 308 148 310L376 394Q384 398 376 402H150Q142 402 142 394Z"/>
+</svg>
