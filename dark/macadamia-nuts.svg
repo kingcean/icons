@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="shell" cx=".3" cy=".25" r=".85">
+<stop stop-color="#C49267"/>
+<stop offset=".55" stop-color="#95633F"/>
+<stop offset="1" stop-color="#6E462D"/>
+</radialGradient>
+<radialGradient id="ivory" cx=".3" cy=".25" r=".85">
+<stop stop-color="#FFFCF0"/>
+<stop offset=".55" stop-color="#F8E9CA"/>
+<stop offset="1" stop-color="#DCC090"/>
+</radialGradient>
+</defs>
+<circle cx="132" cy="140" r="108" fill="url(#shell)"/>
+<path d="M113 51C157 91 105 174 151 229" fill="none" stroke="#593A27" stroke-width="12" stroke-linecap="round"/>
+<circle cx="380" cy="154" r="108" fill="url(#shell)"/>
+<circle cx="380" cy="154" r="98" fill="#D0A777"/>
+<circle cx="380" cy="154" r="90" fill="#62422D"/>
+<circle cx="380" cy="154" r="68" fill="url(#ivory)"/>
+<circle cx="132" cy="382" r="88" fill="url(#ivory)"/>
+<path d="M97 328C76 340 66 363 69 385" fill="none" stroke="#FFFDF5" stroke-width="12" stroke-linecap="round"/>
+<circle cx="364" cy="390" r="88" fill="url(#ivory)"/>
+<path d="M330 336C309 348 299 371 302 393" fill="none" stroke="#FFFDF5" stroke-width="12" stroke-linecap="round"/>
+</svg>

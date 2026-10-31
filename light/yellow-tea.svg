@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M28 402L32 424C44 460 140 486 256 486C372 486 468 460 480 424L484 402Z" fill="#A57928"/>
+<ellipse cx="256" cy="402" rx="228" ry="60" fill="#C99D42"/>
+<g transform="translate(0 16)">
+<path fill="#B99B59" fill-rule="evenodd" d="M388 184H436Q488 184 488 236Q488 292 436 292H384ZM408 208V268H436Q464 268 464 236Q464 208 436 208Z"/>
+<path d="M64 164C64 146 139 132 232 132C325 132 400 146 400 164L382 304Q370 380 288 380H176Q94 380 82 304Z" fill="#F0DFAD"/>
+<ellipse cx="232" cy="164" rx="148" ry="22" fill="#F5D56E"/>
+<path d="M174 306Q160 240 238 218Q252 284 174 306Z" fill="#9B7C2C"/>
+<path d="M232 328Q218 262 296 240Q310 306 232 328Z" fill="#6E8744"/>
+<path d="M180 298L218 246" fill="none" stroke="#F2D57C" stroke-width="12" stroke-linecap="round"/>
+<path d="M238 320L276 268" fill="none" stroke="#C7DB89" stroke-width="12" stroke-linecap="round"/>
+<path d="M185 117C139 85 209 58 182 31Q176 20 187 14Q198 8 204 19C242 69 170 89 199 99Q210 106 203 117Q196 127 185 117ZM273 117C227 85 297 58 270 31Q264 20 275 14Q286 8 292 19C330 69 258 89 287 99Q298 106 291 117Q284 127 273 117Z" fill="#829FAB"/>
+</g>
+</svg>

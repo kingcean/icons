@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<circle cx="220" cy="56" r="28"/>
+<path d="M220 14V6M220 98V106M178 56H168M262 56H272M190 26L183 19M250 26L257 19M190 86L183 93M250 86L257 93" stroke-linecap="round"/>
+<path d="M242 111L222 141H254L239 176M230 164L239 176L254 171" stroke-linecap="round"/>
+<path d="M256 386C114 347 123 195 337 133C381 284 342 353 256 386Z"/>
+<path d="M256 368C248 292 282 223 320 170M257 300L210 251M274 250L323 232M252 343L205 310M246 402L220 470" stroke-linecap="round"/>
+<g>
+<circle cx="30" cy="241" r="12"/>
+<circle cx="64" cy="241" r="16"/>
+<circle cx="98" cy="241" r="12"/>
+</g>
+<path d="M120 241H156M144 229L156 241L144 253M363 215L396 197M380 195L396 197L390 213M343 322L389 342M383 326L389 342L373 348M157 440H202M190 428L202 440L190 452" stroke-linecap="round"/>
+<g>
+<circle cx="421" cy="183" r="17"/>
+<circle cx="467" cy="183" r="17"/>
+</g>
+<path d="M438 318Q444 315 450 318L474 332Q480 335 480 342V370Q480 377 474 380L450 394Q444 397 438 394L414 380Q408 377 408 370V342Q408 335 414 332Z"/>
+<path d="M112 394C105 407 82 427 82 445A30 30 0 0 0 142 445C142 427 119 407 112 394Z"/>
+</svg>

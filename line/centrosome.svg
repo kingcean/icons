@@ -1,0 +1,30 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="triplet">
+<circle cx="-9" cy="-36" r="4"/>
+<circle cx="0" cy="-36" r="4"/>
+<circle cx="9" cy="-36" r="4"/>
+</g>
+<g id="centriole">
+<path d="M-54 0V116C-54 156 54 156 54 116V0"/>
+<ellipse cx="0" cy="0" rx="54" ry="32"/>
+<path d="M-34 34V116M-22 39V121M-6 43V124M6 43V124M22 39V121M34 34V116" stroke-linecap="round"/>
+<g transform="scale(1 .58)">
+<use href="#triplet"/>
+<use href="#triplet" transform="rotate(40)"/>
+<use href="#triplet" transform="rotate(80)"/>
+<use href="#triplet" transform="rotate(120)"/>
+<use href="#triplet" transform="rotate(160)"/>
+<use href="#triplet" transform="rotate(200)"/>
+<use href="#triplet" transform="rotate(240)"/>
+<use href="#triplet" transform="rotate(280)"/>
+<use href="#triplet" transform="rotate(320)"/>
+</g>
+</g>
+</defs>
+<path d="M256 24V83M139 47L164 97M48 128L98 159M24 246L76 249M51 374L96 347M143 467L169 415M256 488V432M372 466L346 418M468 377L421 350M488 256H458M466 133L420 161M371 48L348 98" stroke-linecap="round"/>
+<path d="M117 140C111 107 151 89 182 107C206 82 247 92 264 108C291 85 332 94 345 118C383 100 414 131 407 164C444 175 455 210 436 235C458 263 445 302 425 316C447 352 417 383 388 381C382 415 341 428 316 406C290 431 252 423 238 404C207 432 170 418 161 394C124 403 98 375 105 347C72 329 74 290 96 272C seventy"/>
+<use href="#centriole" transform="translate(190 181)"/>
+<use href="#centriole" transform="translate(294 308) rotate(-90)"/>
+</svg>

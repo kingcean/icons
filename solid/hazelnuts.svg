@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="hazelnut" fill-rule="evenodd" d="M0-110C12-110 20-96 32-92C76-80 100-42 100 6C100 65 60 102 0 104C-60 102-100 65-100 6C-100-42-76-80-32-92C-20-96-12-110 0-110ZM-51 57A51 29 0 1 0 51 57A51 29 0 1 0-51 57Z"/>
+<path id="kernel" fill-rule="evenodd" d="M0-69C12-68 17-53 29-46C48-34 55-13 54 10C52 47 29 67 0 69C-29 67-52 47-54 10C-55-13-48-34-29-46C-17-53-12-68 0-69ZM-15-45C-30-13-29 24-12 46Q-7 52-2 46Q0 43-2 39C-15 19-16-11-3-39Q0-46-6-48Q-12-51-15-45Z"/>
+</defs>
+<use href="#hazelnut" transform="translate(132 140) rotate(-14)"/>
+<use href="#hazelnut" transform="translate(366 151) rotate(17)"/>
+<path fill-rule="evenodd" d="M28 352C31 320 60 295 87 289L103 302L123 282L145 299L167 289C202 299 230 322 234 352C234 423 192 471 131 471C70 471 28 423 28 352ZM44 352C44 373 82 387 131 387C180 387 218 373 218 352C214 331 195 313 169 305L145 315L124 303L104 322L84 306C61 315 46 332 44 352ZM61 427Q88 450 118 452Q128 452 124 442Q122 440 118 440Q94 438 69 417Q62 412 58 420Q57 424 61 427Z"/>
+<use href="#kernel" transform="translate(311 359) rotate(-19)"/>
+<use href="#kernel" transform="translate(427 413) rotate(23)"/>
+</svg>

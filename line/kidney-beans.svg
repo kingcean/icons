@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(156 132) rotate(-32)">
+<path d="M0-108C55-108 86-58 86 2C86 66 48 112-4 108C-58 104-88 72-76 38C-68 18-42 18-42-4C-42-26-70-30-76-54C-85-84-52-108 0-108Z"/>
+<ellipse cx="-24" cy="-4" rx="10" ry="24"/>
+</g>
+<g transform="translate(354 170) rotate(32)">
+<path d="M0-108C55-108 86-58 86 2C86 66 48 112-4 108C-58 104-88 72-76 38C-68 18-42 18-42-4C-42-26-70-30-76-54C-85-84-52-108 0-108Z"/>
+<ellipse cx="-24" cy="-4" rx="10" ry="24"/>
+</g>
+<g transform="translate(125 363) rotate(26)">
+<path d="M0-108C55-108 86-58 86 2C86 66 48 112-4 108C-58 104-88 72-76 38C-68 18-42 18-42-4C-42-26-70-30-76-54C-85-84-52-108 0-108Z"/>
+<ellipse cx="-24" cy="-4" rx="10" ry="24"/>
+</g>
+<g transform="translate(348 380) rotate(-32)">
+<path d="M0-108C55-108 86-58 86 2C86 66 48 112-4 108C-58 104-88 72-76 38C-68 18-42 18-42-4C-42-26-70-30-76-54C-85-84-52-108 0-108Z"/>
+<ellipse cx="-24" cy="-4" rx="10" ry="24"/>
+</g>
+</svg>

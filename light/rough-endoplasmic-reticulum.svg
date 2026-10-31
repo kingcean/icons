@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="cisterna">
+<path d="M28 126L112 70Q126 60 145 64L450 112Q466 114 466 126V154Q466 164 454 172L392 216Q380 224 362 220L46 176Q26 173 26 160V138Q26 131 28 126Z" fill="#77509C" stroke="#624080" stroke-width="6" stroke-linejoin="round"/>
+<path d="M28 126L112 70Q126 60 145 64L450 112Q473 116 454 136L392 180Q380 188 362 184L46 140Q22 137 28 126Z" fill="#B395CE" stroke="#77509C" stroke-width="6" stroke-linejoin="round"/>
+<path d="M48 157L362 201Q380 205 391 196L446 158" fill="none" stroke="#DCC9EC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#C44F75">
+<circle cx="116" cy="99" r="8"/>
+<circle cx="176" cy="98" r="8"/>
+<circle cx="236" cy="108" r="8"/>
+<circle cx="296" cy="118" r="8"/>
+<circle cx="356" cy="128" r="8"/>
+<circle cx="416" cy="130" r="8"/>
+<circle cx="146" cy="127" r="8"/>
+<circle cx="206" cy="137" r="8"/>
+<circle cx="266" cy="147" r="8"/>
+<circle cx="326" cy="157" r="8"/>
+</g>
+</g>
+</defs>
+<path d="M451 146H473Q490 146 490 169V393Q490 418 466 428M451 283H490" fill="none" stroke="#568FAD" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<use href="#cisterna" y="248"/>
+<use href="#cisterna" y="124"/>
+<use href="#cisterna"/>
+</svg>

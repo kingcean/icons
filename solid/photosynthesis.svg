@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="arrow" d="M0-6H27L22-11Q18-15 22-19Q26-23 30-19L45-4Q49 0 45 4L30 19Q26 23 22 19Q18 15 22 11L27 6H0Q-6 6-6 0Q-6-6 0-6Z"/>
+</defs>
+<circle cx="220" cy="56" r="28"/>
+<rect x="214" y="4" width="12" height="14" rx="6"/>
+<rect x="214" y="94" width="12" height="14" rx="6"/>
+<rect x="168" y="50" width="14" height="12" rx="6"/>
+<rect x="258" y="50" width="14" height="12" rx="6"/>
+<rect x="214" y="4" width="12" height="14" rx="6" transform="rotate(45 220 56)"/>
+<rect x="214" y="4" width="12" height="14" rx="6" transform="rotate(135 220 56)"/>
+<rect x="214" y="4" width="12" height="14" rx="6" transform="rotate(225 220 56)"/>
+<rect x="214" y="4" width="12" height="14" rx="6" transform="rotate(315 220 56)"/>
+<path d="M237 111Q240 107 245 110Q250 113 247 117L233 136H254Q262 136 258 144L240 178Q236 185 232 178L219 157L234 163L244 148H222Q213 148 218 140Z"/>
+<path fill-rule="evenodd" d="M256 386C114 347 123 195 337 133C381 284 342 353 256 386ZM263 360C255 290 286 221 320 170C276 214 241 286 247 360Q255 370 263 360Z"/>
+<path d="M238 399Q241 391 249 395Q257 399 253 407L227 473Q224 481 216 478Q208 475 211 467Z"/>
+<circle cx="30" cy="241" r="12"/>
+<circle cx="64" cy="241" r="16"/>
+<circle cx="98" cy="241" r="12"/>
+<use href="#arrow" transform="translate(120 241) scale(.8)"/>
+<use href="#arrow" transform="translate(363 215) rotate(-29) scale(.8)"/>
+<use href="#arrow" transform="translate(343 322) rotate(24)"/>
+<use href="#arrow" transform="translate(157 440)"/>
+<circle cx="421" cy="183" r="17"/>
+<circle cx="467" cy="183" r="17"/>
+<path fill-rule="evenodd" d="M438 318Q444 315 450 318L474 332Q480 335 480 342V370Q480 377 474 380L450 394Q444 397 438 394L414 380Q408 377 408 370V342Q408 335 414 332ZM441 332L424 342Q420 344 420 349V363Q420 368 424 370L441 380Q444 382 447 380L464 370Q468 368 468 363V349Q468 344 464 342L447 332Q444 330 441 332Z"/>
+<path d="M112 394C105 407 82 427 82 445A30 30 0 0 0 142 445C142 427 119 407 112 394Z"/>
+</svg>

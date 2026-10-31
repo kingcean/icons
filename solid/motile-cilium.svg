@@ -1,0 +1,26 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="doublet">
+<circle cx="-10" cy="-88" r="8"/>
+<circle cx="10" cy="-88" r="8"/>
+</g>
+</defs>
+<path d="M90 388C91 283 66 166 109 76C119 50 150 49 150 74C150 85 140 99 135 117C112 194 139 292 138 388Z"/>
+<path d="M24 418Q128 394 232 418T488 418V470Q360 490 232 470T24 470Z"/>
+<path d="M166 93L242 121Q248 123 246 129Q244 135 238 133L162 105Q156 103 158 97Q160 91 166 93Z"/>
+<path fill-rule="evenodd" d="M482 218A132 132 0 1 1 218 218A132 132 0 1 1 482 218ZM464 218A114 114 0 1 0 236 218A114 114 0 1 0 464 218Z"/>
+<g transform="translate(350 218)">
+<use href="#doublet"/>
+<use href="#doublet" transform="rotate(40)"/>
+<use href="#doublet" transform="rotate(80)"/>
+<use href="#doublet" transform="rotate(120)"/>
+<use href="#doublet" transform="rotate(160)"/>
+<use href="#doublet" transform="rotate(200)"/>
+<use href="#doublet" transform="rotate(240)"/>
+<use href="#doublet" transform="rotate(280)"/>
+<use href="#doublet" transform="rotate(320)"/>
+</g>
+<circle cx="335" cy="218" r="10"/>
+<circle cx="365" cy="218" r="10"/>
+</svg>

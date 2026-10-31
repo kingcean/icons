@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="whole" fill-rule="evenodd" d="M0-112C43-112 73-84 73-49C73-27 48-14 48 0C48 16 73 31 73 56C73 90 43 112 0 112C-43 112-73 90-73 56C-73 31-48 16-48 0C-48-14-73-27-73-49C-73-84-43-112 0-112ZM0-93L-16-78L0-63L16-78ZM-34-66L-49-51L-34-36L-18-51ZM34-66L18-51L34-36L49-51ZM0-40L-16-25L0-10L16-25ZM0 10L-16 25L0 40L16 25ZM-34 36L-49 51L-34 66L-18 51ZM34 36L18 51L34 66L49 51ZM0 63L-16 78L0 93L16 78Z"/>
+<path id="kernel" fill-rule="evenodd" d="M0-68C29-68 48-42 47-8C46 8 39 13 42 29C45 52 26 68 0 68C-26 68-45 52-42 29C-39 13-46 8-47-8C-48-42-29-68 0-68ZM-6-48C-15-17 2 19-6 44Q-8 52 0 52Q5 52 6 48C15 19-2-17 6-44Q8-52 0-52Q-5-52-6-48Z"/>
+</defs>
+<use href="#whole" transform="translate(135 139) rotate(-27)"/>
+<use href="#whole" transform="translate(373 145) rotate(26)"/>
+<g transform="translate(133 377) rotate(24)">
+<path fill-rule="evenodd" d="M0-112C43-112 73-84 73-49C73-27 48-14 48 0C48 16 73 31 73 56C73 90 43 112 0 112C-43 112-73 90-73 56C-73 31-48 16-48 0C-48-14-73-27-73-49C-73-84-43-112 0-112ZM0-93C34-93 58-70 58-41C58-22 38-12 38 0C38 13 58 26 58 46C58 75 34 93 0 93C-34 93-58 75-58 46C-58 26-38 13-38 0C-38-12-58-22-58-41C-58-70-34-93 0-93Z"/>
+<use href="#kernel" transform="translate(0 -46) scale(.57 .55)"/>
+<use href="#kernel" transform="translate(0 46) scale(.57 .55)"/>
+</g>
+<use href="#kernel" transform="translate(318 355) rotate(-25)"/>
+<use href="#kernel" transform="translate(426 416) rotate(27)"/>
+</svg>

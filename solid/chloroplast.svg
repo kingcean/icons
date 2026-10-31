@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path fill-rule="evenodd" d="M488 256A232 160 0 1 1 24 256A232 160 0 1 1 488 256ZM476 256A220 148 0 1 0 36 256A220 148 0 1 0 476 256ZM464 256A208 136 0 1 1 48 256A208 136 0 1 1 464 256ZM452 256A196 124 0 1 0 60 256A196 124 0 1 0 452 256Z"/>
+<path d="M188 226Q193 224 196 229L212 260Q215 265 210 268Q205 270 202 265L186 234Q183 229 188 226ZM307 268Q302 265 305 260L320 229Q323 224 328 227Q333 230 330 235L315 265Q312 270 307 268Z"/>
+<rect x="90" y="182" width="90" height="24" rx="12"/>
+<rect x="90" y="218" width="90" height="24" rx="12"/>
+<rect x="90" y="254" width="90" height="24" rx="12"/>
+<rect x="216" y="218" width="84" height="24" rx="12"/>
+<rect x="216" y="254" width="84" height="24" rx="12"/>
+<rect x="216" y="290" width="84" height="24" rx="12"/>
+<rect x="332" y="182" width="90" height="24" rx="12"/>
+<rect x="332" y="218" width="90" height="24" rx="12"/>
+<rect x="332" y="254" width="90" height="24" rx="12"/>
+</svg>

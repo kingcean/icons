@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="kernel">
+<path d="M0-116C14-107 48-42 48 30C48 85 29 112 0 112C-29 112-48 85-48 30C-48-42-14-107 0-116Z"/>
+<path d="M-19-24C-27 13-27 47-16 70" stroke-linecap="round"/>
+</g>
+<g id="shell">
+<path d="M0-116C14-107 48-42 48 30C48 85 29 112 0 112C-29 112-48 85-48 30C-48-42-14-107 0-116Z"/>
+<path d="M0-89C-9-39 8 36 0 91" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#kernel" transform="translate(134 136) rotate(-38)"/>
+<use href="#shell" transform="translate(371 140) rotate(35)"/>
+<use href="#kernel" transform="translate(132 375) rotate(34)"/>
+<use href="#shell" transform="translate(371 376) rotate(-38)"/>
+</svg>

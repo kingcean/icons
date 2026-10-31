@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M76 229C10 250 11 311 48 350C128 433 384 433 464 350C501 311 502 250 436 229C350 196 162 196 76 229Z" fill="#F5F9FA" stroke="#7897A5" stroke-width="10" stroke-linejoin="round"/>
+<path d="M58 332C142 395 370 395 454 332" fill="none" stroke="#C4DCE3" stroke-width="10" stroke-linecap="round"/>
+<ellipse cx="256" cy="269" rx="171" ry="79" fill="#E7E8C9"/>
+<path d="M129 187L177 175Q185 173 191 181L211 209V247Q211 255 203 257L158 268Q150 270 144 262L124 238V197Q124 190 129 187Z" fill="#FFF9E9" stroke="#C7CBB5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M126 195L153 225L209 211L203 257L153 269Z" fill="#DCE5D6"/>
+<path d="M231 205L281 193Q289 191 295 199L316 227V267Q316 275 308 277L260 288Q252 290 247 283L226 256V216Q226 208 231 205Z" fill="#FFFCF1" stroke="#C7CBB5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M228 214L255 245L314 230L308 277L255 289Z" fill="#E2E9D9"/>
+<path d="M193 281L231 271Q239 269 245 277L266 302V326Q266 333 259 335L217 345Q209 347 204 340L187 320V291Q187 284 193 281Z" fill="#FFF9E9" stroke="#C7CBB5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M190 290L213 316L263 303L259 335L213 346Z" fill="#DCE5D6"/>
+<path d="M308 153L347 143Q355 141 361 148L381 173V207Q381 214 374 216L334 226Q326 228 321 221L302 197V163Q302 156 308 153Z" fill="#FFF9E9" stroke="#C7CBB5" stroke-width="5" stroke-linejoin="round"/>
+<path d="M304 161L331 191L379 176L374 216L331 227Z" fill="#DCE5D6"/>
+<path d="M144 155C170 101 259 99 296 150M167 160C185 126 247 124 275 154M179 187C202 152 261 148 297 177M191 199C216 177 254 171 281 186" fill="none" stroke="#98519D" stroke-width="10" stroke-linecap="round"/>
+<path d="M318 301Q344 286 355 252Q361 239 369 245Q374 248 370 261C357 292 340 311 318 313Q305 313 318 301Z" fill="#DE4939"/>
+<path d="M367 245Q374 231 385 232" fill="none" stroke="#468447" stroke-width="7" stroke-linecap="round"/>
+<path d="M231 135Q218 113 231 108Q245 103 249 125Q263 106 274 116Q285 127 262 139L260 153L246 152L246 140Q225 153 217 140Q211 128 231 135Z" fill="#38864C"/>
+<ellipse cx="116" cy="330" rx="57" ry="39" transform="rotate(-20 116 330)" fill="#AF613E"/>
+<ellipse cx="116" cy="330" rx="45" ry="29" transform="rotate(-20 116 330)" fill="#F29B44"/>
+<path d="M89 329Q108 308 134 316" fill="none" stroke="#FFCB79" stroke-width="9" stroke-linecap="round"/>
+<path d="M365 311Q354 296 367 282Q383 271 396 286L405 301Q411 316 396 324Q378 332 365 311ZM409 328Q400 312 414 300Q430 292 442 307L449 323Q454 339 438 344Q419 350 409 328ZM368 352Q356 337 369 325Q384 316 397 330L405 345Q410 360 394 365Q377 371 368 352Z" fill="#FFF0C5" stroke="#C7B17A" stroke-width="5" stroke-linejoin="round"/>
+<path d="M376 289L386 296M422 309L431 317M378 333L388 341" fill="none" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+</svg>

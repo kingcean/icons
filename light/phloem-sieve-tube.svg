@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="96" y="24" width="208" height="464" rx="24" fill="#E8F0CF" stroke="#72964D" stroke-width="10"/>
+<g>
+<rect x="108" y="236" width="184" height="40" rx="12" fill="#C49D58"/>
+<circle cx="150" cy="256" r="8" fill="#647B49"/>
+<circle cx="183" cy="256" r="8" fill="#647B49"/>
+<circle cx="217" cy="256" r="8" fill="#647B49"/>
+<circle cx="250" cy="256" r="8" fill="#647B49"/>
+</g>
+<g>
+<rect x="330" y="24" width="76" height="222" rx="24" fill="#83C4AE" stroke="#398D79" stroke-width="8"/>
+<rect x="330" y="266" width="76" height="222" rx="24" fill="#83C4AE" stroke="#398D79" stroke-width="8"/>
+<ellipse cx="368" cy="135" rx="18" ry="26" fill="#A17BBC" stroke="#745293" stroke-width="6"/>
+<ellipse cx="368" cy="377" rx="18" ry="26" fill="#A17BBC" stroke="#745293" stroke-width="6"/>
+</g>
+<path d="M194 104Q200 101 206 104L222 114Q228 117 228 124V144Q228 151 222 154L206 164Q200 167 194 164L178 154Q172 151 172 144V124Q172 117 178 114ZM194 348Q200 345 206 348L222 358Q228 361 228 368V388Q228 395 222 398L206 408Q200 411 194 408L178 398Q172 395 172 388V368Q172 361 178 358Z" fill="#EAB365" stroke="#B77B38" stroke-width="7"/>
+</svg>

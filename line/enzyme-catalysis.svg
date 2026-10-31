@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<path id="enzyme" d="M-42-70H-28V-34Q-28-10 0-10Q28-10 28-34V-70H42Q66-70 66-46V46Q66 70 42 70H-42Q-66 70-66 46V-46Q-66-70-42-70Z"/>
+<g id="substrate">
+<rect x="-20" y="-28" width="40" height="56" rx="12"/>
+<path d="M0-22V22" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#enzyme" transform="translate(86 300)"/>
+<use href="#enzyme" transform="translate(256 300)"/>
+<use href="#enzyme" transform="translate(426 300)"/>
+<use href="#substrate" transform="translate(86 142)"/>
+<use href="#substrate" transform="translate(256 250)"/>
+<rect x="398" y="116" width="20" height="52" rx="9"/>
+<rect x="434" y="116" width="20" height="52" rx="9"/>
+<path d="M86 184V216M74 204L86 216L98 204M426 216V184M414 196L426 184L438 196M164 310H180M170 300L180 310L170 320M334 310H350M340 300L350 310L340 320" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="mitochondrion">
+<ellipse cx="0" cy="0" rx="54" ry="29" fill="#BF8056" stroke="#FFC38F" stroke-width="8"/>
+<path d="M-36 0L-23-14L-11 13L1-13L13 13L26-12L37 0" fill="none" stroke="#FFE0AE" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</defs>
+<path d="M487 254C492 369 395 461 273 474C148 488 36 409 25 291C14 178 85 64 204 42C325 20 482 108 487 254Z" fill="#365B55" fill-opacity="0.8" stroke="#8CDACE" stroke-width="12"/>
+<circle cx="198" cy="222" r="70" fill="#75608E" stroke="#C9A5E6" stroke-width="10"/>
+<circle cx="184" cy="221" r="22" fill="#F49CC7"/>
+<path d="M239 112C274 104 299 122 307 152C315 181 338 191 359 182M252 135C275 133 283 148 287 171C292 199 322 219 355 208M278 107C323 112 323 142 338 151C346 157 356 156 367 150" fill="none" stroke="#8DC7EF" stroke-width="14" stroke-linecap="round"/>
+<use href="#mitochondrion" transform="translate(143 354) rotate(-25)"/>
+<use href="#mitochondrion" transform="translate(397 267) rotate(65)"/>
+<path d="M286 323Q322 304 359 323M279 348Q322 325 368 348M285 373Q323 351 361 373M298 398Q323 383 348 398" fill="none" stroke="#F0A0B3" stroke-width="14" stroke-linecap="round"/>
+<g fill="#D9BE65" stroke="#F5DC94" stroke-width="5">
+<circle cx="105" cy="137" r="14"/>
+<circle cx="260" cy="421" r="13"/>
+<circle cx="393" cy="373" r="12"/>
+</g>
+</svg>

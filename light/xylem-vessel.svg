@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="water" x1="0" y1="1" x2="0" y2="0">
+<stop offset="0" stop-color="#298CBA"/>
+<stop offset="1" stop-color="#35B6B0"/>
+</linearGradient>
+<g id="wall">
+<rect width="44" height="120" rx="12" fill="#E6BF79" stroke="#A77A43" stroke-width="7"/>
+<ellipse cx="22" cy="60" rx="9" ry="18" fill="#96704E"/>
+</g>
+<g id="middle-wall">
+<rect width="44" height="88" rx="12" fill="#E6BF79" stroke="#A77A43" stroke-width="7"/>
+<ellipse cx="22" cy="44" rx="9" ry="18" fill="#96704E"/>
+</g>
+<path id="upward" d="M247 126V70L240 77Q234 83 228 77Q222 71 228 65L250 43Q256 37 262 43L284 65Q290 71 284 77Q278 83 272 77L265 70V126Q265 135 256 135Q247 135 247 126Z" fill="url(#water)"/>
+</defs>
+<use href="#wall" transform="translate(112 24)"/>
+<use href="#wall" transform="translate(356 24)"/>
+<use href="#middle-wall" transform="translate(112 212)"/>
+<use href="#middle-wall" transform="translate(356 212)"/>
+<use href="#wall" transform="translate(112 368)"/>
+<use href="#wall" transform="translate(356 368)"/>
+<path fill-rule="evenodd" d="M400 178A144 22 0 1 1 112 178A144 22 0 1 1 400 178ZM356 178A100 12 0 1 0 156 178A100 12 0 1 0 356 178ZM400 334A144 22 0 1 1 112 334A144 22 0 1 1 400 334ZM356 334A100 12 0 1 0 156 334A100 12 0 1 0 356 334Z" fill="#C99550" stroke="#946A3E" stroke-width="5"/>
+<use href="#upward"/>
+<use href="#upward" transform="translate(0 170)"/>
+<use href="#upward" transform="translate(0 340)"/>
+</svg>

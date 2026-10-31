@@ -1,3 +1,10 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#7962AC" d="M312 32C156 8 24 116 24 264C24 392 128 488 256 488C360 488 444 428 480 344Q486 328 468 332C348 362 232 272 232 152C232 116 244 80 320 48Q332 36 312 32Z"/>
+<defs>
+<linearGradient id="moon" x1="104" y1="64" x2="360" y2="464" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF9DA"/>
+<stop offset="0.5" stop-color="#FFF0AE"/>
+<stop offset="1" stop-color="#EFD17C"/>
+</linearGradient>
+</defs>
+<path fill="url(#moon)" stroke="#AD893C" stroke-width="12" stroke-linejoin="round" d="M312 32C156 8 24 116 24 264C24 392 128 488 256 488C360 488 444 428 480 344Q486 328 468 332C348 362 232 272 232 152C232 116 244 80 320 48Q332 36 312 32Z"/>
 </svg>

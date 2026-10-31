@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="reaction" x1="0" y1="197" x2="0" y2="280" gradientUnits="userSpaceOnUse">
+<stop stop-color="#389B91"/>
+<stop offset="1" stop-color="#367EA9"/>
+</linearGradient>
+</defs>
+<circle cx="190" cy="256" r="166" fill="#DCEED1" stroke="#67934B" stroke-width="14"/>
+<path d="M111 175C105 154 131 140 145 157C165 145 183 165 171 183C191 198 174 223 153 215C139 234 114 222 118 201C95 199 93 179 111 175ZM133 316C127 295 153 281 167 298C187 286 205 306 193 324C213 339 196 364 175 356C161 375 136 363 140 342C117 340 115 320 133 316Z" fill="#9270B1"/>
+<path d="M224 237C218 216 244 202 258 219C278 207 296 227 284 245C304 260 287 285 266 277C252 296 227 284 231 263C208 261 206 241 224 237Z" fill="#3F9D93"/>
+<path d="M394 106L410 141H457L478 106M391 353L417 325L443 353M417 416H464" fill="none" stroke="#788C9C" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M432 204Q432 197 439 197Q446 197 446 204V253L451 248Q456 243 461 248Q466 253 461 258L444 275Q439 280 434 275L417 258Q412 253 417 248Q422 243 427 248L432 253Z" fill="url(#reaction)"/>
+<g fill="#D76573">
+<circle cx="410" cy="141" r="16"/>
+<circle cx="457" cy="141" r="16"/>
+<circle cx="417" cy="325" r="16"/>
+<circle cx="417" cy="416" r="16"/>
+<circle cx="464" cy="416" r="16"/>
+</g>
+<g fill="#568EBB">
+<circle cx="394" cy="106" r="9"/>
+<circle cx="478" cy="106" r="9"/>
+<circle cx="391" cy="353" r="9"/>
+<circle cx="443" cy="353" r="9"/>
+</g>
+</svg>

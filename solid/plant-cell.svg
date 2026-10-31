@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="chloroplast">
+<path fill-rule="evenodd" d="M44 0A44 18 0 1 1-44 0A44 18 0 1 1 44 0ZM-28-6V6Q-28 10-24 10Q-20 10-20 6V-6Q-20-10-24-10Q-28-10-28-6ZM-12-6V6Q-12 10-8 10Q-4 10-4 6V-6Q-4-10-8-10Q-12-10-12-6ZM4-6V6Q4 10 8 10Q12 10 12 6V-6Q12-10 8-10Q4-10 4-6ZM20-6V6Q20 10 24 10Q28 10 28 6V-6Q28-10 24-10Q20-10 20-6Z"/>
+</g>
+<g id="mitochondrion">
+<path fill-rule="evenodd" d="M30 0A30 16 0 1 1-30 0A30 16 0 1 1 30 0ZM-21-3L-12-10Q-9-12-7-9L0 1L7-9Q9-12 12-10L21-3Q24 0 21 3Q19 5 16 3L11-1L3 10Q0 14-3 10L-11-1L-16 3Q-19 5-21 3Q-24 0-21-3Z"/>
+</g>
+</defs>
+<path fill-rule="evenodd" d="M88 24H424Q484 24 484 84V428Q484 488 424 488H88Q28 488 28 428V84Q28 24 88 24ZM88 40Q44 40 44 84V428Q44 472 88 472H424Q468 472 468 428V84Q468 40 424 40Z"/>
+<path fill-rule="evenodd" d="M94 52H418Q456 52 456 94V422Q456 460 418 460H94Q56 460 56 422V94Q56 52 94 52ZM94 60Q64 60 64 94V422Q64 452 94 452H418Q448 452 448 422V94Q448 60 418 60Z"/>
+<path d="M148 116H320Q350 116 350 146V366Q350 398 318 398H148Q118 398 118 368V146Q118 116 148 116Z"/>
+<use href="#chloroplast" transform="translate(170 82)"/>
+<use href="#chloroplast" transform="translate(83 254) rotate(90)"/>
+<use href="#chloroplast" transform="translate(170 430)"/>
+<use href="#mitochondrion" transform="translate(408 150) rotate(65)"/>
+<use href="#mitochondrion" transform="translate(406 380) rotate(-40)"/>
+<path fill-rule="evenodd" d="M437 260A32 43 0 1 1 373 260A32 43 0 1 1 437 260ZM419 257A11 11 0 1 0 397 257A11 11 0 1 0 419 257Z"/>
+</svg>

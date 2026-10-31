@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="matter" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#358FB6"/>
+<stop offset="1" stop-color="#398D79"/>
+</linearGradient>
+<linearGradient id="energy" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#F2BC42"/>
+<stop offset="1" stop-color="#D58329"/>
+</linearGradient>
+<path id="arrow" d="M0-6H27L22-11Q18-15 22-19Q26-23 30-19L45-4Q49 0 45 4L30 19Q26 23 22 19Q18 15 22 11L27 6H0Q-6 6-6 0Q-6-6 0-6Z" fill="url(#matter)"/>
+</defs>
+<circle cx="220" cy="56" r="28" fill="#F3C651" stroke="#D59430" stroke-width="6"/>
+<path d="M220 14V8M220 98V104M178 56H170M262 56H270M190 26L185 21M250 26L255 21M190 86L185 91M250 86L255 91" fill="none" stroke="#DFA337" stroke-width="10" stroke-linecap="round"/>
+<path d="M237 111Q240 107 245 110Q250 113 247 117L233 136H254Q262 136 258 144L240 178Q236 185 232 178L219 157L234 163L244 148H222Q213 148 218 140Z" fill="url(#energy)"/>
+<path d="M256 386L220 470" fill="none" stroke="#497F43" stroke-width="16" stroke-linecap="round"/>
+<path d="M256 386C114 347 123 195 337 133C381 284 342 353 256 386Z" fill="#77BC62" stroke="#42834B" stroke-width="8" stroke-linejoin="round"/>
+<path d="M256 368C248 292 282 223 320 170M257 300L210 251M274 250L323 232M252 343L205 310" fill="none" stroke="#D2E99A" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="30" cy="241" r="12" fill="#E5757B"/>
+<circle cx="64" cy="241" r="16" fill="#788AA3"/>
+<circle cx="98" cy="241" r="12" fill="#E5757B"/>
+<use href="#arrow" transform="translate(120 241) scale(.8)"/>
+<use href="#arrow" transform="translate(363 215) rotate(-29) scale(.8)"/>
+<use href="#arrow" transform="translate(343 322) rotate(24)"/>
+<use href="#arrow" transform="translate(157 440)"/>
+<circle cx="421" cy="183" r="17" fill="#E5757B" stroke="#B2384C" stroke-width="5"/>
+<circle cx="467" cy="183" r="17" fill="#E5757B" stroke="#B2384C" stroke-width="5"/>
+<path d="M438 318Q444 315 450 318L474 332Q480 335 480 342V370Q480 377 474 380L450 394Q444 397 438 394L414 380Q408 377 408 370V342Q408 335 414 332Z" fill="#F4DFB9" stroke="#B77B38" stroke-width="8"/>
+<path d="M112 394C105 407 82 427 82 445A30 30 0 0 0 142 445C142 427 119 407 112 394Z" fill="#7BC7E1" stroke="#358FB6" stroke-width="7" stroke-linejoin="round"/>
+</svg>

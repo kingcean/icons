@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(156 132) rotate(-32)">
+<ellipse rx="90" ry="94"/>
+<ellipse cx="-30" cy="0" rx="14" ry="22"/>
+</g>
+<g transform="translate(354 170) rotate(32)">
+<ellipse rx="90" ry="94"/>
+<ellipse cx="-30" cy="0" rx="14" ry="22"/>
+</g>
+<g transform="translate(125 363) rotate(26)">
+<ellipse rx="90" ry="94"/>
+<ellipse cx="-30" cy="0" rx="14" ry="22"/>
+</g>
+<g transform="translate(348 380) rotate(-32)">
+<ellipse rx="90" ry="94"/>
+<ellipse cx="-30" cy="0" rx="14" ry="22"/>
+</g>
+</svg>

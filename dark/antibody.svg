@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="heavy" d="M100 116H132L238 274Q246 286 246 302V476Q246 488 234 488H222Q210 488 210 476V316Q210 306 204 298L100 144Q92 132 100 116Z" fill="#D3AAF0"/>
+<path id="light" d="M48 116H80L174 252Q182 264 170 272L158 280Q146 288 138 276L48 144Q40 132 48 116Z" fill="#7DDFCF"/>
+<path id="tips" d="M100 116H132L148 140L118 164L100 144Q92 132 100 116Z" fill="#A77BCA"/>
+<path id="light-tip" d="M48 116H80L96 140L66 164L48 144Q40 132 48 116Z" fill="#42B3A2"/>
+<path id="antigen" d="M48 28H132Q144 28 144 40V74Q144 86 132 86V116H100V86H80V116H48V86Q36 86 36 74V40Q36 28 48 28Z" fill="#FFD17A"/>
+</defs>
+<use href="#heavy"/>
+<use href="#heavy" transform="translate(512 0) scale(-1 1)"/>
+<use href="#light"/>
+<use href="#light" transform="translate(512 0) scale(-1 1)"/>
+<use href="#tips"/>
+<use href="#tips" transform="translate(512 0) scale(-1 1)"/>
+<use href="#light-tip"/>
+<use href="#light-tip" transform="translate(512 0) scale(-1 1)"/>
+<use href="#antigen"/>
+<use href="#antigen" transform="translate(512 0) scale(-1 1)"/>
+</svg>

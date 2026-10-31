@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<rect x="24" y="96" width="464" height="320" rx="160"/>
+<rect x="46" y="118" width="420" height="276" rx="138"/>
+<path d="M166 270C140 251 149 207 176 206C207 205 222 254 205 280C190 302 160 290 166 270ZM223 236C211 210 226 184 249 194C277 206 284 259 265 278C243 299 216 267 223 236ZM281 251C272 225 292 210 312 224C338 242 353 283 331 295C307 309 278 279 281 251ZM201 226L224 221M263 235L283 242" stroke-linecap="round"/>
+<ellipse cx="108" cy="274" rx="23" ry="30" transform="rotate(-20 108 274)"/>
+<ellipse cx="371" cy="322" rx="25" ry="19" transform="rotate(-20 371 322)"/>
+<g>
+<circle cx="116" cy="203" r="8"/>
+<circle cx="181" cy="160" r="8"/>
+<circle cx="290" cy="157" r="8"/>
+<circle cx="351" cy="192" r="8"/>
+<circle cx="414" cy="234" r="8"/>
+<circle cx="401" cy="284" r="8"/>
+<circle cx="290" cy="343" r="8"/>
+<circle cx="211" cy="338" r="8"/>
+<circle cx="151" cy="343" r="8"/>
+</g>
+</svg>

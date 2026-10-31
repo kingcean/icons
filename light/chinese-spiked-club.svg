@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g transform="rotate(45 256 256)">
+<path d="M246 200H266Q274 200 274 210V544L280 564Q282 576 270 576H242Q230 576 232 564L238 544V210Q238 200 246 200Z" fill="#A87950" stroke="#62432E" stroke-width="7"/>
+<path d="M248 264V538" fill="none" stroke="#D7AE7A" stroke-width="7" stroke-linecap="round"/>
+<rect x="216" y="-40" width="80" height="260" rx="22" fill="#79513A" stroke="#513825" stroke-width="7"/>
+<path d="M236-16V196" fill="none" stroke="#B78B63" stroke-width="10" stroke-linecap="round"/>
+<path d="M216-4V20L182 10Q178 8 182 6ZM216 40V64L182 54Q178 52 182 50ZM216 84V108L182 98Q178 96 182 94ZM216 128V152L182 142Q178 140 182 138ZM216 172V196L182 186Q178 184 182 182ZM296-4V20L330 10Q334 8 330 6ZM296 40V64L330 54Q334 52 330 50ZM296 84V108L330 98Q334 96 330 94ZM296 128V152L330 142Q334 140 330 138ZM296 172V196L330 186Q334 184 330 182Z" fill="#8499AC" stroke="#455A6C" stroke-width="6" stroke-linejoin="round"/>
+<rect x="230" y="220" width="52" height="24" rx="7" fill="#B88A3D" stroke="#725328" stroke-width="7"/>
+<path d="M239 226H273V233H239Z" fill="#E5BC69"/>
+</g>
+</svg>

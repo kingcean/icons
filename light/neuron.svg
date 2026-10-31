@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M108 128L84 88L48 76L26 44M84 88L89 49L70 24M48 76L24 88M149 110L151 62L132 39L136 24M151 62L183 45L196 24M199 151L245 112L251 74L277 52M245 112L286 110L311 87M251 74L237 48M99 179L57 161L30 165M57 161L48 133L24 122M130 213L96 254L60 264L39 291M96 254L103 290L88 312M60 264L30 251" fill="none" stroke="#BA7549" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M198 210C221 239 218 253 235 268L420 410M420 410L449 429L484 424M449 429L465 461M420 410L431 379L469 366M431 379L419 352M420 410L392 443L397 481M392 443L365 460" fill="none" stroke="#BA7549" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M112 128Q127 130 137 110Q149 92 164 111Q174 132 193 134Q216 137 206 158Q196 177 208 194Q220 217 194 216Q176 207 157 223Q137 237 126 214Q120 194 99 186Q78 176 98 157Q115 144 112 128Z" fill="#EDB478" stroke="#BA7549" stroke-width="7"/>
+<circle cx="151" cy="167" r="23" fill="#A17BBD" stroke="#78559A" stroke-width="6"/>
+<g transform="translate(235 268) rotate(37.5)" fill="#8BCFC5" stroke="#378E88" stroke-width="7">
+<rect x="9" y="-21" width="57" height="42" rx="21"/>
+<rect x="78" y="-21" width="57" height="42" rx="21"/>
+<rect x="147" y="-21" width="57" height="42" rx="21"/>
+</g>
+</svg>

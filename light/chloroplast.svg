@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<ellipse cx="256" cy="256" rx="232" ry="160" fill="#68A844" stroke="#397B38" stroke-width="8"/>
+<ellipse cx="256" cy="256" rx="208" ry="136" fill="#E5F0B8" stroke="#A4CD69" stroke-width="10"/>
+<path d="M170 230H179Q184 230 188 236L208 260Q213 266 220 266H228M288 266H299Q306 266 310 260L324 237Q328 230 336 230H344" fill="none" stroke="#64A896" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#278667">
+<rect x="90" y="182" width="90" height="24" rx="12"/>
+<rect x="90" y="218" width="90" height="24" rx="12"/>
+<rect x="90" y="254" width="90" height="24" rx="12"/>
+</g>
+<g fill="#409849">
+<rect x="216" y="218" width="84" height="24" rx="12"/>
+<rect x="216" y="254" width="84" height="24" rx="12"/>
+<rect x="216" y="290" width="84" height="24" rx="12"/>
+</g>
+<g fill="#278667">
+<rect x="332" y="182" width="90" height="24" rx="12"/>
+<rect x="332" y="218" width="90" height="24" rx="12"/>
+<rect x="332" y="254" width="90" height="24" rx="12"/>
+</g>
+</svg>

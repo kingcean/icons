@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="doublet">
+<circle cx="-10" cy="-88" r="9" fill="#C5A2E5"/>
+<circle cx="10" cy="-88" r="9" fill="#E3ACDD"/>
+</g>
+</defs>
+<path d="M164 99L240 127" fill="none" stroke="#AEBFCF" stroke-width="8" stroke-linecap="round"/>
+<path d="M90 388C91 283 66 166 109 76C119 50 150 49 150 74C150 85 140 99 135 117C112 194 139 292 138 388Z" fill="#65B6CF" stroke="#9ADFF0" stroke-width="8" stroke-linejoin="round"/>
+<path d="M24 418Q128 394 232 418T488 418V470Q360 490 232 470T24 470Z" fill="#3E7564" stroke="#91DCC1" stroke-width="8" stroke-linejoin="round"/>
+<circle cx="350" cy="218" r="132" fill="#514260" stroke="#C7A3E3" stroke-width="12"/>
+<g transform="translate(350 218)">
+<use href="#doublet"/>
+<use href="#doublet" transform="rotate(40)"/>
+<use href="#doublet" transform="rotate(80)"/>
+<use href="#doublet" transform="rotate(120)"/>
+<use href="#doublet" transform="rotate(160)"/>
+<use href="#doublet" transform="rotate(200)"/>
+<use href="#doublet" transform="rotate(240)"/>
+<use href="#doublet" transform="rotate(280)"/>
+<use href="#doublet" transform="rotate(320)"/>
+</g>
+<circle cx="335" cy="218" r="11" fill="#FFB67F"/>
+<circle cx="365" cy="218" r="11" fill="#FFB67F"/>
+</svg>

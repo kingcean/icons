@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<path transform="translate(156 132) rotate(-32)" fill-rule="evenodd" d="M0-108A82 108 0 1 1 0 108A82 108 0 1 1 0-108ZM-48-26V26A8 8 0 0 0-32 26V-26A8 8 0 0 0-48-26Z"/>
+<path transform="translate(354 170) rotate(32)" fill-rule="evenodd" d="M0-108A82 108 0 1 1 0 108A82 108 0 1 1 0-108ZM-48-26V26A8 8 0 0 0-32 26V-26A8 8 0 0 0-48-26Z"/>
+<path transform="translate(125 363) rotate(26)" fill-rule="evenodd" d="M0-108A82 108 0 1 1 0 108A82 108 0 1 1 0-108ZM-48-26V26A8 8 0 0 0-32 26V-26A8 8 0 0 0-48-26Z"/>
+<path transform="translate(348 380) rotate(-32)" fill-rule="evenodd" d="M0-108A82 108 0 1 1 0 108A82 108 0 1 1 0-108ZM-48-26V26A8 8 0 0 0-32 26V-26A8 8 0 0 0-48-26Z"/>
+</svg>

@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<g transform="rotate(-10 160 256)">
+<path d="M150 318V76C150 12 240 12 240 68C240 88 227 102 205 110Q200 112 203 106L218 84C240 51 170 40 170 76V318Z"/>
+<path d="M138 326C56 344 56 428 138 446C102 408 102 364 138 326Z"/>
+<rect x="150" y="332" width="20" height="102" rx="8"/>
+<path d="M150 446H170Q178 446 175 454L162 487Q160 492 158 487L145 454Q142 446 150 446Z"/>
+</g>
+<g transform="translate(512 0) scale(-1 1)">
+<g transform="rotate(-10 160 256)">
+<path d="M150 318V76C150 12 240 12 240 68C240 88 227 102 205 110Q200 112 203 106L218 84C240 51 170 40 170 76V318Z"/>
+<path d="M138 326C56 344 56 428 138 446C102 408 102 364 138 326Z"/>
+<rect x="150" y="332" width="20" height="102" rx="8"/>
+<path d="M150 446H170Q178 446 175 454L162 487Q160 492 158 487L145 454Q142 446 150 446Z"/>
+</g>
+</g>
+</svg>

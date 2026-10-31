@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(156 132) rotate(-32)">
+<ellipse rx="82" ry="100"/>
+<path d="M8-76C-40-36-40-16-18 12C6 40 6 48-18 72" stroke-linecap="round"/>
+</g>
+<g transform="translate(354 170) rotate(32)">
+<ellipse rx="82" ry="100"/>
+<path d="M8-76C-40-36-40-16-18 12C6 40 6 48-18 72" stroke-linecap="round"/>
+</g>
+<g transform="translate(125 363) rotate(26)">
+<ellipse rx="82" ry="100"/>
+<path d="M8-76C-40-36-40-16-18 12C6 40 6 48-18 72" stroke-linecap="round"/>
+</g>
+<g transform="translate(348 380) rotate(-32)">
+<ellipse rx="82" ry="100"/>
+<path d="M8-76C-40-36-40-16-18 12C6 40 6 48-18 72" stroke-linecap="round"/>
+</g>
+</svg>

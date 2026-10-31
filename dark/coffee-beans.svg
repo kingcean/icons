@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="roast" cx="0.3" cy="0.25" r="0.85">
+<stop stop-color="#CC9666"/>
+<stop offset="0.55" stop-color="#A46A43"/>
+<stop offset="1" stop-color="#74452E"/>
+</radialGradient>
+</defs>
+<g transform="translate(156 132) rotate(-32)">
+<ellipse rx="82" ry="100" fill="url(#roast)"/>
+<path d="M14-72C-32-32-32-12-10 14C12 40 12 48-14 72Q-20 78-24 70C0 42-4 34-26 10C-50-18-46-44 2-80Q12-88 14-72Z" fill="#482A1D"/>
+</g>
+<g transform="translate(354 170) rotate(32)">
+<ellipse rx="82" ry="100" fill="url(#roast)"/>
+<path d="M14-72C-32-32-32-12-10 14C12 40 12 48-14 72Q-20 78-24 70C0 42-4 34-26 10C-50-18-46-44 2-80Q12-88 14-72Z" fill="#482A1D"/>
+</g>
+<g transform="translate(125 363) rotate(26)">
+<ellipse rx="82" ry="100" fill="url(#roast)"/>
+<path d="M14-72C-32-32-32-12-10 14C12 40 12 48-14 72Q-20 78-24 70C0 42-4 34-26 10C-50-18-46-44 2-80Q12-88 14-72Z" fill="#482A1D"/>
+</g>
+<g transform="translate(348 380) rotate(-32)">
+<ellipse rx="82" ry="100" fill="url(#roast)"/>
+<path d="M14-72C-32-32-32-12-10 14C12 40 12 48-14 72Q-20 78-24 70C0 42-4 34-26 10C-50-18-46-44 2-80Q12-88 14-72Z" fill="#482A1D"/>
+</g>
+</svg>

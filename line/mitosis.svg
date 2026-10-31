@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<g>
+<circle cx="128" cy="128" r="104"/>
+<path d="M88 84L120 124M120 84L88 124M140 136L172 176M172 136L140 176" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="384" cy="128" r="104"/>
+<path d="M368 84L400 120M400 84L368 120M368 136L400 172M400 136L368 172" stroke-linecap="round"/>
+<path d="M384 48V64M384 192V208" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="384" cy="384" r="104"/>
+<path d="M354 344L336 360L354 376M414 344L432 360L414 376M354 392L336 408L354 424M414 392L432 408L414 424" stroke-linecap="round"/>
+</g>
+<g>
+<ellipse cx="74" cy="384" rx="50" ry="72"/>
+<ellipse cx="182" cy="384" rx="50" ry="72"/>
+<path d="M62 368V400M86 368V400M170 368V400M194 368V400" stroke-linecap="round"/>
+</g>
+<path d="M244 128H268M258 118L268 128L258 138M384 244V268M374 258L384 268L394 258M268 384H244M254 374L244 384L254 394" stroke-linecap="round"/>
+</svg>

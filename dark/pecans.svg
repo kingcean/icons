@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="shell" cx=".3" cy=".25" r=".85">
+<stop stop-color="#E3B17A"/>
+<stop offset=".55" stop-color="#C18A51"/>
+<stop offset="1" stop-color="#996333"/>
+</radialGradient>
+<radialGradient id="gold" cx=".3" cy=".25" r=".85">
+<stop stop-color="#FFE0A0"/>
+<stop offset=".55" stop-color="#EBB96C"/>
+<stop offset="1" stop-color="#C58B46"/>
+</radialGradient>
+<g id="pecan">
+<path d="M0-112C42-109 73-62 72 4C71 64 40 109 0 112C-40 109-71 64-72 4C-73-62-42-109 0-112Z" fill="url(#shell)"/>
+<path d="M0-86C-9-34 8 33 0 87M-25-73C-45-30-45 29-25 73M25-73C45-30 45 29 25 73" fill="none" stroke="#795032" stroke-width="11" stroke-linecap="round"/>
+</g>
+<g id="kernel">
+<path d="M0-105C16-105 29-94 32-78C48-69 52-53 48-38C60-22 60-5 54 10C59 28 52 44 43 53C44 72 31 88 18 94Q0 116-18 94C-31 88-44 72-43 53C-52 44-59 28-54 10C-60-5-60-22-48-38C-52-53-48-69-32-78C-29-94-16-105 0-105Z" fill="url(#gold)"/>
+<path d="M0-82C-10-39 10 35 0 84M-22-65C-37-26-34 28-20 65M22-65C37-26 34 28 20 65" fill="none" stroke="#A97136" stroke-width="12" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#pecan" transform="translate(145 133) rotate(-27)"/>
+<use href="#pecan" transform="translate(365 150) rotate(24)"/>
+<use href="#kernel" transform="translate(128 369) rotate(22)"/>
+<use href="#kernel" transform="translate(355 380) rotate(-28)"/>
+</svg>

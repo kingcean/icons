@@ -1,0 +1,26 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<ellipse id="corona-cell" cx="0" cy="-225" rx="17" ry="21"/>
+</defs>
+<g transform="translate(256 256)">
+<use href="#corona-cell"/>
+<use href="#corona-cell" transform="rotate(22.5)"/>
+<use href="#corona-cell" transform="rotate(45)"/>
+<use href="#corona-cell" transform="rotate(67.5)"/>
+<use href="#corona-cell" transform="rotate(90)"/>
+<use href="#corona-cell" transform="rotate(112.5)"/>
+<use href="#corona-cell" transform="rotate(135)"/>
+<use href="#corona-cell" transform="rotate(157.5)"/>
+<use href="#corona-cell" transform="rotate(180)"/>
+<use href="#corona-cell" transform="rotate(202.5)"/>
+<use href="#corona-cell" transform="rotate(225)"/>
+<use href="#corona-cell" transform="rotate(247.5)"/>
+<use href="#corona-cell" transform="rotate(270)"/>
+<use href="#corona-cell" transform="rotate(292.5)"/>
+<use href="#corona-cell" transform="rotate(315)"/>
+<use href="#corona-cell" transform="rotate(337.5)"/>
+</g>
+<path fill-rule="evenodd" d="M452 256A196 196 0 1 1 60 256A196 196 0 1 1 452 256ZM434 256A178 178 0 1 0 78 256A178 178 0 1 0 434 256Z"/>
+<path fill-rule="evenodd" d="M420 256A164 164 0 1 1 92 256A164 164 0 1 1 420 256ZM284 244A48 48 0 1 0 188 244A48 48 0 1 0 284 244Z"/>
+</svg>

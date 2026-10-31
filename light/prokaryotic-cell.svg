@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="96" width="464" height="320" rx="160" fill="#99BE73" stroke="#587F42" stroke-width="8"/>
+<rect x="46" y="118" width="420" height="276" rx="138" fill="#E8F1D8" stroke="#719B54" stroke-width="6"/>
+<path d="M166 270C140 251 149 207 176 206C207 205 222 254 205 280C190 302 160 290 166 270ZM223 236C211 210 226 184 249 194C277 206 284 259 265 278C243 299 216 267 223 236ZM281 251C272 225 292 210 312 224C338 242 353 283 331 295C307 309 278 279 281 251ZM201 226L224 221M263 235L283 242" fill="none" stroke="#8960AD" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="none" stroke="#C47545" stroke-width="10">
+<ellipse cx="108" cy="274" rx="23" ry="30" transform="rotate(-20 108 274)"/>
+<ellipse cx="371" cy="322" rx="25" ry="19" transform="rotate(-20 371 322)"/>
+</g>
+<g fill="#428F9B">
+<circle cx="116" cy="203" r="9"/>
+<circle cx="181" cy="160" r="9"/>
+<circle cx="290" cy="157" r="9"/>
+<circle cx="351" cy="192" r="9"/>
+<circle cx="414" cy="234" r="9"/>
+<circle cx="401" cy="284" r="9"/>
+<circle cx="290" cy="343" r="9"/>
+<circle cx="211" cy="338" r="9"/>
+<circle cx="151" cy="343" r="9"/>
+</g>
+</svg>

@@ -1,1 +1,10 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs><linearGradient id="lastPage" x1="400" y1="40" x2="112" y2="472" gradientUnits="userSpaceOnUse"><stop stop-color="#7DB4FF"/><stop offset="1" stop-color="#67E8F9"/></linearGradient></defs><path fill="url(#lastPage)" d="M388 144A12 12 0 0 1 412 144V368A12 12 0 0 1 388 368Z"/><path fill="url(#lastPage)" d="M102 30Q92 40 102 50L308 256L102 462Q92 472 102 482Q112 492 122 482L338 266Q348 256 338 246L122 30Q112 20 102 30Z"/></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="lastPage" x1="400" y1="40" x2="112" y2="472" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7DB4FF"/>
+<stop offset="1" stop-color="#67E8F9"/>
+</linearGradient>
+</defs>
+<rect x="388" y="25" width="24" height="462" rx="12" fill="url(#lastPage)"/>
+<path fill="url(#lastPage)" d="M102 30Q92 40 102 50L308 256L102 462Q92 472 102 482Q112 492 122 482L338 266Q348 256 338 246L122 30Q112 20 102 30Z"/>
+</svg>

@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="flow" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#91D5F0"/>
+<stop offset="1" stop-color="#8DE1C7"/>
+</linearGradient>
+<path id="arrow" d="M243 122H255L253 120Q249 116 253 112Q257 108 261 112L273 124Q277 128 273 132L261 144Q257 148 253 144Q249 140 253 136L255 134H243Q237 134 237 128Q237 122 243 122Z" fill="url(#flow)"/>
+</defs>
+<g>
+<circle cx="128" cy="128" r="104" fill="#46566F" stroke="#BBCDE5" stroke-width="8"/>
+<path d="M88 84L120 124M120 84L88 124" fill="none" stroke="#D3AAF0" stroke-width="14" stroke-linecap="round"/>
+<path d="M140 136L172 176M172 136L140 176" fill="none" stroke="#7DDFCF" stroke-width="14" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="384" cy="128" r="104" fill="#46566F" stroke="#BBCDE5" stroke-width="8"/>
+<path d="M384 48V64M384 192V208" stroke="#8298B8" stroke-width="8" stroke-linecap="round"/>
+<path d="M368 84L400 120M400 84L368 120" fill="none" stroke="#D3AAF0" stroke-width="14" stroke-linecap="round"/>
+<path d="M368 136L400 172M400 136L368 172" fill="none" stroke="#7DDFCF" stroke-width="14" stroke-linecap="round"/>
+</g>
+<g>
+<circle cx="384" cy="384" r="104" fill="#46566F" stroke="#BBCDE5" stroke-width="8"/>
+<path d="M354 344L336 360L354 376M414 344L432 360L414 376" fill="none" stroke="#D3AAF0" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M354 392L336 408L354 424M414 392L432 408L414 424" fill="none" stroke="#7DDFCF" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g>
+<ellipse cx="74" cy="384" rx="50" ry="72" fill="#776345" stroke="#F1C98B" stroke-width="8"/>
+<ellipse cx="182" cy="384" rx="50" ry="72" fill="#776345" stroke="#F1C98B" stroke-width="8"/>
+<path d="M62 368V400M170 368V400" stroke="#D3AAF0" stroke-width="14" stroke-linecap="round"/>
+<path d="M86 368V400M194 368V400" stroke="#7DDFCF" stroke-width="14" stroke-linecap="round"/>
+</g>
+<use href="#arrow"/>
+<use href="#arrow" transform="rotate(90 256 256)"/>
+<use href="#arrow" transform="rotate(180 256 256)"/>
+</svg>

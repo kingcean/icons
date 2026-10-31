@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<defs>
+<g id="chloroplast">
+<ellipse rx="44" ry="18"/>
+<path d="M-24-7V7M-8-7V7M8-7V7M24-7V7" stroke-linecap="round"/>
+</g>
+<g id="mitochondrion">
+<ellipse rx="30" ry="16"/>
+<path d="M-19 0L-10-7L0 7L10-7L19 0" stroke-linecap="round"/>
+</g>
+</defs>
+<rect x="28" y="24" width="456" height="464" rx="60"/>
+<rect x="52" y="48" width="408" height="416" rx="42"/>
+<path d="M148 116H320Q350 116 350 146V366Q350 398 318 398H148Q118 398 118 368V146Q118 116 148 116Z"/>
+<use href="#chloroplast" transform="translate(170 82)"/>
+<use href="#chloroplast" transform="translate(83 254) rotate(90)"/>
+<use href="#chloroplast" transform="translate(170 430)"/>
+<use href="#mitochondrion" transform="translate(408 150) rotate(65)"/>
+<use href="#mitochondrion" transform="translate(406 380) rotate(-40)"/>
+<ellipse cx="405" cy="260" rx="32" ry="43"/>
+<circle cx="408" cy="257" r="11"/>
+</svg>

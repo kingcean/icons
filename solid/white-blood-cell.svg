@@ -1,0 +1,29 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<path fill-rule="evenodd" d="M384 256A180 180 0 1 1 24 256A180 180 0 1 1 384 256ZM366 256A162 162 0 1 0 42 256A162 162 0 1 0 366 256Z"/>
+<path d="M161 151C126 132 99 156 103 188C105 221 136 230 162 209L182 218C181 251 207 270 237 253L246 270C217 280 205 315 226 339C248 365 285 351 297 327C311 297 294 270 269 265L259 243C281 221 284 181 259 164C234 146 200 158 189 192L173 188C180 174 177 159 161 151Z"/>
+<g>
+<circle cx="190" cy="117" r="7"/>
+<circle cx="252" cy="126" r="7"/>
+<circle cx="83" cy="145" r="7"/>
+<circle cx="69" cy="222" r="7"/>
+<circle cx="77" cy="285" r="7"/>
+<circle cx="111" cy="251" r="7"/>
+<circle cx="157" cy="273" r="7"/>
+<circle cx="121" cy="321" r="7"/>
+<circle cx="164" cy="352" r="7"/>
+<circle cx="127" cy="377" r="7"/>
+<circle cx="208" cy="393" r="7"/>
+<circle cx="277" cy="380" r="7"/>
+<circle cx="321" cy="351" r="7"/>
+<circle cx="344" cy="285" r="7"/>
+<circle cx="312" cy="250" r="7"/>
+<circle cx="320" cy="191" r="7"/>
+</g>
+<g transform="translate(414 65) rotate(18)">
+<path fill-rule="evenodd" d="M70 0A70 40 0 1 1-70 0A70 40 0 1 1 70 0ZM-36 0C-34-25 34-25 36 0C20-13-20-13-36 0Z"/>
+</g>
+<g transform="translate(428 430) rotate(-22)">
+<path fill-rule="evenodd" d="M62 0A62 50 0 1 1-62 0A62 50 0 1 1 62 0ZM-31 0C-29-32 29-32 31 0C18-17-18-17-31 0Z"/>
+</g>
+</svg>

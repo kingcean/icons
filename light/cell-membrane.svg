@@ -1,0 +1,31 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="lipid">
+<path d="M-6 199C-15 216-1 231-10 247M6 199C-3 216 11 231 2 247M-6 313C-15 296-1 281-10 265M6 313C-3 296 11 281 2 265" fill="none" stroke="#E7AD45" stroke-width="9" stroke-linecap="round"/>
+<circle cx="0" cy="182" r="16" fill="#368FAB"/>
+<circle cx="0" cy="330" r="16" fill="#368FAB"/>
+</g>
+</defs>
+<use href="#lipid" x="40"/>
+<use href="#lipid" x="82"/>
+<use href="#lipid" x="124"/>
+<use href="#lipid" x="264"/>
+<use href="#lipid" x="306"/>
+<use href="#lipid" x="430"/>
+<use href="#lipid" x="472"/>
+<path d="M181 152C159 152 153 171 162 190C172 213 163 233 163 256C163 279 172 299 162 322C153 341 159 360 181 360H207C229 360 235 341 226 322C216 299 225 279 225 256C225 233 216 213 226 190C235 171 229 152 207 152Z" fill="#8758AC"/>
+<path d="M363 160C342 160 334 179 343 199C352 218 345 237 345 256C345 275 352 294 343 313C334 333 342 352 363 352H383C404 352 412 333 403 313C394 294 401 275 401 256C401 237 394 218 403 199C412 179 404 160 383 160Z" fill="#CB6085"/>
+<path d="M194 171V195M194 317V341" fill="none" stroke="#C8A3E3" stroke-width="10" stroke-linecap="round"/>
+<path d="M373 181V203M373 309V331" fill="none" stroke="#F5ABC4" stroke-width="10" stroke-linecap="round"/>
+<path d="M194 152V80L166 52M194 80L222 52M430 166V98" fill="none" stroke="#4A9351" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#83B856">
+<circle cx="194" cy="116" r="12"/>
+<circle cx="194" cy="80" r="12"/>
+<circle cx="166" cy="52" r="12"/>
+<circle cx="222" cy="52" r="12"/>
+</g>
+<g fill="#55A883">
+<circle cx="430" cy="134" r="12"/>
+<circle cx="430" cy="98" r="12"/>
+</g>
+</svg>

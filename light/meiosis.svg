@@ -1,0 +1,30 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="division" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#398FB9"/>
+<stop offset="1" stop-color="#388E79"/>
+</linearGradient>
+<path id="chromosome" d="M-21-15Q-26-21-20-25Q-14-29-10-23L0-10L10-23Q14-29 20-25Q26-21 21-15L10 0L21 15Q26 21 20 25Q14 29 10 23L0 10L-10 23Q-14 29-20 25Q-26 21-21 15L-10 0Z"/>
+<path id="fork" d="M-5 0Q-5-5 0-5Q5-5 5 0V17H56Q61 17 61 22V44L62 43Q66 39 70 43Q74 47 70 51L60 61Q56 65 52 61L42 51Q38 47 42 43Q46 39 50 43L51 44V27H-67V44L-66 43Q-62 39-58 43Q-54 47-58 51L-68 61Q-72 65-76 61L-86 51Q-90 47-86 43Q-82 39-78 43L-77 44V22Q-77 17-72 17H-5Z" fill="url(#division)"/>
+</defs>
+<circle cx="256" cy="88" r="64" fill="#E9EFF7" stroke="#8296B3" stroke-width="8"/>
+<circle cx="136" cy="260" r="60" fill="#E9EFF7" stroke="#8296B3" stroke-width="8"/>
+<circle cx="376" cy="260" r="60" fill="#E9EFF7" stroke="#8296B3" stroke-width="8"/>
+<g fill="#F4DFB9" stroke="#B6925B" stroke-width="7">
+<circle cx="64" cy="444" r="44"/>
+<circle cx="192" cy="444" r="44"/>
+<circle cx="320" cy="444" r="44"/>
+<circle cx="448" cy="444" r="44"/>
+</g>
+<use href="#chromosome" transform="translate(234 88) scale(.65 .8)" fill="#9064B1"/>
+<use href="#chromosome" transform="translate(278 88) scale(.65 .8)" fill="#278E89"/>
+<use href="#chromosome" transform="translate(136 260)" fill="#9064B1"/>
+<use href="#chromosome" transform="translate(376 260)" fill="#278E89"/>
+<rect x="57" y="424" width="14" height="40" rx="7" fill="#9064B1"/>
+<rect x="185" y="424" width="14" height="40" rx="7" fill="#9064B1"/>
+<rect x="313" y="424" width="14" height="40" rx="7" fill="#278E89"/>
+<rect x="441" y="424" width="14" height="40" rx="7" fill="#278E89"/>
+<path d="M251 164Q251 159 256 159Q261 159 261 164V169H376Q381 169 381 174V176L382 175Q386 171 390 175Q394 179 390 183L380 193Q376 197 372 193L362 183Q358 179 362 175Q366 171 370 175L371 176V179H141V176L142 175Q146 171 150 175Q154 179 150 183L140 193Q136 197 132 193L122 183Q118 179 122 175Q126 171 130 175L131 176V174Q131 169 136 169H251Z" fill="url(#division)"/>
+<use href="#fork" transform="translate(136 332)"/>
+<use href="#fork" transform="translate(376 332)"/>
+</svg>

@@ -1,0 +1,34 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="tan" cx=".3" cy=".25" r=".85">
+<stop stop-color="#EED09A"/>
+<stop offset=".55" stop-color="#D2AA6D"/>
+<stop offset="1" stop-color="#A37843"/>
+</radialGradient>
+<radialGradient id="red" cx=".3" cy=".25" r=".85">
+<stop stop-color="#C97854"/>
+<stop offset=".55" stop-color="#A95236"/>
+<stop offset="1" stop-color="#783724"/>
+</radialGradient>
+<path id="pod" d="M0-112C43-112 73-84 73-49C73-27 48-14 48 0C48 16 73 31 73 56C73 90 43 112 0 112C-43 112-73 90-73 56C-73 31-48 16-48 0C-48-14-73-27-73-49C-73-84-43-112 0-112Z"/>
+<g id="whole">
+<use href="#pod" fill="url(#tan)"/>
+<path d="M-39-86Q-3-49 39-21M-56-55Q-11-20 32 9M-32-9Q11 20 56 55M-39 21Q3 49 39 86M39-86Q3-49-39-21M56-55Q11-20-32 9M32-9Q-11 20-56 55M39 21Q-3 49-39 86" fill="none" stroke="#A37943" stroke-width="9" stroke-linecap="round"/>
+</g>
+<g id="kernel">
+<path d="M0-68C29-68 48-42 47-8C46 8 39 13 42 29C45 52 26 68 0 68C-26 68-45 52-42 29C-39 13-46 8-47-8C-48-42-29-68 0-68Z" fill="url(#red)"/>
+<path d="M0-46C-9-17 8 19 0 46" fill="none" stroke="#E39E76" stroke-width="10" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#whole" transform="translate(135 139) rotate(-27)"/>
+<use href="#whole" transform="translate(373 145) rotate(26)"/>
+<g transform="translate(133 377) rotate(24)">
+<use href="#pod" fill="url(#tan)"/>
+<use href="#pod" transform="scale(.91 .93)" fill="#F2DCB1"/>
+<use href="#pod" transform="scale(.8 .83)" fill="#86613E"/>
+<use href="#kernel" transform="translate(0 -46) scale(.69 .62)"/>
+<use href="#kernel" transform="translate(0 46) scale(.69 .62)"/>
+</g>
+<use href="#kernel" transform="translate(318 355) rotate(-25)"/>
+<use href="#kernel" transform="translate(426 416) rotate(27)"/>
+</svg>

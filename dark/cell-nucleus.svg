@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="envelope" d="M485 276C476 386 386 476 276 485Q266 486 265 475L263 464Q262 455 273 454C367 446 446 367 454 273Q455 262 464 263L475 265Q486 266 485 276Z"/>
+<path id="inner-membrane" d="M279 464C376 454 454 376 464 279"/>
+</defs>
+<circle cx="256" cy="256" r="199" fill="#493B65"/>
+<g fill="#BA91E0">
+<use href="#envelope"/>
+<use href="#envelope" transform="rotate(90 256 256)"/>
+<use href="#envelope" transform="rotate(180 256 256)"/>
+<use href="#envelope" transform="rotate(270 256 256)"/>
+</g>
+<g fill="none" stroke="#E1BDF3" stroke-width="10" stroke-linecap="round">
+<use href="#inner-membrane"/>
+<use href="#inner-membrane" transform="rotate(90 256 256)"/>
+<use href="#inner-membrane" transform="rotate(180 256 256)"/>
+<use href="#inner-membrane" transform="rotate(270 256 256)"/>
+</g>
+<g fill="none" stroke="#8EBCEB" stroke-width="14" stroke-linecap="round" stroke-linejoin="round">
+<path d="M119 227C105 199 127 176 151 186C175 196 168 223 190 227C213 231 232 205 213 188C195 171 207 145 233 146C263 147 263 172 283 178C305 185 326 163 347 174C363 182 370 198 365 213"/>
+<path d="M120 277C143 257 174 271 171 293C167 318 143 321 152 343C161 365 193 366 204 343C215 320 239 318 249 337C259 358 234 376 247 397C257 413 282 409 295 394"/>
+<path d="M391 259C410 270 415 295 400 309C385 323 362 311 351 327C339 346 361 365 346 384C337 397 323 399 314 396"/>
+</g>
+<circle cx="305" cy="267" r="47" fill="#EE78AA"/>
+<path d="M279 260C282 246 294 237 307 239" fill="none" stroke="#FFC4D8" stroke-width="10" stroke-linecap="round"/>
+</svg>

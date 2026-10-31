@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="wall" fill-rule="evenodd" d="M12 0H32Q44 0 44 12V108Q44 120 32 120H12Q0 120 0 108V12Q0 0 12 0ZM31 60A9 18 0 1 0 13 60A9 18 0 1 0 31 60Z"/>
+<path id="middle-wall" fill-rule="evenodd" d="M12 0H32Q44 0 44 12V76Q44 88 32 88H12Q0 88 0 76V12Q0 0 12 0ZM31 44A9 18 0 1 0 13 44A9 18 0 1 0 31 44Z"/>
+</defs>
+<use href="#wall" transform="translate(112 24)"/>
+<use href="#wall" transform="translate(356 24)"/>
+<use href="#middle-wall" transform="translate(112 212)"/>
+<use href="#middle-wall" transform="translate(356 212)"/>
+<use href="#wall" transform="translate(112 368)"/>
+<use href="#wall" transform="translate(356 368)"/>
+<path fill-rule="evenodd" d="M400 178A144 22 0 1 1 112 178A144 22 0 1 1 400 178ZM356 178A100 12 0 1 0 156 178A100 12 0 1 0 356 178ZM400 334A144 22 0 1 1 112 334A144 22 0 1 1 400 334ZM356 334A100 12 0 1 0 156 334A100 12 0 1 0 356 334Z"/>
+<path id="upward" d="M247 126V70L240 77Q234 83 228 77Q222 71 228 65L250 43Q256 37 262 43L284 65Q290 71 284 77Q278 83 272 77L265 70V126Q265 135 256 135Q247 135 247 126Z"/>
+<use href="#upward" transform="translate(0 170)"/>
+<use href="#upward" transform="translate(0 340)"/>
+</svg>

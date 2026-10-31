@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(148 132) rotate(-32)">
+<path d="M0-110C40-96 73-48 72 8C70 57 35 98 0 110C-35 98-70 57-72 8C-73-48-40-96 0-110Z"/>
+<path d="M-12-76C-40-30-42 28-16 74M14-76C38-30 40 28 16 74" stroke-linecap="round"/>
+</g>
+<g transform="translate(363 155) rotate(28)">
+<path d="M0-110C40-96 73-48 72 8C70 57 35 98 0 110C-35 98-70 57-72 8C-73-48-40-96 0-110Z"/>
+<path d="M-12-76C-40-30-42 28-16 74M14-76C38-30 40 28 16 74" stroke-linecap="round"/>
+</g>
+<g transform="translate(125 363) rotate(23)">
+<path d="M0-110C40-96 73-48 72 8C70 57 35 98 0 110C-35 98-70 57-72 8C-73-48-40-96 0-110Z"/>
+<path d="M-12-76C-40-30-42 28-16 74M14-76C38-30 40 28 16 74" stroke-linecap="round"/>
+</g>
+<g transform="translate(350 380) rotate(-32)">
+<path d="M0-110C40-96 73-48 72 8C70 57 35 98 0 110C-35 98-70 57-72 8C-73-48-40-96 0-110Z"/>
+<path d="M0-70C-16-24-16 28 0 70" stroke-linecap="round"/>
+</g>
+</svg>

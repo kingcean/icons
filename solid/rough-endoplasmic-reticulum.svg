@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<g id="cisterna">
+<path fill-rule="evenodd" d="M28 126L112 70Q126 60 145 64L450 112Q466 114 466 126V154Q466 164 454 172L392 216Q380 224 362 220L46 176Q26 173 26 160V138Q26 131 28 126ZM57 122L121 82Q130 76 143 79L434 124L385 159Q376 166 363 163ZM44 149Q40 148 39 153Q38 158 43 159L362 203Q382 207 397 196L449 160Q453 157 450 153Q447 149 443 152L391 188Q381 196 364 193Z"/>
+<circle cx="116" cy="99" r="7"/>
+<circle cx="176" cy="98" r="7"/>
+<circle cx="236" cy="108" r="7"/>
+<circle cx="296" cy="118" r="7"/>
+<circle cx="356" cy="128" r="7"/>
+<circle cx="416" cy="130" r="7"/>
+<circle cx="146" cy="127" r="7"/>
+<circle cx="206" cy="137" r="7"/>
+<circle cx="266" cy="147" r="7"/>
+<circle cx="326" cy="157" r="7"/>
+</g>
+</defs>
+<path d="M478 150Q496 158 496 181V393Q496 416 478 428V413Q484 406 484 393V295H478V283H484V181Q484 170 478 164Z"/>
+<use href="#cisterna"/>
+<use href="#cisterna" y="124"/>
+<use href="#cisterna" y="248"/>
+</svg>

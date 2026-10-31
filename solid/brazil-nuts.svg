@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="nut" fill-rule="evenodd" d="M-32-108Q-23-116-13-106L64-22Q76-8 72 10L49 91Q45 108 27 108L-44 101Q-61 99-64 81L-76 9Q-79-8-70-30ZM-29-83L-13-46Q-10-36-21-23Q-23-20-21-17L-9 12L-19 32Q-21 36-17 40L3 58L-2 78Q-3 83 2 85L27 97Q35 100 36 92Q36 88 32 86L11 76L15 58Q17 54 13 51L-6 33L3 15Q5 12 3 9L-8-19Q6-36-1-50L-17-87Q-21-95-27-90Q-31-88-29-83ZM23-56L15-25Q14-21 17-18L38 1Q41 4 45 3L59-3Q66-7 61-13Q59-16 55-15L43-10L28-25L35-52Q37-60 30-61Q25-62 23-56Z"/>
+</defs>
+<use href="#nut" transform="translate(145 133) rotate(-25)"/>
+<use href="#nut" transform="translate(367 148) rotate(25)"/>
+<use href="#nut" transform="translate(127 365) rotate(20)"/>
+<use href="#nut" transform="translate(357 380) rotate(-28)"/>
+</svg>

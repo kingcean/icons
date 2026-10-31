@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="hazelnut">
+<path d="M0-110C12-110 20-96 32-92C76-80 100-42 100 6C100 65 60 102 0 104C-60 102-100 65-100 6C-100-42-76-80-32-92C-20-96-12-110 0-110Z"/>
+<ellipse cx="0" cy="57" rx="51" ry="29"/>
+</g>
+<g id="kernel">
+<path d="M0-69C12-68 17-53 29-46C48-34 55-13 54 10C52 47 29 67 0 69C-29 67-52 47-54 10C-55-13-48-34-29-46C-17-53-12-68 0-69Z"/>
+<path d="M-9-42C-23-12-22 21-7 42" stroke-linecap="round"/>
+</g>
+</defs>
+<use href="#hazelnut" transform="translate(132 140) rotate(-14)"/>
+<use href="#hazelnut" transform="translate(366 151) rotate(17)"/>
+<path d="M28 352C31 320 60 295 87 289L103 302L123 282L145 299L167 289C202 299 230 322 234 352C234 381 189 402 131 402C73 402 28 381 28 352Z"/>
+<path d="M28 362C34 428 74 471 131 471C188 471 228 428 234 362"/>
+<path d="M65 422Q91 444 118 446" stroke-linecap="round"/>
+<use href="#kernel" transform="translate(311 359) rotate(-19)"/>
+<use href="#kernel" transform="translate(427 413) rotate(23)"/>
+</svg>

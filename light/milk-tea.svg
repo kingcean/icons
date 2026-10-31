@@ -1,13 +1,15 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <ellipse cx="256" cy="412" rx="228" ry="56" fill="#426B9D"/>
 <ellipse cx="256" cy="406" rx="204" ry="38" fill="#DCEAF5"/>
-<path fill="#426B9D" d="M338 190H390Q452 190 452 236Q452 282 338 294L342 266Q422 258 422 236Q422 218 338 218Z"/>
+<g transform="translate(24 76)">
+<path fill="#426B9D" d="M336 190H390Q452 190 452 236Q452 282 321 294L325 266Q422 258 422 236Q422 218 332 218Z"/>
 <path fill="#DCEAF5" d="M108 160H344L326 286Q320 342 226 342Q132 342 126 286Z"/>
 <path fill="#426B9D" d="M128 290Q226 338 324 290L320 308Q226 355 132 308Z"/>
 <ellipse cx="226" cy="160" rx="118" ry="38" fill="#426B9D"/>
 <ellipse cx="226" cy="160" rx="104" ry="28" fill="#F3F7FA"/>
 <ellipse cx="226" cy="164" rx="94" ry="22" fill="#B98450"/>
 <path fill="#FFFFFF" d="M146 230Q152 228 154 236L164 274Q168 291 187 298Q195 301 192 308Q189 315 181 312Q155 302 150 279L140 240Q138 233 146 230Z"/>
+</g>
 <g transform="rotate(-20 388 418)">
 <path fill="#6C7E8F" d="M334 410H400Q414 396 434 396Q460 396 460 418Q460 440 434 440Q414 440 400 426H334Q326 426 326 418Q326 410 334 410Z"/>
 <ellipse cx="433" cy="414" rx="17" ry="10" fill="#C8D3DD"/>

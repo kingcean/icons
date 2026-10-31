@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="rotate(-22 64 44)">
+<rect x="42" y="28" width="44" height="380" rx="12"/>
+<path d="M56 52V382" stroke-linecap="round"/>
+<rect x="42" y="420" width="44" height="24" rx="7"/>
+</g>
+<g transform="rotate(22 448 44)">
+<rect x="426" y="28" width="44" height="380" rx="12"/>
+<path d="M440 52V382" stroke-linecap="round"/>
+<rect x="426" y="420" width="44" height="24" rx="7"/>
+</g>
+<ellipse cx="222" cy="436" rx="14" ry="24" transform="rotate(-35 222 436)"/>
+<ellipse cx="256" cy="454" rx="22" ry="13"/>
+<ellipse cx="290" cy="436" rx="14" ry="24" transform="rotate(35 290 436)"/>
+</svg>

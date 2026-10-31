@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="arrow" d="M0-6H23L18-11Q14-15 18-19Q22-23 26-19L41-4Q45 0 41 4L26 19Q22 23 18 19Q14 15 18 11L23 6H0Q-6 6-6 0Q-6-6 0-6Z"/>
+</defs>
+<path fill-rule="evenodd" d="M46 55Q52 52 58 55L80 68Q86 71 86 78V104Q86 111 80 114L58 127Q52 130 46 127L24 114Q18 111 18 104V78Q18 71 24 68ZM48 70L34 78Q30 80 30 85V97Q30 102 34 104L48 112Q52 114 56 112L70 104Q74 102 74 97V85Q74 80 70 78L56 70Q52 68 48 70Z"/>
+<path fill-rule="evenodd" d="M224 91A46 46 0 1 1 132 91A46 46 0 1 1 224 91ZM172 91A10 10 0 1 0 152 91A10 10 0 1 0 172 91ZM204 91A10 10 0 1 0 184 91A10 10 0 1 0 204 91Z"/>
+<use href="#arrow" transform="translate(99 91) scale(.6)"/>
+<use href="#arrow" transform="translate(178 150) rotate(90) scale(.75)"/>
+<use href="#arrow" transform="translate(414 124) rotate(90) scale(1.25)"/>
+<circle cx="390" cy="91" r="18"/>
+<circle cx="438" cy="91" r="18"/>
+<path fill-rule="evenodd" d="M96 224C143 175 223 196 280 194C380 185 454 226 449 286C446 351 369 380 298 366C224 350 169 386 108 347C55 313 57 259 96 224ZM113 243C143 220 174 220 203 224L194 266Q191 278 204 280Q217 282 220 270L232 226L262 224L253 274Q251 287 264 288Q277 289 280 276L290 224C325 220 356 229 379 244L359 276Q352 288 363 294Q375 300 382 288L402 260C425 294 389 333 351 339L338 306Q333 293 321 298Q309 303 314 315L324 340L284 335L280 306Q278 293 265 295Q252 297 254 310L257 331L220 334L211 304Q207 292 195 296Q183 300 187 312L194 337C146 348 93 320 95 281Q96 258 113 243Z"/>
+<use href="#arrow" transform="translate(132 373) rotate(140) scale(1.2)"/>
+<use href="#arrow" transform="translate(256 381) rotate(90) scale(.7)"/>
+<use href="#arrow" transform="translate(375 376) rotate(36) scale(1.15)"/>
+<circle cx="40" cy="451" r="13"/>
+<circle cx="77" cy="451" r="17"/>
+<circle cx="114" cy="451" r="13"/>
+<path d="M256 427C246 442 230 457 230 469A26 26 0 0 0 282 469C282 457 266 442 256 427Z"/>
+<path fill-rule="evenodd" d="M477 453A39 39 0 1 1 399 453A39 39 0 1 1 477 453ZM441 426L421 453Q416 460 425 460H437L429 478Q427 484 433 480L455 453Q460 446 451 446H438L447 429Q450 422 441 426Z"/>
+</svg>

@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g transform="translate(151 132) rotate(-24)">
+<path d="M-12-94C20-100 45-84 54-64L76-80Q90-84 86-66L73-36C100-4 92 47 62 72C35 99-16 98-51 78C-89 59-100 17-85-23C-75-66-48-91-12-94Z"/>
+<path d="M54-64C24-48 14-22 25 4M-59-12C-69 17-56 43-34 51" stroke-linecap="round"/>
+</g>
+<g transform="translate(356 158) rotate(28)">
+<path d="M-12-94C20-100 45-84 54-64L76-80Q90-84 86-66L73-36C100-4 92 47 62 72C35 99-16 98-51 78C-89 59-100 17-85-23C-75-66-48-91-12-94Z"/>
+<path d="M54-64C24-48 14-22 25 4M-59-12C-69 17-56 43-34 51" stroke-linecap="round"/>
+</g>
+<g transform="translate(128 359) rotate(18)">
+<path d="M-12-94C20-100 45-84 54-64L76-80Q90-84 86-66L73-36C100-4 92 47 62 72C35 99-16 98-51 78C-89 59-100 17-85-23C-75-66-48-91-12-94Z"/>
+<path d="M54-64C24-48 14-22 25 4M-59-12C-69 17-56 43-34 51" stroke-linecap="round"/>
+</g>
+<g transform="translate(351 378) rotate(-38)">
+<path d="M-12-94C20-100 45-84 54-64L76-80Q90-84 86-66L73-36C100-4 92 47 62 72C35 99-16 98-51 78C-89 59-100 17-85-23C-75-66-48-91-12-94Z"/>
+<path d="M54-64C24-48 14-22 25 4M-59-12C-69 17-56 43-34 51" stroke-linecap="round"/>
+</g>
+</svg>

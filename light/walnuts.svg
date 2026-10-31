@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<radialGradient id="shell" cx=".3" cy=".25" r=".85">
+<stop stop-color="#DDB681"/>
+<stop offset=".55" stop-color="#BF8E56"/>
+<stop offset="1" stop-color="#8B5B32"/>
+</radialGradient>
+<radialGradient id="gold" cx=".3" cy=".25" r=".85">
+<stop stop-color="#F0C879"/>
+<stop offset=".55" stop-color="#D8A14F"/>
+<stop offset="1" stop-color="#AE7131"/>
+</radialGradient>
+<g id="kernel">
+<path d="M0-78C-18-100-48-94-54-70C-80-72-94-48-82-26C-104-8-96 20-78 28C-92 54-74 78-50 76C-40 98-12 98 0 80C12 98 40 98 50 76C74 78 92 54 78 28C96 20 104-8 82-26C94-48 80-72 54-70C48-94 18-100 0-78Z" fill="url(#gold)"/>
+<path d="M0-62C-12-32 12-10 0 16C-10 38 10 54 0 68M-52-54Q-28-56-30-30Q-52-26-58-6M-66 26Q-38 12-28 34Q-20 54-46 60M52-54Q28-56 30-30Q52-26 58-6M66 26Q38 12 28 34Q20 54 46 60" fill="none" stroke="#9B612B" stroke-width="12" stroke-linecap="round"/>
+</g>
+</defs>
+<path d="M132 28C190 24 230 74 232 138C236 200 199 251 142 260C81 264 34 216 32 152C28 88 71 32 132 28Z" fill="url(#shell)"/>
+<path d="M132 44C115 76 145 104 128 136C112 171 143 198 135 240M92 52C61 87 82 111 66 142C53 172 72 208 94 226M174 56C200 90 177 113 196 146C210 176 192 208 171 226M94 94Q110 116 96 140Q84 163 101 184M168 96Q150 117 166 141Q181 166 164 186" fill="none" stroke="#8C5A32" stroke-width="12" stroke-linecap="round"/>
+<path d="M262 139C262 211 306 260 371 260C435 260 478 211 478 139Z" fill="url(#shell)"/>
+<path d="M301 216Q310 236 334 240M438 216Q428 236 405 240" fill="none" stroke="#80502D" stroke-width="12" stroke-linecap="round"/>
+<ellipse cx="370" cy="139" rx="108" ry="77" fill="#E4C399"/>
+<ellipse cx="370" cy="139" rx="93" ry="62" fill="#674329"/>
+<use href="#kernel" transform="translate(370 137) scale(.72 .64)"/>
+<use href="#kernel" transform="translate(130 380) rotate(-18)"/>
+<use href="#kernel" transform="translate(358 389) rotate(19)"/>
+</svg>

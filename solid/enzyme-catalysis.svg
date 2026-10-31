@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="enzyme" d="M-42-70H-28V-34Q-28-10 0-10Q28-10 28-34V-70H42Q66-70 66-46V46Q66 70 42 70H-42Q-66 70-66 46V-46Q-66-70-42-70Z"/>
+<path id="substrate" d="M-8-28H-4V28H-8Q-20 28-20 16V-16Q-20-28-8-28ZM4-28H8Q20-28 20-16V16Q20 28 8 28H4Z"/>
+<path id="arrow" d="M-5 0Q-5-5 0-5H18L13-10Q9-14 13-18Q17-22 21-18L35-4Q39 0 35 4L21 18Q17 22 13 18Q9 14 13 10L18 5H0Q-5 5-5 0Z"/>
+</defs>
+<use href="#enzyme" transform="translate(86 300)"/>
+<use href="#enzyme" transform="translate(256 300)"/>
+<use href="#enzyme" transform="translate(426 300)"/>
+<use href="#substrate" transform="translate(86 142)"/>
+<use href="#substrate" transform="translate(256 250)"/>
+<rect x="398" y="116" width="20" height="52" rx="9"/>
+<rect x="434" y="116" width="20" height="52" rx="9"/>
+<use href="#arrow" transform="translate(86 186) rotate(90) scale(.8)"/>
+<use href="#arrow" transform="translate(426 214) rotate(-90) scale(.8)"/>
+<use href="#arrow" transform="translate(164 310) scale(.55)"/>
+<use href="#arrow" transform="translate(334 310) scale(.55)"/>
+</svg>

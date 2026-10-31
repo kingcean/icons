@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<g transform="rotate(-22 64 44)">
+<rect x="42" y="28" width="44" height="380" rx="12"/>
+<rect x="42" y="420" width="44" height="24" rx="7"/>
+</g>
+<g transform="rotate(22 448 44)">
+<rect x="426" y="28" width="44" height="380" rx="12"/>
+<rect x="426" y="420" width="44" height="24" rx="7"/>
+</g>
+<path fill-rule="evenodd" d="M222 408A18 28 0 1 1 222 464A18 28 0 1 1 222 408ZM222 418A8 18 0 1 0 222 454A8 18 0 1 0 222 418Z" transform="rotate(-35 222 436)"/>
+<path fill-rule="evenodd" d="M230 454A26 17 0 1 1 282 454A26 17 0 1 1 230 454ZM240 454A16 7 0 1 0 272 454A16 7 0 1 0 240 454Z"/>
+<path fill-rule="evenodd" d="M290 408A18 28 0 1 1 290 464A18 28 0 1 1 290 408ZM290 418A8 18 0 1 0 290 454A8 18 0 1 0 290 418Z" transform="rotate(35 290 436)"/>
+</svg>

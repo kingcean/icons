@@ -1,0 +1,35 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<defs>
+<path id="cell" fill-rule="evenodd" d="M104 0A104 104 0 1 1-104 0A104 104 0 1 1 104 0ZM86 0A86 86 0 1 0-86 0A86 86 0 1 0 86 0Z"/>
+<path id="chromosome" d="M-22-14Q-27-20-21-25Q-15-30-10-24L0-12L10-24Q15-30 21-25Q27-20 22-14L10 0L22 14Q27 20 21 25Q15 30 10 24L0 12L-10 24Q-15 30-21 25Q-27 20-22 14L-10 0Z"/>
+<path id="chromatid" d="M12-22Q18-27 23-21Q28-15 22-10L10 0L22 10Q28 15 23 21Q18 27 12 22L-7 6Q-14 0-7-6Z"/>
+</defs>
+<g>
+<use href="#cell" transform="translate(128 128)"/>
+<use href="#chromosome" transform="translate(104 104)"/>
+<use href="#chromosome" transform="translate(156 156)"/>
+</g>
+<g>
+<use href="#cell" transform="translate(384 128)"/>
+<use href="#chromosome" transform="translate(384 102) scale(.8)"/>
+<use href="#chromosome" transform="translate(384 154) scale(.8)"/>
+</g>
+<g>
+<use href="#cell" transform="translate(384 384)"/>
+<use href="#chromatid" transform="translate(340 360)"/>
+<use href="#chromatid" transform="translate(428 360) scale(-1 1)"/>
+<use href="#chromatid" transform="translate(340 408)"/>
+<use href="#chromatid" transform="translate(428 408) scale(-1 1)"/>
+</g>
+<g>
+<path fill-rule="evenodd" d="M124 384A50 72 0 1 1 24 384A50 72 0 1 1 124 384ZM108 384A34 56 0 1 0 40 384A34 56 0 1 0 108 384ZM232 384A50 72 0 1 1 132 384A50 72 0 1 1 232 384ZM216 384A34 56 0 1 0 148 384A34 56 0 1 0 216 384Z"/>
+<rect x="55" y="364" width="14" height="40" rx="7"/>
+<rect x="79" y="364" width="14" height="40" rx="7"/>
+<rect x="163" y="364" width="14" height="40" rx="7"/>
+<rect x="187" y="364" width="14" height="40" rx="7"/>
+</g>
+<path id="arrow" d="M243 122H255L253 120Q249 116 253 112Q257 108 261 112L273 124Q277 128 273 132L261 144Q257 148 253 144Q249 140 253 136L255 134H243Q237 134 237 128Q237 122 243 122Z"/>
+<use href="#arrow" transform="rotate(90 256 256)"/>
+<use href="#arrow" transform="rotate(180 256 256)"/>
+</svg>
