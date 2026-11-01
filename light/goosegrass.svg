@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Goosegrass</title>
+<defs>
+<linearGradient id="base" x1="256" y1="246" x2="256" y2="484" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#659444"/>
+<stop offset=".65" stop-color="#A9BB78"/>
+<stop offset="1" stop-color="#D8DAB2"/>
+</linearGradient>
+<g id="spike">
+<path d="M0 0C-12-24-18-92-14-140Q-12-172 0-184Q12-172 14-140C18-92 12-24 0 0Z" fill="#54813B"/>
+<path d="M-10-40L0-34L10-40V-32L0-26L-10-32ZM-12-64L0-58L12-64V-56L0-50L-12-56ZM-13-88L0-82L13-88V-80L0-74L-13-80ZM-13-112L0-106L13-112V-104L0-98L-13-104ZM-12-136L0-130L12-136V-128L0-122L-12-128ZM-8-160L0-154L8-160V-152L0-146L-8-152Z" fill="#A6BE69"/>
+</g>
+</defs>
+<path d="M249 246Q246 356 240 478Q256 490 272 478Q269 356 269 246ZM276 304L288 306Q279 390 272 462L258 460Q268 382 276 304Z" fill="url(#base)"/>
+<path d="M246 474C173 439 98 380 24 356C102 349 198 389 246 474ZM244 456C205 377 151 324 100 302C166 310 230 362 244 456Z" fill="#39814A"/>
+<path d="M268 474C341 439 414 380 488 356C410 349 316 389 268 474ZM270 456C309 377 363 324 414 302C348 310 284 362 270 456Z" fill="#6AA34E"/>
+<path d="M249 382H261L266 480Q256 486 246 480Z" fill="#E1E1BA"/>
+<use href="#spike" transform="translate(240 242) rotate(-50) scale(.96)"/>
+<use href="#spike" transform="translate(248 238) rotate(-25) scale(1.08)"/>
+<use href="#spike" transform="translate(263 236) rotate(5) scale(1.15)"/>
+<use href="#spike" transform="translate(277 242) rotate(34) scale(1.08)"/>
+<use href="#spike" transform="translate(285 254) rotate(60) scale(.96)"/>
+<use href="#spike" transform="translate(282 304) rotate(75) scale(.64)"/>
+</svg>

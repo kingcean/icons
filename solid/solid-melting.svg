@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="heatArrow" d="M100 52C76 92 154 98 130 138C118 158 134 172 158 184L148 192Q140 200 152 202L194 208Q204 210 204 200L200 160Q198 148 190 156L180 166C156 154 144 150 152 130C184 78 106 78 120 64Q126 54 116 48Q106 42 100 52Z"/>
+</defs>
+<path d="M152 354C80 348 24 374 24 406C24 454 126 484 256 484C386 484 488 454 488 406C488 374 432 348 360 354Q348 356 350 368L346 386Q340 414 310 414H202Q172 414 166 386L162 368Q164 356 152 354Z"/>
+<path d="M198 244H306L334 272V370L306 398H198L174 374V268Z"/>
+<use href="#heatArrow"/>
+<use href="#heatArrow" transform="translate(512 0) scale(-1 1)"/>
+</svg>

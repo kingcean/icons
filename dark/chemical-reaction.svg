@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="reactionArrow" x1="178" y1="256" x2="300" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FCD34D"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<path d="M48 164H132M48 348H132M352 208H464V304H352Z" fill="none" stroke="#CBD5E1" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="48" cy="164" r="24" fill="#5EEAD4"/>
+<circle cx="132" cy="164" r="24" fill="#60A5FA"/>
+<circle cx="48" cy="348" r="24" fill="#5EEAD4"/>
+<circle cx="132" cy="348" r="24" fill="#60A5FA"/>
+<path d="M184 246H264V234Q264 228 270 232L296 250Q304 256 296 262L270 280Q264 284 264 278V266H184Q178 266 178 260V252Q178 246 184 246Z" fill="url(#reactionArrow)"/>
+<circle cx="352" cy="208" r="24" fill="#5EEAD4"/>
+<circle cx="464" cy="208" r="24" fill="#60A5FA"/>
+<circle cx="352" cy="304" r="24" fill="#60A5FA"/>
+<circle cx="464" cy="304" r="24" fill="#5EEAD4"/>
+</svg>

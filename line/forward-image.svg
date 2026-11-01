@@ -1,11 +1,12 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<g stroke-linecap="round">
-<rect x="24" y="64" width="276" height="384" rx="24"/>
-<circle cx="106" cy="158" r="30"/>
-<path d="M56 376L122 270Q130 260 138 270L180 312L214 274Q222 264 230 278L274 376Q280 388 266 388H64Q50 388 56 376Z"/>
-<circle cx="410" cy="138" r="38"/>
-<path d="M350 270V258A60 60 0 0 1 470 258V270Q470 282 458 282H362Q350 282 350 270Z"/>
-<path d="M324 354H478M426 302L478 354L426 406"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="forward-image-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM236 322H404L392 310Q374 292 392 274Q410 256 428 274L488 334Q506 352 488 370L428 430Q410 448 392 430Q374 412 392 394L404 382H236Q206 382 206 352Q206 322 236 322Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="64" width="400" height="368" rx="32" clip-path="url(#forward-image-gap)"/>
+<circle cx="120" cy="152" r="32"/>
+<path d="M56 376L140 274Q150 262 160 274L214 338L276 246Q286 232 296 246L392 376Z" clip-path="url(#forward-image-gap)"/>
+<path d="M236 352H480M416 288L480 352L416 416" stroke-linecap="round"/>
 </svg>

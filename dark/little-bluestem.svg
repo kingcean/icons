@@ -1,0 +1,27 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>Little bluestem</title>
+<defs>
+<linearGradient id="blade" x1="0" y1="1" x2="0" y2="0">
+<stop offset="0" stop-color="#68B7BE"/>
+<stop offset=".5" stop-color="#9BCECA"/>
+<stop offset=".76" stop-color="#DDA36D"/>
+<stop offset="1" stop-color="#FF995C"/>
+</linearGradient>
+<g id="seed">
+<path d="M0 0C-12-10-17-27-10-39L-21-58Q-13-56-6-41L-7-68Q0-64 1-43L12-63Q16-57 7-37L24-49Q26-41 11-28C13-17 8-6 0 0Z" fill="#C5D3D7"/>
+<path d="M-6-15Q-14-33-13-46Q-5-39-1-27L0-56Q7-47 5-30L15-42Q14-26 4-14Z" fill="#FFFFF3"/>
+<path d="M0 0Q-8-7-5-19Q-2-25 2-23Q10-11 0 0Z" fill="#DCA776"/>
+</g>
+</defs>
+<path d="M241 480Q229 272 219 92L230 91Q240 273 253 480Q253 488 247 488Q241 488 241 480ZM257 480Q271 274 284 88L295 89Q282 275 269 480Q269 488 263 488Q257 488 257 480ZM252 480Q247 330 249 220H260Q258 331 264 480ZM220 151L201 133L208 125L228 145ZM222 204L243 183L251 191L230 212ZM226 276L203 259L210 250L234 267ZM278 157L300 138L308 147L286 166ZM275 234L254 217L261 209L283 226ZM270 289L296 270L303 279L278 298Z" fill="#CEA579"/>
+<path d="M235 480C202 355 170 251 165 174C193 230 228 358 235 480ZM240 440C231 301 237 216 252 158C257 241 251 351 240 440Z" fill="url(#blade)"/>
+<path d="M273 480C309 354 336 269 347 208C347 313 307 414 273 480ZM269 432C272 348 298 289 319 255C308 326 289 385 269 432Z" fill="url(#blade)"/>
+<use href="#seed" transform="translate(225 94) rotate(-8)"/>
+<use href="#seed" transform="translate(205 128) rotate(-27) scale(.8)"/>
+<use href="#seed" transform="translate(247 188) rotate(24) scale(.8)"/>
+<use href="#seed" transform="translate(207 254) rotate(-25) scale(.8)"/>
+<use href="#seed" transform="translate(289 92) rotate(8)"/>
+<use href="#seed" transform="translate(304 143) rotate(25) scale(.8)"/>
+<use href="#seed" transform="translate(258 213) rotate(-24) scale(.8)"/>
+<use href="#seed" transform="translate(300 274) rotate(26) scale(.8)"/>
+</svg>

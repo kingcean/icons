@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="panicle">
+<path d="M-3 32H3V196H-3ZM-3 93Q-28 82-39 66L-33 62Q-22 78 3 87ZM-3 77Q22 65 33 54L39 58Q28 70 3 83ZM-3 143Q-46 127-64 110L-58 106Q-40 123 3 137ZM-3 123Q39 109 59 94L65 98Q45 114 3 129ZM-3 179Q-30 167-41 149L-35 145Q-24 163 3 173ZM-3 161Q24 151 35 133L41 137Q30 156 3 167Z"/>
+<ellipse cx="0" cy="12" rx="8" ry="12"/>
+<ellipse cx="-40" cy="44" rx="8" ry="12" transform="rotate(-25 -40 44)"/>
+<ellipse cx="40" cy="36" rx="8" ry="12" transform="rotate(25 40 36)"/>
+<ellipse cx="-66" cy="88" rx="8" ry="12" transform="rotate(-30 -66 88)"/>
+<ellipse cx="67" cy="76" rx="8" ry="12" transform="rotate(30 67 76)"/>
+<ellipse cx="-42" cy="127" rx="8" ry="12" transform="rotate(-25 -42 127)"/>
+<ellipse cx="42" cy="115" rx="8" ry="12" transform="rotate(25 42 115)"/>
+</g>
+</defs>
+<path d="M251 429V228H261V429ZM226 416Q199 358 184 307L194 303Q209 354 236 412ZM273 411Q298 339 316 283L326 287Q308 343 283 415Z"/>
+<path d="M248 480Q156 363 60 324Q169 319 239 426Q153 312 126 220Q218 279 255 435Q291 296 400 230Q345 346 288 443Q369 367 452 342Q392 397 282 476Q264 489 248 480Z"/>
+<use href="#panicle" transform="translate(256 24)"/>
+<use href="#panicle" transform="translate(148 104) rotate(-12)"/>
+<use href="#panicle" transform="translate(362 84) rotate(12)"/>
+</svg>

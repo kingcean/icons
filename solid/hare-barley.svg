@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<title>Hare barley</title>
+<defs>
+<g id="barleyHead">
+<path d="M0-110Q-6-32-5 24H5Q6-32 0-110ZM-36-106Q-26-23-15 34L-5 30Q-18-29-36-106ZM36-106Q26-23 15 34L5 30Q18-29 36-106ZM-68-88Q-49-4-23 60L-13 54Q-38-11-68-88ZM68-88Q49-4 23 60L13 54Q38-11 68-88ZM-88-54Q-63 24-25 90L-15 84Q-50 13-88-54ZM88-54Q63 24 25 90L15 84Q50 13 88-54ZM-92-12Q-62 62-17 120L-7 112Q-48 49-92-12ZM92-12Q62 62 17 120L7 112Q48 49 92-12Z"/>
+<path d="M0 0C-28 28-24 100 0 144C24 100 28 28 0 0Z"/>
+</g>
+</defs>
+<path d="M249 278H263V480Q263 488 256 488Q249 488 249 480ZM204 342L216 336Q247 395 263 479L249 481Q235 400 204 342ZM292 315L306 321Q281 395 263 481L249 479Q267 391 292 315Z"/>
+<path d="M235 418C187 413 124 375 88 326C145 341 203 369 235 418ZM280 392C310 350 361 324 416 308C383 356 334 389 280 392Z"/>
+<use href="#barleyHead" transform="translate(256 134)"/>
+<use href="#barleyHead" transform="translate(152 246) rotate(-32) scale(.76)"/>
+<use href="#barleyHead" transform="translate(360 220) rotate(32) scale(.8)"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<title>User group permissions</title>
+<circle cx="112" cy="164" r="52"/>
+<circle cx="256" cy="108" r="68"/>
+<circle cx="400" cy="164" r="52"/>
+<path d="M44 400Q24 400 24 380V332C24 280 62 244 112 244Q135 244 152 256Q120 294 120 344V400Z"/>
+<path d="M392 264V244H400C443 244 476 272 484 312L448 296Z"/>
+<path d="M164 464Q144 464 144 444V344C144 269 193 212 256 212Q319 212 348 266L288 292V356Q288 415 322 464Z"/>
+<path d="M312 300L384 270Q392 266 400 270L472 300Q480 304 480 316V356Q480 425 392 480Q304 425 304 356V316Q304 304 312 300Z"/>
+<path d="M346 356L378 388L440 326" stroke-linecap="round"/>
+</svg>

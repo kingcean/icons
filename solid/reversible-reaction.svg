@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<circle cx="64" cy="184" r="40"/>
+<circle cx="64" cy="328" r="40"/>
+<rect x="54" y="232" width="20" height="48" rx="8"/>
+<path d="M142 220H336V204Q336 198 342 204L374 226Q380 232 374 236L368 240H142Q136 240 136 234V226Q136 220 142 220Z"/>
+<path d="M142 220H336V204Q336 198 342 204L374 226Q380 232 374 236L368 240H142Q136 240 136 234V226Q136 220 142 220Z" transform="rotate(180 256 256)"/>
+<circle cx="448" cy="184" r="40"/>
+<circle cx="448" cy="328" r="40"/>
+<rect x="438" y="232" width="20" height="48" rx="8"/>
+</svg>

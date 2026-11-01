@@ -1,1 +1,10 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path fill-rule="evenodd" d="M56 80H456Q480 80 480 104V292A120 120 0 0 0 257 368H56Q32 368 32 344V104Q32 80 56 80ZM64 108Q70 102 76 108L246 238Q256 246 266 238L436 108Q442 102 448 108Q454 114 448 120L276 252Q256 268 236 252L64 120Q58 114 64 108Z"/><path fill-rule="evenodd" d="M480 352A104 104 0 1 1 272 352A104 104 0 1 1 480 352ZM360 296V354Q360 370 376 370Q392 370 392 354V296Q392 280 376 280Q360 280 360 296ZM392 402A16 16 0 1 1 360 402A16 16 0 1 1 392 402Z"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="spam-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 384A100 100 0 1 0 300 384A100 100 0 1 0 500 384Z"/>
+</clipPath>
+</defs>
+<path fill-rule="evenodd" clip-path="url(#spam-gap)" d="M56 80H392Q424 80 424 112V400Q424 432 392 432H56Q24 432 24 400V112Q24 80 56 80ZM48 112V138L196 256Q224 278 252 256L400 138V112L246 234Q224 252 202 234Z"/>
+<path fill-rule="evenodd" d="M488 384A88 88 0 1 0 312 384A88 88 0 1 0 488 384ZM400 324Q388 324 388 336V384Q388 396 400 396Q412 396 412 384V336Q412 324 400 324ZM412 420A12 12 0 1 0 388 420A12 12 0 1 0 412 420Z"/>
+</svg>

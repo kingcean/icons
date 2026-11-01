@@ -1,0 +1,1 @@
+# Colored solid icons for dark themes

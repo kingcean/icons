@@ -1,1 +1,12 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path d="M56 80H456Q480 80 480 104V292A120 120 0 0 0 257 368H56Q32 368 32 344V104Q32 80 56 80Z"/><path d="M68 114L244 248Q256 258 268 248L444 114"/><circle cx="376" cy="352" r="104"/><path d="M376 292V360M376 398V402"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="spam-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 384A100 100 0 1 0 300 384A100 100 0 1 0 500 384Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#spam-gap)"/>
+<path d="M48 112L202 234Q224 252 246 234L400 112" stroke-linecap="round"/>
+<circle cx="400" cy="384" r="88"/>
+<path d="M400 336V384M400 416V420" stroke-linecap="round"/>
+</svg>

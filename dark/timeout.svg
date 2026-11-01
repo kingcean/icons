@@ -1,0 +1,19 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>超时</title>
+<defs>
+<linearGradient id="timeoutClock" x1="84" y1="84" x2="380" y2="380" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#8DE6FF"/>
+<stop offset="0.5" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#8594F5"/>
+</linearGradient>
+<linearGradient id="timeoutAlert" x1="318" y1="318" x2="458" y2="458" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE99A"/>
+<stop offset="0.5" stop-color="#FFD166"/>
+<stop offset="1" stop-color="#FFAD42"/>
+</linearGradient>
+</defs>
+<circle cx="232" cy="232" r="208" fill="url(#timeoutClock)"/>
+<path d="M212 112Q212 92 232 92Q252 92 252 112V232Q252 242 244 248L164 304Q148 315 136 299Q125 283 140 272L212 222Z" fill="#102A56"/>
+<circle cx="388" cy="388" r="100" fill="url(#timeoutAlert)"/>
+<path d="M388 318Q374 318 374 332V392Q374 406 388 406Q402 406 402 392V332Q402 318 388 318ZM404 434A16 16 0 1 1 372 434A16 16 0 1 1 404 434Z" fill="#382B12"/>
+</svg>

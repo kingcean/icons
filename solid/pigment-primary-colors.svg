@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<title>Pigment primary colors (CMY)</title>
+<path fill-rule="evenodd" d="M332 184A152 152 0 1 1 28 184A152 152 0 1 1 332 184ZM300 184A120 120 0 1 0 60 184A120 120 0 1 0 300 184Z"/>
+<path fill-rule="evenodd" d="M484 184A152 152 0 1 1 180 184A152 152 0 1 1 484 184ZM452 184A120 120 0 1 0 212 184A120 120 0 1 0 452 184Z"/>
+<path fill-rule="evenodd" d="M408 316A152 152 0 1 1 104 316A152 152 0 1 1 408 316ZM376 316A120 120 0 1 0 136 316A120 120 0 1 0 376 316Z"/>
+</svg>

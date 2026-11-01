@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g opacity="0.35" stroke-linecap="round">
+<circle cx="48" cy="112" r="28"/>
+<circle cx="120" cy="112" r="28"/>
+<circle cx="220" cy="112" r="28"/>
+<circle cx="292" cy="112" r="28"/>
+<circle cx="392" cy="112" r="28"/>
+<circle cx="464" cy="112" r="28"/>
+<path d="M80 112H88M156 112H184M252 112H260M328 112H356M424 112H432"/>
+</g>
+<g stroke-linecap="round">
+<circle cx="136" cy="376" r="96"/>
+<circle cx="136" cy="376" r="88"/>
+<circle cx="376" cy="376" r="96"/>
+<circle cx="376" cy="376" r="88"/>
+<path d="M244 368H268M244 384H268"/>
+</g>
+</svg>

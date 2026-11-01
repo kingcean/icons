@@ -1,10 +1,6 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<g stroke-linecap="round">
-<rect x="24" y="40" width="276" height="432" rx="24"/>
-<path d="M72 124H252M72 204H252M72 252H252M72 300H208"/>
-<circle cx="410" cy="138" r="38"/>
-<path d="M350 270V258A60 60 0 0 1 470 258V270Q470 282 458 282H362Q350 282 350 270Z"/>
-<path d="M324 354H478M426 302L478 354L426 406"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M392 336V48Q392 24 368 24H72Q48 24 48 48V464Q48 488 72 488H368Q392 488 392 464V400" stroke-linecap="round"/>
+<path d="M96 100H324M96 132H256M96 188H324M96 236H324M96 284H220M96 332H208M96 380H196" stroke-linecap="round"/>
+<path d="M252 368H480M416 304L480 368L416 432" stroke-linecap="round"/>
 </svg>

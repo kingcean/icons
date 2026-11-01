@@ -1,5 +1,8 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<circle cx="256" cy="256" r="224"/>
-<path d="M144 256L224 336L368 192" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<title>Confirm content</title>
+<path d="M224 332H48Q24 332 24 308V108Q24 84 48 84H416Q440 84 440 108V220" stroke-linecap="round"/>
+<path d="M80 156H328M80 220H208" stroke-linecap="round"/>
+<circle cx="364" cy="352" r="124"/>
+<path d="M302 352L346 396L426 316" stroke-linecap="round"/>
 </svg>

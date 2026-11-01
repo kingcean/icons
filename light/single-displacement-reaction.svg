@@ -1,0 +1,17 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="displacementArrow" x1="136" y1="256" x2="378" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D97706"/>
+<stop offset="1" stop-color="#EA580C"/>
+</linearGradient>
+</defs>
+<rect x="54" y="256" width="20" height="120" rx="8" fill="#64748B"/>
+<rect x="438" y="160" width="20" height="96" rx="8" fill="#64748B"/>
+<path d="M58 108Q64 98 70 108L102 164Q109 176 96 176H32Q19 176 26 164Z" fill="#7C3AED"/>
+<circle cx="64" cy="256" r="40" fill="#0D9488"/>
+<rect x="24" y="336" width="80" height="80" rx="10" fill="#2563EB"/>
+<path d="M144 244H332V226Q332 218 340 224L374 250Q382 256 374 262L340 288Q332 294 332 286V268H144Q136 268 136 260V252Q136 244 144 244Z" fill="url(#displacementArrow)"/>
+<path d="M442 108Q448 98 454 108L486 164Q493 176 480 176H416Q403 176 410 164Z" fill="#7C3AED"/>
+<circle cx="448" cy="256" r="40" fill="#0D9488"/>
+<rect x="408" y="336" width="80" height="80" rx="10" fill="#2563EB"/>
+</svg>

@@ -1,10 +1,12 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<g stroke-linecap="round">
-<rect x="24" y="40" width="276" height="432" rx="24"/>
-<rect x="126" y="104" width="72" height="120" rx="36"/>
-<path d="M102 188V204A60 60 0 0 0 222 204V188M162 264V292M130 292H194"/>
-<path d="M82 354V382M122 338V398M162 322V414M202 338V398M242 354V382"/>
-<path d="M324 354H478M426 302L478 354L426 406"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="podcast-forward-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM260 322H404L392 310Q374 292 392 274Q410 256 428 274L488 334Q506 352 488 370L428 430Q410 448 392 430Q374 412 392 394L404 382H260Q230 382 230 352Q230 322 260 322Z"/>
+</clipPath>
+</defs>
+<rect x="172" y="96" width="104" height="176" rx="52"/>
+<path d="M140 232A84 84 0 0 0 308 232M224 316V476M176 476H272" stroke-linecap="round"/>
+<path d="M116 92C52 140 52 228 116 276M332 92C396 140 396 228 332 276M68 40C-4 104-4 256 68 320M380 40C452 104 452 256 380 320" stroke-linecap="round" clip-path="url(#podcast-forward-gap)"/>
+<path d="M260 352H480M416 288L480 352L416 416" stroke-linecap="round"/>
 </svg>

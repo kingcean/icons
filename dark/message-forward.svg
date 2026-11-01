@@ -1,5 +1,13 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="40" y="64" width="400" height="272" rx="32" fill="#60A5FA"/>
-<path d="M72 64H408Q424 64 431 80L262 218Q240 236 218 218L49 80Q56 64 72 64Z" fill="#BFDBFE"/>
-<path d="M248 396H392V368Q392 356 402 364L478 408Q486 416 478 424L402 468Q392 476 392 464V436H248Q236 436 236 424V408Q236 396 248 396Z" fill="#34D399"/>
+<defs>
+<linearGradient id="forward-message-arrow" x1="218" y1="282" x2="486" y2="422" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<path fill="#818CF8" d="M72 48H376Q424 48 424 96V320Q424 368 376 368H192L108 442Q88 458 88 432V368H72Q24 368 24 320V96Q24 48 72 48Z"/>
+<circle cx="128" cy="200" r="20" fill="#FEF08A"/>
+<circle cx="224" cy="200" r="20" fill="#FECDD3"/>
+<circle cx="320" cy="200" r="20" fill="#CCFBF1"/>
+<path fill="url(#forward-message-arrow)" d="M236 334H433L401 302Q391 292 401 282Q411 272 421 282L481 342Q491 352 481 362L421 422Q411 432 401 422Q391 412 401 402L433 370H236Q218 370 218 352Q218 334 236 334Z"/>
 </svg>

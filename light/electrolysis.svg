@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M156 66H132Q102 66 102 96V176H122V96Q122 86 132 86H156Z M364 66H380Q410 66 410 96V176H390V96Q390 86 380 86H364Z" fill="#64748B"/>
+<rect x="168" y="24" width="176" height="104" rx="20" fill="#1E3A8A"/>
+<rect x="184" y="40" width="144" height="72" rx="12" fill="#DBEAFE"/>
+<rect x="344" y="56" width="20" height="40" rx="6" fill="#1E3A8A"/>
+<path d="M236 56V96M276 64V88" fill="none" stroke="#7C3AED" stroke-width="16" stroke-linecap="round"/>
+<path d="M44 320H468V452Q468 476 444 476H68Q44 476 44 452Z" fill="#99F6E4"/>
+<path d="M44 320H468" fill="none" stroke="#0D9488" stroke-width="16"/>
+<rect x="80" y="192" width="64" height="224" rx="16" fill="#D97706"/>
+<rect x="368" y="192" width="64" height="224" rx="16" fill="#64748B"/>
+<path d="M96 224H128M112 208V240M384 224H416" fill="none" stroke="#FFF7ED" stroke-width="12" stroke-linecap="round"/>
+<g fill="#DBEAFE" stroke="#0891B2" stroke-width="12">
+<circle cx="180" cy="356" r="18"/>
+<circle cx="212" cy="410" r="18"/>
+<circle cx="176" cy="454" r="12"/>
+<circle cx="332" cy="356" r="18"/>
+<circle cx="300" cy="410" r="18"/>
+<circle cx="336" cy="454" r="12"/>
+</g>
+<path d="M20 280Q20 268 32 268Q44 268 44 280V452Q44 476 68 476H444Q468 476 468 452V280Q468 268 480 268Q492 268 492 280V452Q492 500 444 500H68Q20 500 20 452Z" fill="#1E3A8A"/>
+</svg>

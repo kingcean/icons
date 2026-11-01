@@ -1,7 +1,12 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M280 368H64Q32 368 32 336V96Q32 64 64 64H448Q480 64 480 96V248"/>
-<path d="M48 88L232 226Q256 244 280 226L464 88"/>
-<path d="M316 416Q304 416 304 404Q304 398 312 390L328 374V340Q328 280 392 280Q456 280 456 340V374L472 390Q480 398 480 404Q480 416 468 416Z"/>
-<path d="M368 440H416Q416 464 392 464Q368 464 368 440Z"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="subscription-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM316 452Q292 452 306 426L328 402V368A72 72 0 0 1 472 368V402L494 426Q508 452 484 452Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#subscription-gap)"/>
+<path d="M48 112L202 234Q224 252 246 234L400 112" stroke-linecap="round"/>
+<path d="M340 410V368A60 60 0 0 1 460 368V410L474 430Q482 440 470 440H330Q318 440 326 430Z"/>
+<path d="M384 464A16 16 0 0 0 416 464" stroke-linecap="round"/>
 </svg>

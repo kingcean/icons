@@ -1,0 +1,22 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sublimationArrow" x1="256" y1="320" x2="256" y2="156" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FCD34D"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<g fill="#67E8F9">
+<circle cx="64" cy="108" r="32"/>
+<circle cx="256" cy="56" r="32"/>
+<circle cx="448" cy="108" r="32"/>
+</g>
+<path d="M244 308V200H226Q216 200 222 192L250 160Q256 152 262 160L290 192Q296 200 286 200H268V308Q268 320 256 320Q244 320 244 308Z" fill="url(#sublimationArrow)"/>
+<g fill="#C4B5FD">
+<circle cx="176" cy="376" r="28"/>
+<circle cx="256" cy="376" r="28"/>
+<circle cx="336" cy="376" r="28"/>
+<circle cx="176" cy="456" r="28"/>
+<circle cx="256" cy="456" r="28"/>
+<circle cx="336" cy="456" r="28"/>
+</g>
+</svg>

@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<title>Hare barley</title>
+<defs>
+<g id="barleyHead">
+<path d="M0 0C-28 28-24 100 0 144C24 100 28 28 0 0Z"/>
+<path d="M0 24V-110M-10 30L-36-106M10 30L36-106M-18 56L-68-88M18 56L68-88M-20 86L-88-54M20 86L88-54M-12 116L-92-12M12 116L92-12" stroke-linecap="round"/>
+</g>
+</defs>
+<path d="M256 278V480M210 339Q240 394 256 480M299 318Q274 393 256 480" stroke-linecap="round"/>
+<path d="M250 428C195 420 128 381 88 326C156 344 220 377 250 428ZM264 404C294 356 352 327 416 308C380 361 324 399 264 404Z"/>
+<use href="#barleyHead" transform="translate(256 134)"/>
+<use href="#barleyHead" transform="translate(152 246) rotate(-32) scale(.76)"/>
+<use href="#barleyHead" transform="translate(360 220) rotate(32) scale(.8)"/>
+</svg>

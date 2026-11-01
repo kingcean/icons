@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="doubleDisplacementArrow" x1="136" y1="256" x2="378" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FCD34D"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<rect x="54" y="136" width="20" height="16" rx="6" fill="#CBD5E1"/>
+<rect x="54" y="352" width="20" height="24" rx="8" fill="#CBD5E1"/>
+<rect x="438" y="136" width="20" height="24" rx="8" fill="#CBD5E1"/>
+<rect x="438" y="360" width="20" height="16" rx="6" fill="#CBD5E1"/>
+<circle cx="64" cy="88" r="40" fill="#5EEAD4"/>
+<rect x="24" y="160" width="80" height="80" rx="10" fill="#60A5FA"/>
+<path d="M58 280Q64 270 70 280L102 332Q109 344 96 344H32Q19 344 26 332Z" fill="#C4B5FD"/>
+<path d="M58 388Q64 382 70 388L100 418Q106 424 100 430L70 460Q64 466 58 460L28 430Q22 424 28 418Z" fill="#F9A8D4"/>
+<path d="M144 244H332V226Q332 218 340 224L374 250Q382 256 374 262L340 288Q332 294 332 286V268H144Q136 268 136 260V252Q136 244 144 244Z" fill="url(#doubleDisplacementArrow)"/>
+<circle cx="448" cy="88" r="40" fill="#5EEAD4"/>
+<path d="M442 168Q448 158 454 168L486 220Q493 232 480 232H416Q403 232 410 220Z" fill="#C4B5FD"/>
+<rect x="408" y="272" width="80" height="80" rx="10" fill="#60A5FA"/>
+<path d="M442 388Q448 382 454 388L484 418Q490 424 484 430L454 460Q448 466 442 460L412 430Q406 424 412 418Z" fill="#F9A8D4"/>
+</svg>

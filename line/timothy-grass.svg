@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="flower-head">
+<path d="M0 0Q24 0 24 24V140Q24 164 0 164Q-24 164-24 140V24Q-24 0 0 0Z"/>
+<path d="M-12 32H-4M4 52H12M-12 72H-4M4 92H12M-12 112H-4M4 132H12"/>
+</g>
+</defs>
+<path d="M256 436V198M238 418Q204 338 184 260M274 420Q312 316 328 230"/>
+<path d="M250 480Q176 357 72 314Q173 322 258 466Q264 480 250 480ZM251 480Q184 305 150 246Q224 290 263 465Q268 480 251 480ZM257 480Q288 286 392 248Q317 317 269 467Q265 480 257 480ZM261 480Q354 373 440 352Q358 396 274 476Q268 484 261 480Z"/>
+<use href="#flower-head" transform="translate(256 24)"/>
+<use href="#flower-head" transform="translate(162 86) rotate(-8)"/>
+<use href="#flower-head" transform="translate(349 58) rotate(7)"/>
+</svg>

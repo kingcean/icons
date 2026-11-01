@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="paper" x1="104" y1="48" x2="330" y2="220" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#7DD3FC" stop-opacity="0.6"/>
+<stop offset="1" stop-color="#C4B5FD" stop-opacity="0.6"/>
+</linearGradient>
+</defs>
+<path d="M104 360H408V452Q408 488 372 488H140Q104 488 104 452Z" fill="#1E3A5F"/>
+<path d="M116 436H396V452Q396 476 372 476H140Q116 476 116 452Z" fill="#2DD4BF"/>
+<path d="M92 360Q92 348 104 348Q116 348 116 360V452Q116 476 140 476H372Q396 476 396 452V360Q396 348 408 348Q420 348 420 360V452Q420 500 372 500H140Q92 500 92 452Z" fill="#93C5FD"/>
+<path d="M24 88Q16 80 24 72Q32 64 40 72L240 254V298H272V254L472 72Q480 64 488 72Q496 80 488 88L296 266V310Q296 322 284 322H228Q216 322 216 310V266Z" fill="#60A5FA"/>
+<path d="M104 48H408Q416 48 410 56L260 220Q256 226 252 220L102 56Q96 48 104 48Z" fill="url(#paper)" stroke="#FBBF24" stroke-width="12" stroke-linejoin="round"/>
+<path d="M164 48L256 220" fill="none" stroke="#FBBF24" stroke-width="12" stroke-linecap="round"/>
+<g fill="#E9D5FF">
+<circle cx="240" cy="100" r="12"/>
+<circle cx="310" cy="96" r="12"/>
+<circle cx="272" cy="148" r="12"/>
+</g>
+<path d="M256 340C252 356 236 372 236 386A20 20 0 0 0 276 386C276 372 260 356 256 340Z" fill="#67E8F9"/>
+</svg>

@@ -62,8 +62,18 @@
     section.x-details > div:first-child > img:first-child + h2 + div + div > span:first-child {
         color: #999; line-height: 20px;
     }
-    section.x-details > div:first-child > img:first-child + h2 + div + div > span + span {
-        line-height: 20px; display: inline-block; background-color: #444; padding: 0 10px; margin-left: 10px; border-radius: 16px;
+    section.x-details > div:first-child > img:first-child + h2 + div + div > span + span,
+    section.x-details > div:first-child > img:first-child + h2 + div + div > button {
+        color: #EEE; line-height: 20px; display: inline-block; background-color: #444; padding: 0 10px; margin-left: 10px; border: none 0 transparent; border-radius: 16px;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + div > button {
+        cursor: pointer; transition: 0.2s;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + div > button:hover {
+        background-color: #0AF;
+    }
+    section.x-details > div:first-child > img:first-child + h2 + div + div > button:active {
+        background-color: #06C;
     }
     section.x-details > div:first-child > img:first-child + h2 + div + div + button {
         color: #CCC; font-size: 20px; width: 30px; height: 30px; background: transparent; border: 0 none transparent; border-radius: 4px; position: absolute; top: 4px; right: 4px; transition: 0.2s;
@@ -262,6 +272,7 @@
             }, {
                 tagName: "section",
                 children: [{
+                    key: "q",
                     tagName: "input",
                     props: {
                         name: "q",
@@ -347,13 +358,21 @@
                         case "文件夹": q = "folder"; break;
                         case "文档": q = "document"; break;
                         case "车": q = "vehicle"; break;
+                        case "交通": q = "traffic"; break;
+                        case "导航": q = "navigation"; break;
+                        case "购物": q = "shopping"; break;
                         case "设备": q = "device"; break;
+                        case "存储": q = "storage"; break;
                         case "家具": q = "furniture"; break;
                         case "天文": q = "astronomy"; break;
+                        case "自然": q = "nature"; break;
                         case "体育": q = "sport"; break;
                         case "动物": q = "animal"; break;
                         case "植物": q = "plant"; break;
                         case "花": q = "flower"; break;
+                        case "草": q = "grass"; break;
+                        case "树": q = "tree"; break;
+                        case "菌菇": q = "fungus"; break;
                         case "水果": q = "fruit"; break;
                         case "蔬菜": q = "vegetable"; break;
                         case "食物": q = "food"; break;
@@ -363,11 +382,15 @@
                         case "医学": q = "medical"; break;
                         case "数学": q = "mathematics"; break;
                         case "物理": q = "physics"; break;
+                        case "化学": q = "chemistry"; break;
+                        case "生物": q = "biology"; break;
                         case "金融": q = "finance"; break;
+                        case "保险": q = "insurance"; break;
                         case "家电": q = "appliance"; break;
                         case "网络": q = "network"; break;
                         case "时间": q = "time"; break;
                         case "日历": q = "calendar"; break;
+                        case "用户": q = "user"; break;
                         case "通信": q = "communication"; break;
                         case "计算机": q = "computing"; break;
                         case "开发": q = "development"; break;
@@ -433,8 +456,19 @@
                     for (const category of model.categories) {
                         if (!category) continue;
                         categories.push({
-                            tagName: "span",
-                            children: category
+                            tagName: "button",
+                            children: category,
+                            on: {
+                                click(ev) {
+                                    const queryInput = component.getChild("q");
+                                    if (!queryInput || !queryInput.element) return;
+                                    queryInput.element.value = category;
+                                    handlers.search(category);
+                                    queryInput.element.scrollIntoView({ behavior: "smooth" });
+                                    queryInput.element.focus();
+                                    queryInput.element.select();
+                                }
+                            }
                         });
                     }
                 }

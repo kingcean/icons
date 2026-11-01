@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>禁止</title>
+<defs>
+<linearGradient id="prohibitedGradient" x1="98" y1="98" x2="414" y2="414" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFA08A"/>
+<stop offset="0.5" stop-color="#FF6474"/>
+<stop offset="1" stop-color="#E94980"/>
+</linearGradient>
+</defs>
+<path fill="url(#prohibitedGradient)" fill-rule="evenodd" d="M480 256A224 224 0 1 1 32 256A224 224 0 1 1 480 256ZM140.805 112.521A184 184 0 0 1 399.479 371.195ZM371.195 399.479A184 184 0 0 1 112.521 140.805Z"/>
+</svg>

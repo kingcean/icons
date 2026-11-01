@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<title>Little bluestem</title>
+<defs>
+<path id="seed" d="M0 0C-12-10-17-27-10-39L-21-58Q-13-56-6-41L-7-68Q0-64 1-43L12-63Q16-57 7-37L24-49Q26-41 11-28C13-17 8-6 0 0Z"/>
+</defs>
+<path d="M241 480Q229 272 219 101L230 100Q240 273 253 480Q253 488 247 488Q241 488 241 480ZM257 480Q271 274 284 102L295 103Q282 275 269 480Q269 488 263 488Q257 488 257 480ZM252 480Q247 330 249 230H260Q258 331 264 480Z"/>
+<path d="M220 151L201 133L208 125L228 145ZM222 204L243 183L251 191L230 212ZM226 276L203 259L210 250L234 267ZM278 157L300 138L308 147L286 166ZM275 234L254 217L261 209L283 226ZM270 289L296 270L303 279L278 298Z"/>
+<path d="M225 451C195 345 169 247 165 174C191 228 218 341 225 451ZM242 397C236 287 242 211 252 158C257 233 252 330 242 397ZM283 451C316 345 338 265 347 208C347 302 313 396 283 451ZM282 395C287 336 305 282 319 255C310 313 295 363 282 395Z"/>
+<use href="#seed" transform="translate(225 94) rotate(-8)"/>
+<use href="#seed" transform="translate(205 128) rotate(-27) scale(.8)"/>
+<use href="#seed" transform="translate(247 188) rotate(24) scale(.8)"/>
+<use href="#seed" transform="translate(207 254) rotate(-25) scale(.8)"/>
+<use href="#seed" transform="translate(289 92) rotate(8)"/>
+<use href="#seed" transform="translate(304 143) rotate(25) scale(.8)"/>
+<use href="#seed" transform="translate(258 213) rotate(-24) scale(.8)"/>
+<use href="#seed" transform="translate(300 274) rotate(26) scale(.8)"/>
+</svg>

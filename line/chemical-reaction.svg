@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<g stroke-linecap="round">
+<circle cx="48" cy="164" r="24"/>
+<circle cx="132" cy="164" r="24"/>
+<path d="M78 164H102"/>
+<circle cx="48" cy="348" r="24"/>
+<circle cx="132" cy="348" r="24"/>
+<path d="M78 348H102"/>
+<path d="M180 256H296M268 228L296 256L268 284"/>
+<circle cx="352" cy="208" r="24"/>
+<circle cx="464" cy="208" r="24"/>
+<circle cx="352" cy="304" r="24"/>
+<circle cx="464" cy="304" r="24"/>
+<path d="M382 208H434M382 304H434M352 238V274M464 238V274"/>
+</g>
+</svg>

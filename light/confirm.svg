@@ -1,4 +1,14 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<circle cx="256" cy="256" r="224" fill="#16A34A"/>
-<path d="M132 244Q120 256 132 268L212 348Q224 360 236 348L380 204Q392 192 380 180Q368 168 356 180L224 312L156 244Q144 232 132 244Z" fill="#F0FDF4"/>
+<title>Confirm content</title>
+<defs>
+<linearGradient id="confirmGradient" x1="276" y1="264" x2="452" y2="440" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#24B878"/>
+<stop offset="0.5" stop-color="#168A50"/>
+<stop offset="1" stop-color="#0D7056"/>
+</linearGradient>
+</defs>
+<rect x="24" y="84" width="416" height="248" rx="24" fill="#CBD5E1"/>
+<path d="M80 142H328Q342 142 342 156Q342 170 328 170H80Q66 170 66 156Q66 142 80 142ZM80 206H208Q222 206 222 220Q222 234 208 234H80Q66 234 66 220Q66 206 80 206Z" fill="#64748B"/>
+<circle cx="364" cy="352" r="124" fill="url(#confirmGradient)"/>
+<path d="M294 344Q286 352 294 360L338 404Q346 412 354 404L434 324Q442 316 434 308Q426 300 418 308L346 380L310 344Q302 336 294 344Z" fill="#F0FDF4"/>
 </svg>

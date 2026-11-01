@@ -1,0 +1,23 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="panicle">
+<path d="M0 24V196M0 90Q-25 80-38 55M0 80Q25 67 38 47M0 140Q-43 125-64 99M0 126Q42 111 65 87M0 176Q-27 165-40 138M0 164Q27 153 40 126" fill="none" stroke="#A1C6AA" stroke-width="6" stroke-linecap="round"/>
+<ellipse cx="0" cy="12" rx="8" ry="12" fill="#D697B4"/>
+<ellipse cx="-40" cy="44" rx="8" ry="12" transform="rotate(-25 -40 44)" fill="#CD93C0"/>
+<ellipse cx="40" cy="36" rx="8" ry="12" transform="rotate(25 40 36)" fill="#EDA39B"/>
+<ellipse cx="-66" cy="88" rx="8" ry="12" transform="rotate(-30 -66 88)" fill="#CD93C0"/>
+<ellipse cx="67" cy="76" rx="8" ry="12" transform="rotate(30 67 76)" fill="#EDA39B"/>
+<ellipse cx="-42" cy="127" rx="8" ry="12" transform="rotate(-25 -42 127)" fill="#CD93C0"/>
+<ellipse cx="42" cy="115" rx="8" ry="12" transform="rotate(25 42 115)" fill="#EDA39B"/>
+</g>
+</defs>
+<path d="M251 480V218H261V480ZM246 480Q199 358 184 297L194 293Q209 354 256 480ZM258 480Q298 339 318 273L328 277Q308 343 268 480Z" fill="#A1C6AA"/>
+<path d="M250 480Q156 363 60 324Q169 319 262 461Q273 484 250 480ZM266 480Q362 370 452 342Q392 397 282 476Q273 486 266 480Z" fill="#69B3B4"/>
+<path d="M251 480Q153 312 126 220Q218 279 266 460Q275 487 251 480Z" fill="#8ACDC4"/>
+<path d="M257 480Q291 296 400 230Q345 346 273 470Q267 487 257 480Z" fill="#B3DECB"/>
+<path d="M146 249Q216 351 254 452Q195 343 146 249Z" fill="#C8EDE0"/>
+<path d="M377 258Q306 363 270 450Q287 342 377 258Z" fill="#80BDB5"/>
+<use href="#panicle" transform="translate(256 24)"/>
+<use href="#panicle" transform="translate(148 104) rotate(-12)"/>
+<use href="#panicle" transform="translate(362 84) rotate(12)"/>
+</svg>

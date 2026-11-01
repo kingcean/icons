@@ -1,1 +1,17 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><circle cx="256" cy="256" r="232" fill="#DC3545"/><path fill="#FFFFFF" d="M184 160Q172 148 160 160Q148 172 160 184L232 256L160 328Q148 340 160 352Q172 364 184 352L256 280L328 352Q340 364 352 352Q364 340 352 328L280 256L352 184Q364 172 352 160Q340 148 328 160L256 232Z"/></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>已取消</title>
+<defs>
+<linearGradient id="canceledRing" x1="98" y1="98" x2="414" y2="414" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F06456"/>
+<stop offset="0.5" stop-color="#D93645"/>
+<stop offset="1" stop-color="#AD2349"/>
+</linearGradient>
+<linearGradient id="canceledCross" x1="142" y1="142" x2="370" y2="370" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F78360"/>
+<stop offset="0.5" stop-color="#E85A50"/>
+<stop offset="1" stop-color="#CE354A"/>
+</linearGradient>
+</defs>
+<path fill="url(#canceledRing)" fill-rule="evenodd" d="M480 256A224 224 0 1 1 32 256A224 224 0 1 1 480 256ZM440 256A184 184 0 1 0 72 256A184 184 0 1 0 440 256Z"/>
+<path fill="url(#canceledCross)" d="M170 142Q164 136 158 142L142 158Q136 164 142 170L228 256L142 342Q136 348 142 354L158 370Q164 376 170 370L256 284L342 370Q348 376 354 370L370 354Q376 348 370 342L284 256L370 170Q376 164 370 158L354 142Q348 136 342 142L256 228Z"/>
+</svg>

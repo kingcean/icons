@@ -1,6 +1,1 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
-<path fill-rule="evenodd" d="M56 24H456Q488 24 488 56V352Q488 384 456 384H56Q24 384 24 352V56Q24 24 56 24ZM72 56H440Q456 56 456 72V312Q456 328 440 328H72Q56 328 56 312V72Q56 56 72 56ZM266 356A10 10 0 1 0 246 356A10 10 0 1 0 266 356Z"/>
-<rect x="232" y="400" width="48" height="48" rx="8"/>
-<rect x="152" y="464" width="208" height="24" rx="12"/>
-</svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon"><path fill-rule="evenodd" d="M44 80H468Q488 80 488 100V374Q488 394 468 394H44Q24 394 24 374V100Q24 80 44 80ZM48 96Q40 96 40 104V370Q40 378 48 378H464Q472 378 472 370V104Q472 96 464 96Z"/><rect x="50" y="106" width="412" height="262" rx="6"/><path d="M115 408H137L110 458Q107 464 101 464H93Q85 464 89 456ZM375 408H397L423 456Q427 464 419 464H411Q405 464 402 458Z"/></svg>

@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="forward-video-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM236 322H404L392 310Q374 292 392 274Q410 256 428 274L488 334Q506 352 488 370L428 430Q410 448 392 430Q374 412 392 394L404 382H236Q206 382 206 352Q206 322 236 322Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="64" width="400" height="368" rx="32" clip-path="url(#forward-video-gap)"/>
+<path d="M176 152Q160 142 160 160V288Q160 306 176 296L280 234Q296 224 280 214Z"/>
+<path d="M236 352H480M416 288L480 352L416 416" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,20 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="snowArm" d="M425 196Q425 189 432 189Q439 189 439 196V208L441 206Q446 201 451 206Q456 211 451 216L439 228V268L451 280Q456 285 451 290Q446 295 441 290L439 288V300Q439 307 432 307Q425 307 425 300V288L423 290Q418 295 413 290Q408 285 413 280L425 268V228L413 216Q408 211 413 206Q418 201 423 206L425 208Z"/>
+</defs>
+<g fill="#C4B5FD">
+<circle cx="80" cy="108" r="30"/>
+<circle cx="208" cy="54" r="30"/>
+<circle cx="336" cy="108" r="30"/>
+</g>
+<rect x="28" y="232" width="332" height="32" rx="16" fill="#93C5FD"/>
+<g fill="#67E8F9">
+<path d="M136 308C130 340 98 372 98 404A38 38 0 0 0 174 404C174 372 142 340 136 308Z"/>
+<path d="M284 344C278 376 246 408 246 440A38 38 0 0 0 322 440C322 408 290 376 284 344Z"/>
+</g>
+<g fill="#60A5FA">
+<use href="#snowArm"/>
+<use href="#snowArm" transform="rotate(60 432 248)"/>
+<use href="#snowArm" transform="rotate(120 432 248)"/>
+</g>
+</svg>

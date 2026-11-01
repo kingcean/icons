@@ -1,1 +1,10 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon"><defs><clipPath id="script-cutouts"><path clip-rule="evenodd" d="M0 0H512V512H0ZM284 24H300L424 148V164ZM156 224H356Q380 224 380 248V376Q380 400 356 400H156Q132 400 132 376V248Q132 224 156 224Z"/></clipPath></defs><g clip-path="url(#script-cutouts)"><path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z"/><path d="M292 24L424 156H324Q292 156 292 124Z"/></g><path d="M161 261Q168 254 175 261L219 305Q226 312 219 319L175 363Q168 370 161 363Q154 356 161 349L198 312L161 275Q154 268 161 261ZM244 346H324Q334 346 334 356Q334 366 324 366H244Q234 366 234 356Q234 346 244 346Z"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="script-cutouts">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM280 24H292L424 156V168H324Q280 168 280 124ZM140 232Q152 220 164 232L228 296Q240 308 228 320L164 384Q152 396 140 384Q128 372 140 360L192 308L140 256Q128 244 140 232ZM264 356H352Q368 356 368 372Q368 388 352 388H264Q248 388 248 372Q248 356 264 356Z"/>
+</clipPath>
+</defs>
+<path d="M112 24H292L424 156V464Q424 488 400 488H112Q88 488 88 464V48Q88 24 112 24Z" clip-path="url(#script-cutouts)"/>
+<path d="M292 24L424 156H324Q292 156 292 124Z"/>
+</svg>

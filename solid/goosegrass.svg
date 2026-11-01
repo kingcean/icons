@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<title>Goosegrass</title>
+<defs>
+<g id="spike">
+<path fill-rule="evenodd" d="M0 0C-12-24-18-92-14-140Q-12-172 0-184Q12-172 14-140C18-92 12-24 0 0ZM-10-40L0-34L10-40V-32L0-26L-10-32ZM-12-64L0-58L12-64V-56L0-50L-12-56ZM-13-88L0-82L13-88V-80L0-74L-13-80ZM-13-112L0-106L13-112V-104L0-98L-13-104ZM-12-136L0-130L12-136V-128L0-122L-12-128ZM-8-160L0-154L8-160V-152L0-146L-8-152Z"/>
+</g>
+</defs>
+<path d="M250 266Q248 360 242 478Q256 488 270 478Q268 360 268 266ZM275 318L287 320Q279 387 276 431L264 429Q267 386 275 318Z"/>
+<path d="M225 451C163 429 94 379 24 356C98 349 183 385 225 451ZM227 419C191 362 148 323 100 302C160 309 210 350 227 419ZM289 451C351 429 418 379 488 356C414 349 331 385 289 451ZM287 419C323 362 366 323 414 302C354 309 304 350 287 419Z"/>
+<use href="#spike" transform="translate(240 242) rotate(-50) scale(.96)"/>
+<use href="#spike" transform="translate(248 238) rotate(-25) scale(1.08)"/>
+<use href="#spike" transform="translate(263 236) rotate(5) scale(1.15)"/>
+<use href="#spike" transform="translate(277 242) rotate(34) scale(1.08)"/>
+<use href="#spike" transform="translate(285 254) rotate(60) scale(.96)"/>
+<use href="#spike" transform="translate(282 304) rotate(75) scale(.64)"/>
+</svg>

@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="lineIcon">
+<title>Annual bluegrass</title>
+<defs>
+<g id="panicle">
+<path d="M0 164V32M0 144L-58 94L-68 66M0 144L58 94L68 66M0 100L-34 62L-40 38M0 100L34 62L40 38M-38 111L-64 116M38 111L64 116" stroke-linecap="round"/>
+<path d="M0 22C-12 18-13 4 0-4C13 4 12 18 0 22ZM-42 28C-55 25-61 12-51 2C-37 6-32 20-42 28ZM42 28C55 25 61 12 51 2C37 6 32 20 42 28ZM-72 56C-85 52-91 38-81 28C-67 32-62 47-72 56ZM72 56C85 52 91 38 81 28C67 32 62 47 72 56ZM-74 120C-89 124-100 117-100 104C-86 97-73 105-74 120ZM74 120C89 124 100 117 100 104C86 97 73 105 74 120Z"/>
+</g>
+</defs>
+<path d="M256 212V480M202 294Q237 381 246 480M310 276Q277 378 266 480" stroke-linecap="round"/>
+<path d="M233 465C160 443 94 391 40 338Q32 328 43 328C122 331 201 393 233 465ZM241 428C198 360 168 282 160 231Q158 218 169 226C221 269 240 351 241 428ZM279 465C347 445 417 398 469 344Q480 333 467 333C387 339 306 396 279 465ZM272 425C282 354 314 277 347 234Q355 224 357 237C359 306 317 385 272 425Z"/>
+<use href="#panicle" transform="translate(256 48)"/>
+<use href="#panicle" transform="translate(154 164) rotate(-20) scale(.85)"/>
+<use href="#panicle" transform="translate(354 146) rotate(19) scale(.84)"/>
+</svg>

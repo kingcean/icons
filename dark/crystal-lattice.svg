@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="point" fill-rule="evenodd" d="M24 0A24 24 0 1 0-24 0A24 24 0 1 0 24 0Z M14 0A14 14 0 1 0-14 0A14 14 0 1 0 14 0Z"/>
+</defs>
+<path d="M48 168H336V456H48V168L176 40H464V328H176V40M176 328L48 456M464 40L336 168M464 328L336 456" fill="none" stroke="#67E8F9" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<g fill="#C4B5FD">
+<use href="#point" transform="translate(48 168)"/>
+<use href="#point" transform="translate(336 168)"/>
+<use href="#point" transform="translate(336 456)"/>
+<use href="#point" transform="translate(48 456)"/>
+<use href="#point" transform="translate(176 40)"/>
+<use href="#point" transform="translate(464 40)"/>
+<use href="#point" transform="translate(464 328)"/>
+<use href="#point" transform="translate(176 328)"/>
+</g>
+</svg>

@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="small-atom" fill-rule="evenodd" d="M28 0A28 28 0 1 0-28 0A28 28 0 1 0 28 0Z M20 0A20 20 0 1 0-20 0A20 20 0 1 0 20 0Z"/>
+</defs>
+<g opacity="0.35">
+<use href="#small-atom" transform="translate(48 112)"/>
+<use href="#small-atom" transform="translate(120 112)"/>
+<use href="#small-atom" transform="translate(220 112)"/>
+<use href="#small-atom" transform="translate(292 112)"/>
+<use href="#small-atom" transform="translate(392 112)"/>
+<use href="#small-atom" transform="translate(464 112)"/>
+<path d="M80 108H88V116H80Z M156 108H184V116H156Z M252 108H260V116H252Z M328 108H356V116H328Z M424 108H432V116H424Z"/>
+</g>
+<path fill-rule="evenodd" d="M232 376A96 96 0 1 0 40 376A96 96 0 1 0 232 376Z M208 376A72 72 0 1 0 64 376A72 72 0 1 0 208 376Z M472 376A96 96 0 1 0 280 376A96 96 0 1 0 472 376Z M448 376A72 72 0 1 0 304 376A72 72 0 1 0 448 376Z"/>
+<rect x="240" y="364" width="32" height="24" rx="8"/>
+</svg>

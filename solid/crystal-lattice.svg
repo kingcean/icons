@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="point" fill-rule="evenodd" d="M24 0A24 24 0 1 0-24 0A24 24 0 1 0 24 0Z M14 0A14 14 0 1 0-14 0A14 14 0 1 0 14 0Z"/>
+</defs>
+<path d="M82 163H302V173H82Z M331 202H341V422H331Z M82 451H302V461H82Z M43 202H53V422H43Z M210 35H430V45H210Z M459 74H469V294H459Z M210 323H430V333H210Z M171 74H181V294H171Z"/>
+<rect x="-56.57" y="-5" width="113.14" height="10" rx="5" transform="translate(112 104) rotate(-45)"/>
+<rect x="-56.57" y="-5" width="113.14" height="10" rx="5" transform="translate(400 104) rotate(-45)"/>
+<rect x="-56.57" y="-5" width="113.14" height="10" rx="5" transform="translate(400 392) rotate(-45)"/>
+<rect x="-56.57" y="-5" width="113.14" height="10" rx="5" transform="translate(112 392) rotate(-45)"/>
+<use href="#point" transform="translate(48 168)"/>
+<use href="#point" transform="translate(336 168)"/>
+<use href="#point" transform="translate(336 456)"/>
+<use href="#point" transform="translate(48 456)"/>
+<use href="#point" transform="translate(176 40)"/>
+<use href="#point" transform="translate(464 40)"/>
+<use href="#point" transform="translate(464 328)"/>
+<use href="#point" transform="translate(176 328)"/>
+</svg>

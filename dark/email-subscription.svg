@@ -1,6 +1,12 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#60A5FA" d="M64 64H448Q480 64 480 96V256H392Q304 256 304 340V368H64Q32 368 32 336V96Q32 64 64 64Z"/>
-<path fill="#BFDBFE" d="M64 64H448Q464 64 472 80L280 226Q256 244 232 226L40 80Q48 64 64 64Z"/>
-<path fill="#FBBF24" d="M316 416Q304 416 304 404Q304 398 312 390L328 374V340Q328 280 392 280Q456 280 456 340V374L472 390Q480 398 480 404Q480 416 468 416Z"/>
-<path fill="#FB923C" d="M368 440H416Q416 464 392 464Q368 464 368 440Z"/>
+<defs>
+<linearGradient id="subscription-bell" x1="340" y1="308" x2="470" y2="440" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FEF08A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<rect x="24" y="80" width="400" height="352" rx="32" fill="#4D8EFF"/>
+<path d="M56 80H392Q424 80 424 112L246 254Q224 272 202 254L24 112Q24 80 56 80Z" fill="#9DE4FF"/>
+<path d="M340 410V368A60 60 0 0 1 460 368V410L474 430Q482 440 470 440H330Q318 440 326 430Z" fill="url(#subscription-bell)"/>
+<path d="M384 456H416V464A16 16 0 0 1 384 464Z" fill="#FBBF24"/>
 </svg>

@@ -1,5 +1,7 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
-<rect x="96" y="24" width="128" height="464" rx="28"/>
-<rect x="288" y="24" width="128" height="464" rx="28"/>
+<title>已暂停</title>
+<circle cx="256" cy="256" r="224"/>
+<rect x="184" y="160" width="48" height="192" rx="12"/>
+<rect x="280" y="160" width="48" height="192" rx="12"/>
 </svg>

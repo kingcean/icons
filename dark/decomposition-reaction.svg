@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="decompositionArrow" x1="136" y1="256" x2="378" y2="256" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FCD34D"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+</defs>
+<rect x="54" y="184" width="20" height="144" rx="8" fill="#CBD5E1"/>
+<circle cx="64" cy="184" r="40" fill="#5EEAD4"/>
+<circle cx="64" cy="328" r="40" fill="#60A5FA"/>
+<path d="M144 244H332V226Q332 218 340 224L374 250Q382 256 374 262L340 288Q332 294 332 286V268H144Q136 268 136 260V252Q136 244 144 244Z" fill="url(#decompositionArrow)"/>
+<circle cx="448" cy="184" r="40" fill="#5EEAD4"/>
+<circle cx="448" cy="328" r="40" fill="#60A5FA"/>
+</svg>

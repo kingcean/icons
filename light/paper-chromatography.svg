@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M76 424H436V460Q436 476 420 476H92Q76 476 76 460Z" fill="#99F6E4"/>
+<path d="M76 424H436V436H76Z" fill="#0D9488"/>
+<path fill-rule="evenodd" d="M92 12H420Q460 12 460 52V460Q460 500 420 500H92Q52 500 52 460V52Q52 12 92 12Z M92 36Q76 36 76 52V460Q76 476 92 476H420Q436 476 436 460V52Q436 36 420 36Z" fill="#1E3A8A"/>
+<rect x="196" y="56" width="120" height="400" rx="8" fill="#FEF3C7" stroke="#B45309" stroke-width="12"/>
+<rect x="212" y="376" width="88" height="16" rx="8" fill="#64748B"/>
+<circle cx="256" cy="128" r="20" fill="#7C3AED"/>
+<circle cx="256" cy="212" r="20" fill="#0284C7"/>
+<circle cx="256" cy="296" r="20" fill="#DB2777"/>
+</svg>

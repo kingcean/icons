@@ -1,7 +1,1 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="24" y="24" width="464" height="360" rx="32" fill="#A9C7FF"/>
-<rect x="56" y="56" width="400" height="272" rx="16" fill="#23557B"/>
-<circle cx="256" cy="356" r="10" fill="#FFD477"/>
-<rect x="232" y="400" width="48" height="48" rx="8" fill="#83DDD2"/>
-<rect x="152" y="464" width="208" height="24" rx="12" fill="#A9C7FF"/>
-</svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><defs><linearGradient id="screen" x1="40" y1="96" x2="472" y2="378" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#38D9D2"/><stop offset="0.5" stop-color="#459AF1"/><stop offset="1" stop-color="#A576EB"/></linearGradient></defs><path d="M115 388H137L110 458Q107 464 101 464H93Q85 464 89 456ZM375 388H397L423 456Q427 464 419 464H411Q405 464 402 458Z" fill="#C2CEE0"/><rect x="24" y="80" width="464" height="314" rx="20" fill="#94A5BF"/><rect x="40" y="96" width="432" height="282" rx="8" fill="url(#screen)"/><path d="M48 96H286L40 282V104Q40 96 48 96Z" fill="#D5FFFA" opacity="0.22"/></svg>

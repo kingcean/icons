@@ -1,6 +1,6 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<g id="bootDark">
+<g id="boot">
 <path d="M48 88H138Q150 88 150 100V214Q150 228 162 238L216 272Q238 286 238 310V380H24V290Q24 274 30 258L36 238V100Q36 88 48 88Z" fill="#DFC18B"/>
 <path d="M48 88H138Q150 88 150 100V132H36V100Q36 88 48 88Z" fill="#FFE3AD"/>
 <path d="M98 132H150V214Q150 228 162 238L178 248L158 276L112 230Q98 216 98 194Z" fill="#C3A26B"/>
@@ -10,6 +10,8 @@
 <path d="M24 360H238V382H24Z" fill="#D1B47E"/>
 </g>
 </defs>
-<use href="#bootDark"/>
-<use href="#bootDark" transform="translate(250 0)"/>
+<g transform="translate(0 51.2) scale(1 .8)">
+<use href="#boot"/>
+<use href="#boot" transform="translate(250 0)"/>
+</g>
 </svg>

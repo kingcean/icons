@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="seed-spike">
+<path d="M0 8V176"/>
+<path d="M-7 48Q-23 34-20 12Q-7 19-7 35ZM7 62Q23 48 20 26Q7 33 7 49ZM-7 82Q-23 68-20 46Q-7 53-7 69ZM7 96Q23 82 20 60Q7 67 7 83ZM-7 116Q-23 102-20 80Q-7 87-7 103ZM7 130Q23 116 20 94Q7 101 7 117ZM-7 150Q-23 136-20 114Q-7 121-7 137ZM7 164Q23 150 20 128Q7 135 7 151Z"/>
+</g>
+</defs>
+<path d="M256 438V208M235 419Q209 336 192 276M278 419Q304 325 321 246"/>
+<path d="M246 480Q159 356 70 297Q163 321 259 465Q267 484 246 480ZM250 480Q174 299 145 216Q217 276 265 463Q272 484 250 480ZM255 480Q226 320 232 260Q262 326 270 466Q272 484 255 480ZM265 480Q292 303 378 214Q342 326 279 469Q273 485 265 480ZM276 480Q344 357 442 288Q371 378 290 476Q281 486 276 480Z"/>
+<path d="M164 245Q218 348 253 448M359 245Q310 357 277 449"/>
+<use href="#seed-spike" transform="translate(256 24)"/>
+<use href="#seed-spike" transform="translate(171 94) rotate(-7)"/>
+<use href="#seed-spike" transform="translate(344 64) rotate(7)"/>
+</svg>

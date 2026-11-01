@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="sway" x1="288" y1="344" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#159D80"/>
+<stop offset="1" stop-color="#2879CE"/>
+</linearGradient>
+</defs>
+<path fill="#2879CE" d="M484 300A232 232 0 1 0 300 484L295 456A204 204 0 1 1 456 295Z"/>
+<path fill="#D94B60" d="M360 146Q374 138 366 152L288 288L224 224Z"/>
+<path fill="#E9A52B" d="M152 366Q138 374 146 360L224 224L288 288Z"/>
+<path fill="url(#sway)" fill-rule="evenodd" d="M388 396C364 362 344 344 324 344C276 344 276 488 324 488C344 488 364 470 388 436C412 470 432 488 452 488C500 488 500 344 452 344C432 344 412 362 388 396ZM368 416C350 384 336 374 324 374C304 374 304 458 324 458C336 458 350 448 368 416ZM408 416C426 384 440 374 452 374C472 374 472 458 452 458C440 458 426 448 408 416Z"/>
+</svg>

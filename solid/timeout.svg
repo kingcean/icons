@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solidIcon">
+<title>超时</title>
+<defs>
+<clipPath id="timeoutGap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM504 388A116 116 0 1 0 272 388A116 116 0 1 0 504 388Z"/>
+</clipPath>
+</defs>
+<path clip-path="url(#timeoutGap)" fill-rule="evenodd" d="M440 232A208 208 0 1 1 24 232A208 208 0 1 1 440 232ZM400 232A168 168 0 1 0 64 232A168 168 0 1 0 400 232Z"/>
+<path d="M212 112Q212 92 232 92Q252 92 252 112V232Q252 242 244 248L164 304Q148 315 136 299Q125 283 140 272L212 222Z"/>
+<path fill-rule="evenodd" d="M488 388A100 100 0 1 1 288 388A100 100 0 1 1 488 388ZM388 318Q374 318 374 332V392Q374 406 388 406Q402 406 402 392V332Q402 318 388 318ZM404 434A16 16 0 1 1 372 434A16 16 0 1 1 404 434Z"/>
+</svg>

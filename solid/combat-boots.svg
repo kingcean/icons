@@ -1,11 +1,13 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
 <defs>
-<g id="bootSolid">
+<g id="boot">
 <path fill-rule="evenodd" d="M48 88H138Q150 88 150 100V214Q150 228 162 238L216 272Q238 286 238 310V356H24V290Q24 274 30 258L36 238V100Q36 88 48 88ZM54 122Q48 122 48 128Q48 134 54 134H132Q138 134 138 128Q138 122 132 122ZM108 154Q102 154 102 160Q102 166 108 166H138Q144 166 144 160Q144 154 138 154ZM108 190Q102 190 102 196Q102 202 108 202H138Q144 202 144 196Q144 190 138 190ZM173 245Q147 282 156 345Q157 351 163 350Q169 349 168 343Q160 286 183 251Q186 246 181 243Q176 240 173 245Z"/>
 <path d="M24 368H238V408Q238 424 222 424H202V412H182V424H154V412H134V424H106V412H86V424H58V412H38V424Q24 424 24 410Z"/>
 </g>
 </defs>
-<use href="#bootSolid"/>
-<use href="#bootSolid" transform="translate(250 0)"/>
+<g transform="translate(0 51.2) scale(1 .8)">
+<use href="#boot"/>
+<use href="#boot" transform="translate(250 0)"/>
+</g>
 </svg>
