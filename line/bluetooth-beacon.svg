@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="BLE beacon broadcasting proximity signals to a smartphone with a location marker">
+<ellipse cx="104" cy="302" rx="80" ry="36"/>
+<path d="M24 302V350C24 398 184 398 184 350V302"/>
+<path d="M208 266Q228 286 208 306M240 246Q272 286 240 326M272 226Q312 286 272 346" stroke-linecap="round"/>
+<rect x="320" y="40" width="168" height="432" rx="28"/>
+<rect x="340" y="64" width="128" height="382" rx="16"/>
+<path d="M384 88H424" stroke-linecap="round"/>
+<path d="M404 326C392 310 366 286 366 260A38 38 0 1 1 442 260C442 286 416 310 404 326Z"/>
+<circle cx="404" cy="260" r="12"/>
+</svg>

@@ -1,0 +1,33 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Sensor publishes messages to a broker that distributes them to two subscribers">
+<defs>
+<linearGradient id="publish" x1="100" y1="256" x2="192" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#50D7CF"/><stop offset="1" stop-color="#69B8FF"/></linearGradient>
+<linearGradient id="distribute" x1="324" y1="256" x2="400" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#69B8FF"/><stop offset="1" stop-color="#B7A1FF"/></linearGradient>
+</defs>
+<path d="M108 248H161L154 241Q148 235 154 229Q160 223 166 229L187 250Q193 256 187 262L166 283Q160 289 154 283Q148 277 154 271L161 264H108Q100 264 100 256Q100 248 108 248Z" fill="url(#publish)"/>
+<g fill="url(#distribute)">
+<path d="M325 196L372 123L365 125Q357 127 355 119Q353 111 361 109L386 103Q396 101 398 111L402 136Q403 144 395 145Q387 146 386 138L385 132L339 204Q335 211 328 207Q321 203 325 196Z"/>
+<path d="M325 316L372 389L365 387Q357 385 355 393Q353 401 361 403L386 409Q396 411 398 401L402 376Q403 368 395 367Q387 366 386 374L385 380L339 308Q335 301 328 305Q321 309 325 316Z"/>
+</g>
+<g fill="#FFCB70">
+<rect x="130" y="210" width="28" height="28" rx="6"/>
+<rect x="316" y="132" width="28" height="28" rx="6"/>
+<rect x="316" y="352" width="28" height="28" rx="6"/>
+</g>
+<g>
+<rect x="24" y="212" width="72" height="88" rx="18" fill="#50D7CF"/>
+<circle cx="60" cy="256" r="12" fill="#125A60"/>
+</g>
+<g>
+<rect x="192" y="180" width="128" height="152" rx="20" fill="#69B8FF"/>
+<rect x="216" y="220" width="80" height="16" rx="8" fill="#19558C"/>
+<rect x="216" y="276" width="56" height="16" rx="8" fill="#19558C"/>
+</g>
+<g fill="#B7A1FF">
+<rect x="400" y="32" width="88" height="112" rx="16"/>
+<rect x="400" y="368" width="88" height="112" rx="16"/>
+</g>
+<g fill="#514080">
+<rect x="416" y="48" width="56" height="56" rx="8"/>
+<rect x="416" y="384" width="56" height="56" rx="8"/>
+</g>
+</svg>

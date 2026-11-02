@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Nearby sensors connected to a local analysis processor with a secondary cloud connection">
+<defs>
+<linearGradient id="local" x1="96" y1="0" x2="180" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#50D7CF"/>
+<stop offset="1" stop-color="#69B8FF"/>
+</linearGradient>
+<linearGradient id="cloud-link" x1="280" y1="208" x2="312" y2="132" gradientUnits="userSpaceOnUse">
+<stop stop-color="#69B8FF"/>
+<stop offset="1" stop-color="#A899D4"/>
+</linearGradient>
+</defs>
+<path d="M96 276H180M96 420H180" fill="none" stroke="url(#local)" stroke-width="16" stroke-linecap="round"/>
+<path d="M280 208V144Q280 132 292 132H312" fill="none" stroke="url(#cloud-link)" stroke-width="10" stroke-linecap="round"/>
+<g fill="#50D7CF">
+<rect x="24" y="240" width="72" height="72" rx="18"/>
+<rect x="24" y="384" width="72" height="72" rx="18"/>
+</g>
+<g fill="#125A60">
+<circle cx="60" cy="276" r="12"/>
+<circle cx="60" cy="420" r="12"/>
+</g>
+<g>
+<rect x="180" y="208" width="200" height="264" rx="24" fill="#69B8FF"/>
+<path d="M216 264V416H344" fill="none" stroke="#19558C" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M236 372L268 324L296 348L336 288" fill="none" stroke="#7A4A10" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M340 164H458C475 164 488 151 488 134C488 116 474 102 456 102C454 72 432 48 404 48C376 48 354 68 348 100C328 98 312 114 312 136C312 152 324 164 340 164Z" fill="#A899D4"/>
+</svg>

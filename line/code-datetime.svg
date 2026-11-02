@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Code datetime">
+<path d="M48 80H328Q352 80 352 104V232A124 124 0 0 0 296 440H48Q24 440 24 416V104Q24 80 48 80ZM24 168H352"/>
+<path d="M104 28V60M272 28V60" stroke-linecap="round"/>
+<path d="M88 224H120V256H88ZM168 224H200V256H168ZM88 304H120V336H88ZM168 304H200V336H168Z"/>
+<path d="M488 352A104 104 0 1 0 280 352A104 104 0 1 0 488 352ZM384 292V352L424 376" stroke-linecap="round"/>
+</svg>

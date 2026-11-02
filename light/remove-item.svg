@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>移除</title>
+<defs>
+<linearGradient id="remove-light" x1="92" y1="92" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#DC2626"/>
+<stop offset="0.5" stop-color="#EA4430"/>
+<stop offset="1" stop-color="#F97316"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#remove-light)"/>
+<path fill="#FFF5EB" d="M140 232Q128 232 128 244V268Q128 280 140 280H372Q384 280 384 268V244Q384 232 372 232Z"/>
+</svg>

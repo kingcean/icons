@@ -1,4 +1,15 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="24" y="80" width="464" height="352" rx="32" fill="#4D8EFF"/>
-<path d="M56 80H456Q488 80 488 112L278 278Q256 296 234 278L24 112Q24 80 56 80Z" fill="#9DE4FF"/>
+<defs>
+<linearGradient id="body" x1="24" y1="80" x2="488" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="0.55" stop-color="#4D8EFF"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+<linearGradient id="flap" x1="256" y1="80" x2="256" y2="296" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#CFFAFE"/>
+<stop offset="1" stop-color="#7DD3FC"/>
+</linearGradient>
+</defs>
+<rect x="24" y="80" width="464" height="352" rx="32" fill="url(#body)"/>
+<path d="M56 80H456Q488 80 488 112L278 278Q256 296 234 278L24 112Q24 80 56 80Z" fill="url(#flap)"/>
 </svg>

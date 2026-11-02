@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<clipPath id="open-mail-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM92 100H420V272H92Z"/>
+</clipPath>
+</defs>
+<path d="M40 204L234 46Q256 28 278 46L472 204Z" clip-path="url(#open-mail-gap)"/>
+<path fill-rule="evenodd" d="M128 112H384Q408 112 408 136V253L278 332Q256 350 234 332L104 253V136Q104 112 128 112ZM152 164Q144 164 144 172V180Q144 188 152 188H360Q368 188 368 180V172Q368 164 360 164ZM152 212Q144 212 144 220V228Q144 236 152 236H312Q320 236 320 228V220Q320 212 312 212Z"/>
+<path d="M24 232Q24 212 40 224L234 350Q256 368 278 350L472 224Q488 212 488 232V440Q488 464 464 464H48Q24 464 24 440Z"/>
+</svg>

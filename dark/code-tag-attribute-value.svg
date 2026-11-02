@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code tag attribute value">
+<defs>
+<linearGradient id="value" x1="72" y1="24" x2="440" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="48" fill="url(#value)"/>
+<path d="M132 166Q144 152 156 164Q168 174 156 186L100 256L156 326Q168 338 156 348Q144 360 132 346L68 266Q60 256 68 246ZM380 166Q368 152 356 164Q344 174 356 186L412 256L356 326Q344 338 356 348Q368 360 380 346L444 266Q452 256 444 246Z" fill="#263F65"/>
+<path d="M209 233Q204 222 215 217Q226 212 231 223L256 276L281 223Q286 212 297 217Q308 222 303 233L267 309Q256 326 245 309Z" fill="#563D1A"/>
+<path d="M188 196Q200 196 200 208V236Q200 248 188 248Q176 248 176 236V208Q176 196 188 196ZM324 196Q336 196 336 208V236Q336 248 324 248Q312 248 312 236V208Q312 196 324 196Z" fill="#21594F"/>
+</svg>

@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Magnetic contact sensor on a partly opened window">
+<path fill="#7798B9" fill-rule="evenodd" d="M64 12H448Q484 12 484 48V464Q484 500 448 500H64Q28 500 28 464V48Q28 12 64 12ZM64 36Q52 36 52 48V464Q52 476 64 476H448Q460 476 460 464V48Q460 36 448 36Z"/>
+<path fill="#146BC4" fill-rule="evenodd" d="M180 76Q180 50 206 54L422 98Q444 102 444 124V404Q444 426 422 430L206 474Q180 478 180 452ZM204 78V450L418 406Q420 406 420 404V124Q420 122 418 122Z"/>
+<rect x="24" y="192" width="96" height="152" rx="20" fill="#087F8C"/>
+<rect x="168" y="208" width="64" height="120" rx="16" fill="#E99A2D"/>
+</svg>

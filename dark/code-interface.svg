@@ -1,0 +1,6 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="接口：小圆环通过横线连接较大的蓝色圆环">
+<rect x="96" y="244" width="80" height="24" rx="12" fill="#50D7CF"/>
+<path fill-rule="evenodd" d="M64 216A40 40 0 1 0 64 296A40 40 0 1 0 64 216ZM64 232A24 24 0 1 0 64 280A24 24 0 1 0 64 232Z" fill="#50D7CF"/>
+<path fill-rule="evenodd" d="M328 96A160 160 0 1 0 328 416A160 160 0 1 0 328 96ZM328 136A120 120 0 1 0 328 376A120 120 0 1 0 328 136Z" fill="#69B8FF"/>
+<path d="M168 256A160 160 0 0 1 488 256H468A140 140 0 0 0 188 256Z" fill="#A9EEE5"/>
+</svg>

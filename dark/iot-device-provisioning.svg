@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Smartphone enrolling a smart device into a wireless network">
+<defs>
+<linearGradient id="setup" x1="180" y1="324" x2="293" y2="324" gradientUnits="userSpaceOnUse">
+<stop stop-color="#69B8FF"/>
+<stop offset="1" stop-color="#50D7CF"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="24" y="88" width="144" height="360" rx="24" fill="#69B8FF"/>
+<rect x="44" y="112" width="104" height="264" rx="12" fill="#19558C"/>
+<rect x="76" y="404" width="40" height="16" rx="8" fill="#19558C"/>
+</g>
+<path d="M188 316H261L250 305Q244 299 250 293Q256 287 262 293L287 318Q293 324 287 330L262 355Q256 361 250 355Q244 349 250 343L261 332H188Q180 332 180 324Q180 316 188 316Z" fill="url(#setup)"/>
+<g>
+<rect x="304" y="260" width="168" height="188" rx="24" fill="#50D7CF"/>
+<circle cx="388" cy="326" r="20" fill="#125A60"/>
+<rect x="356" y="392" width="64" height="16" rx="8" fill="#7A4A10"/>
+</g>
+<g fill="#B7A1FF">
+<path d="M295 106Q388 30 481 106Q487 111 482 118Q477 125 471 118Q388 50 305 118Q299 125 294 118Q289 111 295 106Z"/>
+<path d="M321 142Q388 86 455 142Q461 147 456 154Q451 161 445 154Q388 106 331 154Q325 161 320 154Q315 147 321 142Z"/>
+<path d="M349 178Q388 146 427 178Q433 183 428 190Q423 197 417 190Q388 166 359 190Q353 197 348 190Q343 183 349 178Z"/>
+<circle cx="388" cy="214" r="10"/>
+</g>
+<path d="M426 201Q432 195 438 201L450 213L482 178Q488 171 494 177Q500 183 494 189L456 231Q450 237 444 231L426 213Q420 207 426 201Z" fill="#7BE59D"/>
+</svg>

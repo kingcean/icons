@@ -1,6 +1,21 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<rect x="24" y="80" width="400" height="352" rx="32" fill="#4D8EFF"/>
-<path d="M56 80H392Q424 80 424 112L246 254Q224 272 202 254L24 112Q24 80 56 80Z" fill="#9DE4FF"/>
-<circle cx="400" cy="384" r="88" fill="#FDA4AF"/>
-<path d="M400 324Q388 324 388 336V384Q388 396 400 396Q412 396 412 384V336Q412 324 400 324ZM412 420A12 12 0 1 0 388 420A12 12 0 1 0 412 420Z" fill="#881337"/>
+<defs>
+<linearGradient id="mail-body" x1="24" y1="80" x2="424" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="0.55" stop-color="#4D8EFF"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+<linearGradient id="mail-flap" x1="224" y1="80" x2="224" y2="266" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#CFFAFE"/>
+<stop offset="1" stop-color="#7DD3FC"/>
+</linearGradient>
+<linearGradient id="spam-badge" x1="312" y1="272" x2="472" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FDA4AF"/>
+<stop offset="1" stop-color="#FB7185"/>
+</linearGradient>
+</defs>
+<rect x="24" y="80" width="400" height="352" rx="32" fill="url(#mail-body)"/>
+<path d="M56 80H392Q424 80 424 112L246 256Q224 274 202 256L24 112Q24 80 56 80Z" fill="url(#mail-flap)"/>
+<circle cx="392" cy="352" r="96" fill="url(#spam-badge)"/>
+<path d="M380 302V358Q380 370 392 370Q404 370 404 358V302Q404 290 392 290Q380 290 380 302ZM404 398A12 12 0 1 0 380 398A12 12 0 1 0 404 398Z" fill="#881337"/>
 </svg>

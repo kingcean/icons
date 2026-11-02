@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="Code datetime">
+<path fill-rule="evenodd" d="M48 80H328Q352 80 352 104V156H24V104Q24 80 48 80ZM24 176H352V232A124 124 0 0 0 296 440H48Q24 440 24 416ZM88 224V256H120V224ZM168 224V256H200V224ZM88 304V336H120V304ZM168 304V336H200V304Z"/>
+<rect x="92" y="28" width="24" height="40" rx="12"/>
+<rect x="260" y="28" width="24" height="40" rx="12"/>
+<path fill-rule="evenodd" d="M488 352A104 104 0 1 0 280 352A104 104 0 1 0 488 352ZM464 352A80 80 0 1 1 304 352A80 80 0 1 1 464 352ZM372 292Q372 280 384 280Q396 280 396 292V345L430 366Q440 372 434 382Q428 392 418 386L378 362Q372 358 372 352Z"/>
+</svg>

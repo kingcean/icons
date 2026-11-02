@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="代码枚举">
+<rect x="24" y="48" width="112" height="112" rx="12"/>
+<rect x="24" y="200" width="112" height="112" rx="12"/>
+<rect x="24" y="352" width="112" height="112" rx="12"/>
+<path d="M192 84H468Q488 84 488 104Q488 124 468 124H192Q172 124 172 104Q172 84 192 84ZM192 236H468Q488 236 488 256Q488 276 468 276H192Q172 276 172 256Q172 236 192 236ZM192 388H468Q488 388 488 408Q488 428 468 428H192Q172 428 172 408Q172 388 192 388Z"/>
+</svg>

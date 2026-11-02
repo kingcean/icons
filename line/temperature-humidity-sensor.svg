@@ -1,0 +1,14 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Wireless temperature and humidity sensor">
+<rect x="48" y="112" width="416" height="376" rx="40"/>
+<g>
+<path d="M160 328V224Q160 208 176 208Q192 208 192 224V328A36 36 0 1 1 160 328Z"/>
+<path d="M176 252V360" stroke-linecap="round"/>
+</g>
+<path d="M328 224C316 246 280 290 280 328A48 48 0 0 0 376 328C376 290 340 246 328 224Z"/>
+<path d="M160 440H192M240 440H272M320 440H352" stroke-linecap="round"/>
+<g>
+<path d="M208 40Q256 4 304 40M228 64Q256 44 284 64" stroke-linecap="round"/>
+<circle cx="256" cy="86" r="8"/>
+</g>
+</svg>

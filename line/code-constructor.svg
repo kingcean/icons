@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="构造函数">
+<g transform="translate(-14 59) scale(.78)">
+<path d="M244 30Q256 24 268 30L452 120Q464 126 464 140V364Q464 378 452 384L268 474Q256 480 244 474L60 384Q48 378 48 364V140Q48 126 60 120Z"/>
+<path d="M52 128L256 228L460 128M256 228V478" stroke-linecap="round"/>
+</g>
+<path d="M362 256H486M424 194V318" stroke-linecap="round"/>
+</svg>

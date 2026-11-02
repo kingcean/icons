@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Wireless soil moisture probe beside plant roots in a soil cutaway">
+<path d="M48 304H124V424Q124 456 164 456Q204 456 204 424V304H464Q488 304 488 328V464Q488 488 464 488H48Q24 488 24 464V328Q24 304 48 304Z"/>
+<g>
+<rect x="104" y="120" width="120" height="112" rx="24"/>
+<rect x="144" y="244" width="40" height="192" rx="16"/>
+<path d="M164 144C156 158 144 173 144 184A20 20 0 0 0 184 184C184 173 172 158 164 144Z"/>
+</g>
+<g>
+<path d="M116 44Q164 8 212 44M136 72Q164 52 192 72" stroke-linecap="round"/>
+<circle cx="164" cy="96" r="8"/>
+</g>
+<g>
+<path d="M352 288V244M352 272C312 272 288 250 288 216C328 216 352 238 352 272ZM352 252C352 218 376 196 416 196C416 230 392 252 352 252Z" stroke-linecap="round"/>
+<path d="M352 324V452M352 344L308 330M352 360L402 336M352 384L308 406M352 404L392 430" stroke-linecap="round"/>
+</g>
+</svg>

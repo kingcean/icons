@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Ambient light sensor receiving three rays from the sun">
+<g fill="#FFCB70">
+<circle cx="112" cy="104" r="44"/>
+<path d="M112 24V40M112 168V184M32 104H48M176 104H192M56 48L68 60M156 148L168 160M56 160L68 148M156 60L168 48" fill="none" stroke="#FFCB70" stroke-width="16" stroke-linecap="round"/>
+</g>
+<path d="M103 200L219 240Q227 243 224 251Q221 259 213 256L97 216Q89 213 92 205Q95 197 103 200ZM147 189L267 241Q275 244 272 251Q269 259 261 255L141 203Q133 200 136 193Q139 185 147 189ZM196 161L316 241Q323 246 319 252Q314 259 308 255L188 175Q181 170 185 164Q190 157 196 161Z" fill="#EAB65D"/>
+<g>
+<rect x="160" y="268" width="328" height="220" rx="32" fill="#69B8FF"/>
+<rect x="200" y="292" width="160" height="56" rx="12" fill="#7A4A10"/>
+<rect x="256" y="416" width="80" height="16" rx="8" fill="#125A60"/>
+</g>
+</svg>

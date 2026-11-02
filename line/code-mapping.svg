@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Code debug symbol mapping">
+<rect x="24" y="136" width="208" height="240" rx="24"/>
+<path d="M100 212L64 256L100 300M156 212L192 256L156 300" stroke-linecap="round"/>
+<path d="M252 256H328M300 228L328 256L300 284" stroke-linecap="round"/>
+<path d="M392 202V190Q392 174 420 174Q448 174 448 190V202ZM400 174L388 150M440 174L452 150M380 236L352 212M380 276H352M380 312L352 340M460 236L488 212M460 276H488M460 312L488 340" stroke-linecap="round"/>
+<rect x="380" y="214" width="80" height="124" rx="40"/>
+</svg>

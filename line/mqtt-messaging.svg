@@ -1,0 +1,23 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Sensor publishes messages to a broker that distributes them to two subscribers">
+<g>
+<path d="M108 256H180M164 240L180 256L164 272M332 200L388 112M366 118L388 112L392 134M332 312L388 400M366 394L388 400L392 378" stroke-linecap="round"/>
+<rect x="130" y="210" width="28" height="28" rx="6"/>
+<rect x="340" y="140" width="28" height="28" rx="6"/>
+<rect x="340" y="344" width="28" height="28" rx="6"/>
+</g>
+<g>
+<rect x="24" y="212" width="72" height="88" rx="18"/>
+<circle cx="60" cy="256" r="12"/>
+</g>
+<g>
+<rect x="192" y="180" width="128" height="152" rx="20"/>
+<path d="M216 228H296M216 284H272" stroke-linecap="round"/>
+</g>
+<g>
+<rect x="400" y="32" width="88" height="112" rx="16"/>
+<rect x="416" y="48" width="56" height="56" rx="8"/>
+<rect x="400" y="368" width="88" height="112" rx="16"/>
+<rect x="416" y="384" width="56" height="56" rx="8"/>
+</g>
+</svg>

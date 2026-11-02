@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code debug symbol mapping">
+<defs>
+<linearGradient id="mapping" x1="248" y1="256" x2="340" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="136" width="208" height="240" rx="24" fill="#B596EE"/>
+<path d="M92 204L56 248Q50 256 56 264L92 308Q100 316 108 308Q116 300 108 292L80 256L108 220Q116 212 108 204Q100 196 92 204ZM164 204Q156 196 148 204Q140 212 148 220L176 256L148 292Q140 300 148 308Q156 316 164 308L200 264Q206 256 200 248Z" fill="#372651"/>
+<path d="M260 244H300V222Q300 214 306 220L336 250Q342 256 336 262L306 292Q300 298 300 290V268H260Q248 268 248 256Q248 244 260 244Z" fill="url(#mapping)"/>
+<path d="M392 202V190Q392 181 402 177L380 154Q373 146 381 138Q389 130 396 138L420 164L444 138Q451 130 459 138Q467 146 460 154L438 177Q448 181 448 190V202Z" fill="#75E1CF"/>
+<path d="M380 236L352 212M380 276H352M380 312L352 340M460 236L488 212M460 276H488M460 312L488 340" fill="none" stroke="#75E1CF" stroke-width="24" stroke-linecap="round"/>
+<rect x="380" y="214" width="80" height="124" rx="40" fill="#8EDCFF"/>
+</svg>

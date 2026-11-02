@@ -1,11 +1,20 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<linearGradient id="forward-mail-arrow" x1="218" y1="282" x2="486" y2="422" gradientUnits="userSpaceOnUse">
+<linearGradient id="mail-body" x1="24" y1="80" x2="424" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.55" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+<linearGradient id="mail-flap" x1="224" y1="80" x2="224" y2="266" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A5F3FC"/>
+<stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="mail-arrow" x1="218" y1="282" x2="486" y2="422" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#F59E0B"/>
 <stop offset="1" stop-color="#EA580C"/>
 </linearGradient>
 </defs>
-<rect x="24" y="80" width="400" height="352" rx="32" fill="#2563EB"/>
-<path d="M56 80H392Q424 80 424 112L246 254Q224 272 202 254L24 112Q24 80 56 80Z" fill="#67C9F5"/>
-<path d="M236 334H433L401 302Q391 292 401 282Q411 272 421 282L481 342Q491 352 481 362L421 422Q411 432 401 422Q391 412 401 402L433 370H236Q218 370 218 352Q218 334 236 334Z" fill="url(#forward-mail-arrow)"/>
+<rect x="24" y="80" width="400" height="352" rx="32" fill="url(#mail-body)"/>
+<path d="M56 80H392Q424 80 424 112L246 256Q224 274 202 256L24 112Q24 80 56 80Z" fill="url(#mail-flap)"/>
+<path d="M236 334H433L401 302Q391 292 401 282Q411 272 421 282L481 342Q491 352 481 362L421 422Q411 432 401 422Q391 412 401 402L433 370H236Q218 370 218 352Q218 334 236 334Z" fill="url(#mail-arrow)"/>
 </svg>

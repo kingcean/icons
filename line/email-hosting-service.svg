@@ -1,19 +1,13 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
-<rect x="24" y="64" width="464" height="384" rx="32"/>
-<path d="M40 144H472"/>
-<rect x="64" y="192" width="88" height="48" rx="12"/>
-<rect x="64" y="264" width="88" height="48" rx="12"/>
-<rect x="64" y="336" width="88" height="48" rx="12"/>
-<path d="M84 216H132M84 288H132M84 360H132" stroke-linecap="round"/>
-<rect x="176" y="192" width="152" height="208" rx="16"/>
-<rect x="196" y="216" width="112" height="64" rx="10"/>
-<path d="M200 224L246 252Q252 256 258 252L304 224M200 312H304M200 344H280M200 376H256" stroke-linecap="round"/>
-<path d="M336 280H344" stroke-linecap="round"/>
-<rect x="352" y="192" width="96" height="208" rx="16"/>
-<path d="M364 252H436M364 308H436M372 224H408M372 280H408" stroke-linecap="round"/>
-<circle cx="424" cy="224" r="4"/>
-<circle cx="424" cy="280" r="4"/>
-<circle cx="400" cy="354" r="28"/>
-<path d="M386 370V340Q386 338 388 338H412Q414 338 414 340V370ZM394 346H406M394 354H406M398 370V362H402V370" stroke-linecap="round"/>
+<defs>
+<clipPath id="enterprise-mail-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 352A108 108 0 1 0 284 352A108 108 0 1 0 500 352Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#enterprise-mail-gap)"/>
+<path d="M48 112L202 242Q224 260 246 242L400 112" stroke-linecap="round" clip-path="url(#enterprise-mail-gap)"/>
+<circle cx="392" cy="352" r="96"/>
+<rect x="350" y="294" width="84" height="116" rx="8"/>
+<path d="M374 318V326M410 318V326M374 350V358M410 350V358M382 410V382H402V410" stroke-linecap="round"/>
 </svg>

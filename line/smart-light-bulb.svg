@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Smart LED light bulb with wireless control">
+<path d="M112 260C112 224 48 210 48 144C48 78 102 24 200 24C298 24 352 78 352 144C352 210 288 224 288 260Z"/>
+<path d="M112 272H288L274 330Q270 348 252 348H148Q130 348 126 330Z"/>
+<path d="M160 288L164 328M200 288V328M240 288L236 328" stroke-linecap="round"/>
+<rect x="128" y="360" width="144" height="96" rx="16"/>
+<path d="M144 392H256M144 424H256" stroke-linecap="round"/>
+<path d="M160 468H240Q236 488 216 488H184Q164 488 160 468Z"/>
+<path d="M376 100Q432 52 488 100M396 124Q432 94 468 124" stroke-linecap="round"/>
+<circle cx="432" cy="152" r="10"/>
+</svg>

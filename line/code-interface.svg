@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="接口：小圆环通过横线连接较大的圆环">
+<circle cx="64" cy="256" r="40"/>
+<path d="M104 256H168" stroke-linecap="round"/>
+<circle cx="328" cy="256" r="160"/>
+</svg>

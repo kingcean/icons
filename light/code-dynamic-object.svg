@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code dynamic object">
+<defs>
+<linearGradient id="dynamic" x1="444" y1="160" x2="362" y2="480" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFE49A"/>
+<stop offset="0.5" stop-color="#FFD16B"/>
+<stop offset="1" stop-color="#E9A52B"/>
+</linearGradient>
+</defs>
+<path d="M172 192L28 122L160 54Q172 48 184 54L316 122Z" fill="#E4D5FF"/>
+<path d="M28 122L172 192V430Q166 430 160 426L36 366Q24 360 24 346V134Q24 126 28 122Z" fill="#B18AE5"/>
+<path d="M172 192L316 122Q320 126 320 134V346Q320 360 308 366L184 426Q178 430 172 430Z" fill="#8056BE"/>
+<path d="M160 54Q172 48 184 54L308 114Q320 120 320 134V346Q320 360 308 366L184 426Q172 432 160 426L36 366Q24 360 24 346V134Q24 120 36 114ZM28 122L172 192L316 122M172 192V430" fill="none" stroke="#60418C" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M414 160H474Q486 160 480 172L428 280H478Q494 280 484 294L362 474Q350 490 356 470L384 348H350Q338 348 344 336L402 172Q406 160 414 160Z" fill="url(#dynamic)" stroke="#96651D" stroke-width="8" stroke-linejoin="round"/>
+</svg>

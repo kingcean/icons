@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Physical sensor and its digital twin with bidirectional state links">
+<defs>
+<linearGradient id="twin-link" x1="188" y1="0" x2="272" y2="0" gradientUnits="userSpaceOnUse">
+<stop stop-color="#087F8C"/>
+<stop offset="1" stop-color="#7256C8"/>
+</linearGradient>
+</defs>
+<g>
+<rect x="24" y="152" width="152" height="272" rx="24" fill="#087F8C"/>
+<circle cx="100" cy="240" r="24" fill="#A9EEE5"/>
+<rect x="76" y="348" width="48" height="16" rx="8" fill="#FFCB70"/>
+</g>
+<g>
+<rect x="284" y="64" width="204" height="384" rx="24" fill="#DFD5FF"/>
+<rect x="316" y="96" width="72" height="16" rx="8" fill="#7256C8"/>
+<path fill="#146BC4" fill-rule="evenodd" d="M336 152H440Q464 152 464 176V400Q464 424 440 424H336Q312 424 312 400V176Q312 152 336 152ZM336 168Q328 168 328 176V400Q328 408 336 408H440Q448 408 448 400V176Q448 168 440 168Z"/>
+<circle cx="388" cy="240" r="24" fill="#087F8C"/>
+<rect x="364" y="348" width="48" height="16" rx="8" fill="#B87419"/>
+</g>
+<g fill="url(#twin-link)">
+<path d="M190 234L206 218Q212 212 218 218Q224 224 218 230L216 232H244L242 230Q236 224 242 218Q248 212 254 218L270 234Q276 240 270 246L254 262Q248 268 242 262Q236 256 242 250L244 248H216L218 250Q224 256 218 262Q212 268 206 262L190 246Q184 240 190 234Z"/>
+<path d="M190 350L206 334Q212 328 218 334Q224 340 218 346L216 348H244L242 346Q236 340 242 334Q248 328 254 334L270 350Q276 356 270 362L254 378Q248 384 242 378Q236 372 242 366L244 364H216L218 366Q224 372 218 378Q212 384 206 378L190 362Q184 356 190 350Z"/>
+</g>
+</svg>

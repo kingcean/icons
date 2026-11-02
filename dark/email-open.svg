@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="open-mail-lid" x1="256" y1="36" x2="256" y2="368" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#93C5FD"/>
+<stop offset="1" stop-color="#6366F1"/>
+</linearGradient>
+<linearGradient id="open-mail-paper" x1="104" y1="112" x2="408" y2="360" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F0FDFA"/>
+<stop offset="1" stop-color="#CFFAFE"/>
+</linearGradient>
+<linearGradient id="open-mail-body" x1="24" y1="216" x2="488" y2="464" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="0.55" stop-color="#4D8EFF"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+</defs>
+<path d="M24 232V216L234 46Q256 28 278 46L488 216V232L278 350Q256 368 234 350Z" fill="url(#open-mail-lid)"/>
+<rect x="104" y="112" width="304" height="264" rx="24" fill="url(#open-mail-paper)"/>
+<path d="M152 164Q144 164 144 172V180Q144 188 152 188H360Q368 188 368 180V172Q368 164 360 164ZM152 212Q144 212 144 220V228Q144 236 152 236H312Q320 236 320 228V220Q320 212 312 212Z" fill="#0E7490"/>
+<path d="M24 232Q24 212 40 224L234 350Q256 368 278 350L472 224Q488 212 488 232V440Q488 464 464 464H48Q24 464 24 440Z" fill="url(#open-mail-body)"/>
+</svg>

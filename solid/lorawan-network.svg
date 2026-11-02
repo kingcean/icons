@@ -1,0 +1,22 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<defs>
+<path id="sensor" fill-rule="evenodd" d="M40 0A40 40 0 1 0-40 0A40 40 0 1 0 40 0ZM-8 4V-20Q-8-28 0-28Q8-28 8-20V4C26 16 18 32 0 32C-18 32-26 16-8 4Z"/>
+<g id="wireless">
+<rect x="0" y="-7" width="22" height="14" rx="7"/>
+<rect x="34" y="-7" width="22" height="14" rx="7"/>
+<rect x="68" y="-7" width="22" height="14" rx="7"/>
+</g>
+</defs>
+<use href="#sensor" transform="translate(64 104)"/>
+<use href="#sensor" transform="translate(64 424)"/>
+<use href="#sensor" transform="translate(448 424)"/>
+<use href="#wireless" transform="translate(112 128) rotate(38.66)"/>
+<use href="#wireless" transform="translate(112 396) rotate(-36.87)"/>
+<use href="#wireless" transform="translate(400 396) rotate(216.87)"/>
+<rect x="248" y="104" width="16" height="44" rx="8"/>
+<path d="M227 90Q256 61 285 90Q290 95 285 101Q280 106 275 101Q256 82 237 101Q232 106 227 101Q222 96 227 90ZM207 66Q256 17 305 66Q310 71 305 77Q300 82 295 77Q256 38 217 77Q212 82 207 77Q202 72 207 66Z"/>
+<path fill-rule="evenodd" d="M232 160H280Q304 160 304 184V344Q304 368 280 368H232Q208 368 208 344V184Q208 160 232 160ZM240 200Q232 200 232 208V224Q232 232 240 232H272Q280 232 280 224V208Q280 200 272 200ZM239 273A7 7 0 0 0 239 287H273A7 7 0 0 0 273 273ZM239 305A7 7 0 0 0 239 319H273A7 7 0 0 0 273 305Z"/>
+<path d="M320 225H344Q353 225 353 216V112Q353 105 360 105H372Q379 105 379 112Q379 119 372 119H367V216Q367 239 344 239H320Q313 239 313 232Q313 225 320 225Z"/>
+<path fill-rule="evenodd" d="M404 48H468Q488 48 488 68V156Q488 176 468 176H404Q384 176 384 156V68Q384 48 404 48ZM407 81A7 7 0 0 0 407 95H465A7 7 0 0 0 465 81ZM407 113A7 7 0 0 0 407 127H465A7 7 0 0 0 465 113ZM418 148A6 6 0 1 0 406 148A6 6 0 1 0 418 148Z"/>
+</svg>

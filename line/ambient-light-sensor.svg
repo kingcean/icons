@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Ambient light sensor receiving three rays from the sun">
+<g>
+<circle cx="112" cy="104" r="44"/>
+<path d="M112 24V40M112 168V184M32 104H48M176 104H192M56 48L68 60M156 148L168 160M56 160L68 148M156 60L168 48" stroke-linecap="round"/>
+</g>
+<path d="M100 208L216 248M144 196L264 248M192 168L312 248" stroke-linecap="round"/>
+<g>
+<rect x="160" y="268" width="328" height="220" rx="32"/>
+<rect x="200" y="292" width="160" height="56" rx="12"/>
+<path d="M264 424H328" stroke-linecap="round"/>
+</g>
+</svg>

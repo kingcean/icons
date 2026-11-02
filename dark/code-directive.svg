@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code directive">
+<defs>
+<linearGradient id="stems" x1="384" y1="24" x2="128" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E0C7FF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+<linearGradient id="bars" x1="24" y1="160" x2="488" y2="352" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4EEFF"/>
+<stop offset="1" stop-color="#69B8FF"/>
+</linearGradient>
+</defs>
+<path d="M216 24Q236 24 232 44L148 468Q144 488 128 488Q108 488 112 468L196 44Q200 24 216 24ZM384 24Q404 24 400 44L316 468Q312 488 296 488Q276 488 280 468L364 44Q368 24 384 24Z" fill="url(#stems)"/>
+<path d="M44 160H468Q488 160 488 180Q488 200 468 200H44Q24 200 24 180Q24 160 44 160ZM44 312H468Q488 312 488 332Q488 352 468 352H44Q24 352 24 332Q24 312 44 312Z" fill="url(#bars)"/>
+</svg>

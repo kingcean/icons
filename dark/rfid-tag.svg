@@ -1,0 +1,9 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Passive RFID antenna label attached to a parcel corner">
+<path d="M24 190L296 296V488L38 388Q24 382 24 368Z" fill="#D79A55"/>
+<path d="M296 296L488 218V382Q488 398 474 404L296 488Z" fill="#B97939"/>
+<path d="M40 184L216 112L488 218L296 296L24 190Z" fill="#FFE0A2"/>
+<rect x="224" y="24" width="264" height="176" rx="20" fill="#50D7CF"/>
+<rect x="236" y="36" width="240" height="152" rx="10" fill="#125A60"/>
+<path d="M340 108H284V84H428V140H268V68H444V156H252V52H460V172H368V144Q368 140 364 140Q360 140 360 144V180H468V44H244V164H452V60H260V148H436V76H276V116H340Q344 116 344 112Q344 108 340 108Z" fill="#FFCB70"/>
+<rect x="348" y="100" width="32" height="32" rx="6" fill="#B7A1FF"/>
+</svg>

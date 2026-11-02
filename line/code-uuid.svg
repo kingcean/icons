@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Code UUID/GUID">
+<path d="M112 40H96Q64 40 64 72V208Q64 240 32 256Q64 272 64 304V440Q64 472 96 472H112M400 40H416Q448 40 448 72V208Q448 240 480 256Q448 272 448 304V440Q448 472 416 472H400" stroke-linecap="round"/>
+<path d="M164 224L196 128L228 224M176 192H216M280 148L308 128V224M280 224H336" stroke-linecap="round"/>
+<path d="M164 384V288H228M164 332H216M280 316Q280 288 308 288Q336 288 336 316V356Q336 384 308 384Q280 384 280 356Z" stroke-linecap="round"/>
+</svg>

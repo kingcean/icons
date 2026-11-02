@@ -1,0 +1,5 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code character">
+<rect x="28" y="132" width="24" height="84" rx="12" fill="#D8BCFF"/>
+<path fill-rule="evenodd" d="M316 220Q316 208 328 208Q340 208 340 220V364Q340 376 328 376Q316 376 316 364V351C301 367 280 376 256 376C204 376 172 339 172 292C172 245 204 208 256 208C280 208 301 217 316 233ZM316 292C316 258 293 232 256 232C219 232 196 258 196 292C196 326 219 352 256 352C293 352 316 326 316 292Z" fill="#8EDCFF"/>
+<rect x="460" y="132" width="24" height="84" rx="12" fill="#D8BCFF"/>
+</svg>

@@ -1,12 +1,21 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<linearGradient id="subscription-bell" x1="340" y1="308" x2="470" y2="440" gradientUnits="userSpaceOnUse">
-<stop offset="0" stop-color="#FBBF24"/>
+<linearGradient id="mail-body" x1="24" y1="80" x2="424" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.55" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+<linearGradient id="mail-flap" x1="224" y1="80" x2="224" y2="266" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A5F3FC"/>
+<stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="subscription-badge" x1="312" y1="272" x2="472" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#F59E0B"/>
 <stop offset="1" stop-color="#EA580C"/>
 </linearGradient>
 </defs>
-<rect x="24" y="80" width="400" height="352" rx="32" fill="#2563EB"/>
-<path d="M56 80H392Q424 80 424 112L246 254Q224 272 202 254L24 112Q24 80 56 80Z" fill="#67C9F5"/>
-<path d="M340 410V368A60 60 0 0 1 460 368V410L474 430Q482 440 470 440H330Q318 440 326 430Z" fill="url(#subscription-bell)"/>
-<path d="M384 456H416V464A16 16 0 0 1 384 464Z" fill="#D97706"/>
+<rect x="24" y="80" width="400" height="352" rx="32" fill="url(#mail-body)"/>
+<path d="M56 80H392Q424 80 424 112L246 256Q224 274 202 256L24 112Q24 80 56 80Z" fill="url(#mail-flap)"/>
+<circle cx="392" cy="352" r="96" fill="url(#subscription-badge)"/>
+<path d="M360 396A12 12 0 1 0 336 396A12 12 0 1 0 360 396ZM348 343A53 53 0 0 1 401 396A9 9 0 0 1 383 396A35 35 0 0 0 348 361A9 9 0 0 1 348 343ZM348 299A97 97 0 0 1 445 396A9 9 0 0 1 427 396A79 79 0 0 0 348 317A9 9 0 0 1 348 299Z" fill="#FFF7ED"/>
 </svg>

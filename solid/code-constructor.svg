@@ -1,0 +1,9 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="构造函数">
+<g transform="translate(-14 59) scale(.78)">
+<path d="M244 30Q256 24 268 30L448 118Q460 124 448 130L268 218Q256 224 244 218L64 130Q52 124 64 118Z"/>
+<path d="M48 146L248 244V476L60 384Q48 378 48 364Z"/>
+<path d="M264 244L464 146V364Q464 378 452 384L264 476Z"/>
+</g>
+<path d="M418 194H430Q438 194 438 202V242H478Q486 242 486 250V262Q486 270 478 270H438V310Q438 318 430 318H418Q410 318 410 310V270H370Q362 270 362 262V250Q362 242 370 242H410V202Q410 194 418 194Z"/>
+</svg>

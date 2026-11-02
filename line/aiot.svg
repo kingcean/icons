@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M80 148V268H132M432 148V268H380M256 372V388"/>
+<rect x="24" y="24" width="112" height="112" rx="24"/>
+<path d="M70 84V52Q70 42 80 42Q90 42 90 52V84C108 96 100 120 80 120C60 120 52 96 70 84ZM80 64V100"/>
+<rect x="376" y="24" width="112" height="112" rx="24"/>
+<path d="M426 64C406 48 422 32 437 44Q448 54 438 64ZM446 78C470 70 476 92 458 100Q444 105 440 88ZM424 90C420 114 396 108 400 90Q404 76 418 80Z"/>
+<circle cx="432" cy="78" r="6"/>
+<rect x="200" y="400" width="112" height="88" rx="24"/>
+<path d="M220 458A36 36 0 0 1 292 458M256 458L275 434"/>
+<rect x="144" y="176" width="224" height="184" rx="28"/>
+<path d="M184 152V164M224 152V164M264 152V164M304 152V164M184 372V384M224 372V384M288 372V384M328 372V384"/>
+<path d="M218 242L242 258M218 298L242 282M270 258L294 242M270 282L294 298"/>
+<circle cx="204" cy="232" r="12"/>
+<circle cx="204" cy="308" r="12"/>
+<circle cx="256" cy="270" r="12"/>
+<circle cx="308" cy="232" r="12"/>
+<circle cx="308" cy="308" r="12"/>
+</svg>

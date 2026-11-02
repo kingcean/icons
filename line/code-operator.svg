@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Code operator">
+<path d="M40 136H216M128 48V224" stroke-linecap="round"/>
+<path d="M296 136H472" stroke-linecap="round"/>
+<path d="M66 314L190 438M190 314L66 438" stroke-linecap="round"/>
+<g>
+<path d="M296 376H472" stroke-linecap="round"/>
+<circle cx="384" cy="304" r="16"/>
+<circle cx="384" cy="448" r="16"/>
+</g>
+</svg>

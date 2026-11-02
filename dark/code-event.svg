@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code event">
+<defs>
+<linearGradient id="event" x1="300" y1="24" x2="204" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF0BD"/>
+<stop offset="0.5" stop-color="#FFE49A"/>
+<stop offset="1" stop-color="#FFD16B"/>
+</linearGradient>
+</defs>
+<path d="M274 24H378Q390 24 384 36L298 196H412Q430 196 418 212L178 482Q164 498 170 476L220 316H100Q84 316 92 302L254 36Q261 24 274 24Z" fill="url(#event)" stroke="#E9A52B" stroke-width="10" stroke-linejoin="round"/>
+</svg>

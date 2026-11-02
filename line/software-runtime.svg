@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="软件运行时">
+<path d="M88 32H424Q448 32 448 56V288Q448 312 424 312H88Q64 312 64 288V56Q64 32 88 32ZM80 112H432"/>
+<path d="M208 164L160 212L208 260M304 164L352 212L304 260" stroke-linecap="round"/>
+<rect x="24" y="328" width="464" height="152" rx="28"/>
+<path d="M232 372Q232 366 238 370L290 398Q300 404 290 410L238 438Q232 442 232 436Z"/>
+</svg>

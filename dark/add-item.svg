@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<title>添加</title>
+<defs>
+<linearGradient id="add-dark" x1="92" y1="92" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#60A5FA"/>
+<stop offset="0.5" stop-color="#22D3EE"/>
+<stop offset="1" stop-color="#4ADE80"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#add-dark)"/>
+<path fill="#103D46" d="M244 128Q232 128 232 140V220Q232 232 220 232H140Q128 232 128 244V268Q128 280 140 280H220Q232 280 232 292V372Q232 384 244 384H268Q280 384 280 372V292Q280 280 292 280H372Q384 280 384 268V244Q384 232 372 232H292Q280 232 280 220V140Q280 128 268 128Z"/>
+</svg>

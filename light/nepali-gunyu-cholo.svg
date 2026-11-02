@@ -1,0 +1,26 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g>
+<path fill="#94384D" d="M174 236H338L364 474Q366 488 352 488H160Q146 488 148 474Z"/>
+<path fill="#BA5262" d="M174 252H326L280 488H160Q146 488 148 474Z"/>
+<path fill="none" stroke="#7D2E43" stroke-width="9" stroke-linecap="round" d="M326 268L286 468M224 284L206 458M338 378L346 452"/>
+<path fill="#E6B366" d="M150 464H362L364 476H148Z"/>
+<path fill="#E6B366" d="M182 268H316L314 280H180Z"/>
+</g>
+<g>
+<path fill="#CF4655" d="M184 24H218Q250 62 282 24H328Q340 24 350 38L472 164Q480 174 470 182L436 208Q426 216 418 206L346 122L338 228H174L166 122L94 206Q86 216 76 208L42 182Q32 174 40 164L162 38Q172 24 184 24Z"/>
+<path fill="#A82E45" d="M220 44L270 82L204 148V226H174L166 122L184 24H218Z"/>
+<path fill="none" stroke="#F0B46D" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M220 44L268 82L202 148V210"/>
+<path fill="#E5AA61" d="M54 152L104 190L112 182L62 144ZM458 152L450 144L400 182L408 190Z"/>
+<path fill="none" stroke="#F6CF91" stroke-width="7" stroke-linecap="round" d="M202 148Q174 128 176 146Q178 158 202 148Q225 128 228 146Q229 160 202 148M202 154L186 174M208 154L222 174"/>
+</g>
+<g>
+<path fill="#F1DFC5" stroke="#B58D62" stroke-width="7" stroke-linejoin="round" d="M302 24H336L386 322Q388 334 376 336L344 342Q332 344 330 332L294 110Z"/>
+<path fill="none" stroke="#C9696B" stroke-width="9" stroke-linecap="round" d="M316 42L308 108L344 320M350 324L372 320"/>
+</g>
+<g>
+<path fill="#D89D35" d="M294 238H320L330 362Q331 374 319 374H309Q299 374 298 362Z"/>
+<path fill="#A16C29" d="M300 346H328V356H300Z"/>
+<rect x="162" y="226" width="188" height="22" rx="7" fill="#E6B24E"/>
+<path fill="#B4792F" d="M174 234H338V240H174Z"/>
+</g>
+</svg>

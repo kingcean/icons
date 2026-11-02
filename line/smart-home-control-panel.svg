@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Smart home touchscreen with lighting, curtains, temperature and door security controls">
+<rect x="24" y="48" width="464" height="416" rx="32"/>
+<rect x="52" y="80" width="192" height="168" rx="20"/>
+<rect x="268" y="80" width="192" height="168" rx="20"/>
+<rect x="52" y="264" width="192" height="168" rx="20"/>
+<rect x="268" y="264" width="192" height="168" rx="20"/>
+<path d="M132 178C132 165 118 160 118 144A30 30 0 0 1 178 144C178 160 164 165 164 178Z"/>
+<rect x="132" y="190" width="32" height="16" rx="6"/>
+<path d="M310 112H418" stroke-linecap="round"/>
+<path d="M312 128H350Q350 156 332 168L350 206H312ZM378 128H416V206H378L396 168Q378 156 378 128Z"/>
+<path d="M132 366V310A16 16 0 0 1 164 310V366A28 28 0 1 1 132 366Z"/>
+<path d="M148 328V390" stroke-linecap="round"/>
+<path d="M342 334V318A22 22 0 0 1 386 318V334" stroke-linecap="round"/>
+<rect x="326" y="346" width="76" height="62" rx="12"/>
+<path d="M364 368V386" stroke-linecap="round"/>
+</svg>

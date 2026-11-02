@@ -1,0 +1,25 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Cloud delivers wireless firmware to an embedded processor device with an update arrow">
+<defs>
+<linearGradient id="update" x1="368" y1="380" x2="488" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7256C8"/>
+<stop offset="1" stop-color="#146BC4"/>
+</linearGradient>
+</defs>
+<path d="M60 164H210C232 164 248 148 248 128C248 106 232 90 210 90C206 52 178 24 144 24C108 24 80 50 74 86C48 82 24 100 24 126C24 148 40 164 60 164Z" fill="#146BC4"/>
+<g>
+<rect x="64" y="224" width="88" height="88" rx="16" fill="#E99A2D"/>
+<path d="M88 224H128V244Q128 248 124 248H92Q88 248 88 244Z" fill="#FFE0A2"/>
+<rect x="92" y="276" width="32" height="16" rx="8" fill="#8C5517"/>
+</g>
+<path d="M176 252Q188 264 176 276M194 240Q218 264 194 288M214 226Q250 264 214 302" fill="none" stroke="#7256C8" stroke-width="14" stroke-linecap="round"/>
+<g>
+<path d="M268 208H448Q472 208 472 232V356H428Q356 356 356 428V464H268Q244 464 244 440V232Q244 208 268 208Z" fill="#087F8C"/>
+<path d="M324 240V228M364 240V228M324 344V356M364 344V356M292 272H280M292 312H280M396 272H408M396 312H408" fill="none" stroke="#A9EEE5" stroke-width="16" stroke-linecap="round"/>
+<rect x="304" y="252" width="80" height="80" rx="12" fill="#A9EEE5"/>
+<rect x="328" y="276" width="32" height="32" rx="6" fill="#146BC4"/>
+</g>
+<g fill="url(#update)">
+<path d="M488 432A60 60 0 1 0 460 483Q453 487 449 480Q445 473 452 469A44 44 0 1 1 472 432Z"/>
+<path d="M452 424H472V404Q472 396 480 396Q488 396 488 404V432Q488 440 480 440H452Q444 440 444 432Q444 424 452 424Z"/>
+</g>
+</svg>

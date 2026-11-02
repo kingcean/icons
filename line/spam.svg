@@ -1,12 +1,13 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
 <defs>
-<clipPath id="spam-gap">
-<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 384A100 100 0 1 0 300 384A100 100 0 1 0 500 384Z"/>
+<clipPath id="spam-mail-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 352A108 108 0 1 0 284 352A108 108 0 1 0 500 352Z"/>
 </clipPath>
 </defs>
-<rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#spam-gap)"/>
-<path d="M48 112L202 234Q224 252 246 234L400 112" stroke-linecap="round"/>
-<circle cx="400" cy="384" r="88"/>
-<path d="M400 336V384M400 416V420" stroke-linecap="round"/>
+<rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#spam-mail-gap)"/>
+<path d="M48 112L202 242Q224 260 246 242L400 112" stroke-linecap="round" clip-path="url(#spam-mail-gap)"/>
+<circle cx="392" cy="352" r="96"/>
+<path d="M392 300V358" stroke-linecap="round"/>
+<circle cx="392" cy="398" r="8"/>
 </svg>

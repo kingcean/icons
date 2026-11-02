@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="代码结构体">
+<path d="M244 30Q256 24 268 30L448 118Q460 124 448 130L268 218Q256 224 244 218L64 130Q52 124 64 118Z"/>
+<path fill-rule="evenodd" d="M48 146L248 244V476L60 384Q48 378 48 364ZM48 214L248 312V328L48 230ZM48 300L248 398V414L48 316Z"/>
+<path fill-rule="evenodd" d="M264 244L464 146V364Q464 378 452 384L264 476ZM264 312L464 214V230L264 328ZM264 398L464 300V316L264 414Z"/>
+</svg>

@@ -1,0 +1,26 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Enclosed wireless relay module with screw terminals and switching contact">
+<path d="M44 148L336 68Q350 64 364 72L474 134Q488 142 474 146L180 226Q164 232 150 224L38 164Q24 154 44 148Z"/>
+<path d="M24 180L152 240V444L38 378Q24 370 24 356Z"/>
+<path d="M168 244L488 154V350Q488 368 470 374L192 452Q168 458 168 434Z"/>
+<g transform="matrix(1 -.28 0 1 0 0)">
+<rect x="190" y="364" width="52" height="76" rx="10"/>
+<rect x="258" y="364" width="52" height="76" rx="10"/>
+<rect x="326" y="364" width="52" height="76" rx="10"/>
+<rect x="394" y="364" width="52" height="76" rx="10"/>
+<circle cx="216" cy="402" r="16"/>
+<circle cx="284" cy="402" r="16"/>
+<circle cx="352" cy="402" r="16"/>
+<circle cx="420" cy="402" r="16"/>
+<path d="M206 412L226 392M274 412L294 392M342 412L362 392M410 412L430 392" stroke-linecap="round"/>
+</g>
+<g>
+<path d="M116 172L154 162M178 156L230 118M254 134L286 126" stroke-linecap="round"/>
+<ellipse cx="166" cy="158" rx="12" ry="8"/>
+<ellipse cx="242" cy="138" rx="12" ry="8"/>
+</g>
+<g>
+<path d="M318 146Q344 122 370 146M330 158Q344 146 358 158" stroke-linecap="round"/>
+<circle cx="344" cy="174" r="7"/>
+</g>
+</svg>

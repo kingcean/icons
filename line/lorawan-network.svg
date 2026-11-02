@@ -1,0 +1,20 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<g id="sensor">
+<circle cx="0" cy="0" r="40"/>
+<path d="M-8 4V-20Q-8-28 0-28Q8-28 8-20V4C26 16 18 32 0 32C-18 32-26 16-8 4Z"/>
+</g>
+</defs>
+<use href="#sensor" transform="translate(64 104)"/>
+<use href="#sensor" transform="translate(64 424)"/>
+<use href="#sensor" transform="translate(448 424)"/>
+<path d="M112 128L129 142M139 149L156 163M166 171L183 185M112 396L130 383M139 375L157 362M166 355L184 342M400 396L382 383M373 375L355 362M346 355L328 342"/>
+<rect x="208" y="160" width="96" height="208" rx="24"/>
+<path d="M256 148V72M232 96Q256 72 280 96M212 72Q256 28 300 72"/>
+<rect x="232" y="200" width="48" height="32" rx="8"/>
+<path d="M232 280H280M232 312H280M320 232H344Q360 232 360 216V112H372"/>
+<rect x="384" y="48" width="104" height="128" rx="20"/>
+<path d="M400 88H472M400 120H472"/>
+<circle cx="412" cy="148" r="6"/>
+</svg>

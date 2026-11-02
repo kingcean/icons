@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M48 212V300M68 204L84 228M84 284L68 308"/>
+<circle cx="48" cy="176" r="24"/>
+<circle cx="104" cy="256" r="24"/>
+<circle cx="48" cy="336" r="24"/>
+<path d="M140 240H184M172 228L184 240L172 252M184 272H140M152 260L140 272L152 284"/>
+<rect x="200" y="212" width="112" height="96" rx="20"/>
+<path d="M220 200V160M292 200V160"/>
+<rect x="220" y="248" width="40" height="24" rx="8"/>
+<circle cx="284" cy="260" r="6"/>
+<path d="M328 240H380M368 228L380 240L368 252M380 272H328M340 260L328 272L340 284"/>
+<path d="M384 220L424 184Q432 177 440 184L488 220M400 236V308Q400 320 412 320H452Q464 320 464 308V236"/>
+<rect x="416" y="252" width="32" height="36" rx="8"/>
+</svg>

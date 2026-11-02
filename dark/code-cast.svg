@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code cast">
+<defs>
+<linearGradient id="cast" x1="212" y1="256" x2="302" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="136" width="176" height="240" rx="24" fill="#B596EE"/>
+<path fill="#372651" fill-rule="evenodd" d="M101 201Q112 181 123 201L165 301Q171 313 159 318Q147 323 142 311L132 286H92L82 311Q77 323 65 318Q53 313 59 301ZM102 262H122L112 238Z"/>
+<path d="M224 244H264V224Q264 216 270 222L298 250Q304 256 298 262L270 290Q264 296 264 288V268H224Q212 268 212 256Q212 244 224 244Z" fill="url(#cast)"/>
+<rect x="312" y="136" width="176" height="240" rx="24" fill="#8EDCFF"/>
+<path fill="#24476B" fill-rule="evenodd" d="M364 194Q352 194 352 206V306Q352 318 364 318H400Q440 318 440 281Q440 265 428 254Q436 245 436 231Q436 194 398 194ZM376 218H398Q412 218 412 231Q412 244 398 244H376ZM376 268H400Q416 268 416 281Q416 294 400 294H376Z"/>
+</svg>

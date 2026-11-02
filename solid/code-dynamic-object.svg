@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="Code dynamic object">
+<path d="M160 54Q172 48 184 54L302 111Q314 117 302 123L184 180Q172 186 160 180L42 123Q30 117 42 111Z"/>
+<path d="M24 140L164 208V428L36 366Q24 360 24 346Z"/>
+<path d="M180 208L320 140V346Q320 360 308 366L180 428Z"/>
+<path d="M414 160H474Q486 160 480 172L428 280H478Q494 280 484 294L362 474Q350 490 356 470L384 348H350Q338 348 344 336L402 172Q406 160 414 160Z"/>
+</svg>

@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code delegate">
+<defs>
+<linearGradient id="dispatch" x1="248" y1="256" x2="340" y2="256" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="136" width="208" height="240" rx="24" fill="#B596EE"/>
+<path d="M74 184H104L176 328H146L120 276L90 328H58L104 244L88 212H74Z" fill="#372651"/>
+<path d="M260 244H300V222Q300 214 306 220L336 250Q342 256 336 262L306 292Q300 298 300 290V268H260Q248 268 248 256Q248 244 260 244Z" fill="url(#dispatch)"/>
+<path d="M420 238L354 206L414 174Q420 171 426 174L486 206Z" fill="#D5F6FF"/>
+<path d="M354 206L420 238V340L358 310Q352 307 352 300V212Q352 208 354 206Z" fill="#8EDCFF"/>
+<path d="M420 238L486 206Q488 208 488 212V300Q488 307 482 310L420 340Z" fill="#65A9EE"/>
+<path d="M414 174Q420 171 426 174L482 202Q488 205 488 212V300Q488 307 482 310L426 338Q420 341 414 338L358 310Q352 307 352 300V212Q352 205 358 202ZM354 206L420 238L486 206M420 238V340" fill="none" stroke="#D5AA79" stroke-width="8" stroke-linejoin="round"/>
+</svg>

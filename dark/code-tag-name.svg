@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code tag name">
+<defs>
+<linearGradient id="tag" x1="72" y1="24" x2="440" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#AA8AEB"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="48" fill="url(#tag)"/>
+<path d="M156 166Q168 152 180 164Q192 174 180 186L124 256L180 326Q192 338 180 348Q168 360 156 346L92 266Q84 256 92 246ZM356 166Q344 152 332 164Q320 174 332 186L388 256L332 326Q320 338 332 348Q344 360 356 346L420 266Q428 256 420 246Z" fill="#263F65"/>
+<path d="M208 212Q208 200 220 200Q232 200 232 212V214C262 192 304 204 304 240V308Q304 320 292 320Q280 320 280 308V240C280 214 232 214 232 240V308Q232 320 220 320Q208 320 208 308Z" fill="#563D1A"/>
+</svg>

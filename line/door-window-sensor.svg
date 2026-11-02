@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Magnetic contact sensor on a partly opened window">
+<path d="M40 176V48Q40 24 64 24H448Q472 24 472 48V464Q472 488 448 488H64Q40 488 40 464V360" stroke-linecap="round"/>
+<path d="M192 192V76Q192 64 204 66L420 110Q432 112 432 124V404Q432 416 420 418L204 462Q192 464 192 452V344" stroke-linecap="round"/>
+<rect x="24" y="192" width="96" height="152" rx="20"/>
+<rect x="168" y="208" width="64" height="120" rx="16"/>
+</svg>

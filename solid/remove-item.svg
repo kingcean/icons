@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon">
+<title>移除</title>
+<path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256ZM140 232Q128 232 128 244V268Q128 280 140 280H372Q384 280 384 268V244Q384 232 372 232Z"/>
+</svg>

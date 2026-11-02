@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line">
+<g transform="translate(512 0) scale(-1 1)">
+<path d="M416 256A160 160 0 1 1 256 96H336M280 32L338 90Q344 96 338 102L280 160"/>
+</g>
+</svg>

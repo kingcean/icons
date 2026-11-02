@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Code boxing">
+<rect x="24" y="136" width="208" height="240" rx="24"/>
+<path d="M98 226L126 206V306M102 306H150" stroke-linecap="round"/>
+<path d="M252 256H328M300 228L328 256L300 284" stroke-linecap="round"/>
+<path d="M414 174Q420 171 426 174L482 202Q488 205 488 212V300Q488 307 482 310L426 338Q420 341 414 338L358 310Q352 307 352 300V212Q352 205 358 202ZM354 206L420 238L486 206M420 238V340" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="正则表达式">
+<path d="M103 145Q112 136 121 145Q130 154 121 163L48 256L121 349Q130 358 121 367Q112 376 103 367L23 265Q16 256 23 247Z" fill="#D8BCFF"/>
+<circle cx="184" cy="320" r="16" fill="#7DE2C5"/>
+<g fill="#8EDCFF">
+<rect x="276" y="176" width="24" height="128" rx="12"/>
+<rect x="276" y="176" width="24" height="128" rx="12" transform="rotate(60 288 240)"/>
+<rect x="276" y="176" width="24" height="128" rx="12" transform="rotate(120 288 240)"/>
+</g>
+<path d="M409 145Q400 136 391 145Q382 154 391 163L464 256L391 349Q382 358 391 367Q400 376 409 367L489 265Q496 256 489 247Z" fill="#D8BCFF"/>
+</svg>

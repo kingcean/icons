@@ -1,0 +1,7 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="计算机软件的性能">
+<rect x="24" y="64" width="464" height="384" rx="32"/>
+<path d="M40 144H472"/>
+<path d="M144 338A112 112 0 0 1 368 338" stroke-linecap="round"/>
+<path d="M256 338L308 278" stroke-linecap="round"/>
+</svg>

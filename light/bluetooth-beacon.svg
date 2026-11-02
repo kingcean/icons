@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="BLE beacon broadcasting proximity signals to a smartphone with a location marker">
+<path d="M24 302V350C24 398 184 398 184 350V302Z" fill="#087F8C"/>
+<ellipse cx="104" cy="302" rx="80" ry="36" fill="#39B6D5"/>
+<path d="M202 272Q216 286 202 300Q196 306 202 312Q208 318 214 312Q240 286 214 260Q208 254 202 260Q196 266 202 272ZM234 252Q262 286 234 320Q229 326 235 331Q241 336 246 330Q284 286 246 242Q241 236 235 241Q229 246 234 252ZM266 232Q302 286 266 340Q262 347 269 351Q276 355 280 348Q324 286 280 224Q276 217 269 221Q262 225 266 232Z" fill="#7256C8"/>
+<rect x="320" y="40" width="168" height="432" rx="28" fill="#146BC4"/>
+<rect x="340" y="64" width="128" height="382" rx="16" fill="#A9EEE5"/>
+<rect x="376" y="80" width="56" height="16" rx="8" fill="#125A60"/>
+<path d="M404 326C392 310 366 286 366 260A38 38 0 1 1 442 260C442 286 416 310 404 326Z" fill="#7256C8"/>
+<circle cx="404" cy="260" r="12" fill="#FFCB70"/>
+</svg>

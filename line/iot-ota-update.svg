@@ -1,0 +1,15 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Cloud delivers wireless firmware to an embedded processor device with an update arrow">
+<path d="M60 164H210C232 164 248 148 248 128C248 106 232 90 210 90C206 52 178 24 144 24C108 24 80 50 74 86C48 82 24 100 24 126C24 148 40 164 60 164Z"/>
+<g>
+<rect x="64" y="224" width="88" height="88" rx="16"/>
+<path d="M88 224V248H128V224M92 284H124" stroke-linecap="round"/>
+</g>
+<path d="M176 252Q188 264 176 276M194 240Q218 264 194 288M214 226Q250 264 214 302" stroke-linecap="round"/>
+<g>
+<path d="M268 208H448Q472 208 472 232V356H428Q356 356 356 428V464H268Q244 464 244 440V232Q244 208 268 208Z"/>
+<rect x="304" y="252" width="80" height="80" rx="12"/>
+<path d="M324 240V228M364 240V228M324 344V356M364 344V356M292 272H280M292 312H280M396 272H408M396 312H408" stroke-linecap="round"/>
+</g>
+<path d="M480 432A52 52 0 1 0 456 476M452 432H480V404" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code tag namespace">
+<defs>
+<linearGradient id="namespace" x1="72" y1="24" x2="440" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9871CD"/>
+<stop offset="1" stop-color="#6244A1"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="48" fill="url(#namespace)"/>
+<path d="M144 166Q156 152 168 164Q180 174 168 186L112 256L168 326Q180 338 168 348Q156 360 144 346L80 266Q72 256 80 246ZM368 166Q356 152 344 164Q332 174 344 186L400 256L344 326Q332 338 344 348Q356 360 368 346L432 266Q440 256 432 246Z" fill="#D4F3FF"/>
+<path d="M188 212Q188 200 200 200Q212 200 212 212V214C242 192 284 204 284 240V308Q284 320 272 320Q260 320 260 308V240C260 214 212 214 212 240V308Q212 320 200 320Q188 320 188 308Z" fill="#FFD16B"/>
+<path d="M312 220A14 14 0 1 0 312 248A14 14 0 1 0 312 220ZM312 264A14 14 0 1 0 312 292A14 14 0 1 0 312 264Z" fill="#B6F1D8"/>
+</svg>

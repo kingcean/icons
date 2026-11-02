@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Water leak sensor beside a puddle with an underside probe inset and alert badge">
+<path d="M92 352C124 334 178 340 208 354C242 370 262 346 298 350C334 354 342 378 388 372C436 366 488 386 488 420C488 454 434 464 392 458C350 452 330 480 276 480C222 480 204 458 156 464C100 472 24 452 24 416C24 386 58 370 92 352Z"/>
+<g>
+<ellipse cx="176" cy="204" rx="148" ry="64"/>
+<path d="M28 204V252C28 337 324 337 324 252V204"/>
+</g>
+<g transform="rotate(-16 404 264)">
+<ellipse cx="404" cy="264" rx="72" ry="50"/>
+<rect x="376" y="240" width="16" height="48" rx="8"/>
+<rect x="416" y="240" width="16" height="48" rx="8"/>
+</g>
+<g>
+<circle cx="294" cy="96" r="44"/>
+<path d="M294 74V98" stroke-linecap="round"/>
+<circle cx="294" cy="116" r="4"/>
+</g>
+</svg>

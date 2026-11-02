@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="Code comment">
+<path fill-rule="evenodd" d="M56 48H456Q488 48 488 80V344Q488 376 456 376H220L130 454Q112 470 112 446V376H56Q24 376 24 344V80Q24 48 56 48ZM218 138Q224 126 236 132Q248 138 242 150L186 294Q180 306 168 300Q156 294 162 282ZM326 138Q332 126 344 132Q356 138 350 150L294 294Q288 306 276 300Q264 294 270 282Z"/>
+</svg>

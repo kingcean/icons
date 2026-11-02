@@ -1,0 +1,18 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Physical sensor and its digital twin with bidirectional state links">
+<g>
+<rect x="24" y="152" width="152" height="272" rx="24"/>
+<circle cx="100" cy="240" r="24"/>
+<path d="M76 356H124" stroke-linecap="round"/>
+</g>
+<g>
+<rect x="284" y="64" width="204" height="384" rx="24"/>
+<path d="M316 104H388" stroke-linecap="round"/>
+<rect x="312" y="152" width="152" height="272" rx="24"/>
+<circle cx="388" cy="240" r="24"/>
+<path d="M364 356H412" stroke-linecap="round"/>
+</g>
+<g>
+<path d="M196 240H264M212 224L196 240L212 256M248 224L264 240L248 256M196 356H264M212 340L196 356L212 372M248 340L264 356L248 372" stroke-linecap="round"/>
+</g>
+</svg>

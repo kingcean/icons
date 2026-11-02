@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="sleeveClip">
+<path d="M164 38L148 44L28 164Q20 172 28 180L72 224Q80 232 88 224L164 148Z"/>
+</clipPath>
+<g id="sleeve" clip-path="url(#sleeveClip)">
+<path fill="#75458D" d="M16 24H176V240H16Z"/>
+<path fill="#3479B4" d="M112 80L172 140L148 164L88 104Z"/>
+<path fill="#399575" d="M88 104L148 164L124 188L64 128Z"/>
+<path fill="#EBC44E" d="M64 128L124 188L100 212L40 152Z"/>
+<path fill="#E7893F" d="M40 152L100 212L76 236L16 176Z"/>
+<path fill="#C74752" d="M16 176L76 236L48 264L-12 204Z"/>
+</g>
+</defs>
+<path fill="#38658D" d="M160 260H352L396 468Q400 488 380 488H132Q112 488 116 468Z"/>
+<path fill="none" stroke="#648BAD" stroke-width="10" stroke-linecap="round" d="M182 290L148 466M207 290L184 466M232 290L220 466M256 290V466M280 290L292 466M305 290L328 466M330 290L364 466"/>
+<use href="#sleeve"/>
+<use href="#sleeve" transform="translate(512 0) scale(-1 1)"/>
+<path fill="#C74752" d="M184 24H216L256 64L296 24H328L340 244H172Z"/>
+<path fill="#293548" d="M184 24H216L244 64V244H172ZM328 24H296L268 64V244H340Z"/>
+<path fill="none" stroke="#D8B56B" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" d="M202 44L190 220H236V72M310 44L322 220H276V72"/>
+<rect x="160" y="244" width="192" height="28" rx="8" fill="#287F7C"/>
+<path fill="#F2D38E" d="M186 258L200 248L214 258L200 268ZM242 258L256 248L270 258L256 268ZM298 258L312 248L326 258L312 268Z"/>
+</svg>

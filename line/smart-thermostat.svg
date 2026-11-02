@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Round smart thermostat with adjustment ring, thermometer display and wireless indicator">
+<circle cx="256" cy="256" r="232"/>
+<circle cx="256" cy="256" r="172"/>
+<path d="M256 44V64" stroke-linecap="round"/>
+<path d="M238 326V232Q238 214 256 214Q274 214 274 232V326A36 36 0 1 1 238 326Z"/>
+<path d="M256 258V358" stroke-linecap="round"/>
+<path d="M216 144Q256 112 296 144M236 164Q256 148 276 164" stroke-linecap="round"/>
+<circle cx="256" cy="184" r="7"/>
+</svg>

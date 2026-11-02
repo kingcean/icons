@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Radar presence sensor detecting a seated still person with subtle breathing">
+<g>
+<rect x="24" y="204" width="104" height="168" rx="24"/>
+<path d="M56 248H96M56 328H80" stroke-linecap="round"/>
+</g>
+<path d="M152 256Q168 288 152 320M180 236Q206 288 180 340M208 216Q244 288 208 360" stroke-linecap="round"/>
+<g>
+<circle cx="360" cy="80" r="48"/>
+<path d="M350 148H372Q396 148 400 172L420 294Q424 324 394 328H316V468Q316 488 296 488H248Q236 488 236 476Q236 464 248 464H280V308Q280 292 296 292H360L354 258H276Q264 258 264 246Q264 234 276 234H316L332 170Q336 148 350 148Z"/>
+</g>
+<path d="M354 204H362L368 190L378 218L384 204H394" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code header">
+<rect x="48" y="24" width="416" height="464" rx="24" fill="#443455"/>
+<path d="M72 24H440Q464 24 464 48V186H48V48Q48 24 72 24Z" fill="#8EDCFF"/>
+<path d="M208 72Q208 60 220 60Q232 60 232 72V98H280V72Q280 60 292 60Q304 60 304 72V148Q304 160 292 160Q280 160 280 148V122H232V148Q232 160 220 160Q208 160 208 148Z" fill="#24476B"/>
+<defs>
+<linearGradient id="arrowGradient" x1="172" y1="276" x2="356" y2="392" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#D8BCFF"/>
+<stop offset="1" stop-color="#A9C8FF"/>
+</linearGradient>
+</defs>
+<path d="M160 276Q160 264 172 264Q184 264 184 276V328Q184 340 196 340H327L308 321Q300 313 308 305Q316 297 324 305L364 345Q371 352 364 359L324 399Q316 407 308 399Q300 391 308 383L327 364H196Q160 364 160 328Z" fill="url(#arrowGradient)"/>
+<path d="M72 24H440Q464 24 464 48V464Q464 488 440 488H72Q48 488 48 464V48Q48 24 72 24ZM48 186H464" fill="none" stroke="#75AFD6" stroke-width="8" stroke-linejoin="round"/>
+</svg>

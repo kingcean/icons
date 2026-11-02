@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Passive RFID antenna label attached to a parcel corner">
+<path d="M208 116L40 184Q24 190 24 208V368Q24 382 38 388L278 482Q296 490 314 482L474 404Q488 398 488 382V218"/>
+<path d="M32 198L296 300L480 226M296 300V480" stroke-linecap="round"/>
+<rect x="224" y="24" width="264" height="176" rx="20"/>
+<path d="M340 112H280V80H432V144H264V64H448V160H248V48H464V176H364V144" stroke-linecap="round"/>
+<rect x="348" y="100" width="32" height="32" rx="6"/>
+</svg>

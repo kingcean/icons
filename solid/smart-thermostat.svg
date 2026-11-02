@@ -1,0 +1,6 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="Round smart thermostat with adjustment ring, thermometer display and wireless indicator">
+<path fill-rule="evenodd" d="M256 24A232 232 0 1 0 256 488A232 232 0 1 0 256 24ZM256 72A184 184 0 1 0 256 440A184 184 0 1 0 256 72ZM248 44V64A8 8 0 0 0 264 64V44A8 8 0 0 0 248 44Z"/>
+<path fill-rule="evenodd" d="M256 84A172 172 0 1 0 256 428A172 172 0 1 0 256 84ZM238 326V232Q238 214 256 214Q274 214 274 232V326A36 36 0 1 1 238 326ZM211 138Q256 102 301 138Q307 143 302 149Q297 155 291 150Q256 122 221 150Q215 155 210 149Q205 143 211 138ZM231 158Q256 138 281 158Q287 163 282 169Q277 175 271 170Q256 158 241 170Q235 175 230 169Q225 163 231 158ZM256 177A7 7 0 1 0 256 191A7 7 0 1 0 256 177Z"/>
+<rect x="249" y="251" width="14" height="114" rx="7"/>
+</svg>

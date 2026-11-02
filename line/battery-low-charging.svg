@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="bolt-clearance">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM250 150Q286 126 280 174L264 222H296Q336 222 316 258L244 360Q208 396 210 342L226 292H196Q160 292 176 254Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="120" width="416" height="272" rx="32"/>
+<rect x="456" y="208" width="32" height="96" rx="12"/>
+<path clip-path="url(#bolt-clearance)" d="M84 168H128Q140 168 140 180V332Q140 344 128 344H84Q72 344 72 332V180Q72 168 84 168Z"/>
+<path d="M260 164Q272 150 266 170L244 238H296Q310 238 302 250L232 348Q220 364 226 344L248 276H196Q182 276 190 264Z"/>
+</svg>

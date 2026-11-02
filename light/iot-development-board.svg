@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="IoT development board with microcontroller, shielded wireless module, antenna, USB and two pin header rows">
+<g transform="matrix(1 -.25 .35 .85 24 120)">
+<rect x="0" y="18" width="320" height="400" rx="24" fill="#125A60"/>
+<rect x="0" y="0" width="320" height="400" rx="24" fill="#087F8C"/>
+<rect x="84" y="24" width="152" height="132" rx="12" fill="#D3DEE8"/>
+<path d="M96 24H224Q236 24 236 36V76H84V36Q84 24 96 24Z" fill="#514080"/>
+<path d="M104 60V40H128V60H152V40H176V60H212" fill="none" stroke="#FFCB70" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M120 192V180M160 192V180M200 192V180M120 312V324M160 312V324M200 312V324M88 224H76M88 252H76M88 280H76M232 224H244M232 252H244M232 280H244" fill="none" stroke="#FFCB70" stroke-width="10" stroke-linecap="round"/>
+<rect x="100" y="204" width="120" height="96" rx="12" fill="#263649"/>
+<rect x="20" y="92" width="28" height="240" rx="10" fill="#263649"/>
+<rect x="272" y="92" width="28" height="240" rx="10" fill="#263649"/>
+<path d="M28 112H40V128H28ZM28 148H40V164H28ZM28 184H40V200H28ZM28 220H40V236H28ZM28 256H40V272H28ZM28 292H40V308H28ZM280 112H292V128H280ZM280 148H292V164H280ZM280 184H292V200H280ZM280 220H292V236H280ZM280 256H292V272H280ZM280 292H292V308H280Z" fill="#FFCB70"/>
+<rect x="120" y="352" width="80" height="60" rx="10" fill="#BCCAD5"/>
+<path d="M136 384H184V400H136Z" fill="#263649"/>
+</g>
+</svg>

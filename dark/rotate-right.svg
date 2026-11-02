@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="triangleOrange" x1="56" y1="218" x2="452" y2="452" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFD08A"/>
+<stop offset="1" stop-color="#FB923C"/>
+</linearGradient>
+<linearGradient id="arrow" x1="207" y1="286" x2="420" y2="102" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C4B5FD"/>
+<stop offset="1" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+<g transform="translate(512 0) scale(-1 1)">
+<path d="M56 230Q56 206 76 218L452 439Q473 452 449 452H75Q56 452 56 433Z" fill="url(#triangleOrange)"/>
+<path d="M328 302A108 108 0 0 0 328 86H248L259 78Q267 71 260 63Q253 56 245 63L211 94Q202 102 211 110L245 141Q253 148 260 141Q267 133 259 126L248 118H328A76 76 0 0 1 328 270Q312 270 312 286Q312 302 328 302Z" fill="url(#arrow)"/>
+</g>
+</svg>

@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code constant">
+<defs>
+<linearGradient id="constant" x1="72" y1="24" x2="440" y2="488" gradientUnits="userSpaceOnUse">
+<stop stop-color="#9871CD"/>
+<stop offset="1" stop-color="#6244A1"/>
+</linearGradient>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="48" fill="url(#constant)"/>
+<path d="M152 156H360Q376 156 376 172Q376 188 360 188H332V316Q332 324 340 324Q356 324 356 340Q356 356 340 356Q300 356 300 316V188H212V340Q212 356 196 356Q180 356 180 340V188H152Q136 188 136 172Q136 156 152 156Z" fill="#D4F3FF"/>
+</svg>

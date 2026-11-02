@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Code property">
+<defs>
+<linearGradient id="handle" x1="64" y1="464" x2="344" y2="184" gradientUnits="userSpaceOnUse">
+<stop stop-color="#AA8AEB"/>
+<stop offset="1" stop-color="#E0C7FF"/>
+</linearGradient>
+<linearGradient id="head" x1="300" y1="48" x2="448" y2="224" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B4EEFF"/>
+<stop offset="1" stop-color="#69B8FF"/>
+</linearGradient>
+</defs>
+<path fill="url(#handle)" fill-rule="evenodd" d="M420 28Q432 32 424 40L356 108L404 156L472 88Q480 80 484 92C510 180 432 264 344 240L120 464C98 486 62 486 40 464C18 442 18 406 40 384L264 160C240 72 318 -6 406 20ZM100 424A20 20 0 1 0 60 424A20 20 0 1 0 100 424Z"/>
+<path fill="url(#head)" d="M420 28Q432 32 424 40L356 108L404 156L472 88Q480 80 484 92C510 180 432 264 344 240L264 160C240 72 318 -6 406 20Z"/>
+</svg>

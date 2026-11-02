@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Nearby sensors connected to a local analysis processor with a secondary cloud connection">
+<g>
+<path d="M108 276H168M108 420H168M280 196V144Q280 132 292 132H300" stroke-linecap="round"/>
+</g>
+<g>
+<rect x="24" y="240" width="72" height="72" rx="18"/>
+<circle cx="60" cy="276" r="12"/>
+<rect x="24" y="384" width="72" height="72" rx="18"/>
+<circle cx="60" cy="420" r="12"/>
+</g>
+<g>
+<rect x="180" y="208" width="200" height="264" rx="24"/>
+<path d="M216 264V416H344M236 372L268 324L296 348L336 288" stroke-linecap="round"/>
+</g>
+<path d="M340 164H458C475 164 488 151 488 134C488 116 474 102 456 102C454 72 432 48 404 48C376 48 354 68 348 100C328 98 312 114 312 136C312 152 324 164 340 164Z"/>
+</svg>

@@ -2,11 +2,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
 <defs>
 <clipPath id="subscription-gap">
-<path clip-rule="evenodd" d="M0 0H512V512H0ZM316 452Q292 452 306 426L328 402V368A72 72 0 0 1 472 368V402L494 426Q508 452 484 452Z"/>
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM500 352A108 108 0 1 0 284 352A108 108 0 1 0 500 352Z"/>
 </clipPath>
 </defs>
 <rect x="24" y="80" width="400" height="352" rx="32" clip-path="url(#subscription-gap)"/>
-<path d="M48 112L202 234Q224 252 246 234L400 112" stroke-linecap="round"/>
-<path d="M340 410V368A60 60 0 0 1 460 368V410L474 430Q482 440 470 440H330Q318 440 326 430Z"/>
-<path d="M384 464A16 16 0 0 0 416 464" stroke-linecap="round"/>
+<path d="M48 112L202 242Q224 260 246 242L400 112" stroke-linecap="round" clip-path="url(#subscription-gap)"/>
+<circle cx="392" cy="352" r="96"/>
+<circle cx="348" cy="396" r="10"/>
+<path d="M348 352A44 44 0 0 1 392 396M348 308A88 88 0 0 1 436 396" stroke-linecap="round"/>
 </svg>

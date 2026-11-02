@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Wireless soil moisture probe beside plant roots in a soil cutaway">
+<rect x="24" y="304" width="464" height="184" rx="24" fill="#98613E"/>
+<g>
+<path d="M352 324V452M352 344L308 330M352 360L402 336M352 384L308 406M352 404L392 430" fill="none" stroke="#FFD49A" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M352 272C312 272 288 250 288 216C328 216 352 238 352 272Z" fill="#23864B"/>
+<path d="M352 252C352 218 376 196 416 196C416 230 392 252 352 252Z" fill="#55AB48"/>
+<rect x="344" y="244" width="16" height="68" rx="8" fill="#23864B"/>
+</g>
+<g>
+<rect x="144" y="220" width="40" height="216" rx="16" fill="#BCCAD5"/>
+<rect x="104" y="120" width="120" height="112" rx="24" fill="#087F8C"/>
+<path d="M164 144C156 158 144 173 144 184A20 20 0 0 0 184 184C184 173 172 158 164 144Z" fill="#A9EEE5"/>
+</g>
+<g fill="#7256C8">
+<path d="M111 38Q164-2 217 38Q223 43 218 49Q213 55 207 50Q164 18 121 50Q115 55 110 49Q105 43 111 38ZM131 66Q164 42 197 66Q203 71 198 77Q193 83 187 78Q164 62 141 78Q135 83 130 77Q125 71 131 66Z"/>
+<circle cx="164" cy="96" r="8"/>
+</g>
+</svg>

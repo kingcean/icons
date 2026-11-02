@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="Ambient light sensor receiving three rays from the sun">
+<g>
+<circle cx="112" cy="104" r="44"/>
+<rect x="104" y="16" width="16" height="32" rx="8"/>
+<rect x="104" y="160" width="16" height="32" rx="8"/>
+<rect x="24" y="96" width="32" height="16" rx="8"/>
+<rect x="168" y="96" width="32" height="16" rx="8"/>
+<path d="M50 54A8 8 0 0 1 62 42L74 54A8 8 0 0 1 62 66ZM150 154A8 8 0 0 1 162 142L174 154A8 8 0 0 1 162 166ZM50 154L62 142A8 8 0 0 1 74 154L62 166A8 8 0 0 1 50 154ZM150 54L162 42A8 8 0 0 1 174 54L162 66A8 8 0 0 1 150 54Z"/>
+</g>
+<path d="M103 200L219 240Q227 243 224 251Q221 259 213 256L97 216Q89 213 92 205Q95 197 103 200ZM147 189L267 241Q275 244 272 251Q269 259 261 255L141 203Q133 200 136 193Q139 185 147 189ZM196 161L316 241Q323 246 319 252Q314 259 308 255L188 175Q181 170 185 164Q190 157 196 161Z"/>
+<path fill-rule="evenodd" d="M192 268H456Q488 268 488 300V456Q488 488 456 488H192Q160 488 160 456V300Q160 268 192 268ZM212 292Q200 292 200 304V336Q200 348 212 348H348Q360 348 360 336V304Q360 292 348 292ZM264 416A8 8 0 0 0 264 432H328A8 8 0 0 0 328 416Z"/>
+</svg>
