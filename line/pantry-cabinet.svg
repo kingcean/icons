@@ -1,0 +1,16 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="136" y="24" width="240" height="432" rx="12"/>
+<path d="M156 48H356V432H156ZM156 168H356M156 284H356"/>
+<path d="M44 72L120 44V432L44 460Q32 464 32 452V88Q32 76 44 72ZM392 44L468 72Q480 76 480 88V452Q480 464 468 460L392 432Z"/>
+<path d="M64 240V280M448 240V280"/>
+<rect x="174" y="92" width="56" height="60" rx="10"/>
+<rect x="174" y="72" width="56" height="12" rx="4"/>
+<rect x="254" y="72" width="72" height="80" rx="8"/>
+<rect x="254" y="52" width="72" height="12" rx="4"/>
+<rect x="174" y="212" width="56" height="56" rx="10"/>
+<rect x="174" y="192" width="56" height="12" rx="4"/>
+<rect x="254" y="200" width="72" height="68" rx="8"/>
+<rect x="254" y="180" width="72" height="12" rx="4"/>
+<path d="M152 472H176V480Q176 488 168 488H160Q152 488 152 480ZM336 472H360V480Q360 488 352 488H344Q336 488 336 480Z"/>
+</svg>

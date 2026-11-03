@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="chair">
+<rect x="32" y="24" width="144" height="80" rx="16"/>
+<path d="M52 48H156M52 76H156M76 40V88M104 40V88M132 40V88"/>
+<rect x="32" y="116" width="144" height="32" rx="10"/>
+<path d="M48 160H68L64 178Q63 184 57 184H50Q44 184 45 178ZM140 160H160L163 178Q164 184 158 184H151Q145 184 144 178Z"/>
+</g>
+</defs>
+<use href="#chair"/>
+<use href="#chair" x="304"/>
+<ellipse cx="256" cy="246" rx="144" ry="74"/>
+<path d="M112 266C144 358 368 358 400 266V280C368 372 144 372 112 280Z"/>
+<rect x="244" y="356" width="24" height="36" rx="6"/>
+<path d="M220 404H292L306 414Q314 420 302 420H210Q198 420 206 414Z"/>
+<use href="#chair" y="310"/>
+<use href="#chair" x="304" y="310"/>
+</svg>

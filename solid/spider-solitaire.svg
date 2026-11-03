@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="top" d="M0 36V12Q0 0 12 0H28Q40 0 40 12V36Z"/>
+<path id="card" fill-rule="evenodd" d="M12 0H28Q40 0 40 12V100Q40 112 28 112H12Q0 112 0 100V12Q0 0 12 0Z M20 40C15 48 8 51 8 58C8 65 15 68 19 63L16 74H24L21 63C25 68 32 65 32 58C32 51 25 48 20 40Z"/>
+<g id="three">
+<use href="#top"/>
+<use href="#top" y="48"/>
+<use href="#card" y="96"/>
+</g>
+<g id="four">
+<use href="#top"/>
+<use href="#three" y="48"/>
+</g>
+<g id="five">
+<use href="#top"/>
+<use href="#four" y="48"/>
+</g>
+<g id="stock">
+<path fill-rule="evenodd" d="M10 0H34Q44 0 44 10V78Q44 88 34 88H10Q0 88 0 78V10Q0 0 10 0Z M12 20H32V68H12Z"/>
+<path d="M0 96H34Q40 96 44 92V98Q44 104 34 104H10Q0 104 0 96Z"/>
+</g>
+</defs>
+<use href="#four" x="24" y="40"/>
+<use href="#three" x="71" y="40"/>
+<use href="#five" x="118" y="40"/>
+<use href="#four" x="165" y="40"/>
+<path fill-rule="evenodd" d="M224 40H240Q252 40 252 52V76H212V52Q212 40 224 40Z M233 47L221 63V68H234V73H240V47Z M234 56V63H229Z"/>
+<path fill-rule="evenodd" d="M224 88H240Q252 88 252 100V124H212V100Q212 88 224 88Z M222 96V102H233Q238 105 231 107H227V112H231Q238 114 233 117H222V123H233C246 123 246 112 240 109C246 103 241 96 233 96Z"/>
+<path fill-rule="evenodd" d="M224 136H240Q252 136 252 148V172H212V148Q212 136 224 136Z M222 148H228Q229 141 235 146Q240 151 222 164V169H243V163H232C254 147 236 132 226 141Q222 144 222 148Z"/>
+<path fill-rule="evenodd" d="M224 184H240Q252 184 252 196V284Q252 296 240 296H224Q212 296 212 284V196Q212 184 224 184Z M229 200L221 225H227L229 219H235L237 225H243L235 200Z M232 208L234 214H230Z M232 241C227 249 220 252 220 259C220 266 227 269 231 264L228 275H236L233 264C237 269 244 266 244 259C244 252 237 249 232 241Z"/>
+<use href="#five" x="259" y="40"/>
+<use href="#three" x="306" y="40"/>
+<use href="#four" x="353" y="40"/>
+<use href="#five" x="400" y="40"/>
+<use href="#four" x="447" y="40"/>
+<use href="#stock" x="24" y="380"/>
+<use href="#stock" x="80" y="380"/>
+<use href="#stock" x="136" y="380"/>
+<use href="#stock" x="192" y="380"/>
+<use href="#stock" x="248" y="380"/>
+<circle cx="410" cy="396" r="15"/>
+<ellipse cx="410" cy="448" rx="25" ry="30"/>
+<path d="M387 433L362 414L348 388Q345 382 351 379Q357 376 360 382L372 406L394 423Z M385 445L352 438L335 419Q331 414 336 409Q341 405 346 410L360 427L389 433Z M387 455L360 464L346 482Q342 487 337 483Q332 479 336 474L352 453L385 443Z M397 471L378 486Q373 490 369 485Q365 480 370 476L390 460Z M433 433L458 414L472 388Q475 382 469 379Q463 376 460 382L448 406L426 423Z M435 445L468 438L485 419Q489 414 484 409Q479 405 474 410L460 427L431 433Z M433 455L460 464L474 482Q478 487 483 483Q488 479 484 474L468 453L435 443Z M423 471L442 486Q447 490 451 485Q455 480 450 476L430 460Z"/>
+</svg>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="cell" fill-rule="evenodd" d="M12 0H40Q52 0 52 12V68Q52 80 40 80H12Q0 80 0 68V12Q0 0 12 0Z M14 10Q10 10 10 14V66Q10 70 14 70H38Q42 70 42 66V14Q42 10 38 10Z"/>
+<path id="top" d="M0 32V12Q0 0 12 0H40Q52 0 52 12V32Z"/>
+<path id="card" fill-rule="evenodd" d="M12 0H40Q52 0 52 12V92Q52 104 40 104H12Q0 104 0 92V12Q0 0 12 0Z M26 34L38 52L26 70L14 52Z"/>
+<g id="three">
+<use href="#top"/>
+<use href="#top" y="44"/>
+<use href="#top" y="88"/>
+<use href="#card" y="132"/>
+</g>
+<g id="four">
+<use href="#top"/>
+<use href="#three" y="44"/>
+</g>
+</defs>
+<use href="#cell" x="20" y="24"/>
+<use href="#cell" x="80" y="24"/>
+<use href="#cell" x="140" y="24"/>
+<use href="#cell" x="200" y="24"/>
+<use href="#cell" x="260" y="24"/>
+<use href="#cell" x="320" y="24"/>
+<use href="#cell" x="380" y="24"/>
+<use href="#cell" x="440" y="24"/>
+<path d="M286 52C278 44 271 51 274 59C277 65 281 69 286 73C291 69 295 65 298 59C301 51 294 44 286 52Z"/>
+<path d="M346 47C341 55 334 58 334 65C334 72 341 74 345 70L342 80H350L347 70C351 74 358 72 358 65C358 58 351 55 346 47Z"/>
+<path d="M406 47L417 63L406 79L395 63Z"/>
+<path d="M463 61C457 56 460 47 466 47C472 47 475 56 469 61C480 55 485 70 477 72Q472 74 468 70L471 80H461L464 70Q460 74 455 72C447 70 452 55 463 61Z"/>
+<path d="M40 146V130H34Q30 130 33 126L43 116Q46 113 49 116L59 126Q62 130 58 130H52V146Z"/>
+<use href="#card" x="20" y="158"/>
+<use href="#top" x="20" y="274"/>
+<use href="#top" x="20" y="318"/>
+<use href="#card" x="20" y="362"/>
+<use href="#four" x="80" y="180"/>
+<use href="#three" x="140" y="180"/>
+<use href="#four" x="200" y="180"/>
+<use href="#three" x="260" y="180"/>
+<use href="#four" x="320" y="180"/>
+<use href="#three" x="380" y="180"/>
+<use href="#four" x="440" y="180"/>
+</svg>

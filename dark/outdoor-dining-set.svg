@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="chair">
+<path d="M48 88H68V142L64 178Q63 184 57 184H50Q44 184 45 178ZM140 88H160V142L163 178Q164 184 158 184H151Q145 184 144 178Z" fill="#A8C6DC"/>
+<path fill="#EBC395" fill-rule="evenodd" d="M48 24H160Q176 24 176 40V88Q176 104 160 104H48Q32 104 32 88V40Q32 24 48 24ZM56 44V56H80V44ZM92 44V56H116V44ZM128 44V56H152V44ZM56 72V84H80V72ZM92 72V84H116V72ZM128 72V84H152V72Z"/>
+<rect x="32" y="120" width="144" height="28" rx="10" fill="#6FA7C2"/>
+<rect x="32" y="112" width="144" height="28" rx="10" fill="#A4E3DD"/>
+</g>
+</defs>
+<use href="#chair"/>
+<use href="#chair" x="304"/>
+<path d="M244 312H268V404H244Z" fill="#A8C6DC"/>
+<path d="M220 396H292L306 410Q314 420 302 420H210Q198 420 206 410Z" fill="#8EB0C8"/>
+<path d="M112 246H400V280C368 372 144 372 112 280Z" fill="#BC8A5D"/>
+<ellipse cx="256" cy="246" rx="144" ry="74" fill="#F3D3A8"/>
+<use href="#chair" y="310"/>
+<use href="#chair" x="304" y="310"/>
+</svg>

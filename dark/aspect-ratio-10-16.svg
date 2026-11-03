@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="ratioGradient" x1="111" y1="24" x2="401" y2="488" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#B69AF3"/>
+<stop offset="0.5" stop-color="#78BCD8"/>
+<stop offset="1" stop-color="#54D6A0"/>
+</linearGradient>
+</defs>
+<rect x="135" y="48" width="242" height="416" rx="12" fill="url(#ratioGradient)" fill-opacity="0.6"/>
+<path fill="url(#ratioGradient)" fill-rule="evenodd" d="M135 24H377Q401 24 401 48V464Q401 488 377 488H135Q111 488 111 464V48Q111 24 135 24ZM147 48Q135 48 135 60V452Q135 464 147 464H365Q377 464 377 452V60Q377 48 365 48Z"/>
+</svg>

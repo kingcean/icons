@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="cards">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M482 230A64 64 0 1 1 354 230A64 64 0 1 1 482 230Z M446 270L466 256L500 308L480 328Z"/>
+</clipPath>
+</defs>
+<g clip-path="url(#cards)">
+<path d="M380 64H464Q488 64 488 88V400Q488 424 464 424H388V104Q388 88 380 80Z"/>
+<rect x="24" y="96" width="108" height="352" rx="24"/>
+<rect x="148" y="64" width="108" height="352" rx="24"/>
+<rect x="272" y="96" width="100" height="352" rx="24"/>
+</g>
+<g transform="translate(78 242) scale(.82)">
+<path d="M0 -18C-30 -40 -48 -16 -40 14C-32 44 -12 52 0 40C12 52 32 44 40 14C48 -16 30 -40 0 -18Z M0 -26Q0 -48 22 -50Q20 -30 0 -26Z"/>
+</g>
+<g transform="translate(202 210) scale(.82)">
+<path d="M0 -18C-30 -40 -48 -16 -40 14C-32 44 -12 52 0 40C12 52 32 44 40 14C48 -16 30 -40 0 -18Z M0 -26Q0 -48 22 -50Q20 -30 0 -26Z"/>
+</g>
+<g transform="translate(322 242) scale(.82)">
+<path d="M0 -18C-30 -40 -48 -16 -40 14C-32 44 -12 52 0 40C12 52 32 44 40 14C48 -16 30 -40 0 -18Z M0 -26Q0 -48 22 -50Q20 -30 0 -26Z"/>
+</g>
+<circle cx="418" cy="230" r="48"/>
+<path d="M448 268L480 314" stroke-linecap="round"/>
+<path d="M418 206C406 206 407 223 399 232C382 253 398 266 418 266C438 266 454 253 437 232C429 223 430 206 418 206Z M418 198Q418 186 430 184" stroke-linecap="round"/>
+</svg>

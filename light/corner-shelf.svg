@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="shelf">
+<path d="M48 60L256 24L464 60V88C464 144 48 144 48 88Z" fill="#93633F"/>
+<path d="M48 60L254 24Q256 23 258 24L464 60C464 116 48 116 48 60Z" fill="#D9A66E"/>
+</g>
+</defs>
+<path d="M248 32H264V434H248ZM40 60H56V480Q56 488 48 488Q40 488 40 480ZM456 60H472V480Q472 488 464 488Q456 488 456 480Z" fill="#59788F"/>
+<use href="#shelf"/>
+<use href="#shelf" y="90"/>
+<use href="#shelf" y="180"/>
+<use href="#shelf" y="270"/>
+<use href="#shelf" y="360"/>
+</svg>

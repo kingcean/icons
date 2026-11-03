@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="rear">
+<path clip-rule="evenodd" d="M0 0H512V512H0Z M180 186H332Q364 186 364 218V512H148V218Q148 186 180 186Z"/>
+</clipPath>
+</defs>
+<path d="M280 26A48 48 0 1 0 280 110C244 112 224  sixty 280 26Z" visibility="hidden"/>
+<path d="M280 26A48 48 0 1 0 280 110C244 112 224 62 280 26Z"/>
+<g clip-path="url(#rear)">
+<g transform="rotate(-16 150 280)">
+<rect x="64" y="132" width="172" height="304" rx="24"/>
+<path d="M112 214V202Q112 170 144 170Q176 170 176 202V214"/>
+<path d="M118 204V218Q118 248 144 248Q170 248 170 218V204Z"/>
+<path d="M96 302V288Q96 266 120 260L144 278L168 260Q192 266 192 288V302Z"/>
+</g>
+<g transform="rotate(16 362 280)">
+<rect x="276" y="132" width="172" height="304" rx="24"/>
+<path d="M316 256Q314 194 354 170Q362 164 370 170Q410 194 408 256Z"/>
+<path d="M340 206Q362 184 384 206V220Q384 246 362 246Q340 246 340 220Z"/>
+<circle cx="400" cy="314" r="24"/>
+<path d="M376 354H424M388 338V354M412 338V354"/>
+</g>
+</g>
+<rect x="164" y="202" width="184" height="286" rx="24"/>
+<path d="M208 326L202 278Q202 268 212 278L240 300Q256 294 272 300L300 278Q310 268 310 278L304 326L318 354Q321 360 314 366L276 414Q256 434 236 414L198 366Q191 360 194 354Z"/>
+<path d="M218 338L236 346M294 338L276 346M242 370H270L256 388Z M256 388V404"/>
+</svg>

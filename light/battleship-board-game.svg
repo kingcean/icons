@@ -1,0 +1,28 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g transform="matrix(1 .175 0 1 96 32)">
+<rect width="320" height="212" rx="20" fill="#28628E"/>
+<rect x="24" y="24" width="272" height="164" rx="8" fill="#173F62"/>
+<path d="M69 24V188M115 24V188M160 24V188M205 24V188M251 24V188M24 65H296M24 106H296M24 147H296" fill="none" stroke="#568DB2" stroke-width="5"/>
+<g fill="#F15B59" stroke="#A92E3F" stroke-width="4">
+<circle cx="92" cy="85" r="12"/>
+<circle cx="137" cy="85" r="12"/>
+<circle cx="182" cy="85" r="12"/>
+</g>
+<g fill="#FFF4DF" stroke="#C6D3DC" stroke-width="4">
+<circle cx="228" cy="44" r="12"/>
+<circle cx="47" cy="126" r="12"/>
+<circle cx="273" cy="167" r="12"/>
+</g>
+</g>
+<path d="M96 246L416 302V316L96 260Z" fill="#143A59"/>
+<g transform="matrix(1 .175 -.3 .65 96 260)">
+<rect y="12" width="320" height="240" rx="20" fill="#21577D"/>
+<rect width="320" height="240" rx="20" fill="#397DA5"/>
+<rect x="24" y="20" width="272" height="200" rx="8" fill="#B4DCE6"/>
+<path d="M69 20V220M115 20V220M160 20V220M205 20V220M251 20V220M24 60H296M24 100H296M24 140H296M24 180H296" fill="none" stroke="#5E9DB3" stroke-width="5"/>
+<path d="M44 36H136Q147 36 155 51L163 67Q167 80 152 80H44Q32 80 32 68V48Q32 36 44 36Z M173 102H242Q254 102 262 119Q270 138 252 138H173Q162 138 162 127V113Q162 102 173 102Z M85 157Q85 145 97 145H109Q121 145 121 157V197Q121 213 103 221Q85 213 85 197Z" fill="#56647C" stroke="#344458" stroke-width="5" stroke-linejoin="round"/>
+<rect x="60" y="43" width="64" height="23" rx="6" fill="#D3DCE5"/>
+<rect x="184" y="108" width="45" height="21" rx="6" fill="#D3DCE5"/>
+<rect x="92" y="159" width="22" height="32" rx="6" fill="#D3DCE5"/>
+</g>
+</svg>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="top" d="M0 36V12Q0 0 12 0H28Q40 0 40 12V36"/>
+<g id="card">
+<rect width="40" height="112" rx="12"/>
+<path d="M20 40C15 48 8 51 8 58C8 65 15 68 19 63L16 74H24L21 63C25 68 32 65 32 58C32 51 25 48 20 40Z"/>
+</g>
+<g id="three">
+<use href="#top"/>
+<use href="#top" y="48"/>
+<use href="#card" y="96"/>
+</g>
+<g id="four">
+<use href="#top"/>
+<use href="#three" y="48"/>
+</g>
+<g id="five">
+<use href="#top"/>
+<use href="#four" y="48"/>
+</g>
+<g id="stock">
+<rect width="44" height="88" rx="10"/>
+<path d="M0 100H34Q44 100 44 90M12 20H32V68H12Z"/>
+</g>
+</defs>
+<use href="#four" x="24" y="40"/>
+<use href="#three" x="71" y="40"/>
+<use href="#five" x="118" y="40"/>
+<use href="#four" x="165" y="40"/>
+<use href="#top" x="212" y="40"/>
+<use href="#top" x="212" y="88"/>
+<use href="#top" x="212" y="136"/>
+<rect x="212" y="184" width="40" height="112" rx="12"/>
+<path d="M236 54L226 69H239M236 54V78M225 103H233Q240 103 240 110Q240 117 233 117Q240 117 240 124Q240 131 225 131M225 154Q225 148 232 148Q240 148 240 155Q240 161 225 174H240M224 224L232 201L240 224M227 216H237" stroke-linecap="round"/>
+<path d="M232 241C227 249 220 252 220 259C220 266 227 269 231 264L228 275H236L233 264C237 269 244 266 244 259C244 252 237 249 232 241Z"/>
+<use href="#five" x="259" y="40"/>
+<use href="#three" x="306" y="40"/>
+<use href="#four" x="353" y="40"/>
+<use href="#five" x="400" y="40"/>
+<use href="#four" x="447" y="40"/>
+<use href="#stock" x="24" y="380"/>
+<use href="#stock" x="80" y="380"/>
+<use href="#stock" x="136" y="380"/>
+<use href="#stock" x="192" y="380"/>
+<use href="#stock" x="248" y="380"/>
+<circle cx="410" cy="400" r="15"/>
+<ellipse cx="410" cy="444" rx="25" ry="30"/>
+<path d="M388 427L366 411L354 386M386 440L356 432L340 414M386 451L356 458L340 478M392 466L374 480M432 427L454 411L466 386M434 440L464 432L480 414M434 451L464 458L480 478M428 466L446 480" stroke-linecap="round"/>
+</svg>
