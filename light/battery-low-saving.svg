@@ -1,0 +1,12 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<clipPath id="sapling-clearance">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM28 184C2 104 46 38 144 32C150 108 116 174 72 188V408H8V184Z"/>
+</clipPath>
+</defs>
+<rect x="432" y="208" width="56" height="96" rx="12" fill="#30556B"/>
+<path clip-path="url(#sapling-clearance)" fill="#42718B" fill-rule="evenodd" d="M56 120H408Q440 120 440 152V360Q440 392 408 392H56Q24 392 24 360V152Q24 120 56 120ZM72 152Q56 152 56 168V344Q56 360 72 360H392Q408 360 408 344V168Q408 152 392 152Z"/>
+<path d="M84 168H128Q140 168 140 180V332Q140 344 128 344H84Q72 344 72 332V180Q72 168 84 168Z" fill="#D94B45"/>
+<rect x="24" y="152" width="32" height="240" rx="16" fill="#2A9D68"/>
+<path d="M40 168C24 104 62 56 128 48C132 114 98 164 40 168Z" fill="#42AF58"/>
+</svg>

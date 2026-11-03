@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrows" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="1" stop-color="#5EEAD4"/>
+</linearGradient>
+</defs>
+<path fill="url(#arrows)" d="M246 34Q246 24 256 24Q266 24 266 34V122L273 115Q280 108 287 115Q294 122 287 129L263 153Q256 160 249 153L225 129Q218 122 225 115Q232 108 239 115L246 122Z"/>
+<rect x="64" y="176" width="384" height="32" rx="8" fill="#7DB4FF"/>
+<path fill="url(#arrows)" d="M134 238Q134 228 144 228Q154 228 154 238V322L161 315Q168 308 175 315Q182 322 175 329L151 353Q144 360 137 353L113 329Q106 322 113 315Q120 308 127 315L134 322ZM358 238Q358 228 368 228Q378 228 378 238V322L385 315Q392 308 399 315Q406 322 399 329L375 353Q368 360 361 353L337 329Q330 322 337 315Q344 308 351 315L358 322Z"/>
+<rect x="56" y="380" width="176" height="108" rx="12" fill="#C4B5FD"/>
+<rect x="280" y="380" width="176" height="108" rx="12" fill="#F9A8D4"/>
+</svg>

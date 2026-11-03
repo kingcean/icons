@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="禁用通知">
+<defs>
+<linearGradient id="bell" x1="144" y1="72" x2="368" y2="380" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF1A8"/>
+<stop offset="0.5" stop-color="#FFD45A"/>
+<stop offset="1" stop-color="#F5AF26"/>
+</linearGradient>
+<linearGradient id="slash" x1="36" y1="36" x2="476" y2="476" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FB923C"/>
+<stop offset="1" stop-color="#F43F5E"/>
+</linearGradient>
+</defs>
+<path fill="url(#bell)" d="M256 48C176 48 112 112 112 192V276Q112 310 84 336L76 344Q64 356 72 370Q76 380 92 380H420Q436 380 440 370Q448 356 436 344L428 336Q400 310 400 276V192C400 112 336 48 256 48Z"/>
+<path fill="#F2B333" d="M220 400H292V428A36 36 0 0 1 220 428Z"/>
+<path fill="url(#slash)" d="M36 56Q26 46 36 36Q46 26 56 36L476 456Q486 466 476 476Q466 486 456 476Z"/>
+</svg>

@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="routes" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="1" stop-color="#5EEAD4"/>
+</linearGradient>
+<linearGradient id="selected" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0" stop-color="#FDBA74"/>
+<stop offset="1" stop-color="#FBBF24"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="144" r="104" fill="#7DB4FF"/>
+<rect x="210" y="98" width="92" height="92" rx="16" fill="#C4B5FD"/>
+<g fill="#4C1D95">
+<circle cx="232" cy="120" r="9"/>
+<circle cx="256" cy="144" r="9"/>
+<circle cx="280" cy="168" r="9"/>
+</g>
+<path fill="url(#routes)" d="M136 138Q142 138 142 144Q142 150 136 150H96Q86 150 86 160V352L96 342Q100 338 105 342Q109 347 105 351L85 371Q80 376 75 371L55 351Q51 347 55 342Q60 338 64 342L74 352V160Q74 138 96 138ZM376 138H416Q438 138 438 160V352L448 342Q452 338 457 342Q461 347 457 351L437 371Q432 376 427 371L407 351Q403 347 407 342Q412 338 416 342L426 352V160Q426 150 416 150H376Q370 150 370 144Q370 138 376 138Z"/>
+<path fill="url(#selected)" d="M242 282Q242 268 256 268Q270 268 270 282V332H284Q292 332 286 340L262 368Q256 376 250 368L226 340Q220 332 228 332H242Z"/>
+<rect x="24" y="392" width="112" height="88" rx="12" fill="#C4B5FD"/>
+<rect x="200" y="392" width="112" height="88" rx="12" fill="#FBBF24"/>
+<rect x="376" y="392" width="112" height="88" rx="12" fill="#F9A8D4"/>
+</svg>

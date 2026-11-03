@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<rect x="24" y="128" width="288" height="256" rx="12"/>
+<rect x="96" y="184" width="144" height="144" rx="20"/>
+<circle cx="132" cy="220" r="10"/>
+<circle cx="168" cy="256" r="10"/>
+<circle cx="204" cy="292" r="10"/>
+<path d="M332 256H394M374 236L394 256L374 276"/>
+<circle cx="450" cy="256" r="38"/>
+</svg>

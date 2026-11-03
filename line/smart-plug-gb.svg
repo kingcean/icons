@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Three-quarter view of a GB smart plug with five-hole outlet, power button and wireless indicator">
+<path d="M412 112L464 60Q470 54 476 60L484 68Q490 74 484 80L432 132ZM412 208L458 162Q464 156 468 164L482 188Q486 194 480 200L434 246ZM412 292L462 242Q468 236 472 242L480 256Q484 262 478 268L428 318Z"/>
+<path d="M72 128L164 48H368Q400 48 400 80V368Q400 384 388 396L288 476M288 128L388 56"/>
+<rect x="32" y="128" width="272" height="360" rx="40"/>
+<path d="M132 190Q168 160 204 190M148 212Q168 196 188 212" stroke-linecap="round"/>
+<circle cx="168" cy="232" r="6"/>
+<rect x="116" y="260" width="24" height="44" rx="6"/>
+<rect x="196" y="260" width="24" height="44" rx="6"/>
+<rect x="158" y="320" width="20" height="36" rx="5"/>
+<path d="M114 360L124 354Q129 351 132 356L154 394Q157 399 152 402L142 408Q137 411 134 406L112 368Q109 363 114 360ZM212 354L222 360Q227 363 224 368L202 406Q199 411 194 408L184 402Q179 399 182 394L204 356Q207 351 212 354Z"/>
+<path d="M156 430A22 22 0 1 0 180 430M168 422V446" stroke-linecap="round"/>
+</svg>

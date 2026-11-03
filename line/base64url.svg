@@ -1,7 +1,6 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Base64URL">
-<rect x="24" y="24" width="464" height="464" rx="48"/>
-<path d="M216 100H184C143 100 120 133 120 180V248C120 278 142 296 168 296C198 296 220 275 220 244C220 216 200 196 172 196C144 196 120 216 120 244" stroke-linecap="round"/>
-<path d="M340 296V100L268 228Q264 236 272 236H372" stroke-linecap="round"/>
-<path d="M214 352H184A32 32 0 0 0 184 416H214M298 352H328A32 32 0 0 1 328 416H298M208 384H304" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Base64URL 编码">
+<rect x="24" y="96" width="464" height="320" rx="24"/>
+<path d="M148 178V274H172C208 274 208 226 172 226H148M172 226C212 226 212 178 172 178H148M272 182C236 166 224 198 224 234V246C224 286 280 286 280 246C280 212 224 212 224 244M348 274V178L300 242H364" stroke-linecap="round"/>
+<path d="M232 320H208A24 24 0 0 0 208 368H232M280 320H304A24 24 0 0 1 304 368H280M224 344H288" stroke-linecap="round"/>
 </svg>

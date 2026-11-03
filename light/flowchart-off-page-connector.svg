@@ -1,0 +1,14 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="arrow" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0891B2"/>
+<stop offset="1" stop-color="#0D9488"/>
+</linearGradient>
+<linearGradient id="connector" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+</defs>
+<path fill="url(#arrow)" d="M246 34Q246 24 256 24Q266 24 266 34V166L273 159Q280 152 287 159Q294 166 287 173L263 197Q256 204 249 197L225 173Q218 166 225 159Q232 152 239 159L246 166Z"/>
+<path fill="url(#connector)" d="M140 224H372Q384 224 384 236V360Q384 368 378 374L264 482Q256 490 248 482L134 374Q128 368 128 360V236Q128 224 140 224Z"/>
+</svg>

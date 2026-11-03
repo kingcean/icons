@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Three-quarter view of a Type B smart plug with polarized outlet, power button and wireless indicator">
+<path d="M412 112L464 60Q470 54 476 60L484 68Q490 74 484 80L432 132ZM412 208L464 156Q470 150 476 156L484 164Q490 170 484 176L432 228ZM412 292L450 254Q458 246 466 254Q474 262 466 270L428 308Z"/>
+<path d="M72 128L164 48H368Q400 48 400 80V368Q400 384 388 396L288 476M288 128L388 56"/>
+<rect x="32" y="128" width="272" height="360" rx="40"/>
+<path d="M132 190Q168 160 204 190M148 212Q168 196 188 212" stroke-linecap="round"/>
+<circle cx="168" cy="232" r="6"/>
+<rect x="120" y="272" width="24" height="64" rx="6"/>
+<rect x="192" y="272" width="24" height="52" rx="6"/>
+<path d="M148 358V350A20 20 0 0 1 188 350V358Q188 364 182 364H154Q148 364 148 358Z"/>
+<path d="M154 410A26 26 0 1 0 182 410M168 400V428" stroke-linecap="round"/>
+</svg>

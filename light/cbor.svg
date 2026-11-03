@@ -1,0 +1,15 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="CBOR 格式">
+<defs>
+<linearGradient id="cheque" x1="24" y1="96" x2="488" y2="416" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#EFF6FF"/>
+<stop offset="1" stop-color="#BFDBFE"/>
+</linearGradient>
+<linearGradient id="cbor" x1="120" y1="262" x2="376" y2="346" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0891B2"/>
+<stop offset="0.5" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+</defs>
+<rect x="24" y="96" width="464" height="320" rx="24" fill="url(#cheque)" stroke="#2563EB" stroke-width="12"/>
+<path fill="url(#cbor)" fill-rule="evenodd" transform="translate(0 -48)" d="M170 262H148Q120 262 120 290V318Q120 346 148 346H170Q176 346 176 340Q176 334 170 334H148Q132 334 132 318V290Q132 274 148 274H170Q176 274 176 268Q176 262 170 262ZM184 268Q184 262 190 262H214C242 262 252 290 232 304C255 319 241 346 214 346H190Q184 346 184 340ZM196 274V298H214C231 298 231 274 214 274ZM196 310V334H214C234 334 234 310 214 310ZM276 262Q248 262 248 290V318Q248 346 276 346Q304 346 304 318V290Q304 262 276 262ZM276 274Q264 274 264 290V318Q264 334 276 334Q288 334 288 318V290Q288 274 276 274ZM312 268Q312 262 318 262H342C375 262 382 303 353 311L373 336Q377 341 372 345Q367 349 363 344L338 312H324V340Q324 346 318 346Q312 346 312 340ZM324 274V300H342C363 300 363 274 342 274Z"/>
+</svg>

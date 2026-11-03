@@ -1,0 +1,13 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="请勿打扰通知：黄色铃铛和加粗的双 Z">
+<defs>
+<linearGradient id="bell" x1="144" y1="72" x2="368" y2="380" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFF1A8"/>
+<stop offset="0.5" stop-color="#FFD45A"/>
+<stop offset="1" stop-color="#F5AF26"/>
+</linearGradient>
+</defs>
+<path fill="url(#bell)" d="M256 48C176 48 112 112 112 192V276Q112 310 84 336L76 344Q64 356 72 370Q76 380 92 380H420Q436 380 440 370Q448 356 436 344L428 336Q400 310 400 276V192C400 112 336 48 256 48Z"/>
+<path fill="#F2B333" d="M220 400H292V428A36 36 0 0 1 220 428Z"/>
+<path fill="#7DB4FF" d="M328 28H464Q476 28 476 40Q476 46 471 50L358 156H464A12 12 0 0 1 464 180H328Q316 180 316 168Q316 162 321 158L434 52H328A12 12 0 0 1 328 28Z"/>
+<path fill="#6D28D9" d="M216 220H296Q308 220 308 232Q308 237 304 241L245 300H296A12 12 0 0 1 296 324H216Q204 324 204 312Q204 307 208 303L267 244H216A12 12 0 0 1 216 220Z"/>
+</svg>

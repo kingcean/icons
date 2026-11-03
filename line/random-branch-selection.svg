@@ -1,0 +1,13 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<circle cx="256" cy="144" r="104"/>
+<rect x="210" y="98" width="92" height="92" rx="16"/>
+<circle cx="232" cy="120" r="9"/>
+<circle cx="256" cy="144" r="9"/>
+<circle cx="280" cy="168" r="9"/>
+<path d="M136 144H96Q80 144 80 160V372M60 352L80 372L100 352M376 144H416Q432 144 432 160V372M412 352L432 372L452 352"/>
+<path d="M244 268H268V332H284Q292 332 286 340L262 368Q256 376 250 368L226 340Q220 332 228 332H244Z"/>
+<rect x="24" y="392" width="112" height="88" rx="12"/>
+<rect x="200" y="392" width="112" height="88" rx="12"/>
+<rect x="376" y="392" width="112" height="88" rx="12"/>
+</svg>

@@ -1,1 +1,4 @@
-﻿<?xml-stylesheet type="text/css" href="style.css"?><svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><path fill-rule="evenodd" d="M488 256A232 232 0 1 1 24 256A232 232 0 1 1 488 256Z M154 230H358A26 26 0 0 1 358 282H154A26 26 0 0 1 154 230Z"/></svg>
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="忙碌状态">
+<path fill-rule="evenodd" d="M256 24A232 232 0 1 1 256 488A232 232 0 1 1 256 24ZM188 136H324Q336 136 336 148V168Q336 188 320 204L276 248Q268 256 276 264L320 308Q336 324 336 344V364Q336 376 324 376H188Q176 376 176 364V344Q176 324 192 308L236 264Q244 256 236 248L192 204Q176 188 176 168V148Q176 136 188 136Z"/>
+</svg>

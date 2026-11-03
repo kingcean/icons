@@ -1,0 +1,5 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="CBOR 格式">
+<rect x="24" y="96" width="464" height="320" rx="24"/>
+<path d="M170 268H148Q126 268 126 290V318Q126 340 148 340H170M190 340V268H214C242 268 242 304 214 304H190M214 304C244 304 244 340 214 340H190M276 268Q254 268 254 290V318Q254 340 276 340Q298 340 298 318V290Q298 268 276 268ZM318 340V268H342C372 268 372 306 342 306H318M342 306L368 340" transform="translate(0 -48)" stroke-linecap="round"/>
+</svg>

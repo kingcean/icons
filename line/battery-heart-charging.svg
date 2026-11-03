@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="bolt-clearance">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM250 150Q286 126 280 174L264 222H296Q336 222 316 258L244 360Q208 396 210 342L226 292H196Q160 292 176 254Z"/>
+</clipPath>
+<clipPath id="heart-clearance">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM350 250C320 228 270 240 270 284C270 314 310 342 350 372C390 342 430 314 430 284C430 240 380 228 350 250Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="120" width="416" height="272" rx="32"/>
+<rect x="456" y="208" width="32" height="96" rx="12"/>
+<g clip-path="url(#bolt-clearance)">
+<path d="M84 168H128Q140 168 140 180V332Q140 344 128 344H84Q72 344 72 332V180Q72 168 84 168ZM168 168H212Q224 168 224 180V332Q224 344 212 344H168Q156 344 156 332V180Q156 168 168 168Z"/>
+<path clip-path="url(#heart-clearance)" d="M252 168H296Q308 168 308 180V332Q308 344 296 344H252Q240 344 240 332V180Q240 168 252 168Z"/>
+</g>
+<path d="M260 164Q272 150 266 170L244 238H296Q310 238 302 250L232 348Q220 364 226 344L248 276H196Q182 276 190 264Z"/>
+<path d="M350 272C328 246 286 252 286 284C286 306 318 328 350 352C382 328 414 306 414 284C414 252 372 246 350 272Z"/>
+</svg>

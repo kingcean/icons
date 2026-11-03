@@ -1,0 +1,11 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="离开状态">
+<defs>
+<linearGradient id="away" x1="92" y1="92" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFE89A"/>
+<stop offset="0.5" stop-color="#FFD05A"/>
+<stop offset="1" stop-color="#F5AD2B"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#away)"/>
+<path d="M240 136A16 16 0 0 1 272 136V240H344A16 16 0 0 1 344 272H256A16 16 0 0 1 240 256Z" fill="#59360F"/>
+</svg>

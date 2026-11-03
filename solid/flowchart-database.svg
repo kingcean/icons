@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path fill-rule="evenodd" d="M64 88C64 53 150 24 256 24C362 24 448 53 448 88V424C448 459 362 488 256 488C150 488 64 459 64 424ZM84 107C112 137 178 152 256 152C334 152 400 137 428 107V127C400 157 334 172 256 172C178 172 112 157 84 127Z"/>
+</svg>

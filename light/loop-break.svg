@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="loop" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="#0891B2"/>
+<stop offset="1" stop-color="#0D9488"/>
+</linearGradient>
+<linearGradient id="exit" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#EA580C"/>
+<stop offset="1" stop-color="#D97706"/>
+</linearGradient>
+</defs>
+<rect x="40" y="208" width="216" height="96" rx="12" fill="#7C3AED"/>
+<path fill="url(#loop)" d="M138 334Q138 324 148 324Q158 324 158 334V452Q158 468 174 468H294Q310 468 310 452V286Q310 276 320 276Q330 276 330 286V452Q330 488 294 488H174Q138 488 138 452ZM310 222V60Q310 44 294 44H174Q158 44 158 60V154L165 147Q172 140 179 147Q186 154 179 161L155 185Q148 192 141 185L117 161Q110 154 117 147Q124 140 131 147L138 154V60Q138 24 174 24H294Q330 24 330 60V222Q330 232 320 232Q310 232 310 222Z"/>
+<path fill="url(#exit)" d="M286 246H330L323 239Q316 232 323 225Q330 218 337 225L361 249Q368 256 361 263L337 287Q330 294 323 287Q316 280 323 273L330 266H286Q276 266 276 256Q276 246 286 246Z"/>
+<rect x="384" y="216" width="104" height="80" rx="12" fill="#2563EB"/>
+</svg>

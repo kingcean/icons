@@ -1,1 +1,11 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512"><circle cx="256" cy="256" r="232" fill="#FF6B7A"/><rect x="128" y="230" width="256" height="52" rx="26" fill="#491C28"/></svg>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="忙碌状态">
+<defs>
+<linearGradient id="busy" x1="92" y1="92" x2="420" y2="420" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FFAB7A"/>
+<stop offset="0.5" stop-color="#FF7B89"/>
+<stop offset="1" stop-color="#ED4D79"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="232" fill="url(#busy)"/>
+<path d="M188 136H324Q336 136 336 148V168Q336 188 320 204L276 248Q268 256 276 264L320 308Q336 324 336 344V364Q336 376 324 376H188Q176 376 176 364V344Q176 324 192 308L236 264Q244 256 236 248L192 204Q176 188 176 168V148Q176 136 188 136Z" fill="#491C28"/>
+</svg>

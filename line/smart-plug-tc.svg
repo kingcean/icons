@@ -1,0 +1,11 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon" role="img" aria-label="Three-quarter view of a Type C smart plug with two round outlet holes, power button and wireless indicator">
+<path d="M412 112L464 60Q472 52 480 60Q488 68 480 76L428 128ZM412 208L464 156Q472 148 480 156Q488 164 480 172L428 224Z"/>
+<path d="M72 128L164 48H368Q400 48 400 80V368Q400 384 388 396L288 476M288 128L388 56"/>
+<rect x="32" y="128" width="272" height="360" rx="40"/>
+<path d="M132 190Q168 160 204 190M148 212Q168 196 188 212" stroke-linecap="round"/>
+<circle cx="168" cy="232" r="6"/>
+<circle cx="132" cy="310" r="20"/>
+<circle cx="204" cy="310" r="20"/>
+<path d="M154 396A26 26 0 1 0 182 396M168 386V414" stroke-linecap="round"/>
+</svg>

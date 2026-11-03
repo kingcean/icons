@@ -1,0 +1,4 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="solid-icon" role="img" aria-label="离开状态">
+<path fill-rule="evenodd" d="M256 24A232 232 0 1 1 256 488A232 232 0 1 1 256 24ZM240 136A16 16 0 0 1 272 136V240H344A16 16 0 0 1 344 272H256A16 16 0 0 1 240 256Z"/>
+</svg>
