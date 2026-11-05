@@ -1,0 +1,54 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="window">
+<rect width="44" height="56" rx="2" fill="#497A8A" stroke="#E8D9BB" stroke-width="6"/>
+<path d="M4 4H18V24H4Z" fill="#92C0CA"/>
+<path d="M22 0V56M0 28H44" fill="none" stroke="#F5E9D2" stroke-width="5"/>
+<path d="M-5-8H49V-2H-5ZM-5 58H49V64H-5Z" fill="#D8C6A7"/>
+</g>
+<g id="entrance">
+<path d="M-30 78V22A30 30 0 0 1 30 22V78Z" fill="#E6D4B2"/>
+<path d="M-22 24V22A22 22 0 0 1 22 22V24Z" fill="#87B4BD"/>
+<path d="M0 0V22M-16 7L0 22L16 7M-22 24H22" fill="none" stroke="#F4E8D0" stroke-width="4"/>
+<path d="M-22 28H22V78H-22Z" fill="currentColor"/>
+<path d="M-13 36H13V50H-13ZM-13 59H13V72H-13Z" fill="none" stroke="#C5AC7C" stroke-width="3"/>
+<circle cx="13" cy="55" r="3" fill="#D8B466"/>
+<path d="M-30 78H30V88H-30ZM-36 88H36V98H-36ZM-42 98H42V108H-42Z" fill="#A9A99B"/>
+<path d="M-30 78H30M-36 88H36M-42 98H42" fill="none" stroke="#E2DECB" stroke-width="5"/>
+<path d="M-40 66L-53 101M40 66L53 101M-40 66V101M40 66V101M-53 101V108M53 101V108" fill="none" stroke="#364950" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</defs>
+<g>
+<path d="M32 94H480V430H32Z" fill="#B76751"/>
+<path d="M180 98H332V430H180Z" fill="#A85847"/>
+<path d="M176 98H184V430H176ZM328 98H336V430H328Z" fill="#D38A6C"/>
+<path d="M40 60H472V78H40Z" fill="#718084"/>
+<path d="M28 72H484V98H28Z" fill="#D8C7A8"/>
+<path d="M28 72H484V80H28ZM32 338H480V346H32Z" fill="#EFE2C6"/>
+</g>
+<g>
+<use href="#window" x="54" y="122"/>
+<use href="#window" x="114" y="122"/>
+<use href="#window" x="204" y="122"/>
+<use href="#window" x="264" y="122"/>
+<use href="#window" x="354" y="122"/>
+<use href="#window" x="414" y="122"/>
+<use href="#window" x="54" y="202"/>
+<use href="#window" x="114" y="202"/>
+<use href="#window" x="204" y="202"/>
+<use href="#window" x="264" y="202"/>
+<use href="#window" x="354" y="202"/>
+<use href="#window" x="414" y="202"/>
+<use href="#window" x="54" y="282"/>
+<use href="#window" x="114" y="282"/>
+<use href="#window" x="204" y="282"/>
+<use href="#window" x="264" y="282"/>
+<use href="#window" x="354" y="282"/>
+<use href="#window" x="414" y="282"/>
+</g>
+<g>
+<use href="#entrance" transform="translate(106 352)" color="#365D54"/>
+<use href="#entrance" transform="translate(256 352)" color="#344E6B"/>
+<use href="#entrance" transform="translate(406 352)" color="#70443E"/>
+</g>
+</svg>

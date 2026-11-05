@@ -1,0 +1,37 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="window">
+<rect width="44" height="56" rx="2"/>
+<path d="M22 0V56M0 28H44M-4-8H48M-4 62H48"/>
+</g>
+<g id="entrance">
+<path d="M-30 78V22A30 30 0 0 1 30 22V78M-22 78V22A22 22 0 0 1 22 22V78M-22 22H22M0 0V22M-16 7L0 22L16 7M-13 34H13V49H-13ZM-13 58H13V72H-13Z"/>
+<path d="M-30 78H30V88H-30ZM-36 88H36V98H-36ZM-42 98H42V108H-42ZM-40 68L-52 100M40 68L52 100M-40 68V102M40 68V102M-52 100V108M52 100V108"/>
+</g>
+</defs>
+<g class="lineIcon">
+<path d="M32 98V430H68M144 430H218M294 430H368M444 430H480V98M28 72H484V98H28ZM40 60H472V72M180 110V430M332 110V430M40 344H472"/>
+<use href="#window" x="54" y="122"/>
+<use href="#window" x="114" y="122"/>
+<use href="#window" x="204" y="122"/>
+<use href="#window" x="264" y="122"/>
+<use href="#window" x="354" y="122"/>
+<use href="#window" x="414" y="122"/>
+<use href="#window" x="54" y="202"/>
+<use href="#window" x="114" y="202"/>
+<use href="#window" x="204" y="202"/>
+<use href="#window" x="264" y="202"/>
+<use href="#window" x="354" y="202"/>
+<use href="#window" x="414" y="202"/>
+<use href="#window" x="54" y="282"/>
+<use href="#window" x="114" y="282"/>
+<use href="#window" x="204" y="282"/>
+<use href="#window" x="264" y="282"/>
+<use href="#window" x="354" y="282"/>
+<use href="#window" x="414" y="282"/>
+<use href="#entrance" transform="translate(106 352)"/>
+<use href="#entrance" transform="translate(256 352)"/>
+<use href="#entrance" transform="translate(406 352)"/>
+</g>
+</svg>

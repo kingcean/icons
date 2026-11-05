@@ -1,0 +1,28 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="doll">
+<path d="M50 0C22 0 10 25 16 64C20 88 0 124 0 220Q0 280 50 280Q100 280 100 220C100 124 80 88 84 64C90 25 78 0 50 0Z"/>
+<circle cx="50" cy="48" r="23"/>
+<path d="M16 76L50 108L84 76M38 119L50 108L62 119"/>
+<ellipse cx="50" cy="192" rx="32" ry="58"/>
+<path d="M40 48H42M58 48H60M43 61Q50 67 57 61"/>
+<path d="M50 174C28 155 21 185 38 190C20 209 46 222 50 204C54 222 80 209 62 190C79 185 72 155 50 174Z"/>
+</g>
+</defs>
+<g class="lineIcon">
+<path d="M104 36C60 36 45 69 51 108C56 139 26 166 26 206Q26 224 104 224Q182 224 182 206C182 166 152 139 157 108C163 69 148 36 104 36Z"/>
+<circle cx="104" cy="96" r="36"/>
+<path d="M53 133L104 180L155 133M88 194L104 180L120 194M89 94H93M115 94H119M93 113Q104 122 115 113"/>
+<path d="M26 206Q104 188 182 206"/>
+<path d="M26 270C26 317 22 352 26 411Q30 466 104 466Q178 466 182 411C186 352 182 317 182 270"/>
+<ellipse cx="104" cy="270" rx="78" ry="24"/>
+<ellipse cx="104" cy="270" rx="59" ry="12"/>
+<path d="M53 306Q104 323 155 306L155 406Q155 440 104 440Q53 440 53 406Z"/>
+<path d="M104 349C73 323 60 363 84 371C61 397 98 414 104 387C110 414 147 397 124 371C148 363 135 323 104 349Z"/>
+<use href="#doll" transform="translate(190 186)"/>
+<use href="#doll" transform="translate(300 248) scale(.78)"/>
+<use href="#doll" transform="translate(386 298) scale(.6)"/>
+<use href="#doll" transform="translate(452 348) scale(.42)"/>
+</g>
+</svg>

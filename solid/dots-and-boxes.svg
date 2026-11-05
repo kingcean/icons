@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solidIcon">
+<path d="M40 18H152V30H40ZM184 18H296V30H184ZM328 18H440V30H328ZM40 162H152V174H40ZM184 162H296V174H184ZM328 162H440V174H328ZM40 306H152V318H40ZM184 306H296V318H184ZM328 306H350V318H328ZM418 306H440V318H418ZM40 450H152V462H40ZM328 450H440V462H328ZM18 40H30V152H18ZM18 184H30V296H18ZM18 328H30V440H18ZM162 40H174V152H162ZM162 184H174V296H162ZM162 328H174V440H162ZM306 184H318V296H306ZM306 328H318V440H306ZM450 40H462V152H450ZM450 328H462V440H450Z"/>
+<circle cx="24" cy="24" r="12"/>
+<circle cx="168" cy="24" r="12"/>
+<circle cx="312" cy="24" r="12"/>
+<circle cx="456" cy="24" r="12"/>
+<circle cx="24" cy="168" r="12"/>
+<circle cx="168" cy="168" r="12"/>
+<circle cx="312" cy="168" r="12"/>
+<circle cx="456" cy="168" r="12"/>
+<circle cx="24" cy="312" r="12"/>
+<circle cx="168" cy="312" r="12"/>
+<circle cx="312" cy="312" r="12"/>
+<circle cx="456" cy="312" r="12"/>
+<circle cx="24" cy="456" r="12"/>
+<circle cx="168" cy="456" r="12"/>
+<circle cx="312" cy="456" r="12"/>
+<circle cx="456" cy="456" r="12"/>
+<rect x="48" y="48" width="96" height="96" rx="12"/>
+<rect x="48" y="336" width="96" height="96" rx="12"/>
+<path d="M362 258V246Q362 228 380 228H388Q406 228 406 246V258ZM362 270H406V400H362ZM364 410H404L388 450Q384 460 380 450Z"/>
+</g>
+</svg>

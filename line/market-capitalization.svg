@@ -1,0 +1,19 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="lineIcon">
+<rect x="48" y="24" width="272" height="464" rx="20"/>
+<path d="M24 488H336M160 488V388H208V488"/>
+<rect x="96" y="96" width="40" height="40" rx="6"/>
+<rect x="232" y="96" width="40" height="40" rx="6"/>
+<rect x="96" y="192" width="40" height="40" rx="6"/>
+<rect x="232" y="192" width="40" height="40" rx="6"/>
+<rect x="96" y="288" width="40" height="40" rx="6"/>
+<rect x="232" y="288" width="40" height="40" rx="6"/>
+<ellipse cx="416" cy="314" rx="70" ry="18"/>
+<path d="M346 314V336A70 18 0 0 0 486 336V314"/>
+<ellipse cx="416" cy="382" rx="70" ry="18"/>
+<path d="M346 382V404A70 18 0 0 0 486 404V382"/>
+<ellipse cx="416" cy="450" rx="70" ry="18"/>
+<path d="M346 450V472A70 18 0 0 0 486 472V450"/>
+</g>
+</svg>

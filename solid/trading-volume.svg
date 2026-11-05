@@ -1,0 +1,10 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solidIcon">
+<path d="M148 40H340L327 30Q321 25 326 19Q331 13 337 18L369 42Q377 48 369 54L337 78Q331 83 326 77Q321 71 327 66L340 56H148Q140 56 140 48Q140 40 148 40ZM364 112H172L185 102Q191 97 186 91Q181 85 175 90L143 114Q135 120 143 126L175 150Q181 155 186 149Q191 143 185 138L172 128H364Q372 128 372 120Q372 112 364 112Z"/>
+<rect x="64" y="304" width="80" height="144" rx="12"/>
+<rect x="216" y="248" width="80" height="200" rx="12"/>
+<rect x="368" y="192" width="80" height="256" rx="12"/>
+<rect x="24" y="472" width="464" height="16" rx="8"/>
+</g>
+</svg>

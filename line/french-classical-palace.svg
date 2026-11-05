@@ -1,0 +1,12 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="window"><rect width="24" height="42" rx="2"/><path d="M12 0V42M0 21H24"/></g>
+<g id="wing"><path d="M32 200V408H200M40 210V400M120 210V400M200 210V400M32 270H200M32 334H200M32 164H200V188H32ZM44 164V188M68 164V188M92 164V188M116 164V188M140 164V188M164 164V188M188 164V188"/><use href="#window" x="56" y="220"/><use href="#window" x="94" y="220"/><use href="#window" x="132" y="220"/><use href="#window" x="170" y="220"/><use href="#window" x="56" y="284"/><use href="#window" x="94" y="284"/><use href="#window" x="132" y="284"/><use href="#window" x="170" y="284"/><use href="#window" x="56" y="348"/><use href="#window" x="94" y="348"/><use href="#window" x="132" y="348"/><use href="#window" x="170" y="348"/></g>
+</defs>
+<g class="lineIcon">
+<use href="#wing"/><use href="#wing" transform="translate(512 0) scale(-1 1)"/>
+<path d="M24 188H194M318 188H488M24 200H194M318 200H488M200 188L256 128L312 188V200H200ZM222 178L256 142L290 178ZM208 212V408H234M278 408H304V212M216 212V400M296 212V400M208 270H304M208 334H304M234 408V372A22 22 0 0 1 278 372V408M256 358V408M24 420H488V432H24Z"/>
+<use href="#window" x="226" y="220"/><use href="#window" x="262" y="220"/><use href="#window" x="226" y="284"/><use href="#window" x="262" y="284"/>
+</g>
+</svg>

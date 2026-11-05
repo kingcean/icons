@@ -1,0 +1,30 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="stones">
+<circle cx="-5" cy="-7" r="6"/>
+<circle cx="5" cy="8" r="6"/>
+</g>
+<g id="row">
+<use href="#stones" x="100"/>
+<use href="#stones" x="140"/>
+<use href="#stones" x="180"/>
+<use href="#stones" x="220"/>
+<use href="#stones" x="260"/>
+<use href="#stones" x="300"/>
+</g>
+</defs>
+<g class="solidIcon" transform="matrix(1 .12 -.32 .8 90 130)">
+<path d="M0 200Q10 228 44 228H356Q390 228 400 200V206Q400 246 356 246H44Q0 246 0 206Z"/>
+<path fill-rule="evenodd" d="M44 0H356Q400 0 400 44V176Q400 220 356 220H44Q0 220 0 176V44Q0 0 44 0ZM69 110A25 72 0 1 0 19 110A25 72 0 1 0 69 110ZM381 110A25 72 0 1 0 331 110A25 72 0 1 0 381 110ZM116 65A16 23 0 1 0 84 65A16 23 0 1 0 116 65ZM156 65A16 23 0 1 0 124 65A16 23 0 1 0 156 65ZM196 65A16 23 0 1 0 164 65A16 23 0 1 0 196 65ZM236 65A16 23 0 1 0 204 65A16 23 0 1 0 236 65ZM276 65A16 23 0 1 0 244 65A16 23 0 1 0 276 65ZM316 65A16 23 0 1 0 284 65A16 23 0 1 0 316 65ZM116 155A16 23 0 1 0 84 155A16 23 0 1 0 116 155ZM156 155A16 23 0 1 0 124 155A16 23 0 1 0 156 155ZM196 155A16 23 0 1 0 164 155A16 23 0 1 0 196 155ZM236 155A16 23 0 1 0 204 155A16 23 0 1 0 236 155ZM276 155A16 23 0 1 0 244 155A16 23 0 1 0 276 155ZM316 155A16 23 0 1 0 284 155A16 23 0 1 0 316 155Z"/>
+<use href="#row" y="65"/>
+<use href="#row" y="155"/>
+<circle cx="40" cy="77" r="8"/>
+<circle cx="49" cy="101" r="8"/>
+<circle cx="38" cy="125" r="8"/>
+<circle cx="48" cy="150" r="8"/>
+<circle cx="351" cy="86" r="8"/>
+<circle cx="361" cy="112" r="8"/>
+<circle cx="350" cy="138" r="8"/>
+</g>
+</svg>

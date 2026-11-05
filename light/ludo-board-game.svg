@@ -1,0 +1,43 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="home">
+<rect width="162" height="162" rx="18" fill="currentColor"/>
+<rect x="26" y="26" width="110" height="110" rx="20" fill="#FFF4DF"/>
+<circle cx="60" cy="63" r="19" fill="#64574D" opacity=".25"/>
+<circle cx="102" cy="105" r="19" fill="#64574D" opacity=".25"/>
+<circle cx="60" cy="60" r="17" fill="currentColor"/>
+<circle cx="102" cy="102" r="17" fill="currentColor"/>
+<circle cx="55" cy="55" r="5" fill="#FFFFFF" opacity=".65"/>
+<circle cx="97" cy="97" r="5" fill="#FFFFFF" opacity=".65"/>
+</g>
+<g id="arm">
+<path d="M211 31H301V211H211Z" fill="#F4EFE5"/>
+<path d="M241 61H271V211H241Z" fill="currentColor"/>
+<path d="M211 31V211M241 31V211M271 31V211M301 31V211M211 31H301M211 61H301M211 91H301M211 121H301M211 151H301M211 181H301M211 211H301" fill="none" stroke="#84909B" stroke-width="3"/>
+</g>
+</defs>
+<rect x="24" y="24" width="464" height="464" rx="22" fill="#D8DFE5" stroke="#52637A" stroke-width="8"/>
+<use href="#home" x="40" y="40" color="#DB4F55"/>
+<use href="#home" x="310" y="40" color="#E7B12D"/>
+<use href="#home" x="40" y="310" color="#377FC5"/>
+<use href="#home" x="310" y="310" color="#359C72"/>
+<use href="#arm" color="#E7B12D"/>
+<use href="#arm" transform="rotate(90 256 256)" color="#359C72"/>
+<use href="#arm" transform="rotate(180 256 256)" color="#377FC5"/>
+<use href="#arm" transform="rotate(270 256 256)" color="#DB4F55"/>
+<path d="M211 211H301L256 256Z" fill="#E7B12D"/>
+<path d="M301 211V301L256 256Z" fill="#359C72"/>
+<path d="M301 301H211L256 256Z" fill="#377FC5"/>
+<path d="M211 301V211L256 256Z" fill="#DB4F55"/>
+<g transform="rotate(10 421 405)">
+<rect x="385" y="373" width="76" height="76" rx="14" fill="#236B52" opacity=".5"/>
+<rect x="383" y="367" width="76" height="76" rx="14" fill="#FFFBF2" stroke="#52637A" stroke-width="5"/>
+<g fill="#34465C">
+<circle cx="403" cy="387" r="6"/>
+<circle cx="439" cy="387" r="6"/>
+<circle cx="421" cy="405" r="6"/>
+<circle cx="403" cy="423" r="6"/>
+<circle cx="439" cy="423" r="6"/>
+</g>
+</g>
+</svg>

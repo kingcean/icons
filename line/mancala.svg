@@ -1,0 +1,33 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="pit">
+<ellipse rx="16" ry="23"/>
+<circle cx="-5" cy="-7" r="6"/>
+<circle cx="5" cy="8" r="6"/>
+</g>
+<g id="row">
+<use href="#pit" x="100"/>
+<use href="#pit" x="140"/>
+<use href="#pit" x="180"/>
+<use href="#pit" x="220"/>
+<use href="#pit" x="260"/>
+<use href="#pit" x="300"/>
+</g>
+</defs>
+<g class="lineIcon" transform="matrix(1 .12 -.32 .8 90 130)">
+<path d="M0 176V202Q0 246 44 246H356Q400 246 400 202V176"/>
+<rect width="400" height="220" rx="44"/>
+<ellipse cx="44" cy="110" rx="25" ry="72"/>
+<ellipse cx="356" cy="110" rx="25" ry="72"/>
+<use href="#row" y="65"/>
+<use href="#row" y="155"/>
+<circle cx="40" cy="77" r="8"/>
+<circle cx="49" cy="101" r="8"/>
+<circle cx="38" cy="125" r="8"/>
+<circle cx="48" cy="150" r="8"/>
+<circle cx="351" cy="86" r="8"/>
+<circle cx="361" cy="112" r="8"/>
+<circle cx="350" cy="138" r="8"/>
+</g>
+</svg>

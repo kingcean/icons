@@ -353,6 +353,8 @@
                         case "箭头": q = "arrow"; break;
                         case "形状": q = "shape"; break;
                         case "操作": q = "action"; break;
+                        case "图表": q = "chart"; break;
+                        case "流程图": q = "flowchart"; break;
                         case "状态": q = "status"; break;
                         case "文件": q = "file"; break;
                         case "文件夹": q = "folder"; break;
@@ -385,6 +387,7 @@
                         case "化学": q = "chemistry"; break;
                         case "生物": q = "biology"; break;
                         case "金融": q = "finance"; break;
+                        case "商务": q = "business"; break;
                         case "保险": q = "insurance"; break;
                         case "家电": q = "appliance"; break;
                         case "网络": q = "network"; break;
@@ -401,10 +404,11 @@
                         case "乐器": q = "instrument"; break;
                         case "军事": q = "military"; break;
                         case "配件": q = "accessory"; break;
+                        case "安全": q = "security"; break;
                     }
                     q = q.toLowerCase();
                     list = r.filter(function(icon) {
-                        if (icon.name && icon.name.toLowerCase().includes(q)) return true;
+                        if (icon.name && icon.name.toLowerCase().includes(q) && icon.key === q) return true;
                         if (icon["name#zh"] && icon["name#zh"].toLowerCase().includes(q)) return true;
                         if (icon.description && icon.description.toLowerCase().includes(q)) return true;
                         if (icon.categories && icon.categories.includes(q)) return true;

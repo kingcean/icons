@@ -1,0 +1,46 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="pit">
+<ellipse rx="17" ry="24" fill="#94623D"/>
+<ellipse cy="3" rx="13" ry="19" fill="#65432C"/>
+<circle cx="-5" cy="-7" r="7" fill="#61D9C7"/>
+<circle cx="-7" cy="-9" r="2.5" fill="#D4FFF0"/>
+<circle cx="5" cy="8" r="7" fill="#FF9682"/>
+<circle cx="3" cy="6" r="2.5" fill="#FFE1C9"/>
+</g>
+<g id="row">
+<use href="#pit" x="100"/>
+<use href="#pit" x="140"/>
+<use href="#pit" x="180"/>
+<use href="#pit" x="220"/>
+<use href="#pit" x="260"/>
+<use href="#pit" x="300"/>
+</g>
+<g id="goldStone">
+<circle r="9" fill="#FFD16A"/>
+<circle cx="-2" cy="-3" r="3" fill="#FFF0BE"/>
+</g>
+<g id="blueStone">
+<circle r="9" fill="#8DBBFF"/>
+<circle cx="-2" cy="-3" r="3" fill="#E0EFFF"/>
+</g>
+</defs>
+<g transform="matrix(1 .12 -.32 .8 90 130)">
+<rect y="26" width="400" height="220" rx="44" fill="#AD7C4E"/>
+<rect width="400" height="220" rx="44" fill="#E0AD70"/>
+<path d="M44 10H356Q390 10 390 44" fill="none" stroke="#FFE0A6" stroke-width="8" stroke-linecap="round"/>
+<ellipse cx="44" cy="110" rx="25" ry="72" fill="#94623D"/>
+<ellipse cx="44" cy="114" rx="20" ry="64" fill="#65432C"/>
+<ellipse cx="356" cy="110" rx="25" ry="72" fill="#94623D"/>
+<ellipse cx="356" cy="114" rx="20" ry="64" fill="#65432C"/>
+<use href="#row" y="65"/>
+<use href="#row" y="155"/>
+<use href="#goldStone" x="40" y="77"/>
+<use href="#blueStone" x="49" y="101"/>
+<circle cx="38" cy="125" r="9" fill="#FF9682"/>
+<use href="#goldStone" x="48" y="150"/>
+<use href="#blueStone" x="351" y="86"/>
+<circle cx="361" cy="112" r="9" fill="#61D9C7"/>
+<use href="#goldStone" x="350" y="138"/>
+</g>
+</svg>

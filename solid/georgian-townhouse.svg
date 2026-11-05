@@ -1,0 +1,42 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="house">
+<path fill-rule="evenodd" d="M0 0H140V320H100V264A30 30 0 0 0 40 264V320H0ZM18 12H62V68H18ZM78 12H122V68H78ZM18 92H62V148H18ZM78 92H122V148H78ZM18 172H62V228H18ZM78 172H122V228H78Z"/>
+</g>
+<g id="sash">
+<path d="M18 0H26V56H18ZM0 24H44V32H0Z"/>
+</g>
+<g id="entrance">
+<path fill-rule="evenodd" d="M-22 28H22V78H-22ZM-12 38V49H12V38ZM-12 58V69H12V58Z"/>
+<path d="M-30 78H30V86H-30ZM-36 92H36V100H-36ZM-42 106H42V114H-42ZM-42 64Q-46 63-47 67L-57 97Q-58 102-53 103L-49 91V108H-43V73L-37 68ZM42 64Q46 63 47 67L57 97Q58 102 53 103L49 91V108H43V73L37 68Z"/>
+</g>
+</defs>
+<g class="solidIcon">
+<path d="M40 60H472V72H40ZM28 80H484V94Q484 98 480 98H32Q28 98 28 94Z"/>
+<use href="#house" x="36" y="110"/>
+<use href="#house" x="186" y="110"/>
+<use href="#house" x="336" y="110"/>
+<use href="#sash" x="54" y="122"/>
+<use href="#sash" x="114" y="122"/>
+<use href="#sash" x="204" y="122"/>
+<use href="#sash" x="264" y="122"/>
+<use href="#sash" x="354" y="122"/>
+<use href="#sash" x="414" y="122"/>
+<use href="#sash" x="54" y="202"/>
+<use href="#sash" x="114" y="202"/>
+<use href="#sash" x="204" y="202"/>
+<use href="#sash" x="264" y="202"/>
+<use href="#sash" x="354" y="202"/>
+<use href="#sash" x="414" y="202"/>
+<use href="#sash" x="54" y="282"/>
+<use href="#sash" x="114" y="282"/>
+<use href="#sash" x="204" y="282"/>
+<use href="#sash" x="264" y="282"/>
+<use href="#sash" x="354" y="282"/>
+<use href="#sash" x="414" y="282"/>
+<use href="#entrance" transform="translate(106 352)"/>
+<use href="#entrance" transform="translate(256 352)"/>
+<use href="#entrance" transform="translate(406 352)"/>
+</g>
+</svg>

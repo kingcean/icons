@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<path d="M40 334H472V374Q472 402 444 402H68Q40 402 40 374Z" fill="#BB8856"/>
+<rect x="40" y="306" width="432" height="68" rx="28" fill="#E7B77F"/>
+<path d="M66 318H446" fill="none" stroke="#FFE0AB" stroke-width="8" stroke-linecap="round"/>
+<path d="M128 326V192A12 12 0 0 1 152 192V326Q140 336 128 326ZM244 326V172A12 12 0 0 1 268 172V326Q256 336 244 326ZM360 326V192A12 12 0 0 1 384 192V326Q372 336 360 326Z" fill="#C18E59"/>
+<path d="M132 320V192Q132 184 140 184V324ZM248 320V172Q248 164 256 164V324ZM364 320V192Q364 184 372 184V324Z" fill="#FFDAA0"/>
+<path fill-rule="evenodd" d="M260 350A52 18 0 1 1 156 350A52 18 0 1 1 260 350ZM248 350A40 7 0 1 0 168 350A40 7 0 1 0 248 350Z" fill="#C99A3D"/>
+<path fill-rule="evenodd" d="M260 345A52 18 0 1 1 156 345A52 18 0 1 1 260 345ZM248 345A40 7 0 1 0 168 345A40 7 0 1 0 248 345Z" fill="#FFDA6C"/>
+<path d="M196 340V246A12 12 0 0 1 220 246V340Q208 350 196 340ZM292 346V246A12 12 0 0 1 316 246V346Q304 356 292 346Z" fill="#C18E59"/>
+<path d="M200 334V246Q200 238 208 238V340ZM296 340V246Q296 238 304 238V346Z" fill="#FFDAA0"/>
+<path d="M156 345C157 356 181 363 208 363C235 363 259 356 260 345V350C259 361 235 368 208 368C181 368 157 361 156 350Z" fill="#E8B646"/>
+<g transform="rotate(-26 372 104)">
+<path fill-rule="evenodd" d="M434 104A62 30 0 1 1 310 104A62 30 0 1 1 434 104ZM418 104A46 17 0 1 0 326 104A46 17 0 1 0 418 104Z" fill="#FF8997"/>
+<path d="M322 98C329 85 356 79 378 81" fill="none" stroke="#FFD0D5" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g transform="rotate(-12 96 442)">
+<path fill-rule="evenodd" d="M166 442A70 29 0 1 1 26 442A70 29 0 1 1 166 442ZM148 442A52 16 0 1 0 44 442A52 16 0 1 0 148 442Z" fill="#7ABCF4"/>
+<path d="M38 438C47 423 78 418 100 420" fill="none" stroke="#D3EEFF" stroke-width="6" stroke-linecap="round"/>
+</g>
+<g transform="rotate(12 412 445)">
+<path fill-rule="evenodd" d="M482 445A70 29 0 1 1 342 445A70 29 0 1 1 482 445ZM464 445A52 16 0 1 0 360 445A52 16 0 1 0 464 445Z" fill="#65D8B1"/>
+<path d="M354 441C363 426 394 421 416 423" fill="none" stroke="#CCFFE8" stroke-width="6" stroke-linecap="round"/>
+</g>
+</svg>

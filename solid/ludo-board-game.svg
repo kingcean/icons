@@ -1,0 +1,39 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="home">
+<path fill-rule="evenodd" d="M18 0H144Q162 0 162 18V144Q162 162 144 162H18Q0 162 0 144V18Q0 0 18 0ZM60 34A26 26 0 1 0 60 86A26 26 0 1 0 60 34ZM102 76A26 26 0 1 0 102 128A26 26 0 1 0 102 76Z"/>
+<circle cx="60" cy="60" r="17"/>
+<circle cx="102" cy="102" r="17"/>
+</g>
+<g id="row">
+<rect x="213" width="26" height="26" rx="3"/>
+<rect x="243" width="26" height="26" rx="3"/>
+<rect x="273" width="26" height="26" rx="3"/>
+</g>
+<g id="arm">
+<use href="#row" y="33"/>
+<use href="#row" y="63"/>
+<use href="#row" y="93"/>
+<use href="#row" y="123"/>
+<use href="#row" y="153"/>
+<use href="#row" y="183"/>
+</g>
+</defs>
+<g class="solidIcon">
+<path fill-rule="evenodd" d="M46 24H466Q488 24 488 46V466Q488 488 466 488H46Q24 488 24 466V46Q24 24 46 24ZM46 32Q32 32 32 46V466Q32 480 46 480H466Q480 480 480 466V46Q480 32 466 32Z"/>
+<use href="#home" x="40" y="40"/>
+<use href="#home" x="310" y="40"/>
+<use href="#home" x="40" y="310"/>
+<path fill-rule="evenodd" d="M328 310H454Q472 310 472 328V454Q472 472 454 472H328Q310 472 310 454V328Q310 310 328 310ZM370 344A26 26 0 1 0 370 396A26 26 0 1 0 370 344ZM389 355L479 371L462 455L372 439Z"/>
+<circle cx="370" cy="370" r="17"/>
+<use href="#arm"/>
+<use href="#arm" transform="rotate(90 256 256)"/>
+<use href="#arm" transform="rotate(180 256 256)"/>
+<use href="#arm" transform="rotate(270 256 256)"/>
+<path d="M219 213H293L256 249ZM299 219V293L263 256ZM293 299H219L256 263ZM213 293V219L249 256Z"/>
+<g transform="rotate(10 421 405)">
+<path fill-rule="evenodd" d="M397 367H445Q459 367 459 381V429Q459 443 445 443H397Q383 443 383 429V381Q383 367 397 367ZM409 387A6 6 0 1 0 397 387A6 6 0 1 0 409 387ZM445 387A6 6 0 1 0 433 387A6 6 0 1 0 445 387ZM427 405A6 6 0 1 0 415 405A6 6 0 1 0 427 405ZM409 423A6 6 0 1 0 397 423A6 6 0 1 0 409 423ZM445 423A6 6 0 1 0 433 423A6 6 0 1 0 445 423Z"/>
+</g>
+</g>
+</svg>

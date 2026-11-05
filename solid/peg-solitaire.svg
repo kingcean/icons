@@ -1,0 +1,37 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<circle id="peg" r="21"/>
+<g id="row3">
+<use href="#peg" x="196"/>
+<use href="#peg" x="256"/>
+<use href="#peg" x="316"/>
+</g>
+<g id="row7">
+<use href="#peg" x="76"/>
+<use href="#peg" x="136"/>
+<use href="#peg" x="196"/>
+<use href="#peg" x="256"/>
+<use href="#peg" x="316"/>
+<use href="#peg" x="376"/>
+<use href="#peg" x="436"/>
+</g>
+</defs>
+<g class="solidIcon">
+<path fill-rule="evenodd" d="M176 24H336Q348 24 348 36V164H476Q488 164 488 176V336Q488 348 476 348H348V476Q348 488 336 488H176Q164 488 164 476V348H36Q24 348 24 336V176Q24 164 36 164H164V36Q164 24 176 24ZM188 40Q180 40 180 48V172Q180 180 172 180H48Q40 180 40 188V324Q40 332 48 332H172Q180 332 180 340V464Q180 472 188 472H324Q332 472 332 464V340Q332 332 340 332H464Q472 332 472 324V188Q472 180 464 180H340Q332 180 332 172V48Q332 40 324 40Z"/>
+<use href="#row3" y="76"/>
+<use href="#row3" y="136"/>
+<use href="#row7" y="196"/>
+<use href="#peg" x="76" y="256"/>
+<use href="#peg" x="136" y="256"/>
+<use href="#peg" x="196" y="256"/>
+<use href="#peg" x="316" y="256"/>
+<use href="#peg" x="376" y="256"/>
+<use href="#peg" x="436" y="256"/>
+<use href="#row7" y="316"/>
+<use href="#row3" y="376"/>
+<use href="#row3" y="436"/>
+<path fill-rule="evenodd" d="M280 256A24 24 0 1 1 232 256A24 24 0 1 1 280 256ZM272 256A16 16 0 1 0 240 256A16 16 0 1 0 272 256Z"/>
+<path d="M255 140Q251 139 252 135Q253 131 257 132C311 139 315 213 271 248L281 245Q285 244 286 248Q287 252 283 253L263 259Q257 260 257 254V233Q257 229 261 229Q265 229 265 233V243C304 211 300 146 255 140Z"/>
+</g>
+</svg>

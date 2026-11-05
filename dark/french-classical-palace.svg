@@ -1,0 +1,39 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="window">
+<rect width="24" height="42" rx="2" fill="#76A7BA"/>
+<path d="M4 4H10V18H4Z" fill="#C0E3E4"/>
+<path d="M12 0V42M0 21H24" fill="none" stroke="#FFF0CE" stroke-width="4"/>
+<path d="M-3 44H27V49H-3Z" fill="#CDB38A"/>
+</g>
+<g id="wing">
+<path d="M32 200H200V408H32Z" fill="#E7D2AC"/>
+<path d="M40 210H48V400H40ZM120 210H128V400H120ZM192 210H200V400H192Z" fill="#FFF0D1"/>
+<path d="M36 208H52V215H36ZM116 208H132V215H116ZM188 208H200V215H188ZM36 396H52V404H36ZM116 396H132V404H116ZM188 396H200V404H188Z" fill="#D3BC94"/>
+<path d="M32 266H200V275H32ZM32 330H200V339H32Z" fill="#CEB38B"/>
+<path d="M32 266H200V270H32ZM32 330H200V334H32Z" fill="#FFF0D1"/>
+<path d="M32 164H194V188H32Z" fill="#D0B68E"/>
+<path d="M44 172H60V184H44ZM68 172H84V184H68ZM92 172H108V184H92ZM116 172H132V184H116ZM140 172H156V184H140ZM164 172H180V184H164Z" fill="#7E9DA5"/>
+<path d="M28 160H194V168H28ZM24 188H194V200H24Z" fill="#F8E8C7"/>
+<use href="#window" x="56" y="220"/><use href="#window" x="94" y="220"/><use href="#window" x="132" y="220"/><use href="#window" x="170" y="220"/><use href="#window" x="56" y="284"/><use href="#window" x="94" y="284"/><use href="#window" x="132" y="284"/><use href="#window" x="170" y="284"/><use href="#window" x="56" y="348"/><use href="#window" x="94" y="348"/><use href="#window" x="132" y="348"/><use href="#window" x="170" y="348"/>
+</g>
+</defs>
+<g>
+<use href="#wing"/><use href="#wing" transform="translate(512 0) scale(-1 1)"/>
+<path d="M200 200H312V408H200Z" fill="#D0B48B"/>
+<path d="M208 200H304V408H208Z" fill="#F2DFBA"/>
+<path d="M208 210H216V402H208ZM296 210H304V402H296Z" fill="#FFF4D9"/>
+<path d="M204 208H220V216H204ZM292 208H308V216H292ZM208 266H304V275H208ZM208 330H304V339H208Z" fill="#D3B88E"/>
+<path d="M208 266H304V270H208ZM208 330H304V334H208Z" fill="#FFF4D9"/>
+<path d="M200 188L252 132Q256 128 260 132L312 188V200H200Z" fill="#FBECCD"/>
+<path d="M220 180L256 142L292 180Z" fill="#D0AF80"/>
+<path d="M232 175L256 150L280 175Z" fill="#ECD0A0"/>
+<path d="M198 188H314V196H198Z" fill="#FFF5DD"/>
+<use href="#window" x="226" y="220"/><use href="#window" x="262" y="220"/><use href="#window" x="226" y="284"/><use href="#window" x="262" y="284"/>
+<path d="M228 408V372A28 28 0 0 1 284 372V408Z" fill="#FFF0CE"/>
+<path d="M238 408V372A18 18 0 0 1 274 372V408Z" fill="#947048"/>
+<path d="M256 359V408" fill="none" stroke="#E7C388" stroke-width="4"/>
+<path d="M24 408H488V426Q488 432 482 432H30Q24 432 24 426Z" fill="#B5BDAA"/>
+<path d="M24 408H488V420H24Z" fill="#EBECD5"/>
+</g>
+</svg>

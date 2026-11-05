@@ -1,0 +1,8 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solidIcon">
+<path d="M17 433L137 305Q143 299 151 302L228 335L392 90Q398 82 406 87Q414 92 408 102L240 354Q235 362 226 358L146 323L31 447Q24 454 17 447Q10 440 17 433Z"/>
+<rect x="304" y="88" width="184" height="16" rx="8"/>
+<circle cx="400" cy="96" r="22"/>
+</g>
+</svg>

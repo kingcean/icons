@@ -1,0 +1,16 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="trade" x1="140" y1="436" x2="372" y2="436" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7ABCF4"/>
+<stop offset="1" stop-color="#65D8B1"/>
+</linearGradient>
+</defs>
+<g fill="#B6C8E2">
+<rect x="24" y="112" width="464" height="16" rx="8"/>
+<path d="M40 145L68 322Q73 352 104 352H408Q439 352 444 322L472 145Q473 137 465 136Q457 135 456 143L428 318Q425 336 408 336H104Q87 336 84 318L56 143Q55 135 47 136Q39 137 40 145Z"/>
+</g>
+<rect x="112" y="168" width="64" height="104" rx="10" fill="#7ABCF4"/>
+<rect x="224" y="168" width="64" height="104" rx="10" fill="#65D8B1"/>
+<rect x="336" y="168" width="64" height="104" rx="10" fill="#F5C767"/>
+<path fill="url(#trade)" d="M148 400H342L331 390Q325 385 330 379Q335 373 341 378L369 402Q376 408 369 414L341 438Q335 443 330 437Q325 431 331 426L342 416H148Q140 416 140 408Q140 400 148 400ZM364 456H170L181 446Q187 441 182 435Q177 429 171 434L143 458Q136 464 143 470L171 494Q177 499 182 493Q187 487 181 482L170 472H364Q372 472 372 464Q372 456 364 456Z"/>
+</svg>

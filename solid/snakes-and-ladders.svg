@@ -1,0 +1,48 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solidIcon">
+<path fill-rule="evenodd" d="M46 24H466Q488 24 488 46V466Q488 488 466 488H46Q24 488 24 466V46Q24 24 46 24ZM46 34Q34 34 34 46V466Q34 478 46 478H466Q478 478 478 466V46Q478 34 466 34Z"/>
+<path d="M137 38H143V474H137ZM253 38H259V474H253ZM369 38H375V474H369ZM38 137H474V143H38ZM38 253H474V259H38ZM38 369H474V375H38Z"/>
+<text font-family="Arial,sans-serif" font-size="22" font-weight="bold">
+<tspan x="38" y="54">16</tspan>
+<tspan x="154" y="54">15</tspan>
+<tspan x="270" y="54">14</tspan>
+<tspan x="386" y="54">13</tspan>
+<tspan x="38" y="170">9</tspan>
+<tspan x="154" y="170">10</tspan>
+<tspan x="270" y="170">11</tspan>
+<tspan x="386" y="170">12</tspan>
+<tspan x="38" y="286">8</tspan>
+<tspan x="154" y="286">7</tspan>
+<tspan x="270" y="286">6</tspan>
+<tspan x="386" y="286">5</tspan>
+<tspan x="38" y="402">1</tspan>
+<tspan x="154" y="402">2</tspan>
+<tspan x="270" y="402">3</tspan>
+<tspan x="386" y="402">4</tspan>
+</text>
+<g transform="translate(72 272) rotate(29)">
+<rect x="-5" y="-208" width="10" height="212" rx="5"/>
+<rect x="27" y="-208" width="10" height="212" rx="5"/>
+<path d="M0-202H32V-194H0ZM0-172H32V-164H0ZM0-142H32V-134H0ZM0-112H32V-104H0ZM0-82H32V-74H0ZM0-52H32V-44H0ZM0-22H32V-14H0Z"/>
+</g>
+<g transform="translate(182 436) rotate(29)">
+<rect x="-5" y="-148" width="10" height="152" rx="5"/>
+<rect x="27" y="-148" width="10" height="152" rx="5"/>
+<path d="M0-142H32V-134H0ZM0-112H32V-104H0ZM0-82H32V-74H0ZM0-52H32V-44H0ZM0-22H32V-14H0Z"/>
+</g>
+<path fill-rule="evenodd" d="M350 74C325 74 320 95 338 111C366 135 389 139 364 170C336 206 414 229 394 263C379 289 398 314 426 328C408 307 396 290 410 269C438 226 360 204 378 178C411 133 374 116 356 100C366 91 366 76 350 74ZM354 86A4 4 0 1 0 346 86A4 4 0 1 0 354 86Z"/>
+<path fill-rule="evenodd" d="M296 180C277 180 277 200 291 211C320 235 266 245 289 276C313 307 338 319 301 351C270 378 279 411 313 441C296 407 290 384 313 365C360 326 330 300 304 267C290 249 343 233 307 201C315 190 310 181 296 180ZM300 191A4 4 0 1 0 292 191A4 4 0 1 0 300 191Z"/>
+<g transform="translate(80 438)">
+<circle cy="-27" r="13"/>
+<path d="M-10-9H10L18 13Q20 20 12 20H-12Q-20 20-18 13Z"/>
+</g>
+<g transform="translate(140 438)">
+<circle cy="-27" r="13"/>
+<path d="M-10-9H10L18 13Q20 20 12 20H-12Q-20 20-18 13Z"/>
+</g>
+<g transform="rotate(8 430 102)">
+<path fill-rule="evenodd" d="M408 68H452Q464 68 464 80V124Q464 136 452 136H408Q396 136 396 124V80Q396 68 408 68ZM420 86A6 6 0 1 0 408 86A6 6 0 1 0 420 86ZM452 86A6 6 0 1 0 440 86A6 6 0 1 0 452 86ZM436 102A6 6 0 1 0 424 102A6 6 0 1 0 436 102ZM420 118A6 6 0 1 0 408 118A6 6 0 1 0 420 118ZM452 118A6 6 0 1 0 440 118A6 6 0 1 0 452 118Z"/>
+</g>
+</g>
+</svg>

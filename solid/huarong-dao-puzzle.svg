@@ -1,0 +1,17 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="solidIcon">
+<path d="M168 496H72Q56 496 56 480V32Q56 16 72 16H440Q456 16 456 32V480Q456 496 440 496H344V480H436Q440 480 440 476V36Q440 32 436 32H76Q72 32 72 36V476Q72 480 76 480H168Z"/>
+<rect x="84" y="40" width="80" height="168" rx="12"/>
+<path fill-rule="evenodd" d="M184 40H328Q340 40 340 52V196Q340 208 328 208H184Q172 208 172 196V52Q172 40 184 40ZM218 106H294Q294 74 256 70Q218 74 218 106ZM226 116V130Q226 146 240 152L256 182L272 152Q286 146 286 130V116Z"/>
+<path d="M238 122H248V130H238ZM264 122H274V130H264ZM248 140H264V148H248Z"/>
+<rect x="348" y="40" width="80" height="168" rx="12"/>
+<rect x="84" y="216" width="80" height="168" rx="12"/>
+<rect x="172" y="216" width="168" height="80" rx="12"/>
+<rect x="348" y="216" width="80" height="168" rx="12"/>
+<rect x="172" y="304" width="80" height="80" rx="12"/>
+<rect x="260" y="304" width="80" height="80" rx="12"/>
+<rect x="84" y="392" width="80" height="80" rx="12"/>
+<rect x="348" y="392" width="80" height="80" rx="12"/>
+</g>
+</svg>

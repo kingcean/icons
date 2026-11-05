@@ -1,0 +1,45 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<path id="horse" d="M0 64Q2 50 12 48L18 26L16 15L23 18L29 8L34 18L43 25Q47 29 43 34L33 34L30 49Q38 55 36 68L34 92H27L26 70H17L12 92H5L9 67L4 59L0 72Z"/>
+<g id="column">
+<path d="M10 28H22L24 164H8Z" fill="#BC777B"/>
+<path d="M10 30H15L13 162H8Z" fill="#E0A1A2"/>
+<path d="M0 0H32V10H0ZM4 10Q0 17 8 21L12 28H20L24 21Q32 17 28 10ZM4 170H28V182H4Z" fill="#C6AD78"/>
+<path d="M3 3H29V8H3ZM8 12L16 23L24 12M9 169H23" fill="none" stroke="#F1DEAF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</defs>
+<g>
+<path d="M50 194H374L462 158V446L374 464H50Z" fill="#D8C6A6"/>
+<path fill-rule="evenodd" d="M374 194L462 158V406L374 446ZM408 429L452 410V311Q452 284 435 280Q408 302 408 332Z" fill="#B6A187"/>
+<path fill-rule="evenodd" d="M50 194H374V446H338V352Q338 326 311 312Q284 326 284 352V446H256V334Q256 293 211 270Q166 293 166 334V446H138V352Q138 326 111 312Q84 326 84 352V446H50Z" fill="#E4D4B7"/>
+<path d="M84 446V352Q84 326 111 312Q138 326 138 352V446M166 446V334Q166 293 211 270Q256 293 256 334V446M284 446V352Q284 326 311 312Q338 326 338 352V446" fill="none" stroke="#BDA582" stroke-width="10"/>
+<path d="M42 174H374L470 138V158L374 194H42Z" fill="#B5A48B"/>
+<path d="M42 174H374L470 138V146L374 182H42Z" fill="#F1E3C8"/>
+<path d="M50 198H374V242H50Z" fill="#D2BCA0"/>
+<path d="M374 198L462 166V206L374 242Z" fill="#A88F76"/>
+<path d="M42 250H374L470 214V230L374 266H42Z" fill="#BCA788"/>
+<path d="M42 250H374L470 214V220L374 256H42Z" fill="#F3E5CA"/>
+<path d="M82 210H146V236H82ZM270 210H334V236H270ZM177 206H245V238H177Z" fill="#EBDABD"/>
+<path d="M94 227L108 216L120 229L134 216M282 227L296 216L308 229L322 216M187 227H235M197 215V226M225 215V226" fill="none" stroke="#B59A78" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M396 204L438 188V208L396 224Z" fill="#D5BDA1"/>
+<use href="#column" x="48" y="270"/>
+<use href="#column" x="134" y="270"/>
+<use href="#column" x="256" y="270"/>
+<use href="#column" x="342" y="270"/>
+<path d="M28 446H378L484 400V430L378 476H34Q28 476 28 470Z" fill="#9F9C90"/>
+<path d="M28 446H378L484 400V412L378 458H28Z" fill="#DCD7C6"/>
+</g>
+<g>
+<path d="M124 144H354L392 130V146L354 160H124Z" fill="#7B8175"/>
+<path d="M124 144H354L392 130V136L354 150H124Z" fill="#B0B39A"/>
+<path d="M128 89H164V101H128L139 121H174L166 101H134Z" fill="#547F6D"/>
+<path d="M174 111L335 116" fill="none" stroke="#466957" stroke-width="6" stroke-linecap="round"/>
+<circle cx="157" cy="123" r="14" fill="#355C4D"/>
+<circle cx="157" cy="123" r="6" fill="#B7AD7D"/>
+<use href="#horse" x="182" y="42" fill="#3E6B5B"/>
+<use href="#horse" x="222" y="42" fill="#628B73"/>
+<use href="#horse" x="262" y="42" fill="#3E6B5B"/>
+<use href="#horse" x="302" y="42" fill="#628B73"/>
+<path d="M211 60L205 88M251 60L245 88M291 60L285 88M331 60L325 88" fill="none" stroke="#9EAF80" stroke-width="4" stroke-linecap="round"/>
+</g>
+</svg>

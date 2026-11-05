@@ -1,0 +1,25 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="lineIcon">
+<path d="M40 24H152M184 24H296M328 24H440M40 168H152M184 168H296M328 168H440M40 312H152M184 312H296M328 312H352M416 312H440M40 456H152M328 456H440M24 40V152M24 184V296M24 328V440M168 40V152M168 184V296M168 328V440M312 184V296M312 328V440M456 40V152M456 328V440"/>
+<circle cx="24" cy="24" r="12"/>
+<circle cx="168" cy="24" r="12"/>
+<circle cx="312" cy="24" r="12"/>
+<circle cx="456" cy="24" r="12"/>
+<circle cx="24" cy="168" r="12"/>
+<circle cx="168" cy="168" r="12"/>
+<circle cx="312" cy="168" r="12"/>
+<circle cx="456" cy="168" r="12"/>
+<circle cx="24" cy="312" r="12"/>
+<circle cx="168" cy="312" r="12"/>
+<circle cx="312" cy="312" r="12"/>
+<circle cx="456" cy="312" r="12"/>
+<circle cx="24" cy="456" r="12"/>
+<circle cx="168" cy="456" r="12"/>
+<circle cx="312" cy="456" r="12"/>
+<circle cx="456" cy="456" r="12"/>
+<rect x="48" y="48" width="96" height="96" rx="12"/>
+<rect x="48" y="336" width="96" height="96" rx="12"/>
+<path d="M362 404V246Q362 228 380 228H388Q406 228 406 246V404L384 456ZM362 266H406M362 404H406M384 278V392M376 438H392"/>
+</g>
+</svg>

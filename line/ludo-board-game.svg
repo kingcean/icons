@@ -1,0 +1,35 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<g id="home">
+<rect width="162" height="162" rx="18"/>
+<rect x="26" y="26" width="110" height="110" rx="20"/>
+<circle cx="60" cy="60" r="16"/>
+<circle cx="102" cy="102" r="16"/>
+</g>
+<g id="arm">
+<path d="M211 31V211M241 31V211M271 31V211M301 31V211M211 31H301M211 61H301M211 91H301M211 121H301M211 151H301M211 181H301M211 211H301"/>
+</g>
+</defs>
+<g class="lineIcon">
+<rect x="24" y="24" width="464" height="464" rx="22"/>
+<use href="#home" x="40" y="40"/>
+<use href="#home" x="310" y="40"/>
+<use href="#home" x="40" y="310"/>
+<path d="M472 350V328Q472 310 454 310H328Q310 310 310 328V454Q310 472 328 472H454Q472 472 472 454V446M446 346V356M346 446H426M336 356V426Q336 446 356 446"/>
+<circle cx="370" cy="370" r="16"/>
+<use href="#arm"/>
+<use href="#arm" transform="rotate(90 256 256)"/>
+<use href="#arm" transform="rotate(180 256 256)"/>
+<use href="#arm" transform="rotate(270 256 256)"/>
+<path d="M211 211H301V301H211ZM211 211L301 301M301 211L211 301"/>
+<g transform="rotate(10 421 405)">
+<rect x="383" y="367" width="76" height="76" rx="14"/>
+<circle cx="403" cy="387" r="5"/>
+<circle cx="439" cy="387" r="5"/>
+<circle cx="421" cy="405" r="5"/>
+<circle cx="403" cy="423" r="5"/>
+<circle cx="439" cy="423" r="5"/>
+</g>
+</g>
+</svg>

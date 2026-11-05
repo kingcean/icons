@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="price" x1="24" y1="264" x2="488" y2="264" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7ABCF4"/>
+<stop offset="1" stop-color="#65D8B1"/>
+</linearGradient>
+</defs>
+<rect x="80" y="376" width="320" height="16" rx="8" fill="#B6C8E2"/>
+<path fill="url(#price)" d="M15 181L119 365Q144 427 169 365L225 221Q232 200 239 221L295 365Q320 427 345 365L496 150Q502 142 494 136Q486 130 480 138L327 355Q320 376 313 355L257 211Q232 149 207 211L151 355Q144 376 137 355L33 171Q28 162 19 167Q10 172 15 181Z"/>
+</svg>

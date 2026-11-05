@@ -1,0 +1,51 @@
+﻿<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<g class="lineIcon">
+<rect x="24" y="24" width="464" height="464" rx="22"/>
+<path d="M140 32V480M256 32V480M372 32V480M32 140H480M32 256H480M32 372H480"/>
+<text font-family="Arial,sans-serif" font-size="22">
+<tspan x="38" y="54">16</tspan>
+<tspan x="154" y="54">15</tspan>
+<tspan x="270" y="54">14</tspan>
+<tspan x="386" y="54">13</tspan>
+<tspan x="38" y="170">9</tspan>
+<tspan x="154" y="170">10</tspan>
+<tspan x="270" y="170">11</tspan>
+<tspan x="386" y="170">12</tspan>
+<tspan x="38" y="286">8</tspan>
+<tspan x="154" y="286">7</tspan>
+<tspan x="270" y="286">6</tspan>
+<tspan x="386" y="286">5</tspan>
+<tspan x="38" y="402">1</tspan>
+<tspan x="154" y="402">2</tspan>
+<tspan x="270" y="402">3</tspan>
+<tspan x="386" y="402">4</tspan>
+</text>
+<g transform="translate(72 272) rotate(29)">
+<path d="M0 0V-204M32 0V-204M0-18H32M0-48H32M0-78H32M0-108H32M0-138H32M0-168H32M0-198H32"/>
+</g>
+<g transform="translate(182 436) rotate(29)">
+<path d="M0 0V-144M32 0V-144M0-18H32M0-48H32M0-78H32M0-108H32M0-138H32"/>
+</g>
+<path d="M350 74C325 74 320 95 338 111C366 135 389 139 364 170C336 206 414 229 394 263C379 289 398 314 426 328C408 307 396 290 410 269C438 226 360 204 378 178C411 133 374 116 356 100C366 91 366 76 350 74Z"/>
+<circle cx="350" cy="86" r="3"/>
+<path d="M296 180C277 180 277 200 291 211C320 235 266 245 289 276C313 307 338 319 301 351C270 378 279 411 313 441C296 407 290 384 313 365C360 326 330 300 304 267C290 249 343 233 307 201C315 190 310 181 296 180Z"/>
+<circle cx="296" cy="191" r="3"/>
+<g transform="translate(80 438)">
+<circle cy="-27" r="13"/>
+<path d="M-10-9H10L18 13Q20 20 12 20H-12Q-20 20-18 13Z"/>
+</g>
+<g transform="translate(140 438)">
+<circle cy="-27" r="13"/>
+<path d="M-10-9H10L18 13Q20 20 12 20H-12Q-20 20-18 13Z"/>
+</g>
+<g transform="rotate(8 430 102)">
+<rect x="396" y="68" width="68" height="68" rx="12"/>
+<circle cx="414" cy="86" r="5"/>
+<circle cx="446" cy="86" r="5"/>
+<circle cx="430" cy="102" r="5"/>
+<circle cx="414" cy="118" r="5"/>
+<circle cx="446" cy="118" r="5"/>
+</g>
+</g>
+</svg>
