@@ -1,6 +1,13 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#818CF8" d="M72 48H440Q488 48 488 96V336Q488 384 440 384H192L108 458Q88 474 88 448V384H72Q24 384 24 336V96Q24 48 72 48Z"/>
-<circle cx="160" cy="216" r="22" fill="#FEF08A"/>
-<circle cx="256" cy="216" r="22" fill="#FECDD3"/>
-<circle cx="352" cy="216" r="22" fill="#CCFBF1"/>
+<defs>
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.5" stop-color="#818CF8"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+</defs>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<circle cx="160" cy="232" r="30" fill="#FEF08A"/>
+<circle cx="256" cy="232" r="30" fill="#FECDD3"/>
+<circle cx="352" cy="232" r="30" fill="#CCFBF1"/>
 </svg>

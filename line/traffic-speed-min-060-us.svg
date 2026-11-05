@@ -1,9 +1,8 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
 <rect x="104" y="24" width="304" height="464" rx="18"/>
-<rect x="126" y="46" width="260" height="420" rx="8"/>
-<text x="256" y="114" font-family="Arial,Helvetica,sans-serif" font-size="48" font-weight="900" text-anchor="middle">MINIMUM</text>
-<text x="256" y="176" font-family="Arial,Helvetica,sans-serif" font-size="58" font-weight="900" text-anchor="middle">SPEED</text>
-<text x="256" y="352" font-family="Arial,Helvetica,sans-serif" font-size="180" font-weight="900" text-anchor="middle">60</text>
-<text x="256" y="420" font-family="Arial,Helvetica,sans-serif" font-size="64" font-weight="700" text-anchor="middle">mph</text>
+<path d="M138 114V78L150 100L162 78V114M178 78V114M194 114V78L218 114V78M234 78V114M250 114V78L262 100L274 78V114M290 78V102Q290 114 302 114Q314 114 314 102V78M330 114V78L342 100L354 78V114"/>
+<path d="M168 138Q160 132 150 132Q136 132 136 143Q136 152 151 155Q168 158 168 167Q168 176 152 176Q142 176 134 170M188 176V132H200Q214 132 214 145Q214 158 200 158H188M260 132H236V176H260M236 154H256M306 132H282V176H306M282 154H302M328 132H340Q362 132 362 154Q362 176 340 176H328Z"/>
+<path d="M226 226Q211 214 190 214Q154 214 154 280V318Q154 352 190 352Q226 352 226 318V306Q226 274 192 274Q172 274 154 293M320 214Q284 214 284 250V316Q284 352 320 352Q356 352 356 316V250Q356 214 320 214Z"/>
+<path d="M178 420V388M178 397Q185 388 194 388Q206 388 206 401V420M206 397Q213 388 222 388Q234 388 234 401V420M254 438V388M254 397Q262 388 272 388Q286 388 286 404Q286 420 272 420Q262 420 254 411M308 420V374M308 397Q316 388 326 388Q338 388 338 401V420"/>
 </svg>

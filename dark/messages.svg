@@ -1,4 +1,18 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#B69AFF" d="M208 208H440Q480 208 480 248V400Q480 440 440 440H416V472Q416 486 404 476L356 440H208Q168 440 168 400V248Q168 208 208 208Z"/>
-<path fill="#55C8F2" d="M72 40H328Q368 40 368 80V248Q368 288 328 288H184L116 340Q104 350 104 336V288H72Q32 288 32 248V80Q32 40 72 40Z"/>
+<defs>
+<linearGradient id="rearGradient" x1="128" y1="48" x2="488" y2="296" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#DDD6FE"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="messageGradient" x1="24" y1="152" x2="392" y2="480" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.5" stop-color="#818CF8"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+</defs>
+<path fill="url(#rearGradient)" d="M176 48H440Q488 48 488 96V248Q488 296 440 296H296L228 370Q208 386 208 360V296H176Q128 296 128 248V96Q128 48 176 48Z"/>
+<path fill="url(#messageGradient)" d="M72 152H344Q392 152 392 200V352Q392 400 344 400H176L108 474Q88 490 88 464V400H72Q24 400 24 352V200Q24 152 72 152Z"/>
+<circle cx="120" cy="272" r="24" fill="#FEF08A"/>
+<circle cx="208" cy="272" r="24" fill="#FECDD3"/>
+<circle cx="296" cy="272" r="24" fill="#CCFBF1"/>
 </svg>

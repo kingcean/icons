@@ -1,6 +1,12 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M420 64H104Q48 64 48 120V312Q48 368 104 368H128V360"/>
-<path d="M128 408V448L208 368H408Q464 368 464 312V120Q464 100 456 88"/>
-<path d="M64 448L448 64"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="mute-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM138 156L168 126L374 332L344 362Z"/>
+</clipPath>
+</defs>
+<path d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path d="M238 162V154Q238 136 256 136Q274 136 274 154V162Q320 174 320 220V258Q320 272 334 286Q344 300 328 300H184Q168 300 178 286Q192 272 192 258V220Q192 174 238 162Z" clip-path="url(#mute-gap)"/>
+<circle cx="256" cy="330" r="16"/>
+<path d="M168 156L344 332" stroke-linecap="round"/>
 </svg>

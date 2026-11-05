@@ -1,6 +1,17 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-<path fill="#2563EB" d="M80 100H316A96 96 0 0 0 412 196H448V336Q448 384 400 384H192L116 446Q104 456 104 440V384H80Q32 384 32 336V148Q32 100 80 100Z"/>
-<path fill="#DBEAFE" d="M116 228H332Q344 228 344 240Q344 252 332 252H116Q104 252 104 240Q104 228 116 228ZM116 288H260Q272 288 272 300Q272 312 260 312H116Q104 312 104 300Q104 288 116 288Z"/>
-<circle cx="412" cy="100" r="72" fill="#DC2626"/>
-<path fill="#FFFFFF" d="M400 62Q400 50 412 50Q424 50 424 62V104Q424 116 412 116Q400 116 400 104ZM424 138A12 12 0 1 1 400 138A12 12 0 1 1 424 138Z"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0284C7"/>
+<stop offset="0.5" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+<linearGradient id="notificationBell" x1="184" y1="136" x2="328" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FEF08A"/>
+<stop offset="0.5" stop-color="#FBBF24"/>
+<stop offset="1" stop-color="#F59E0B"/>
+</linearGradient>
+</defs>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path fill="url(#notificationBell)" d="M238 162V154Q238 136 256 136Q274 136 274 154V162Q320 174 320 220V258Q320 272 334 286Q344 300 328 300H184Q168 300 178 286Q192 272 192 258V220Q192 174 238 162Z"/>
+<circle cx="256" cy="330" r="16" fill="#FDA4AF"/>
 </svg>

@@ -1,5 +1,16 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#60A5FA" d="M80 48H432Q480 48 480 96V352Q480 400 432 400H232L148 460Q128 474 128 450V400H80Q32 400 32 352V96Q32 48 80 48Z"/>
-<path fill="#FEF08A" d="M256 120Q288 120 288 152V224Q288 256 256 256Q224 256 224 224V152Q224 120 256 120Z"/>
-<path fill="#1E3A8A" d="M184 214Q194 214 194 224V232Q194 290 256 290Q318 290 318 232V224Q318 214 328 214Q338 214 338 224V232Q338 302 266 310V334H288Q298 334 298 344Q298 354 288 354H224Q214 354 214 344Q214 334 224 334H246V310Q174 302 174 232V224Q174 214 184 214Z"/>
+<defs>
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.5" stop-color="#818CF8"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="voiceGradient" x1="146" y1="138" x2="366" y2="326" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FEF9C3"/>
+<stop offset="0.5" stop-color="#D1FAE5"/>
+<stop offset="1" stop-color="#99F6E4"/>
+</linearGradient>
+</defs>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path fill="url(#voiceGradient)" d="M146 208A14 14 0 0 1 174 208V256A14 14 0 0 1 146 256ZM194 180A14 14 0 0 1 222 180V284A14 14 0 0 1 194 284ZM242 152A14 14 0 0 1 270 152V312A14 14 0 0 1 242 312ZM290 180A14 14 0 0 1 318 180V284A14 14 0 0 1 290 284ZM338 208A14 14 0 0 1 366 208V256A14 14 0 0 1 338 256Z"/>
 </svg>

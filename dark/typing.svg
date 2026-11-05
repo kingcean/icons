@@ -1,6 +1,16 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#60A5FA" d="M88 64H424Q488 64 488 128V320Q488 384 424 384H216L125 447Q104 461 104 436V384H88Q24 384 24 320V128Q24 64 88 64Z"/>
-<circle cx="152" cy="224" r="24" fill="#172554"/>
-<circle cx="256" cy="224" r="24" fill="#312E81"/>
-<circle cx="360" cy="224" r="24" fill="#155E75"/>
+<defs>
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.5" stop-color="#818CF8"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="cursorGradient" x1="290" y1="158" x2="366" y2="306" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FEF9C3"/>
+<stop offset="1" stop-color="#FDE68A"/>
+</linearGradient>
+</defs>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path fill="#CCFBF1" d="M144 218H256A14 14 0 0 1 256 246H144A14 14 0 0 1 144 218Z"/>
+<path fill="url(#cursorGradient)" d="M304 158H352Q366 158 366 172Q366 186 352 186H342V278H352Q366 278 366 292Q366 306 352 306H304Q290 306 290 292Q290 278 304 278H314V186H304Q290 186 290 172Q290 158 304 158Z"/>
 </svg>

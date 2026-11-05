@@ -1,13 +1,18 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
 <defs>
-<linearGradient id="forward-message-arrow" x1="218" y1="282" x2="486" y2="422" gradientUnits="userSpaceOnUse">
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#0284C7"/>
+<stop offset="0.5" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#7C3AED"/>
+</linearGradient>
+<linearGradient id="forward-records-arrow" x1="218" y1="282" x2="486" y2="422" gradientUnits="userSpaceOnUse">
 <stop offset="0" stop-color="#F59E0B"/>
 <stop offset="1" stop-color="#EA580C"/>
 </linearGradient>
 </defs>
-<path fill="#2563EB" d="M72 48H376Q424 48 424 96V320Q424 368 376 368H192L108 442Q88 458 88 432V368H72Q24 368 24 320V96Q24 48 72 48Z"/>
-<circle cx="128" cy="200" r="20" fill="#FDE68A"/>
-<circle cx="224" cy="200" r="20" fill="#FDA4AF"/>
-<circle cx="320" cy="200" r="20" fill="#99F6E4"/>
-<path fill="url(#forward-message-arrow)" d="M236 334H433L401 302Q391 292 401 282Q411 272 421 282L481 342Q491 352 481 362L421 422Q411 432 401 422Q391 412 401 402L433 370H236Q218 370 218 352Q218 334 236 334Z"/>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<circle cx="160" cy="232" r="30" fill="#FDE68A"/>
+<circle cx="256" cy="232" r="30" fill="#FDA4AF"/>
+<circle cx="352" cy="232" r="30" fill="#99F6E4"/>
+<path fill="url(#forward-records-arrow)" d="M236 334H433L401 302Q391 292 401 282Q411 272 421 282L481 342Q491 352 481 362L421 422Q411 432 401 422Q391 412 401 402L433 370H236Q218 370 218 352Q218 334 236 334Z"/>
 </svg>

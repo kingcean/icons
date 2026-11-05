@@ -1,6 +1,11 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-<rect x="32" y="160" width="448" height="328" rx="32"/>
-<path d="M56 188L236 316Q256 332 276 316L456 188"/>
-<circle cx="416" cy="80" r="56"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<defs>
+<clipPath id="unread-gap">
+<path clip-rule="evenodd" d="M0 0H512V512H0ZM504 96A72 72 0 1 0 360 96A72 72 0 1 0 504 96Z"/>
+</clipPath>
+</defs>
+<rect x="24" y="96" width="432" height="336" rx="32" clip-path="url(#unread-gap)"/>
+<path d="M48 128L218 264Q240 282 262 264L432 128" stroke-linecap="round" clip-path="url(#unread-gap)"/>
+<circle cx="432" cy="96" r="56"/>
 </svg>

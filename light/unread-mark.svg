@@ -1,5 +1,20 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-<rect x="32" y="160" width="448" height="328" rx="32" fill="#2563EB"/>
-<path d="M64 160H448Q464 160 472 174L276 316Q256 332 236 316L40 174Q48 160 64 160Z" fill="#93C5FD"/>
-<circle cx="416" cy="80" r="56" fill="#E11D48"/>
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+<defs>
+<linearGradient id="mail-body" x1="24" y1="96" x2="456" y2="432" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.55" stop-color="#2563EB"/>
+<stop offset="1" stop-color="#4F46E5"/>
+</linearGradient>
+<linearGradient id="mail-flap" x1="240" y1="96" x2="240" y2="288" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#A5F3FC"/>
+<stop offset="1" stop-color="#38BDF8"/>
+</linearGradient>
+<linearGradient id="unread-dot" x1="392" y1="56" x2="472" y2="136" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FB7185"/>
+<stop offset="1" stop-color="#DC2626"/>
+</linearGradient>
+</defs>
+<rect x="24" y="96" width="432" height="336" rx="32" fill="url(#mail-body)"/>
+<path d="M56 96H424Q456 96 456 128L262 278Q240 296 218 278L24 128Q24 96 56 96Z" fill="url(#mail-flap)"/>
+<circle cx="432" cy="96" r="56" fill="url(#unread-dot)"/>
 </svg>

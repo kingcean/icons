@@ -1,7 +1,6 @@
 ﻿<?xml-stylesheet type="text/css" href="style.css"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path d="M88 64H424Q488 64 488 128V320Q488 384 424 384H216L125 447Q104 461 104 436V384H88Q24 384 24 320V128Q24 64 88 64Z"/>
-<circle cx="152" cy="224" r="24"/>
-<circle cx="256" cy="224" r="24"/>
-<circle cx="360" cy="224" r="24"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" class="line-icon">
+<path d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path d="M144 232H256" stroke-linecap="round"/>
+<path d="M304 172H352M328 172V292M304 292H352" stroke-linecap="round"/>
 </svg>

@@ -1,4 +1,23 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<path fill="#57C8E5" d="M104 64H408Q464 64 464 120V312Q464 368 408 368H208L140 436Q128 448 128 432V368H104Q48 368 48 312V120Q48 64 104 64Z"/>
-<path fill="#FF838D" d="M54 438L438 54Q448 44 458 54Q468 64 458 74L74 458Q64 468 54 458Q44 448 54 438Z"/>
+<defs>
+<linearGradient id="messageGradient" x1="24" y1="88" x2="488" y2="456" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#38BDF8"/>
+<stop offset="0.5" stop-color="#818CF8"/>
+<stop offset="1" stop-color="#A78BFA"/>
+</linearGradient>
+<linearGradient id="muteBell" x1="184" y1="136" x2="328" y2="300" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FEF9C3"/>
+<stop offset="0.5" stop-color="#FDE68A"/>
+<stop offset="1" stop-color="#FBBF24"/>
+</linearGradient>
+<linearGradient id="muteSlash" x1="158" y1="146" x2="354" y2="342" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#FECACA"/>
+<stop offset="0.5" stop-color="#FDA4AF"/>
+<stop offset="1" stop-color="#F87171"/>
+</linearGradient>
+</defs>
+<path fill="url(#messageGradient)" d="M72 88H440Q488 88 488 136V328Q488 376 440 376H192L108 450Q88 466 88 440V376H72Q24 376 24 328V136Q24 88 72 88Z"/>
+<path fill="url(#muteBell)" d="M238 162V154Q238 136 256 136Q274 136 274 154V162Q320 174 320 220V258Q320 272 334 286Q344 300 328 300H184Q168 300 178 286Q192 272 192 258V220Q192 174 238 162Z"/>
+<circle cx="256" cy="330" r="16" fill="#FECDD3"/>
+<path fill="url(#muteSlash)" d="M158 146Q168 136 178 146L354 322Q364 332 354 342Q344 352 334 342L158 166Q148 156 158 146Z"/>
 </svg>

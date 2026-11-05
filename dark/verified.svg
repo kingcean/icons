@@ -1,4 +1,11 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-<circle cx="256" cy="256" r="224" fill="#60A5FA"/>
+<defs>
+<linearGradient id="verified-body" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#67E8F9"/>
+<stop offset="0.55" stop-color="#60A5FA"/>
+<stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+</defs>
+<circle cx="256" cy="256" r="224" fill="url(#verified-body)"/>
 <path d="M132 244Q120 256 132 268L204 340Q220 356 236 340L384 192Q396 180 384 168Q372 156 360 168L220 308L156 244Q144 232 132 244Z" fill="#102B4E"/>
 </svg>
